@@ -789,7 +789,7 @@
                 "maxNumberOfChoices": null,
                 "questionSuperior": {
                   "superiorAnswerAlternativeNumbers": [
-                    1
+                    1, 2
                   ],
                   "superiorQuestionNumber": 1
                 },
