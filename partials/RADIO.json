@@ -1,0 +1,361 @@
+RADIO TEMPLATE
+
+              {
+                "questionId": null,
+                "subject": "Har du någon av nedanstående kommunala insatser:",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": 12,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior":  {
+                  "superiorAnswerAlternativeNumbers": [
+                    5
+                  ],
+                  "superiorQuestionNumber": 3
+                },
+                "answerAlternatives": [
+                  {
+                    "value": "Bor i ett boende som drivs i kommunal regi",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Jag har boendestöd",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }RADIO TEMPLATE
+
+              {
+                "questionId": null,
+                "subject": "Har du någon av nedanstående kommunala insatser:",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": 12,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior":  {
+                  "superiorAnswerAlternativeNumbers": [
+                    5
+                  ],
+                  "superiorQuestionNumber": 3
+                },
+                "answerAlternatives": [
+                  {
+                    "value": "Bor i ett boende som drivs i kommunal regi",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Jag har boendestöd",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }RADIO TEMPLATE
+
+              {
+                "questionId": null,
+                "subject": "Har du någon av nedanstående kommunala insatser:",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": 12,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior":  {
+                  "superiorAnswerAlternativeNumbers": [
+                    5
+                  ],
+                  "superiorQuestionNumber": 3
+                },
+                "answerAlternatives": [
+                  {
+                    "value": "Bor i ett boende som drivs i kommunal regi",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Jag har boendestöd",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }RADIO TEMPLATE
+
+              {
+                "questionId": null,
+                "subject": "Har du någon av nedanstående kommunala insatser:",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": 12,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior":  {
+                  "superiorAnswerAlternativeNumbers": [
+                    5
+                  ],
+                  "superiorQuestionNumber": 3
+                },
+                "answerAlternatives": [
+                  {
+                    "value": "Bor i ett boende som drivs i kommunal regi",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Jag har boendestöd",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }RADIO TEMPLATE
+
+              {
+                "questionId": null,
+                "subject": "Har du någon av nedanstående kommunala insatser:",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": 12,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior":  {
+                  "superiorAnswerAlternativeNumbers": [
+                    5
+                  ],
+                  "superiorQuestionNumber": 3
+                },
+                "answerAlternatives": [
+                  {
+                    "value": "Bor i ett boende som drivs i kommunal regi",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Jag har boendestöd",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }RADIO TEMPLATE
+
+              {
+                "questionId": null,
+                "subject": "Har du någon av nedanstående kommunala insatser:",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": 12,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior":  {
+                  "superiorAnswerAlternativeNumbers": [
+                    5
+                  ],
+                  "superiorQuestionNumber": 3
+                },
+                "answerAlternatives": [
+                  {
+                    "value": "Bor i ett boende som drivs i kommunal regi",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Jag har boendestöd",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }RADIO TEMPLATE
+
+              {
+                "questionId": null,
+                "subject": "Har du någon av nedanstående kommunala insatser:",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": 12,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior":  {
+                  "superiorAnswerAlternativeNumbers": [
+                    5
+                  ],
+                  "superiorQuestionNumber": 3
+                },
+                "answerAlternatives": [
+                  {
+                    "value": "Bor i ett boende som drivs i kommunal regi",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Jag har boendestöd",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }RADIO TEMPLATE
+
+              {
+                "questionId": null,
+                "subject": "Har du någon av nedanstående kommunala insatser:",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": 12,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior":  {
+                  "superiorAnswerAlternativeNumbers": [
+                    5
+                  ],
+                  "superiorQuestionNumber": 3
+                },
+                "answerAlternatives": [
+                  {
+                    "value": "Bor i ett boende som drivs i kommunal regi",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Jag har boendestöd",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }

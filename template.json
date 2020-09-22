@@ -1,0 +1,108 @@
+{
+  "anonymous": false,
+  "calculationFormulas": [],
+  "category": "Hälsodeklaration",
+  "code": null,
+  "descriptionInternal": "Formulär enligt regional medicinsk riktlinje för årliga hälsokontroller av personer med långvarig psykisk ohälsa",
+  "description": "### **Hej och välkommen!**\n\nVi erbjuder dig nu att svara på frågor om din hälsa och dina levnadsvanor via 1177 Vårdguidens e-tjänst Stöd och behandling.\n\n**Obs!** svara gärna på frågorna så snart som möjligt. När du är klar kan du få mer information och stöd utifrån hur du har svarat på frågorna.",
+  "completeText": "**Tack för att du genomförde Hälsoundersökningen.**\n\n*Hälsoformuläret har utarbetats i Region Halland och används inom psykiatrin i VGR med deras tillåtelse*",
+  "language": {
+    "code": "swe",
+    "codeSystem": "1.0.639.2"
+  },
+  "maxNumberOfPages": 4,
+  "maxNumberOfQuestions": 48,
+  "media": {
+    "mediaType": "image/png",
+    "mediaURL": "https://qa.formular.1177.se/media/fba3a8db-11e9-4edd-be3e-d6f7bd780480.png"
+  },
+  "minNumberOfPages": 4,
+  "minNumberOfQuestions": 42,
+  "name": "Psykiatri affektiva hälsodeklaration V2",
+  "pages": [
+    {
+      "page": {
+        "description": "Hej\n\nFör att i god tid upptäcka vissa kroppsliga tillstånd som kan behöva ytterligare bedömning av läkare ber vi dig ta ställning till ett antal frågor. Alla patienter som varit inskrivna på vuxenpsykiatrisk mottagning under minst ett års tid erbjuds att genomföra hälsokontroll.\n\nSvara gärna på frågorna så snart du kan!",
+        "informationURL": "",
+        "lastPage": false,
+        "pageNumber": 1,
+        "questionBlocks": [
+          {
+            "blockNumber": 1,
+            "description": "Besvara frågorna genom att sätta ett kryss i den ruta du tycker stämmer bäst in på dig.\n\nOm du är **osäker, kryssa ändå i den ruta som känns mest rätt.**",
+            "gridConfig": null,
+            "informationURL": "",
+            "numberOfQuestions": 1,
+            "questions": [
+              {
+                "answerAlternatives": [
+                  {
+                    "code": null,
+                    "helpText": null,
+                    "media": null,
+                    "number": 1,
+                    "value": "Utmärkt"
+                  },
+                  {
+                    "code": null,
+                    "helpText": null,
+                    "media": null,
+                    "number": 2,
+                    "value": "Mycket god"
+                  },
+                  {
+                    "code": null,
+                    "helpText": null,
+                    "media": null,
+                    "number": 3,
+                    "value": "God"
+                  },
+                  {
+                    "code": null,
+                    "helpText": null,
+                    "media": null,
+                    "number": 4,
+                    "value": "Någorlunda"
+                  },
+                  {
+                    "code": null,
+                    "helpText": null,
+                    "media": null,
+                    "number": 5,
+                    "value": "Dålig"
+                  }
+                ],
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerMin": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "code": null,
+                "description": "",
+                "gridValue": null,
+                "informationURL": null,
+                "input": "radio",
+                "inputUnit": null,
+                "mandatory": true,
+                "maxNumberOfChoices": null,
+                "media": null,
+                "minNumberOfChoices": null,
+                "questionAlign": null,
+                "questionId": "Allmän1",
+                "questionNumber": 1,
+                "questionSuperior": null,
+                "subject": "I allmänhet, skulle du vilja säga att din hälsa är:",
+                "validationEvents": []
+              }
+            ],
+            "subject": "Allmänt hälsotillstånd"
+          }
+        ]
+      }
+    }
+  ],
+  "term": "Genom att spara och skicka in detta formulär godkänner jag att mina uppgifter lagras och används av min vårdgivare.",
+  "title": null
+}
+
+

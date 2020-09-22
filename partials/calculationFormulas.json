@@ -1,0 +1,22 @@
+  "calculationFormulas": [
+    {
+      "calculationId": "2",
+      "subject": "Allmänt hälsotillstånd",
+      "descriptionCareActor": "Övergripande allmäntillstånd",
+      "descriptionSubjectOfCare": null,
+      "approvedForSubjectOfCare": false,
+      "type": "inera:form-engine:drools-java:1",
+      "license": null,
+      "formula": "when\n questions: Questions()\nthen\n outcome.set(questions.get(\"Allmän1\"));\nend"
+    },
+    {
+      "calculationId": "rule-FA",
+      "subject": "Fysisk aktivitet",
+      "descriptionCareActor": "Bristande fysisk aktivitet",
+      "descriptionSubjectOfCare": "Utifrån hur du har svarat, märker vi att det är av vikt att ytterligare uppmärksamma ditt förhållande till fysisk aktivitet. \n\n\nPå 1177 kan du läsa mer om betydelsen av fysisk aktivitet för hälsan samt ta del av en del praktiska tips på hur du skulle kunna förändra din vardag och dina vanor:\n\n\nhttps://www.1177.se/Vastra-Gotaland/liv--halsa/traning-och-fysisk-halsa/\n",
+      "approvedForSubjectOfCare": true,
+      "type": "inera:form-engine:drools-java:1",
+      "license": null,
+      "formula": "when\nbajs\nthen\neat_shitNDIE!\nend"
+    }
+  ]
