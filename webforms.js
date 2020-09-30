@@ -1,13 +1,20 @@
-// MENY - slå av och på funktioner i skriptet
-SHOW_MENU = 1
-SHOW_FORM = 0
+WEBFORMS_ROOT = __dirname;
+
+// MENY - Här görs alla inställningar för körningen
+SHOW_MENU = 0   // Visa överblick över alla frågor och svarsalternativ 
+SHOW_FORM = 1   // Visa hela formuläret 
 WRITE_FILE = 0
 ADD_TIMESTAMP = 0
+ADDED_RULES = "hälsoformuläret.js"
+// 
 
 
 var fs = require('fs');
-var form = require('./parse.js');
-var ruleArray = require('./rules/hälsoformuläret.js')
+var form = require('./lib/parse.js');
+
+
+
+var ruleArray = require('./rules/'+ADDED_RULES)
 
 
 const buildCalculationFormulas = (ruleArray) =>{
