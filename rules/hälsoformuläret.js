@@ -36,8 +36,8 @@ let ruleArray = [
         "Double q3=q.get('3.1.3',0);", 
         "Double q4=(5-q.get('3.1.4',0));",
         "Double sum = q1+q2+q3+q4;",
-        "if(sum>12)",
-        "{outcome.set(q1+q2+q3+q4);}"
+        "if(sum>11)",
+        "{outcome.set(sum);}"
         ]
   },
 
