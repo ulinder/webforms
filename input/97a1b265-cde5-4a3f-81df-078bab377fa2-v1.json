@@ -5,7 +5,7 @@
   "descriptionInternal": "Formulär enligt regional medicinsk riktlinje för årliga hälsokontroller av personer med långvarig psykisk ohälsa",
   "completeText": "#### Stort tack för att du har tagit dig tid att besvara alla frågorna!\n\n**På detta sätt har du hjälpt oss i Psykiatrin att ta hand om din fysiska hälsa och dina levnadsvanor.**\n\n*Hälsoformuläret har utarbetats i Region Halland och används inom psykiatrin i VGR med deras tillåtelse*",
   "title": "Hälsodeklaration v1.0",
-  "name": "BETA-Affektiva enheten hälsodeklaration",
+  "name": "Hälsokontroll SU/Psykiatri Affektiva",
   "language": {
     "code": "swe",
     "codeSystem": "1.0.639.2"
@@ -19,15 +19,15 @@
   "pages": [
     {
       "page": {
-        "subject": "Hälsokontroll",
-        "description": "Hej\n\nFör att i god tid upptäcka vissa kroppsliga tillstånd som kan behöva ytterligare bedömning av läkare ber vi dig ta ställning till ett antal frågor. Alla patienter som varit inskrivna på vuxenpsykiatrisk mottagning under minst ett års tid erbjuds att genomföra hälsokontroll.\n\nSvara gärna på frågorna så snart du kan!",
+        "subject": "Allmänt hälsotillstånd",
+        "description": "Besvara frågorna genom att sätta ett kryss i den ruta du tycker stämmer bäst in på dig.\n\nOm du är **osäker, kryssa ändå i den ruta som känns mest rätt.**",
         "informationURL": "",
         "pageNumber": 1,
         "lastPage": false,
         "questionBlocks": [
           {
-            "subject": "Allmänt hälsotillstånd",
-            "description": "Besvara frågorna genom att sätta ett kryss i den ruta du tycker stämmer bäst in på dig.\n\nOm du är **osäker, kryssa ändå i den ruta som känns mest rätt.**",
+            "subject": "",
+            "description": "",
             "blockNumber": 1,
             "informationURL": "",
             "numberOfQuestions": 1,
@@ -747,7 +747,7 @@
                     1,
                     2
                   ],
-                  "superiorQuestionNumber": 2
+                  "superiorQuestionNumber": 1
                 },
                 "answerAlternatives": [
                   {
