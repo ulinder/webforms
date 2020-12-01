@@ -1,10 +1,11 @@
 # Inera webformulär hackverktyg
-*Här beskrivs hur mini-ramverket för att skapa och manipulera och test filer från Webbformuläret på 1177*
+### Detta är ett mini-ramverk för att skapa och redigera formulärfiler för Webbformuläret på 1177
 
 För närvarande finns följande funktioner:
-- Läsa in exporterat webformulär som automatiskt taggas med IDn.
-- Som sedan kan redigeras via text-editor
-- Möjlighet att applicera regler på fil
+- Läsa in webformulär i JSON-format 
+- Automatisk taggning av varje fråga med IDn av två olika format.
+- Utskrift av testöverblick
+- Möjlighet att applicera beräkningsregler till test
 - Export av test-fil för automatiserad testning via test.rb
 - Automatiserad UI-test av skattningar via Selenium WebDriver. 
 
