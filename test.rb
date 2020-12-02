@@ -5,11 +5,12 @@ require 'YAML'
 class AqTest < Test::Unit::TestCase
 
   def setup
+    testname = "barkley-adhd"
     @driver = Selenium::WebDriver.for :chrome
-    @url = "https://demo.formular.1177.se/etjanst/167ff6e4-d4c7-4b39-879d-077c4155229e"
+    @url = "https://demo.formular.1177.se/etjanst/b40ab74b-e06d-421d-a26d-99c7020626bf"
     @driver.manage.timeouts.implicit_wait = 10 
     @wait = Selenium::WebDriver::Wait.new(:timeout => 10) # seconds
-    @testscript = YAML.load(File.open(__dir__ + "/output/LPFS-BF_2020-11-30_testfile.yml", "r"))
+    @testscript = YAML.load(File.open(__dir__ + "/output/#{testname}_testfile.yml", "r"))
   end
 
   def test_aq 
