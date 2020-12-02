@@ -1,5 +1,5 @@
-# Inera webformulär hackverktyg
-### Detta är ett mini-ramverk för att skapa och redigera formulärfiler för Webbformuläret på 1177
+# Inera formulärtjänst modifieringsverktyg
+### Ett mini-ramverk för att skapa och redigera formulärfiler för formulärtjänst på 1177
 
 För närvarande finns följande funktioner:
 - Läsa in webformulär i JSON-format 
@@ -16,7 +16,7 @@ För närvarande finns följande funktioner:
 
 
 
-### Varningar
+*Varningar*
 "Number" som utgör värden för olika svar i ett webformulär modifieras för att ges andra värden är de givna, då dessa är index-styrda. 
 
 
