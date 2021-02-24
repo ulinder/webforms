@@ -1,0 +1,279 @@
+url: Menu
+frågor:
+  - 1
+  - World Health Organization Disability Assessment Schedule 2.0, 36-frågeversion
+  - __________________________________________________________________
+  - q1
+  - Koncentrera dig under tio minuter på att göra något?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q2
+  - "Komma ihåg att göra viktiga saker? "
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q3
+  - Analysera och finna lösningar på problem i det dagliga livet?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q4
+  - Lära dig en ny uppgift, (till exempel hur man tar sig till en ny plats)?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q5
+  - För det mesta förstå vad människor säger?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q6
+  - "Påbörja och hålla igång ett samtal? "
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q7
+  - Stå under längre perioder såsom 30 minuter?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q8
+  - "Resa dig från sittande ställning? "
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q9
+  - "Röra dig i ditt hem? "
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q10
+  - "Ta dig ut från ditt hem? "
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q11
+  - Gå en längre sträcka såsom en kilometer?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q12
+  - "Tvätta hela kroppen? "
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q13
+  - Klä dig?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q14
+  - "Äta? "
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q15
+  - "Vara ensam under några dagar? "
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q16
+  - Bemöta människor som du inte känner?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q17
+  - "Bibehålla en vänskapsrelation? "
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q18
+  - Komma överens med människor som står dig nära?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q19
+  - "Skaffa nya vänner? "
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q20
+  - "Vara nära sexuellt? "
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q21
+  - "Ta hand om ditt hushåll? "
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q22
+  - Göra det viktigaste hushållsarbetet på ett bra sätt?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q23
+  - Få allt det hushållsarbete gjort som du behövde göra?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q24
+  - Få ditt hushållsarbete gjort så fort som det behövdes?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q25
+  - Är du anställd, jobbar gratis eller driver eget?
+  - - "värde: 1, text: Nej"
+    - "värde: 2, text: Ja"
+  - q26
+  - Ditt dagliga arbete eller studier?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q27
+  - Att göra dina viktigaste arbets- eller studieuppgifter bra?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q28
+  - Att få allt det arbete gjort som du behövde göra?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q29
+  - Att få ditt arbete gjort så fort som det behövdes?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q30
+  - Hur stort problem har du haft med att delta i aktiviteter i samhället (till
+    exempel festligheter, religiösa eller andra aktiviteter) på samma sätt som
+    andra?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q31
+  - Hur stort problem har du haft på grund av hinder i din omgivning?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q32
+  - Hur stort problem har du haft att leva med värdighet på grund av andras
+    attityder och handlingar?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q33
+  - Hur mycket tid har du lagt ner på ditt hälsotillstånd eller dess
+    konsekvenser?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q34
+  - Hur mycket har du påverkats känslomässigt av ditt hälsotillstånd?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q35
+  - Hur mycket har din hälsa belastat din eller din familjs ekonomi?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q36
+  - Hur stort problem har din familj haft på grund av dina hälsoproblem?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q37
+  - Hur stort problem har du haft med att göra saker på egen hand för avkoppling
+    och nöje?
+  - - "värde: 1, text: Ingen"
+    - "värde: 2, text: Liten"
+    - "värde: 3, text: Måttlig"
+    - "värde: 4, text: Stor"
+    - "värde: 5, text: Extrem/kan inte"
+  - q38
+  - Allt sammantaget, hur många av de senaste 30 dagarna har du haft dessa
+    svårigheter?
+  - []
+  - q39
+  - Under hur många av de senaste 30 dagarna var du helt oförmögen att genomföra
+    dina vanliga aktiviteter eller arbeta på grund av något hälsotillstånd?
+  - []
+  - q40
+  - Om man inte räknar de dagar du var helt oförmögen, hur många av de senaste
+    30 dagarna skar du ned eller minskade på dina vanliga aktiviteter eller
+    arbete på grund av något hälsotillstånd?
+  - []

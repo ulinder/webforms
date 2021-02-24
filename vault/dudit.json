@@ -1,1 +1,688 @@
-{"anonymous":false,"category":"Beforskade skattningsskalor","description":null,"descriptionInternal":"Självskattningsformulär avseende droganvändning","completeText":"Tack för dina svar!","title":null,"name":"DUDIT","language":{"code":"swe","codeSystem":"1.0.639.2"},"term":null,"media":null,"code":null,"pages":[{"page":{"subject":"","description":"© 2002 Anne H. Berman, Hans Bergman, Tom Palmstierna & Frans Schlyter, version 2 Karollinska Institutet. Frågor: tel. 08-517 74869 E-post ahberman@telia.com","informationURL":"","pageNumber":1,"lastPage":false,"questionBlocks":[{"subject":"","description":"**Här är ett antal frågor om droger**. Vi är tacksamma om du svarar så noggrant och ärligt som möjligt genom att markera det alternativ som gäller för dig.","blockNumber":1,"informationURL":"","numberOfQuestions":11,"gridConfig":null,"questions":[{"questionId":"q1","subject":"1. Hur ofta använder du andra droger än alkohol? (Se droglista)","description":"","questionNumber":1,"code":null,"informationURL":null,"media":{"mediaURL":"https://formular.1177.se/media/d7f9cf7c-67a7-4409-847d-74b1073c48f2.PNG","mediaType":"image/png","mediaAlt":null},"input":"radio","inputUnit":null,"gridValue":null,"answerMin":null,"answerMax":null,"answerMaxLength":null,"answerPattern":null,"answerStep":null,"mandatory":true,"questionAlign":null,"minNumberOfChoices":null,"maxNumberOfChoices":null,"questionSuperior":null,"answerAlternatives":[{"value":"Aldrig","number":1,"helpText":null,"code":null,"media":null},{"value":"1 gång i månaden eller mer sällan","number":2,"helpText":null,"code":null,"media":null},{"value":"2-4 gånger i månaden","number":3,"helpText":null,"code":null,"media":null},{"value":"2-3 gånger i veckan","number":4,"helpText":null,"code":null,"media":null},{"value":"4 gånger/vecka eller mer","number":5,"helpText":null,"code":null,"media":null}],"validationEvents":[]},{"questionId":"q2","subject":"2. Använder du fler än en drog vid ett och samma tillfälle?","description":"","questionNumber":2,"code":null,"informationURL":null,"media":null,"input":"radio","inputUnit":null,"gridValue":null,"answerMin":null,"answerMax":null,"answerMaxLength":null,"answerPattern":null,"answerStep":null,"mandatory":true,"questionAlign":null,"minNumberOfChoices":null,"maxNumberOfChoices":null,"questionSuperior":null,"answerAlternatives":[{"value":"Aldrig","number":1,"helpText":null,"code":null,"media":null},{"value":"1 gång i månaden eller mer sällan","number":2,"helpText":null,"code":null,"media":null},{"value":"2-4 gånger i månaden","number":3,"helpText":null,"code":null,"media":null},{"value":"2-3 gånger i veckan","number":4,"helpText":null,"code":null,"media":null},{"value":"4 gånger/vecka eller mer","number":5,"helpText":null,"code":null,"media":null}],"validationEvents":[]},{"questionId":"q3","subject":"3. Hur många gånger tar du droger under en typisk dag då du använder droger?","description":"","questionNumber":3,"code":null,"informationURL":null,"media":null,"input":"radio","inputUnit":null,"gridValue":null,"answerMin":null,"answerMax":null,"answerMaxLength":null,"answerPattern":null,"answerStep":null,"mandatory":true,"questionAlign":null,"minNumberOfChoices":null,"maxNumberOfChoices":null,"questionSuperior":null,"answerAlternatives":[{"value":"0","number":1,"helpText":null,"code":null,"media":null},{"value":"1-2","number":2,"helpText":null,"code":null,"media":null},{"value":"3-4","number":3,"helpText":null,"code":null,"media":null},{"value":"5-6","number":4,"helpText":null,"code":null,"media":null},{"value":"7 eller fler","number":5,"helpText":null,"code":null,"media":null}],"validationEvents":[]},{"questionId":"q4","subject":"4. Hur ofta blir du kraftigt påverkad av droger?","description":"","questionNumber":4,"code":null,"informationURL":null,"media":null,"input":"radio","inputUnit":null,"gridValue":null,"answerMin":null,"answerMax":null,"answerMaxLength":null,"answerPattern":null,"answerStep":null,"mandatory":true,"questionAlign":null,"minNumberOfChoices":null,"maxNumberOfChoices":null,"questionSuperior":null,"answerAlternatives":[{"value":"Aldrig","number":1,"helpText":null,"code":null,"media":null},{"value":"Mer sällan än en gång i månaden","number":2,"helpText":null,"code":null,"media":null},{"value":"Varje månad","number":3,"helpText":null,"code":null,"media":null},{"value":"Varje vecka","number":4,"helpText":null,"code":null,"media":null},{"value":"Dagligen eller nästan varje dag","number":5,"helpText":null,"code":null,"media":null}],"validationEvents":[]},{"questionId":"q5","subject":"5. Har du under senaste året upplevt att din längtan efter droger varit så stark att du inte kunnat stå emot?","description":"","questionNumber":5,"code":null,"informationURL":null,"media":null,"input":"radio","inputUnit":null,"gridValue":null,"answerMin":null,"answerMax":null,"answerMaxLength":null,"answerPattern":null,"answerStep":null,"mandatory":true,"questionAlign":null,"minNumberOfChoices":null,"maxNumberOfChoices":null,"questionSuperior":null,"answerAlternatives":[{"value":"Aldrig","number":1,"helpText":null,"code":null,"media":null},{"value":"Mer sällan än en gång i månaden","number":2,"helpText":null,"code":null,"media":null},{"value":"Varje månad","number":3,"helpText":null,"code":null,"media":null},{"value":"Varje vecka","number":4,"helpText":null,"code":null,"media":null},{"value":"Dagligen eller nästan varje dag","number":5,"helpText":null,"code":null,"media":null}],"validationEvents":[]},{"questionId":"q6","subject":"6. Har det hänt att du under senaste året inte kunnat sluta ta droger sedan du börjat?","description":"","questionNumber":6,"code":null,"informationURL":null,"media":null,"input":"radio","inputUnit":null,"gridValue":null,"answerMin":null,"answerMax":null,"answerMaxLength":null,"answerPattern":null,"answerStep":null,"mandatory":true,"questionAlign":null,"minNumberOfChoices":null,"maxNumberOfChoices":null,"questionSuperior":null,"answerAlternatives":[{"value":"Aldrig","number":1,"helpText":null,"code":null,"media":null},{"value":"Mer sällan än en gång i månaden","number":2,"helpText":null,"code":null,"media":null},{"value":"Varje månad","number":3,"helpText":null,"code":null,"media":null},{"value":"Varje vecka","number":4,"helpText":null,"code":null,"media":null},{"value":"Dagligen eller nästan varje dag","number":5,"helpText":null,"code":null,"media":null}],"validationEvents":[]},{"questionId":"q7","subject":"7. Hur ofta under senaste året har du tagit droger och sedan låtit bli att göra något som du borde ha gjort?","description":"","questionNumber":7,"code":null,"informationURL":null,"media":null,"input":"radio","inputUnit":null,"gridValue":null,"answerMin":null,"answerMax":null,"answerMaxLength":null,"answerPattern":null,"answerStep":null,"mandatory":true,"questionAlign":null,"minNumberOfChoices":null,"maxNumberOfChoices":null,"questionSuperior":null,"answerAlternatives":[{"value":"Aldrig","number":1,"helpText":null,"code":null,"media":null},{"value":"Mer sällan än en gång i månaden","number":2,"helpText":null,"code":null,"media":null},{"value":"Varje månad","number":3,"helpText":null,"code":null,"media":null},{"value":"Varje vecka","number":4,"helpText":null,"code":null,"media":null},{"value":"Dagligen eller nästan varje dag","number":5,"helpText":null,"code":null,"media":null}],"validationEvents":[]},{"questionId":"q8","subject":"8. Hur ofta under senaste året har du behövt ta någon drog på morgonen efter stort drogintag dagen innan?","description":"","questionNumber":8,"code":null,"informationURL":null,"media":null,"input":"radio","inputUnit":null,"gridValue":null,"answerMin":null,"answerMax":null,"answerMaxLength":null,"answerPattern":null,"answerStep":null,"mandatory":true,"questionAlign":null,"minNumberOfChoices":null,"maxNumberOfChoices":null,"questionSuperior":null,"answerAlternatives":[{"value":"Aldrig","number":1,"helpText":null,"code":null,"media":null},{"value":"Mer sällan än en gång i månaden","number":2,"helpText":null,"code":null,"media":null},{"value":"Varje månad","number":3,"helpText":null,"code":null,"media":null},{"value":"Varje vecka","number":4,"helpText":null,"code":null,"media":null},{"value":"Dagligen eller nästan varje dag","number":5,"helpText":null,"code":null,"media":null}],"validationEvents":[]},{"questionId":"q9","subject":"9. Hur ofta under senaste året har du haft skuldkänslor eller dåligt samvete på grund av att du använt droger?","description":"","questionNumber":9,"code":null,"informationURL":null,"media":null,"input":"radio","inputUnit":null,"gridValue":null,"answerMin":null,"answerMax":null,"answerMaxLength":null,"answerPattern":null,"answerStep":null,"mandatory":true,"questionAlign":null,"minNumberOfChoices":null,"maxNumberOfChoices":null,"questionSuperior":null,"answerAlternatives":[{"value":"Aldrig","number":1,"helpText":null,"code":null,"media":null},{"value":"Mer sällan än en gång i månaden","number":2,"helpText":null,"code":null,"media":null},{"value":"Varje månad","number":3,"helpText":null,"code":null,"media":null},{"value":"Varje vecka","number":4,"helpText":null,"code":null,"media":null},{"value":"Dagligen eller nästan varje dag","number":5,"helpText":null,"code":null,"media":null}],"validationEvents":[]},{"questionId":"q10","subject":"10. Har du eller någon annan blivit skadad (psykiskt eller fysiskt) på grund av att du använt droger?","description":"","questionNumber":10,"code":null,"informationURL":null,"media":null,"input":"radio","inputUnit":null,"gridValue":null,"answerMin":null,"answerMax":null,"answerMaxLength":null,"answerPattern":null,"answerStep":null,"mandatory":true,"questionAlign":null,"minNumberOfChoices":null,"maxNumberOfChoices":null,"questionSuperior":null,"answerAlternatives":[{"value":"Nej","number":1,"helpText":null,"code":null,"media":null},{"value":"Ja, men inte under det senaste året","number":2,"helpText":null,"code":null,"media":null},{"value":"Ja, under det senaste året","number":3,"helpText":null,"code":null,"media":null}],"validationEvents":[]},{"questionId":"q11","subject":"11. Har en släkting eller vän, en läkare eller sjuksköterska, eller någon annan oroat sig över att du använder droger eller sagt till dig att du bör sluta med droger?","description":"","questionNumber":11,"code":null,"informationURL":null,"media":null,"input":"radio","inputUnit":null,"gridValue":null,"answerMin":null,"answerMax":null,"answerMaxLength":null,"answerPattern":null,"answerStep":null,"mandatory":true,"questionAlign":null,"minNumberOfChoices":null,"maxNumberOfChoices":null,"questionSuperior":null,"answerAlternatives":[{"value":"Nej","number":1,"helpText":null,"code":null,"media":null},{"value":"Ja, men inte under det senaste året","number":2,"helpText":null,"code":null,"media":null},{"value":"Ja, under det senaste året","number":3,"helpText":null,"code":null,"media":null}],"validationEvents":[]}]}]},"routing":null}],"minNumberOfQuestions":11,"maxNumberOfQuestions":11,"minNumberOfPages":1,"maxNumberOfPages":1,"calculationFormulas":[{"calculationId":"Sum-DUDIT","subject":"Resultat DUDIT","descriptionCareActor":"I DUDIT kan man få mellan 0 och 44 poäng.","descriptionSubjectOfCare":null,"approvedForSubjectOfCare":false,"type":"inera:form-engine:drools-java:1","license":null,"formula":"when   \n   $q: Questions()\nthen\n   outcome.set($q.get(\"q1\") - 1 + $q.get(\"q2\") - 1 + $q.get(\"q3\") - 1 + $q.get(\"q4\") - 1 + $q.get(\"q5\") - 1 + $q.get(\"q6\") - 1 + $q.get(\"q7\") - 1 + $q.get(\"q8\") - 1 + $q.get(\"q9\") - 1 + (($q.get(\"q10\") - 1) * 2) + (($q.get(\"q11\") - 1) * 2) );\nend"}]}
+{
+  "anonymous": false,
+  "category": "Beforskade skattningsskalor",
+  "description": null,
+  "descriptionInternal": "Kontaktperson: Mikael Granlund, SU, mikael.granlund@vgregion.se. ",
+  "completeText": "Tack för dina svar!",
+  "title": null,
+  "name": "DUDIT",
+  "language": {
+    "code": "swe",
+    "codeSystem": "1.0.639.2"
+  },
+  "term": null,
+  "media": null,
+  "code": null,
+  "pages": [
+    {
+      "page": {
+        "subject": "",
+        "description": "© 2002 Anne H. Berman, Hans Bergman, Tom Palmstierna & Frans Schlyter, version 2.1 Karolinska institutet.",
+        "informationURL": "",
+        "pageNumber": 1,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "**Här är ett antal frågor om droger**.\n\nVi är tacksamma om du svarar så noggrant och ärligt som möjligt genom att markera det alternativ som gäller för dig.\n\nAnvänd droglistan när du svarar på fråga ett ([Visa droglista](https://formular.1177.se/media/d7f9cf7c-67a7-4409-847d-74b1073c48f2.PNG))\n\n(Av tekniska skäl måste du svara på alla frågor även om du aldrig använder droger)",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 11,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": "q1",
+                "subject": "1. Hur ofta använder du andra droger än alkohol? (Se droglista ovan)",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1 gång i månaden eller mer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2-4 gånger i månaden",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2-3 gånger i veckan",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "4 gånger/vecka eller mer",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q2",
+                "subject": "2. Använder du fler än en drog vid ett och samma tillfälle?",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1 gång i månaden eller mer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2-4 gånger i månaden",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2-3 gånger i veckan",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "4 gånger/vecka eller mer",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q3",
+                "subject": "3. Hur många gånger tar du droger under en typisk dag då du använder droger?",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1-2",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3-4",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "5-6",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "7 eller fler",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q4",
+                "subject": "4. Hur ofta blir du kraftigt påverkad av droger?",
+                "description": "",
+                "questionNumber": 4,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Mer sällan än en gång i månaden",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Varje månad",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Varje vecka",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Dagligen eller nästan varje dag",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q5",
+                "subject": "5. Har du under senaste året upplevt att din längtan efter droger varit så stark att du inte kunnat stå emot?",
+                "description": "",
+                "questionNumber": 5,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Mer sällan än en gång i månaden",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Varje månad",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Varje vecka",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Dagligen eller nästan varje dag",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q6",
+                "subject": "6. Har det hänt att du under senaste året inte kunnat sluta ta droger sedan du börjat?",
+                "description": "",
+                "questionNumber": 6,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Mer sällan än en gång i månaden",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Varje månad",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Varje vecka",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Dagligen eller nästan varje dag",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q7",
+                "subject": "7. Hur ofta under senaste året har du tagit droger och sedan låtit bli att göra något som du borde ha gjort?",
+                "description": "",
+                "questionNumber": 7,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Mer sällan än en gång i månaden",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Varje månad",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Varje vecka",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Dagligen eller nästan varje dag",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q8",
+                "subject": "8. Hur ofta under senaste året har du behövt ta någon drog på morgonen efter stort drogintag dagen innan?",
+                "description": "",
+                "questionNumber": 8,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Mer sällan än en gång i månaden",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Varje månad",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Varje vecka",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Dagligen eller nästan varje dag",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q9",
+                "subject": "9. Hur ofta under senaste året har du haft skuldkänslor eller dåligt samvete på grund av att du använt droger?",
+                "description": "",
+                "questionNumber": 9,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Mer sällan än en gång i månaden",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Varje månad",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Varje vecka",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Dagligen eller nästan varje dag",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q10",
+                "subject": "10. Har du eller någon annan blivit skadad (psykiskt eller fysiskt) på grund av att du använt droger?",
+                "description": "",
+                "questionNumber": 10,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Nej",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ja, men inte under det senaste året",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ja, under det senaste året",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q11",
+                "subject": "11. Har en släkting eller vän, en läkare eller sjuksköterska, eller någon annan oroat sig över att du använder droger eller sagt till dig att du bör sluta med droger?",
+                "description": "",
+                "questionNumber": 11,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Nej",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ja, men inte under det senaste året",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ja, under det senaste året",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    }
+  ],
+  "minNumberOfQuestions": 11,
+  "maxNumberOfQuestions": 11,
+  "minNumberOfPages": 1,
+  "maxNumberOfPages": 1,
+  "calculationFormulas": [
+    {
+      "calculationId": "Sum-DUDIT",
+      "subject": "Resultat DUDIT",
+      "descriptionCareActor": "I DUDIT kan man få mellan 0 och 44 poäng:\n\nEn totalpoäng om 6 poäng eller högre (för män) indikerar möjliga drogrelaterade problem.\n\nEn totalpoäng om 2 poäng eller högre (för kvinnor) indikerar möjliga drogrelaterade problem.\n\n",
+      "descriptionSubjectOfCare": null,
+      "approvedForSubjectOfCare": false,
+      "type": "inera:form-engine:drools-java:1",
+      "license": null,
+      "formula": "when   \n   q: Questions()\nthen\n   outcome.set(\n   (q.get(\"q1\") - 1) + \n   (q.get(\"q2\") - 1) + \n   (q.get(\"q3\") - 1) + \n   (q.get(\"q4\") - 1) + \n   (q.get(\"q5\") - 1) + \n   (q.get(\"q6\") - 1) + \n   (q.get(\"q7\") - 1) + \n   (q.get(\"q8\") - 1) + \n   (q.get(\"q9\") - 1) + ((\n   q.get(\"q10\") - 1) * 2) + ((\n   q.get(\"q11\") - 1) * 2) );\nend"
+    }
+  ]
+}

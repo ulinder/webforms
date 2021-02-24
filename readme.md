@@ -13,3 +13,9 @@ För närvarande finns följande funktioner:
   - nodejs > 11.0
   - ruby 2.6+
   - Selenium::WebDriver
+
+## FORM Structure
+base > page > block > question > answer_alternative
+
+## Bugs
++ Form extractor ger EN fråga för mycket

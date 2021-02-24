@@ -1,0 +1,240 @@
+{
+  "anonymous": false,
+  "category": "Beforskade skattningsskalor",
+  "description": null,
+  "descriptionInternal": "Kontaktperson: Mikael Granlund, SU, mikael.granlund@vgregion.se",
+  "completeText": "Tack för dina svar!",
+  "title": null,
+  "name": "AUDIT-C",
+  "language": {
+    "code": "swe",
+    "codeSystem": "1.0.639.2"
+  },
+  "term": null,
+  "media": null,
+  "code": null,
+  "pages": [
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 1,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "Här är ett antal frågor om Dina alkoholvanor",
+            "description": "Vi är tacksamma om Du besvarar dem så noggrant och ärligt som möjligt genom att markera det alternativ som gäller för dig.",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 3,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": "q1",
+                "subject": "1. Hur ofta dricker Du alkohol?",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1 gång i månaden eller mer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2-4 gånger i månaden",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2-3 gånger i veckan",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "4 gånger/vecka eller mer",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q2",
+                "subject": "2. Hur många ”glas” (se exempel) Dricker Du en typisk dag då Du dricker alkohol?",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": {
+                  "mediaURL": "https://formular.1177.se/media/e3ab14dd-ade1-4163-8339-b0fd57d9f8e8.PNG",
+                  "mediaType": "image/png",
+                  "mediaAlt": null
+                },
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "1-2",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3-4",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "5-6",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "7-9",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "10 eller fler",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q3",
+                "subject": "3. Hur ofta dricker Du sex sådana ”glas” eller mer vid samma tillfälle?",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Mer sällan än en gång i månaden",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Varje månad",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Varje vecka",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Dagligen eller nästan varje dag",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    }
+  ],
+  "minNumberOfQuestions": 3,
+  "maxNumberOfQuestions": 3,
+  "minNumberOfPages": 1,
+  "maxNumberOfPages": 1,
+  "calculationFormulas": [
+    {
+      "calculationId": "Sum-AUDIT",
+      "subject": "Resultat AUDIT",
+      "descriptionCareActor": "AUDIC-C är ett screeeningtest avsett att upptäcka riskbruk av alkohol. På testet kan man få mellan 0 och 12 poäng. Gränsvärdet för riskabel alkoholkonsumtion är 5 poäng för män och 4 poäng för kvinnor.",
+      "descriptionSubjectOfCare": null,
+      "approvedForSubjectOfCare": false,
+      "type": "inera:form-engine:drools-java:1",
+      "license": null,
+      "formula": "when   \n   $q: Questions()\nthen\n   outcome.set(\n$q.get(\"q1\") - 1 + \n$q.get(\"q2\") - 1 + \n$q.get(\"q3\") - 1  \n)\n;\nend"
+    }
+  ]
+}

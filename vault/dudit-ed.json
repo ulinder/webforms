@@ -1,14 +1,14 @@
 {
   "anonymous": false,
-  "category": "Skattning",
+  "category": "Beforskade skattningsskalor",
   "description": "",
-  "descriptionInternal": "Region Uppsala - Beräkningar - Neuropsykiatri",
-  "completeText": "Tack för att du tog dig tid att besvara frågorna!",
+  "descriptionInternal": "Kontaktperson: Mikael Granlund, SU, mikael.granlund@vgregion.se",
+  "completeText": null,
   "title": null,
-  "name": "ASRS - Vuxen-ADHD Självrapportskala",
+  "name": "DUDIT-ED",
   "language": {
-    "code": "SE",
-    "codeSystem": "1.0.639.3"
+    "code": "swe",
+    "codeSystem": "1.0.639.2"
   },
   "term": "",
   "media": null,
@@ -16,107 +16,137 @@
   "pages": [
     {
       "page": {
-        "subject": "",
-        "description": "",
+        "subject": "Användande av substanser och droger",
+        "description": "© 2002 Anne H. Berman, Hans Bergman, Tom Palmstierna & Frans Schlyter, Karolinska Institutet.",
         "informationURL": "",
         "pageNumber": 1,
         "lastPage": false,
         "questionBlocks": [
           {
-            "subject": "Del A",
-            "description": "Besvara frågorna nedan genom att välja det alternativ som bäst beskriver hur du har känt och betett dig **de senaste dagarna**.",
+            "subject": "Så ofta använder jag följande substanser: (se DUDIT droglistan)",
+            "description": "[Visa droglista](https://formular.1177.se/media/d7f9cf7c-67a7-4409-847d-74b1073c48f2.PNG)",
             "blockNumber": 1,
             "informationURL": "",
-            "numberOfQuestions": 7,
+            "numberOfQuestions": 18,
             "gridConfig": null,
             "questions": [
               {
-                "questionId": null,
-                "subject": "Datum när du fyller i formuläret",
-                "description": null,
+                "questionId": "q1",
+                "subject": "Cannabis",
+                "description": "",
                 "questionNumber": 1,
                 "code": null,
                 "informationURL": null,
                 "media": null,
-                "input": "date",
+                "input": "radio",
                 "inputUnit": null,
                 "gridValue": null,
                 "answerMin": null,
                 "answerMax": null,
                 "answerMaxLength": null,
                 "answerPattern": null,
-                "answerStep": 0,
+                "answerStep": null,
                 "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Har testat någon gång",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1 ggr. i månaden eller mer sällan",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2-4 ggr. i månaden",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2-3 ggr. i veckan",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "4 ggr. i veckan eller mer",
+                    "number": 6,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q2",
+                "subject": "Gäller ditt svar ovan enbart vid återfall eller enstaka perioder?",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": false,
                 "questionAlign": null,
                 "minNumberOfChoices": 0,
-                "maxNumberOfChoices": 0,
-                "questionSuperior": null,
-                "answerAlternatives": [],
-                "validationEvents": []
-              },
-              {
-                "questionId": "AD01",
-                "subject": "Hur ofta har du svårigheter med att avsluta de sista detaljerna i en uppgift/ett projekt när de mer krävande momenten har avklarats?",
-                "description": "",
-                "questionNumber": 2,
-                "code": null,
-                "informationURL": null,
-                "media": null,
-                "input": "radio",
-                "inputUnit": null,
-                "gridValue": null,
-                "answerMin": null,
-                "answerMax": null,
-                "answerMaxLength": null,
-                "answerPattern": null,
-                "answerStep": null,
-                "mandatory": true,
-                "questionAlign": null,
-                "minNumberOfChoices": null,
-                "maxNumberOfChoices": null,
-                "questionSuperior": null,
+                "maxNumberOfChoices": 1,
+                "questionSuperior": {
+                  "superiorAnswerAlternativeNumbers": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                  ],
+                  "superiorQuestionNumber": 1
+                },
                 "answerAlternatives": [
-                  {
-                    "value": "Aldrig",
-                    "number": 1,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Sällan",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ibland",
-                    "number": 3,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ofta",
-                    "number": 4,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Mycket ofta",
-                    "number": 5,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  }
-                ],
+                                      {
+                                        "value": "Nej",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                      },
+                                      {
+                                        "value": "Ja",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                      }],
                 "validationEvents": []
               },
               {
-                "questionId": "AD02",
-                "subject": "Hur ofta har du svårigheter med att få ordning på saker och ting när du ska utföra en uppgift som kräver organisation?",
+                "questionId": "q3",
+                "subject": "Amfetamin",
                 "description": "",
                 "questionNumber": 3,
                 "code": null,
@@ -144,29 +174,36 @@
                     "media": null
                   },
                   {
-                    "value": "Sällan",
+                    "value": "Har testat någon gång",
                     "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "Ibland",
+                    "value": "1 ggr. i månaden eller mer sällan",
                     "number": 3,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "Ofta",
+                    "value": "2-4 ggr. i månaden",
                     "number": 4,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "Mycket ofta",
+                    "value": "2-3 ggr. i veckan",
                     "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "4 ggr. i veckan eller mer",
+                    "number": 6,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -175,8 +212,8 @@
                 "validationEvents": []
               },
               {
-                "questionId": "AD03",
-                "subject": "Hur ofta har du problem att komma ihåg avtalade möten, t.ex. läkarbesök, eller åtaganden?",
+                "questionId": "q4",
+                "subject": "Gäller ditt svar ovan enbart vid återfall eller enstaka perioder?",
                 "description": "",
                 "questionNumber": 4,
                 "code": null,
@@ -190,53 +227,40 @@
                 "answerMaxLength": null,
                 "answerPattern": null,
                 "answerStep": null,
-                "mandatory": true,
+                "mandatory": false,
                 "questionAlign": null,
-                "minNumberOfChoices": null,
-                "maxNumberOfChoices": null,
-                "questionSuperior": null,
+                "minNumberOfChoices": 0,
+                "maxNumberOfChoices": 1,
+                "questionSuperior": {
+                  "superiorAnswerAlternativeNumbers": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                  ],
+                  "superiorQuestionNumber": 3
+                },
                 "answerAlternatives": [
-                  {
-                    "value": "Aldrig",
-                    "number": 1,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Sällan",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ibland",
-                    "number": 3,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ofta",
-                    "number": 4,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Mycket ofta",
-                    "number": 5,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  }
-                ],
+                                      {
+                                        "value": "Nej",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                      },
+                                      {
+                                        "value": "Ja",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                      }],
                 "validationEvents": []
               },
               {
-                "questionId": "AD04",
-                "subject": "Hur ofta händer det att du undviker eller skjuter på att sätta igång med en uppgift som kräver mycket tankemöda?",
+                "questionId": "q5",
+                "subject": "Kokain",
                 "description": "",
                 "questionNumber": 5,
                 "code": null,
@@ -264,29 +288,36 @@
                     "media": null
                   },
                   {
-                    "value": "Sällan",
+                    "value": "Har testat någon gång",
                     "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "Ibland",
+                    "value": "1 ggr. i månaden eller mer sällan",
                     "number": 3,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "Ofta",
+                    "value": "2-4 ggr. i månaden",
                     "number": 4,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "Mycket ofta",
+                    "value": "2-3 ggr. i veckan",
                     "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "4 ggr. i veckan eller mer",
+                    "number": 6,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -295,8 +326,8 @@
                 "validationEvents": []
               },
               {
-                "questionId": "HI01",
-                "subject": "Hur ofta händer det att du sitter och plocker med något, eller skruvar på dig och rör händer eller fötter när du är tvungen att sitta en längre stund?",
+                "questionId": "q6",
+                "subject": "Gäller ditt svar ovan enbart vid återfall eller enstaka perioder?",
                 "description": "",
                 "questionNumber": 6,
                 "code": null,
@@ -310,53 +341,40 @@
                 "answerMaxLength": null,
                 "answerPattern": null,
                 "answerStep": null,
-                "mandatory": true,
+                "mandatory": false,
                 "questionAlign": null,
-                "minNumberOfChoices": null,
-                "maxNumberOfChoices": null,
-                "questionSuperior": null,
+                "minNumberOfChoices": 0,
+                "maxNumberOfChoices": 1,
+                "questionSuperior": {
+                  "superiorAnswerAlternativeNumbers": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                  ],
+                  "superiorQuestionNumber": 5
+                },
                 "answerAlternatives": [
-                  {
-                    "value": "Aldrig",
-                    "number": 1,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Sällan",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ibland",
-                    "number": 3,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ofta",
-                    "number": 4,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Mycket ofta",
-                    "number": 5,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  }
-                ],
+                                      {
+                                        "value": "Nej",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                      },
+                                      {
+                                        "value": "Ja",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                      }],
                 "validationEvents": []
               },
               {
-                "questionId": "HI02",
-                "subject": "Hur ofta känner du dig överaktiv och tvungen att hålla igång, som om du gick på högvarv?",
+                "questionId": "q7",
+                "subject": "Opiater",
                 "description": "",
                 "questionNumber": 7,
                 "code": null,
@@ -384,99 +402,36 @@
                     "media": null
                   },
                   {
-                    "value": "Sällan",
+                    "value": "Har testat någon gång",
                     "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "Ibland",
+                    "value": "1 ggr. i månaden eller mer sällan",
                     "number": 3,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "Ofta",
+                    "value": "2-4 ggr. i månaden",
                     "number": 4,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "Mycket ofta",
+                    "value": "2-3 ggr. i veckan",
                     "number": 5,
                     "helpText": null,
                     "code": null,
                     "media": null
-                  }
-                ],
-                "validationEvents": []
-              }
-            ]
-          },
-          {
-            "subject": "Del B",
-            "description": "Besvara frågorna nedan genom att välja det alternativ som bäst beskriver hur du har känt och betett dig **de senaste 6 månaderna**.",
-            "blockNumber": 2,
-            "informationURL": "",
-            "numberOfQuestions": 12,
-            "gridConfig": null,
-            "questions": [
-              {
-                "questionId": "AD05",
-                "subject": "Hur ofta händer det att du gör slarvfel när du arbetar med en tråkig eller svår uppgift?",
-                "description": "",
-                "questionNumber": 1,
-                "code": null,
-                "informationURL": null,
-                "media": null,
-                "input": "radio",
-                "inputUnit": null,
-                "gridValue": null,
-                "answerMin": null,
-                "answerMax": null,
-                "answerMaxLength": null,
-                "answerPattern": null,
-                "answerStep": null,
-                "mandatory": true,
-                "questionAlign": null,
-                "minNumberOfChoices": null,
-                "maxNumberOfChoices": null,
-                "questionSuperior": null,
-                "answerAlternatives": [
-                  {
-                    "value": "Aldrig",
-                    "number": 1,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
                   },
                   {
-                    "value": "Sällan",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ibland",
-                    "number": 3,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ofta",
-                    "number": 4,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Mycket ofta",
-                    "number": 5,
+                    "value": "4 ggr. i veckan eller mer",
+                    "number": 6,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -485,368 +440,8 @@
                 "validationEvents": []
               },
               {
-                "questionId": "AD06",
-                "subject": "Hur ofta händer det att du har svårt att hålla kvar uppmärksamheten när du utför tråkigt eller monotont arbete?",
-                "description": "",
-                "questionNumber": 2,
-                "code": null,
-                "informationURL": null,
-                "media": null,
-                "input": "radio",
-                "inputUnit": null,
-                "gridValue": null,
-                "answerMin": null,
-                "answerMax": null,
-                "answerMaxLength": null,
-                "answerPattern": null,
-                "answerStep": null,
-                "mandatory": true,
-                "questionAlign": null,
-                "minNumberOfChoices": null,
-                "maxNumberOfChoices": null,
-                "questionSuperior": null,
-                "answerAlternatives": [
-                  {
-                    "value": "Aldrig",
-                    "number": 1,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Sällan",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ibland",
-                    "number": 3,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ofta",
-                    "number": 4,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Mycket ofta",
-                    "number": 5,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  }
-                ],
-                "validationEvents": []
-              },
-              {
-                "questionId": "AD07",
-                "subject": "Hur ofta händer det att du har svårt att koncentrera dig på vad folk säger, även när de pratar direkt till dig?",
-                "description": "",
-                "questionNumber": 3,
-                "code": null,
-                "informationURL": null,
-                "media": null,
-                "input": "radio",
-                "inputUnit": null,
-                "gridValue": null,
-                "answerMin": null,
-                "answerMax": null,
-                "answerMaxLength": null,
-                "answerPattern": null,
-                "answerStep": null,
-                "mandatory": true,
-                "questionAlign": null,
-                "minNumberOfChoices": null,
-                "maxNumberOfChoices": null,
-                "questionSuperior": null,
-                "answerAlternatives": [
-                  {
-                    "value": "Aldrig",
-                    "number": 1,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Sällan",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ibland",
-                    "number": 3,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ofta",
-                    "number": 4,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Mycket ofta",
-                    "number": 5,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  }
-                ],
-                "validationEvents": []
-              },
-              {
-                "questionId": "AD08",
-                "subject": "Hur ofta händer det att du förlägger eller har svårt att hitta saker hemma eller på arbetet?",
-                "description": "",
-                "questionNumber": 4,
-                "code": null,
-                "informationURL": null,
-                "media": null,
-                "input": "radio",
-                "inputUnit": null,
-                "gridValue": null,
-                "answerMin": null,
-                "answerMax": null,
-                "answerMaxLength": null,
-                "answerPattern": null,
-                "answerStep": null,
-                "mandatory": true,
-                "questionAlign": null,
-                "minNumberOfChoices": null,
-                "maxNumberOfChoices": null,
-                "questionSuperior": null,
-                "answerAlternatives": [
-                  {
-                    "value": "Aldrig",
-                    "number": 1,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Sällan",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ibland",
-                    "number": 3,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ofta",
-                    "number": 4,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Mycket ofta",
-                    "number": 5,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  }
-                ],
-                "validationEvents": []
-              },
-              {
-                "questionId": "AD09",
-                "subject": "Hur ofta händer det att du distraheras av händelser eller ljud i din omgivning?",
-                "description": "",
-                "questionNumber": 5,
-                "code": null,
-                "informationURL": null,
-                "media": null,
-                "input": "radio",
-                "inputUnit": null,
-                "gridValue": null,
-                "answerMin": null,
-                "answerMax": null,
-                "answerMaxLength": null,
-                "answerPattern": null,
-                "answerStep": null,
-                "mandatory": true,
-                "questionAlign": null,
-                "minNumberOfChoices": null,
-                "maxNumberOfChoices": null,
-                "questionSuperior": null,
-                "answerAlternatives": [
-                  {
-                    "value": "Aldrig",
-                    "number": 1,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Sällan",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ibland",
-                    "number": 3,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ofta",
-                    "number": 4,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Mycket ofta",
-                    "number": 5,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  }
-                ],
-                "validationEvents": []
-              },
-              {
-                "questionId": "HI03",
-                "subject": "Hur ofta händer det att du lämnar din plats under möten eller i andra situationer där du förväntas sitta kvar?",
-                "description": "",
-                "questionNumber": 6,
-                "code": null,
-                "informationURL": null,
-                "media": null,
-                "input": "radio",
-                "inputUnit": null,
-                "gridValue": null,
-                "answerMin": null,
-                "answerMax": null,
-                "answerMaxLength": null,
-                "answerPattern": null,
-                "answerStep": null,
-                "mandatory": true,
-                "questionAlign": null,
-                "minNumberOfChoices": null,
-                "maxNumberOfChoices": null,
-                "questionSuperior": null,
-                "answerAlternatives": [
-                  {
-                    "value": "Aldrig",
-                    "number": 1,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Sällan",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ibland",
-                    "number": 3,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ofta",
-                    "number": 4,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Mycket ofta",
-                    "number": 5,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  }
-                ],
-                "validationEvents": []
-              },
-              {
-                "questionId": "HI04",
-                "subject": "Hur ofta händer det att du känner dig rastlös eller har svårt att vara stilla?",
-                "description": "",
-                "questionNumber": 7,
-                "code": null,
-                "informationURL": null,
-                "media": null,
-                "input": "radio",
-                "inputUnit": null,
-                "gridValue": null,
-                "answerMin": null,
-                "answerMax": null,
-                "answerMaxLength": null,
-                "answerPattern": null,
-                "answerStep": null,
-                "mandatory": true,
-                "questionAlign": null,
-                "minNumberOfChoices": null,
-                "maxNumberOfChoices": null,
-                "questionSuperior": null,
-                "answerAlternatives": [
-                  {
-                    "value": "Aldrig",
-                    "number": 1,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Sällan",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ibland",
-                    "number": 3,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ofta",
-                    "number": 4,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Mycket ofta",
-                    "number": 5,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  }
-                ],
-                "validationEvents": []
-              },
-              {
-                "questionId": "HI05",
-                "subject": "Hur ofta händer det att du har svårt att gå ner i varv och koppla av när du har en stund över?",
+                "questionId": "q8",
+                "subject": "Gäller ditt svar ovan enbart vid återfall eller enstaka perioder?",
                 "description": "",
                 "questionNumber": 8,
                 "code": null,
@@ -860,53 +455,40 @@
                 "answerMaxLength": null,
                 "answerPattern": null,
                 "answerStep": null,
-                "mandatory": true,
+                "mandatory": false,
                 "questionAlign": null,
-                "minNumberOfChoices": null,
-                "maxNumberOfChoices": null,
-                "questionSuperior": null,
+                "minNumberOfChoices": 0,
+                "maxNumberOfChoices": 1,
+                "questionSuperior": {
+                  "superiorAnswerAlternativeNumbers": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                  ],
+                  "superiorQuestionNumber": 7
+                },
                 "answerAlternatives": [
-                  {
-                    "value": "Aldrig",
-                    "number": 1,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Sällan",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ibland",
-                    "number": 3,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ofta",
-                    "number": 4,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Mycket ofta",
-                    "number": 5,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  }
-                ],
+                                      {
+                                        "value": "Nej",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                      },
+                                      {
+                                        "value": "Ja",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                      }],
                 "validationEvents": []
               },
               {
-                "questionId": "HI06",
-                "subject": "Hur ofta händer det att du kommer på dig själv med att prata för mycket i sociala sammanhang?",
+                "questionId": "q9",
+                "subject": "Hallucinogener",
                 "description": "",
                 "questionNumber": 9,
                 "code": null,
@@ -934,29 +516,36 @@
                     "media": null
                   },
                   {
-                    "value": "Sällan",
+                    "value": "Har testat någon gång",
                     "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "Ibland",
+                    "value": "1 ggr. i månaden eller mer sällan",
                     "number": 3,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "Ofta",
+                    "value": "2-4 ggr. i månaden",
                     "number": 4,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "Mycket ofta",
+                    "value": "2-3 ggr. i veckan",
                     "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "4 ggr. i veckan eller mer",
+                    "number": 6,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -965,8 +554,8 @@
                 "validationEvents": []
               },
               {
-                "questionId": "HI07",
-                "subject": "Hur ofta händer det att du avslutar meningar åt dem du talar med, innan de själva hinner avsluta dem?",
+                "questionId": "q10",
+                "subject": "Gäller ditt svar ovan enbart vid återfall eller enstaka perioder?",
                 "description": "",
                 "questionNumber": 10,
                 "code": null,
@@ -980,53 +569,40 @@
                 "answerMaxLength": null,
                 "answerPattern": null,
                 "answerStep": null,
-                "mandatory": true,
+                "mandatory": false,
                 "questionAlign": null,
-                "minNumberOfChoices": null,
-                "maxNumberOfChoices": null,
-                "questionSuperior": null,
+                "minNumberOfChoices": 0,
+                "maxNumberOfChoices": 1,
+                "questionSuperior": {
+                  "superiorAnswerAlternativeNumbers": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                  ],
+                  "superiorQuestionNumber": 9
+                },
                 "answerAlternatives": [
-                  {
-                    "value": "Aldrig",
-                    "number": 1,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Sällan",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ibland",
-                    "number": 3,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Ofta",
-                    "number": 4,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Mycket ofta",
-                    "number": 5,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  }
-                ],
+                                      {
+                                        "value": "Nej",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                      },
+                                      {
+                                        "value": "Ja",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                      }],
                 "validationEvents": []
               },
               {
-                "questionId": "HI08",
-                "subject": "Hur ofta händer det att du har svårt att vänta på din tur i situationer då det krävs?",
+                "questionId": "q11",
+                "subject": "Lösningsmedel",
                 "description": "",
                 "questionNumber": 11,
                 "code": null,
@@ -1054,29 +630,36 @@
                     "media": null
                   },
                   {
-                    "value": "Sällan",
+                    "value": "Har testat någon gång",
                     "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "Ibland",
+                    "value": "1 ggr. i månaden eller mer sällan",
                     "number": 3,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "Ofta",
+                    "value": "2-4 ggr. i månaden",
                     "number": 4,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "Mycket ofta",
+                    "value": "2-3 ggr. i veckan",
                     "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "4 ggr. i veckan eller mer",
+                    "number": 6,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -1085,10 +668,57 @@
                 "validationEvents": []
               },
               {
-                "questionId": "HI09",
-                "subject": "Hur ofta händer det att du avbryter/stör andra när de är upptagna?",
+                "questionId": "q12",
+                "subject": "Gäller ditt svar ovan enbart vid återfall eller enstaka perioder?",
                 "description": "",
                 "questionNumber": 12,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": 0,
+                "maxNumberOfChoices": 1,
+                "questionSuperior": {
+                  "superiorAnswerAlternativeNumbers": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                  ],
+                  "superiorQuestionNumber": 11
+                },
+                "answerAlternatives": [
+                                      {
+                                        "value": "Nej",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                      },
+                                      {
+                                        "value": "Ja",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                      }],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q13",
+                "subject": "GHB och övriga",
+                "description": "",
+                "questionNumber": 13,
                 "code": null,
                 "informationURL": null,
                 "media": null,
@@ -1114,34 +744,430 @@
                     "media": null
                   },
                   {
-                    "value": "Sällan",
+                    "value": "Har testat någon gång",
                     "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "Ibland",
+                    "value": "1 ggr. i månaden eller mer sällan",
                     "number": 3,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "Ofta",
+                    "value": "2-4 ggr. i månaden",
                     "number": 4,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "Mycket ofta",
+                    "value": "2-3 ggr. i veckan",
                     "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "4 ggr. i veckan eller mer",
+                    "number": 6,
                     "helpText": null,
                     "code": null,
                     "media": null
                   }
                 ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q14",
+                "subject": "Gäller ditt svar ovan enbart vid återfall eller enstaka perioder?",
+                "description": "",
+                "questionNumber": 14,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": 0,
+                "maxNumberOfChoices": 1,
+                "questionSuperior": {
+                  "superiorAnswerAlternativeNumbers": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                  ],
+                  "superiorQuestionNumber": 13
+                },
+                "answerAlternatives": [
+                                      {
+                                        "value": "Nej",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                      },
+                                      {
+                                        "value": "Ja",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                      }],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q15",
+                "subject": "Tabletter (sömn/lugnande)",
+                "description": "",
+                "questionNumber": 15,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Har testat någon gång",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1 ggr. i månaden eller mer sällan",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2-4 ggr. i månaden",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2-3 ggr. i veckan",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "4 ggr. i veckan eller mer",
+                    "number": 6,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q16",
+                "subject": "Gäller ditt svar ovan enbart vid återfall eller enstaka perioder?",
+                "description": "",
+                "questionNumber": 16,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": 0,
+                "maxNumberOfChoices": 1,
+                "questionSuperior": {
+                  "superiorAnswerAlternativeNumbers": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                  ],
+                  "superiorQuestionNumber": 15
+                },
+                "answerAlternatives": [
+                                      {
+                                        "value": "Nej",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                      },
+                                      {
+                                        "value": "Ja",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                      }],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q17",
+                "subject": "Tabletter (smärtstillande)",
+                "description": "",
+                "questionNumber": 17,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Har testat någon gång",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1 ggr. i månaden eller mer sällan",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2-4 ggr. i månaden",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2-3 ggr. i veckan",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "4 ggr. i veckan eller mer",
+                    "number": 6,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q18",
+                "subject": "Gäller ditt svar ovan enbart vid återfall eller enstaka perioder?",
+                "description": "",
+                "questionNumber": 18,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": 0,
+                "maxNumberOfChoices": 1,
+                "questionSuperior": {
+                  "superiorAnswerAlternativeNumbers": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                  ],
+                  "superiorQuestionNumber": 17
+                },
+                "answerAlternatives": [
+                                      {
+                                        "value": "Nej",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                      },
+                                      {
+                                        "value": "Ja",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                      }],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q19",
+                "subject": "Tobak (cigaretter,  cigarrer,  piptobak,  snus)",
+                "description": "",
+                "questionNumber": 19,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Har testat någon gång",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1 ggr. i månaden eller mer sällan",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2-4 ggr. i månaden",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2-3 ggr. i veckan",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "4 ggr. i veckan eller mer",
+                    "number": 6,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q20",
+                "subject": "Gäller ditt svar ovan enbart vid återfall eller enstaka perioder?",
+                "description": "",
+                "questionNumber": 20,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": 0,
+                "maxNumberOfChoices": 1,
+                "questionSuperior": {
+                  "superiorAnswerAlternativeNumbers": [
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                  ],
+                  "superiorQuestionNumber": 19
+                },
+                "answerAlternatives": [
+                                      {
+                                        "value": "Nej",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                      },
+                                      {
+                                        "value": "Ja",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                      }],
                 "validationEvents": []
               }
             ]
@@ -1151,50 +1177,20 @@
       "routing": null
     }
   ],
-  "minNumberOfQuestions": 19,
-  "maxNumberOfQuestions": 19,
+  "minNumberOfQuestions": 10,
+  "maxNumberOfQuestions": 20,
   "minNumberOfPages": 1,
   "maxNumberOfPages": 1,
   "calculationFormulas": [
     {
-      "calculationId": "SkuggaA",
-      "subject": "Screening",
-      "descriptionCareActor": "Antal svar inom skuggade områden, del A\n\nCut-off = 4 p, max 6 p",
-      "descriptionSubjectOfCare": null,
+      "calculationId": "Totalpoang",
+      "subject": "Totalpoäng droganvändning",
+      "descriptionCareActor": "En summering av antalet droger och den frekvens som patienten uppgett användning.\n\nSvaren för varje drogtyp värderas som 0, 1, 2, 3, 4, eller 5. Man kan summera alla svar (uteslut tobak) och då är maximala poängantalet 45.\n\nSubstanser där patient anger att svar enbart gäller vid återfall ger 0 poäng vid denna beräkning.",
+      "descriptionSubjectOfCare": "",
       "approvedForSubjectOfCare": false,
       "type": "inera:form-engine:drools-java:1",
-      "license": null,
-      "formula": "when\n  questions: Questions()\nthen\n\ndouble sum = 0;\n\nif (questions.get(\"AD01\") > 2 ) \n{\nsum = sum + 1;\n}\n\nif (questions.get(\"AD02\") > 2 ) \n{\nsum = sum + 1;\n}\n\nif (questions.get(\"AD03\") > 2 ) \n{\nsum = sum + 1;\n}\n\nif (questions.get(\"AD04\") > 3 ) \n{\nsum = sum + 1;\n}\n\nif (questions.get(\"HI01\") > 3 ) \n{\nsum = sum + 1;\n}\n\nif (questions.get(\"HI02\") > 3 ) \n{\nsum = sum + 1;\n}\n\noutcome.set(sum);\nend"
-    },
-    {
-      "calculationId": "R2",
-      "subject": "Totalpoäng Ouppmärksamhet (AD)",
-      "descriptionCareActor": "Totalpoäng för Ouppmärksamhet\n\nCut-off = 17 p / 24 p, max 36 p",
-      "descriptionSubjectOfCare": null,
-      "approvedForSubjectOfCare": false,
-      "type": "inera:form-engine:drools-java:1",
-      "license": null,
-      "formula": "when\n  questions: Questions()\nthen\n  outcome.set(\nquestions.get(\"AD01\")-1 +\nquestions.get(\"AD02\")-1 +\nquestions.get(\"AD03\")-1 +\nquestions.get(\"AD04\")-1 +\nquestions.get(\"AD05\")-1 +\nquestions.get(\"AD06\")-1 +\nquestions.get(\"AD07\")-1 +\nquestions.get(\"AD08\")-1 +\nquestions.get(\"AD09\")-1);\nend"
-    },
-    {
-      "calculationId": "R3",
-      "subject": "Totalpoäng Hyperaktivitet/Impulsivitet (H/I)",
-      "descriptionCareActor": "Totalpoäng för Hyperaktivitet/Impulsivitet\n\nCut-off = 17 p / 24 p, max 36 p",
-      "descriptionSubjectOfCare": null,
-      "approvedForSubjectOfCare": false,
-      "type": "inera:form-engine:drools-java:1",
-      "license": null,
-      "formula": "when\n  questions: Questions()\nthen\n  outcome.set(\nquestions.get(\"HI01\")-1 +\nquestions.get(\"HI02\")-1 +\nquestions.get(\"HI03\")-1 +\nquestions.get(\"HI04\")-1 +\nquestions.get(\"HI05\")-1 +\nquestions.get(\"HI06\")-1 +\nquestions.get(\"HI07\")-1 +\nquestions.get(\"HI08\")-1 +\nquestions.get(\"HI09\")-1);\nend\n"
-    },
-    {
-      "calculationId": "R4",
-      "subject": "Totalpoäng Sammanslaget (AD + H/I)",
-      "descriptionCareActor": "Totalpoäng för Ouppmärksamhet och Hyperaktivitet/Impulsivitet\nMax 72 p",
-      "descriptionSubjectOfCare": null,
-      "approvedForSubjectOfCare": false,
-      "type": "inera:form-engine:drools-java:1",
-      "license": null,
-      "formula": "when\n  questions: Questions()\nthen\n  outcome.set(\nquestions.get(\"AD01\")-1 +\nquestions.get(\"AD02\")-1 +\nquestions.get(\"AD03\")-1 +\nquestions.get(\"AD04\")-1 +\nquestions.get(\"AD05\")-1 +\nquestions.get(\"AD06\")-1 +\nquestions.get(\"AD07\")-1 +\nquestions.get(\"AD08\")-1 +\nquestions.get(\"AD09\")-1+ \nquestions.get(\"HI01\")-1 +\nquestions.get(\"HI02\")-1 +\nquestions.get(\"HI03\")-1 +\nquestions.get(\"HI04\")-1 +\nquestions.get(\"HI05\")-1 +\nquestions.get(\"HI06\")-1 +\nquestions.get(\"HI07\")-1 +\nquestions.get(\"HI08\")-1 +\nquestions.get(\"HI09\")-1);\nend\n"
+      "license": "",
+      "formula": "when\n q: Questions()\nthen\nDouble score = ( \n                (q.get(“q2“,0) == 1) ? 0 : (q.get(“q1“,1)-1) +\n                (q.get(“q4“,0) == 1) ? 0 : (q.get(“q3“,1)-1) +\n                (q.get(“q6“,0) == 1) ? 0 : (q.get(“q5“,1)-1) +\n                (q.get(“q8“,0) == 1) ? 0 : (q.get(“q7“,1)-1) +\n                (q.get(“q10“,0) == 1) ? 0 : (q.get(“q9“,1)-1) +\n                (q.get(“q12“,0) == 1) ? 0 : (q.get(“q11“,1)-1) +\n                (q.get(“q14“,0) == 1) ? 0 : (q.get(“q13“,1)-1) +\n                (q.get(“q16“,0) == 1) ? 0 : (q.get(“q15“,1)-1) +\n                (q.get(“q18“,0) == 1) ? 0 : (q.get(“q17“,1)-1) \n                );\n                outcome.set( score );\n                \nend"
     }
   ]
 }

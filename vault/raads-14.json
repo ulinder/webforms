@@ -1,8 +1,8 @@
 {
   "anonymous": false,
-  "category": "Hälsoformulär",
+  "category": "Beforskade skattningsskalor",
   "description": "**Välj ett av följande svarsalternativ:**\n\nDetta stämmer eller beskriver mig som jag är nu och som ung.\n\nDetta stämmer på mig, men bara hur jag är nuförtiden (avser tillägnade förmågor).\n\nDetta stämde bara på mig när jag var ung (före 16 års ålder).\n\nDetta har aldrig stämt på mig och beskrev aldrig mig.\n\n*Besvara frågorna utifrån vad som är sant för dig.*",
-  "descriptionInternal": "RAADS-14 Screen är en förkortad version av Ritvo Autism and Asperger Diagnostic Scale-Revised (RAADS-R). Referens: Eriksson JM, Andersen MJ, Bejerot S. RAADS-14 Screen: validity of a screening tool for Autism Spectrum Disorder in an adult psychiatric population. Molecular Autism 2013; 4:49",
+  "descriptionInternal": "Kontaktperson: Mikael Granlund, SU, mikael.granlund@vgregion.se",
   "completeText": "Tack för att du tog dig tid att besvara frågorna!",
   "title": null,
   "name": "RAADS-14",
@@ -35,7 +35,7 @@
             "gridConfig": null,
             "questions": [
               {
-                "questionId": null,
+                "questionId": "q1",
                 "subject": "1. När jag talar med andra har jag svårt att förstå hur de känner sig.",
                 "description": "",
                 "questionNumber": 1,
@@ -88,7 +88,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": null,
+                "questionId": "q2",
                 "subject": "2. Vissa vardagliga material (som inte stör andra) upplever jag som väldigt obehagliga när de berör huden.",
                 "description": "",
                 "questionNumber": 2,
@@ -141,7 +141,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": null,
+                "questionId": "q3",
                 "subject": "3. Jag har väldigt svårt för att klara grupparbeten och att fungera i grupp.",
                 "description": "",
                 "questionNumber": 3,
@@ -216,7 +216,7 @@
             "gridConfig": null,
             "questions": [
               {
-                "questionId": null,
+                "questionId": "q4",
                 "subject": "4. Det är svårt att föreställa sig vad andra förväntar sig av mig.",
                 "description": "",
                 "questionNumber": 1,
@@ -269,7 +269,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": null,
+                "questionId": "q5",
                 "subject": "5. Jag vet ofta inte hur jag ska bete mig i sociala situationer.",
                 "description": "",
                 "questionNumber": 2,
@@ -322,7 +322,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": null,
+                "questionId": "q6",
                 "subject": "6. Jag är bra på att småprata och kallprata med folk.",
                 "description": "",
                 "questionNumber": 3,
@@ -397,7 +397,7 @@
             "gridConfig": null,
             "questions": [
               {
-                "questionId": null,
+                "questionId": "q7",
                 "subject": "7. När jag känner mig överväldigad av intryck behöver jag få vara för mig själv och stänga dem ute.",
                 "description": "",
                 "questionNumber": 1,
@@ -450,7 +450,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": null,
+                "questionId": "q8",
                 "subject": "8. Hur man skaffar sig vänner och hur man umgås socialt är obegripligt för mig.",
                 "description": "",
                 "questionNumber": 2,
@@ -503,7 +503,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": null,
+                "questionId": "q9",
                 "subject": "9. I samtal med någon har jag svårt att veta när det är min tur att tala eller lyssna.",
                 "description": "",
                 "questionNumber": 3,
@@ -578,7 +578,7 @@
             "gridConfig": null,
             "questions": [
               {
-                "questionId": null,
+                "questionId": "q10",
                 "subject": "10. Ibland måste jag hålla för öronen för att utestänga obehagliga ljud (t ex. dammsugare eller för mycket prat eller för högljudda samtal).",
                 "description": "",
                 "questionNumber": 1,
@@ -631,7 +631,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": null,
+                "questionId": "q11",
                 "subject": "11. Det kan vara väldigt svårt att avläsa en persons ansiktsuttryck, gester eller kroppsspråk samtidigt som personen talar.",
                 "description": "",
                 "questionNumber": 2,
@@ -684,7 +684,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": null,
+                "questionId": "q12",
                 "subject": "12. Jag fokuserar mer på detaljerna än på helheten.",
                 "description": "",
                 "questionNumber": 3,
@@ -759,7 +759,7 @@
             "gridConfig": null,
             "questions": [
               {
-                "questionId": null,
+                "questionId": "q13",
                 "subject": "13. Jag uppfattar saker för bokstavligt vilket gör att jag ofta missförstår vad andra menar.",
                 "description": "",
                 "questionNumber": 1,
@@ -812,7 +812,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": null,
+                "questionId": "q14",
                 "subject": "14. Jag blir extremt upprörd när det sätt som jag föredrar att göra saker och ting på, plötsligt ändras.",
                 "description": "",
                 "questionNumber": 2,
@@ -875,5 +875,46 @@
   "maxNumberOfQuestions": 14,
   "minNumberOfPages": 5,
   "maxNumberOfPages": 5,
-  "calculationFormulas": []
+  "calculationFormulas": [
+    {
+      "calculationId": "summa",
+      "subject": "Totalsumma",
+      "descriptionCareActor": "Summering av poängen på samtliga frågor. En cut-off på 14 poäng eller över, resulterade i 97% sensitivitet och en specificitet på:\n\n- 46% för ADHD-gruppen,\n\n- 64% för den sammanslagna gruppen med psykiatriska patienter som inte hade en känd autismspektrumstörning eller ADHD,\n\n- 95% för gruppen av vuxna icke-psykiatriska kontroller.\n\nMedianpoäng i olika populationer:\n- 32 poäng hos 135 vuxna med normal begåvning och diagnosticerade med autismspektrumstörning.\n\n- 15 poäng hos 344 vuxna med normal begåvning och diagnosticerade med ADHD.\n\n- 11 poäng i en sammanslagen grupp med andra psykiatriska diagnoser.\n\n- 3 poäng bland vuxna icke-psykiatriska kontroller.",
+      "descriptionSubjectOfCare": "",
+      "approvedForSubjectOfCare": false,
+      "type": "inera:form-engine:drools-java:1",
+      "license": "Används med tillåtelse av Susanne Bejerot:\nRAADS-14 Screen är en förkortad version av Ritvo Autism and Asperger Diagnostic Scale-Revised (RAADS-R).\nReferens: Eriksson JM, Andersen MJ, Bejerot S. RAADS-14 Screen: validity of a screening tool for Autism\nSpectrum Disorder in an adult psychiatric population. Molecular Autism 2013; 4:49.",
+      "formula": "when\n q: Questions()\nthen\noutcome.set(\n                3-(q.get('q1')-1)+\n                3-(q.get('q2')-1)+\n                3-(q.get('q3')-1)+\n                3-(q.get('q4')-1)+\n                3-(q.get('q5')-1)+\n                (q.get('q6')-1)+\n                3-(q.get('q7')-1)+\n                3-(q.get('q8')-1)+\n                3-(q.get('q9')-1)+\n                3-(q.get('q10')-1)+\n                3-(q.get('q11')-1)+\n                3-(q.get('q12')-1)+\n                3-(q.get('q13')-1)+\n                3-(q.get('q14')-1)     \n                );\nend"
+    },
+    {
+      "calculationId": "mentalisering",
+      "subject": "mentalisering",
+      "descriptionCareActor": "Subskala för mentaliseringssvårigheter. Maxpoäng 21.",
+      "descriptionSubjectOfCare": "",
+      "approvedForSubjectOfCare": false,
+      "type": "inera:form-engine:drools-java:1",
+      "license": null,
+      "formula": "when\n q: Questions()\nthen\noutcome.set(\n                3-(q.get('q1')-1)+\n                3-(q.get('q4')-1)+\n                3-(q.get('q9')-1)+\n                3-(q.get('q11')-1)+\n                3-(q.get('q12')-1)+\n                3-(q.get('q13')-1)+\n                3-(q.get('q14')-1)     \n                );\nend"
+    },
+    {
+      "calculationId": "socialangest",
+      "subject": "socialangest",
+      "descriptionCareActor": "Subskala för social ångest. Maxpoäng 12.",
+      "descriptionSubjectOfCare": "",
+      "approvedForSubjectOfCare": false,
+      "type": "inera:form-engine:drools-java:1",
+      "license": "",
+      "formula": "when\n q: Questions()\nthen\noutcome.set(\n                3-(q.get('q3')-1)+\n                3-(q.get('q5')-1)+\n                3-(q.get('q6')-1)+\n                3-(q.get('q8')-1)     \n                );\nend"
+    },
+    {
+      "calculationId": "sensoriskreaktivitet",
+      "subject": "sensoriskreaktivitet",
+      "descriptionCareActor": "Subskala för sensorisk reaktivitet. Maxpoäng 9.",
+      "descriptionSubjectOfCare": "",
+      "approvedForSubjectOfCare": false,
+      "type": "inera:form-engine:drools-java:1",
+      "license": null,
+      "formula": "when\n q: Questions()\nthen\noutcome.set(\n                3-(q.get('q2')-1)+\n                3-(q.get('q7')-1)+\n                3-(q.get('q10')-1)    \n                );\nend"
+    }
+  ]
 }

@@ -1,0 +1,22 @@
+{
+  "anonymous": false,
+  "category": "",
+  "description": null,
+  "descriptionInternal": "Kontaktperson: Mikael Granlund, SU, mikael.granlund@vgregion.se",
+  "completeText": null,
+  "title": null,
+  "name": "FORM name",
+  "language": {
+    "code": "swe",
+    "codeSystem": "1.0.639.2"
+  },
+  "term": null,
+  "media": null,
+  "code": null,
+  "pages": [],
+  "minNumberOfQuestions": 0,
+  "maxNumberOfQuestions": 0,
+  "minNumberOfPages": 1,
+  "maxNumberOfPages": 1,
+  "calculationFormulas": []
+}
