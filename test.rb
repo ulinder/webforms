@@ -7,7 +7,7 @@ class AqTest < Test::Unit::TestCase
   def setup
     
     # 1. POINT TO TESTFILE
-    @testname = "testpaket"
+    @testname = "halsokontroll-affektiva"
 
     # GENERAL SETTINGS
     @test_instructions = YAML.load(File.open(__dir__ + "/output/testfiles/#{@testname}_testfile.yaml", "r"))
@@ -27,7 +27,7 @@ class AqTest < Test::Unit::TestCase
     
     @driver.find_element(:xpath => first_button).click
     # sida 2 
-    # @wait.until {@driver.find_element(:xpath => second_button) }
+    @wait.until {@driver.find_element(:xpath => second_button) }
     sleep 4 
     @driver.action.send_keys([:tab, :space]).perform
     

@@ -5,6 +5,7 @@ var path = require('path');
 var FormExtractor = require('./lib/form_extractor.js');
 var wf = require('./lib/write_file.js');
 var form; 
+var this_form;
 
 var F = {
   base: JSON.parse( fs.readFileSync( path.join(WEBFORMS_ROOT, 'partials', 'base' + '.json'), 'utf8' ) ),
@@ -14,9 +15,10 @@ var F = {
   answerAlternative: JSON.parse( fs.readFileSync( path.join(WEBFORMS_ROOT, 'partials', 'answer_alternative' + '.json'), 'utf8' ) )
 }
 
-var this_form;
 
-NAMES = ["anamnes-affektiva", "audit-c", "dudit-ed", "whodas-36"];      // Namn på testet, utan ändelse tex AQ, inte AQ.json
+NAMES = ["anamnes-affektiva-v2", "audit-c", "dudit-ed", "whodas-36"];    // Affektiva
+// NAMES = ["anamnes-bipolar", "audit-c", "dudit", "wurs", "asrs", "raads-14", "as-18", "scid-ii"]; // Bipolar
+// NAMES = ["phq-9","gad-7","audit","dudit"]; // AoB
 
 F.base.name = "Paket: " + NAMES.join(", ");
 
@@ -32,6 +34,7 @@ for(var i = 0; i < NAMES.length; i++){
 
     // ALIGN CALCULATIONS
     this_form.body.calculationFormulas.map( (ruleblock)=>{
+      ruleblock.subject = NAMES[i] +": "+ ruleblock.subject
       ruleblock.formula = ruleblock.formula
       .split("\"").join("'")
       .split("\“").join("'")
@@ -40,8 +43,9 @@ for(var i = 0; i < NAMES.length; i++){
       F.base.calculationFormulas.push(ruleblock);
     }); // MAP 
 
-
     // Align page number with whole array
+
+    this_form.body.pages[0].page.subject = this_form.body.name;
     this_form.body.pages.map( page => F.base.pages.push(page) ); 
     
 } // END NAMES LOOP

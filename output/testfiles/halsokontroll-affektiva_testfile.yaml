@@ -1,0 +1,209 @@
+url: ""
+beskrivning: ""
+frågor:
+  - type: page
+    id: 1
+  - type: question
+    id: halsokontroll-affektiva-q1
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q2
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q3
+    testValue: 1
+  - type: page
+    id: 2
+  - type: question
+    id: halsokontroll-affektiva-q4
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q5
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q6
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q7
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q8
+    testValue: 1
+  - type: page
+    id: 3
+  - type: question
+    id: halsokontroll-affektiva-q9
+    testValue: 1
+  - type: page
+    id: 4
+  - type: question
+    id: halsokontroll-affektiva-q10
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q11
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q12
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q13
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q14
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q15
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q16
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q17
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q18
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q19
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q20
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q21
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q22
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q23
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q24
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q25
+    testValue: 1
+  - type: page
+    id: 5
+  - type: question
+    id: halsokontroll-affektiva-q26
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q27
+    testValue: 1
+  - type: page
+    id: 6
+  - type: question
+    id: halsokontroll-affektiva-q28
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q29
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q30
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q31
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q32
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q33
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q34
+    testValue: 1
+  - type: page
+    id: 7
+  - type: question
+    id: halsokontroll-affektiva-q35
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q36
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q37
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q38
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q39
+    testValue: 1
+  - type: page
+    id: 8
+  - type: question
+    id: halsokontroll-affektiva-q40
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q41
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q42
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q43
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q44
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q45
+    testValue: 1
+  - type: page
+    id: 9
+  - type: question
+    id: halsokontroll-affektiva-q46
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q47
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q48
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q49
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q50
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q51
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q52
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q53
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q54
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q55
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q56
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q57
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q58
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q59
+    testValue: 1
+  - type: page
+    id: 10
+  - type: question
+    id: halsokontroll-affektiva-q60
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q61
+    testValue: 1
+  - type: question
+    id: halsokontroll-affektiva-q62
+    testValue: 1
