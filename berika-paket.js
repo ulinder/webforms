@@ -14,3 +14,4 @@ fe = new FormExtractor(form, NAME, rules);
 
 wf( NAME+".json", JSON.stringify(fe.body) );
 wf(`testfiles/${NAME}_testfile.yaml`, YAML.stringify({url: "", beskrivning:"", frågor: fe.test } ));
+wf(`menues/${NAME}_menu.yaml`, YAML.stringify( fe.menu ));

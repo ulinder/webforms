@@ -11,11 +11,7 @@
     "codeSystem": "1.0.639.2"
   },
   "term": "Genom att skicka in detta formulär godkänner jag att mina uppgifter lagras och används av min vårdgivare.",
-  "media": {
-    "mediaURL": "https://qa.formular.1177.se/media/fba3a8db-11e9-4edd-be3e-d6f7bd780480.png",
-    "mediaType": "image/png",
-    "mediaAlt": null
-  },
+  "media": null,
   "code": null,
   "pages": [
     {
@@ -35,7 +31,7 @@
             "gridConfig": null,
             "questions": [
               {
-                "questionId": "anamnes-affektiva-q1",
+                "questionId": "halsokontroll-affektiva-q1",
                 "subject": "Hur mycket rör du dig och anstränger dig kroppsligt på fritiden?",
                 "description": "Om din aktivitet varierar mycket mellan t ex sommar och vinter, så försök att ta ett genomsnitt. Frågan gäller det senaste året.",
                 "questionNumber": 1,
@@ -88,7 +84,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q2",
+                "questionId": "halsokontroll-affektiva-q2",
                 "subject": "Hur många minuter ägnar du en vanlig vecka åt fysisk aktivitet/träning, som får dig att bli andfådd, till exempel löpning, motionsgympa eller bollsport?",
                 "description": "Räkna samman all tid (minst 10 minuter åt gången).",
                 "questionNumber": 2,
@@ -155,7 +151,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q3",
+                "questionId": "halsokontroll-affektiva-q3",
                 "subject": "Hur många minuter ägnar du en vanlig vecka åt vardagsmotion till exempel promenader, cykling eller trädgårdsarbete?",
                 "description": "Räkna samman all tid (minst 10 minuter åt gången).",
                 "questionNumber": 3,
@@ -258,7 +254,7 @@
             "gridConfig": null,
             "questions": [
               {
-                "questionId": "anamnes-affektiva-q4",
+                "questionId": "halsokontroll-affektiva-q4",
                 "subject": " Hur ofta äter du grönsaker och/eller rotfrukter?",
                 "description": "(färska, frysta eller tillagade)",
                 "questionNumber": 1,
@@ -311,7 +307,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q5",
+                "questionId": "halsokontroll-affektiva-q5",
                 "subject": "Hur ofta äter du frukt och/eller bär",
                 "description": "(färska, frysta, konserverade, juice etc.)?",
                 "questionNumber": 2,
@@ -364,7 +360,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q6",
+                "questionId": "halsokontroll-affektiva-q6",
                 "subject": " Hur ofta äter du fisk eller skaldjur som huvudrätt i sallad eller som pålägg?",
                 "description": "",
                 "questionNumber": 3,
@@ -417,7 +413,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q7",
+                "questionId": "halsokontroll-affektiva-q7",
                 "subject": "Hur ofta äter du kaffebröd, choklad/godis, chips läsk/saft?",
                 "description": "",
                 "questionNumber": 4,
@@ -470,7 +466,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q8",
+                "questionId": "halsokontroll-affektiva-q8",
                 "subject": "Hur ofta äter du frukost?",
                 "description": "",
                 "questionNumber": 5,
@@ -545,7 +541,7 @@
             "gridConfig": null,
             "questions": [
               {
-                "questionId": "anamnes-affektiva-q9",
+                "questionId": "halsokontroll-affektiva-q9",
                 "subject": "Hur ofta känner du dig pigg och utvilad när du vaknat efter en natts sömn?",
                 "description": "",
                 "questionNumber": 1,
@@ -616,7 +612,7 @@
             },
             "questions": [
               {
-                "questionId": "anamnes-affektiva-q10",
+                "questionId": "halsokontroll-affektiva-q10",
                 "subject": "Ett tryck mitt över bröstet, ofta vid ansträngning?",
                 "description": "",
                 "questionNumber": 1,
@@ -648,15 +644,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -665,7 +654,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q11",
+                "questionId": "halsokontroll-affektiva-q11",
                 "subject": "Andfåddhet som kommer i samband med ansträngning? ",
                 "description": "",
                 "questionNumber": 2,
@@ -697,15 +686,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -714,7 +696,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q12",
+                "questionId": "halsokontroll-affektiva-q12",
                 "subject": "En känsla av att det är trångt i bröstet?",
                 "description": "",
                 "questionNumber": 3,
@@ -746,15 +728,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -763,7 +738,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q13",
+                "questionId": "halsokontroll-affektiva-q13",
                 "subject": "Smärta i bröstet som ibland strålar ut i en arm, mot halsen, ryggen eller underkäke?",
                 "description": "",
                 "questionNumber": 4,
@@ -795,15 +770,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -812,7 +780,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q14",
+                "questionId": "halsokontroll-affektiva-q14",
                 "subject": "Att en sådan känsla kan komma när du anstränger dig fysiskt eller vid starka känsloyttringar eller upprördhet?",
                 "description": "",
                 "questionNumber": 5,
@@ -844,15 +812,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -861,7 +822,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q15",
+                "questionId": "halsokontroll-affektiva-q15",
                 "subject": "Att du vaknat nattetid av ovanstående känslor?",
                 "description": "",
                 "questionNumber": 6,
@@ -893,15 +854,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -910,7 +864,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q16",
+                "questionId": "halsokontroll-affektiva-q16",
                 "subject": "Att du upplevt sådana känslor i kall väderlek, blåst och/eller stress?",
                 "description": "",
                 "questionNumber": 7,
@@ -942,15 +896,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -959,7 +906,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q17",
+                "questionId": "halsokontroll-affektiva-q17",
                 "subject": "Oregelbunden och snabb puls emellanåt?",
                 "description": "",
                 "questionNumber": 8,
@@ -991,15 +938,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -1008,7 +948,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q18",
+                "questionId": "halsokontroll-affektiva-q18",
                 "subject": "Känner du igen ett eller flera av dessa symptom: Försämrad fysisk ork, yrsel, svårt att andas, trötthet och svaghet, ont i bröstet, svimning?",
                 "description": "",
                 "questionNumber": 9,
@@ -1040,15 +980,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -1057,7 +990,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q19",
+                "questionId": "halsokontroll-affektiva-q19",
                 "subject": "Trötthet och mindre ork?",
                 "description": "",
                 "questionNumber": 10,
@@ -1089,15 +1022,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -1106,7 +1032,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q20",
+                "questionId": "halsokontroll-affektiva-q20",
                 "subject": "Lätt blir andfådd?",
                 "description": "",
                 "questionNumber": 11,
@@ -1138,15 +1064,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -1155,7 +1074,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q21",
+                "questionId": "halsokontroll-affektiva-q21",
                 "subject": "Att du har svullna anklar och ben?",
                 "description": "",
                 "questionNumber": 12,
@@ -1187,15 +1106,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -1204,7 +1116,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q22",
+                "questionId": "halsokontroll-affektiva-q22",
                 "subject": "Har hjärtklappning?",
                 "description": "",
                 "questionNumber": 13,
@@ -1236,15 +1148,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -1253,7 +1158,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q23",
+                "questionId": "halsokontroll-affektiva-q23",
                 "subject": "Har svårt att sova plant?",
                 "description": "",
                 "questionNumber": 14,
@@ -1285,15 +1190,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -1302,7 +1200,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q24",
+                "questionId": "halsokontroll-affektiva-q24",
                 "subject": "Ofta behöver du gå upp och kissa på natten?",
                 "description": "",
                 "questionNumber": 15,
@@ -1334,15 +1232,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -1351,7 +1242,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q25",
+                "questionId": "halsokontroll-affektiva-q25",
                 "subject": "Fråga till dig som är en 65 årig man: Har aortascreening gjorts? (svara nej om du inte är man över 65))",
                 "description": "",
                 "questionNumber": 16,
@@ -1383,15 +1274,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -1422,7 +1306,7 @@
             "gridConfig": null,
             "questions": [
               {
-                "questionId": "anamnes-affektiva-q26",
+                "questionId": "halsokontroll-affektiva-q26",
                 "subject": "Stress i hemmet",
                 "description": "",
                 "questionNumber": 1,
@@ -1489,7 +1373,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q27",
+                "questionId": "halsokontroll-affektiva-q27",
                 "subject": "Stress på jobbet",
                 "description": "",
                 "questionNumber": 2,
@@ -1581,7 +1465,7 @@
             },
             "questions": [
               {
-                "questionId": "anamnes-affektiva-q33",
+                "questionId": "halsokontroll-affektiva-q28",
                 "subject": "Du blir andfådd när du anstränger dig?",
                 "description": "",
                 "questionNumber": 1,
@@ -1613,15 +1497,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -1630,7 +1507,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q34",
+                "questionId": "halsokontroll-affektiva-q29",
                 "subject": "Känner du dig hindrad i rörelser i vardagen (t.ex. bära kassar/gå upp för backar)?",
                 "description": "",
                 "questionNumber": 2,
@@ -1662,15 +1539,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -1679,7 +1549,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q35",
+                "questionId": "halsokontroll-affektiva-q30",
                 "subject": "Du känner du dig trött och orkar mindre?",
                 "description": "",
                 "questionNumber": 3,
@@ -1711,15 +1581,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -1728,7 +1591,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q36",
+                "questionId": "halsokontroll-affektiva-q31",
                 "subject": "Du behöver allt oftare hosta upp slem?",
                 "description": "",
                 "questionNumber": 4,
@@ -1760,15 +1623,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -1777,7 +1633,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q37",
+                "questionId": "halsokontroll-affektiva-q32",
                 "subject": "Du har väsande, rosslande eller pipande andning – särskilt vid ansträngning?",
                 "description": "",
                 "questionNumber": 5,
@@ -1809,15 +1665,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -1826,7 +1675,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q38",
+                "questionId": "halsokontroll-affektiva-q33",
                 "subject": "Du får ofta infektioner i luftvägarna? ",
                 "description": "",
                 "questionNumber": 6,
@@ -1858,15 +1707,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -1875,7 +1717,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q39",
+                "questionId": "halsokontroll-affektiva-q34",
                 "subject": "Du går ner i vikt och får svullna fötter?",
                 "description": "",
                 "questionNumber": 7,
@@ -1907,15 +1749,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -1949,7 +1784,7 @@
             },
             "questions": [
               {
-                "questionId": "anamnes-affektiva-q28",
+                "questionId": "halsokontroll-affektiva-q35",
                 "subject": "Har du träffat någon tandläkare eller tandhygienist de senaste två åren?",
                 "description": "",
                 "questionNumber": 1,
@@ -1981,15 +1816,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -1998,7 +1826,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q29",
+                "questionId": "halsokontroll-affektiva-q36",
                 "subject": "Har du besvär från munnen? - T.ex. värk, svullnad, trasiga tänder eller fyllningar, lösa tänder, illasittande proteser, muntorrhet, sår eller blåsor?",
                 "description": "",
                 "questionNumber": 2,
@@ -2030,15 +1858,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -2047,7 +1868,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q30",
+                "questionId": "halsokontroll-affektiva-q37",
                 "subject": "Har du dålig andedräkt eller dålig smak i munnen?",
                 "description": "",
                 "questionNumber": 3,
@@ -2079,15 +1900,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -2096,7 +1910,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q31",
+                "questionId": "halsokontroll-affektiva-q38",
                 "subject": "Är det något du undviker att äta för att det är besvärligt att tugga eller svälja?",
                 "description": "",
                 "questionNumber": 4,
@@ -2128,15 +1942,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -2145,7 +1952,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q32",
+                "questionId": "halsokontroll-affektiva-q39",
                 "subject": "Påverkas din mathållning av exempelvis muntorrhet, illasittande proteser, tandförluster eller smärta i munnen?",
                 "description": "",
                 "questionNumber": 5,
@@ -2177,15 +1984,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -2216,17 +2016,13 @@
             "gridConfig": null,
             "questions": [
               {
-                "questionId": "anamnes-affektiva-q40",
+                "questionId": "halsokontroll-affektiva-q40",
                 "subject": "Hur många standardglas dricker du en vanlig vecka?",
                 "description": "",
                 "questionNumber": 1,
                 "code": null,
                 "informationURL": null,
-                "media": {
-                  "mediaURL": "https://qa.formular.1177.se/media/9bf99546-7209-432e-85a7-e7529cb488ff.png",
-                  "mediaType": "image/png",
-                  "mediaAlt": null
-                },
+                "media": null,
                 "input": "radio",
                 "inputUnit": null,
                 "gridValue": null,
@@ -2287,7 +2083,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q41",
+                "questionId": "halsokontroll-affektiva-q41",
                 "subject": " Hur ofta under en vanlig månad dricker du som är:",
                 "description": "* **Man** 5 standardglas eller mer\n* **Kvinna** 4 standardglas eller mer, vid ett och samma tillfälle (t.ex. under en kväll)?",
                 "questionNumber": 2,
@@ -2364,7 +2160,7 @@
             "gridConfig": null,
             "questions": [
               {
-                "questionId": "anamnes-affektiva-q42",
+                "questionId": "halsokontroll-affektiva-q42",
                 "subject": "Mina rökvanor",
                 "description": "",
                 "questionNumber": 1,
@@ -2424,7 +2220,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q43",
+                "questionId": "halsokontroll-affektiva-q43",
                 "subject": "Hur många cigaretter röker du per dag?",
                 "description": "",
                 "questionNumber": 2,
@@ -2490,7 +2286,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q44",
+                "questionId": "halsokontroll-affektiva-q44",
                 "subject": "Mina snusvanor",
                 "description": "",
                 "questionNumber": 3,
@@ -2550,7 +2346,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q45",
+                "questionId": "halsokontroll-affektiva-q45",
                 "subject": "Hur många dosor snusar du per vecka?",
                 "description": "",
                 "questionNumber": 4,
@@ -2626,7 +2422,7 @@
             },
             "questions": [
               {
-                "questionId": "anamnes-affektiva-q46",
+                "questionId": "halsokontroll-affektiva-q46",
                 "subject": "Har du en nytillkommen trötthet, som du inte känner igen sedan tidigare? ",
                 "description": "",
                 "questionNumber": 1,
@@ -2658,15 +2454,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -2675,7 +2464,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q47",
+                "questionId": "halsokontroll-affektiva-q47",
                 "subject": "Har du fått nytillkommen smärta eller värk?",
                 "description": "",
                 "questionNumber": 2,
@@ -2707,15 +2496,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -2724,7 +2506,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q48",
+                "questionId": "halsokontroll-affektiva-q48",
                 "subject": "Har du fått en större viktnedgång ofrivilligt?",
                 "description": "",
                 "questionNumber": 3,
@@ -2756,15 +2538,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -2773,7 +2548,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q49",
+                "questionId": "halsokontroll-affektiva-q49",
                 "subject": "Har du känt någon knöl någonstans på kroppen?",
                 "description": "",
                 "questionNumber": 4,
@@ -2805,15 +2580,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -2822,7 +2590,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q50",
+                "questionId": "halsokontroll-affektiva-q50",
                 "subject": "Har du ett födelsemärke som blivit större, ändrat färg eller blött? ",
                 "description": "",
                 "questionNumber": 5,
@@ -2854,15 +2622,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -2871,7 +2632,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q51",
+                "questionId": "halsokontroll-affektiva-q51",
                 "subject": "Gör det ont/känns konstigt/går trögt när du äter?",
                 "description": "",
                 "questionNumber": 6,
@@ -2903,15 +2664,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -2920,7 +2674,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q52",
+                "questionId": "halsokontroll-affektiva-q52",
                 "subject": "Har du blivit hes/fått hosta i mer än 3 veckor?",
                 "description": "",
                 "questionNumber": 7,
@@ -2952,15 +2706,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -2969,7 +2716,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q53",
+                "questionId": "halsokontroll-affektiva-q53",
                 "subject": "Har du sett blod i din urin?",
                 "description": "",
                 "questionNumber": 8,
@@ -3001,15 +2748,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -3018,7 +2758,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q54",
+                "questionId": "halsokontroll-affektiva-q54",
                 "subject": "Har du sett blod, rött eller svart i din avföring?",
                 "description": "",
                 "questionNumber": 9,
@@ -3050,15 +2790,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -3067,7 +2800,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q55",
+                "questionId": "halsokontroll-affektiva-q55",
                 "subject": "Har du fått förändrade avföringsvanor som diarré, förstoppning eller att din tarmtömning ändrat sig på något sätt?",
                 "description": "",
                 "questionNumber": 10,
@@ -3099,15 +2832,8 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
-                    "number": 2,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Ja",
-                    "number": 3,
+                    "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -3126,7 +2852,7 @@
             "gridConfig": null,
             "questions": [
               {
-                "questionId": "anamnes-affektiva-q56",
+                "questionId": "halsokontroll-affektiva-q56",
                 "subject": "Är du kvinna?",
                 "description": "",
                 "questionNumber": 1,
@@ -3165,7 +2891,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q57",
+                "questionId": "halsokontroll-affektiva-q57",
                 "subject": "Har du känt någon knöl/förhårdnad i bröstet?",
                 "description": "",
                 "questionNumber": 2,
@@ -3209,7 +2935,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q58",
+                "questionId": "halsokontroll-affektiva-q58",
                 "subject": "Har du varit på mammografi?",
                 "description": "",
                 "questionNumber": 3,
@@ -3253,7 +2979,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q59",
+                "questionId": "halsokontroll-affektiva-q59",
                 "subject": "Har du varit och tagit gynekologiskt cellprov?",
                 "description": "",
                 "questionNumber": 4,
@@ -3319,7 +3045,7 @@
             "gridConfig": null,
             "questions": [
               {
-                "questionId": "anamnes-affektiva-q60",
+                "questionId": "halsokontroll-affektiva-q60",
                 "subject": "Ser du något samband mellan dina levnadsvanor (tobak, alkohol, fysisk aktivitet/motion, kost, sömn, stress) och hur du mår?",
                 "description": "",
                 "questionNumber": 1,
@@ -3362,7 +3088,7 @@
                     "media": null
                   },
                   {
-                    "value": "Vet inte",
+                    "value": "Ja",
                     "number": 4,
                     "helpText": null,
                     "code": null,
@@ -3382,7 +3108,7 @@
             "gridConfig": null,
             "questions": [
               {
-                "questionId": "anamnes-affektiva-q61",
+                "questionId": "halsokontroll-affektiva-q61",
                 "subject": "Markera på skalan nedan för att markera hur viktigt för dig det är att förändra någon levnadsvana.",
                 "description": "1 = inte alls viktigt\n\n10 = mycket viktigt",
                 "questionNumber": 1,
@@ -3406,7 +3132,7 @@
                 "validationEvents": []
               },
               {
-                "questionId": "anamnes-affektiva-q62",
+                "questionId": "halsokontroll-affektiva-q62",
                 "subject": "Markera på skalan nedan för att markera vilken förmåga du upplever du att du har att förändra dina levnadsvanor.",
                 "description": "1 = ingen förmåga\n\n10 = god förmåga",
                 "questionNumber": 2,
@@ -3442,144 +3168,144 @@
   "maxNumberOfPages": 10,
   "calculationFormulas": [
     {
-      "calculationId": "fys1",
-      "subject": "Fysisk aktivitet",
-      "descriptionCareActor": "Låg fysisk aktivitet",
-      "descriptionSubjectOfCare": "Utifrån hur du har svarat, märker vi att det är av vikt att ytterligare uppmärksamma ditt förhållande till fysisk aktivitet. På 1177 kan du läsa mer om betydelsen av fysisk aktivitet för hälsan samt ta del av en del praktiska tips på hur du skulle kunna förändra din vardag och dina vanor: \n\n\n https://www.1177.se/Vastra-Gotaland/liv--halsa/traning-och-fysisk-halsa/",
-      "approvedForSubjectOfCare": true,
-      "type": "inera:form-engine:drools-java:1",
-      "license": null,
-      "formula": "when\n q: Questions()\nthen\nif(q.get('anamnes-affektiva-q1',0) == 1 || q.get('anamnes-affektiva-q2',0) < 4 || q.get('anamnes-affektiva-q3',0) < 7),{outcome.set(1.0);}\nend"
-    },
-    {
-      "calculationId": "kost1",
-      "subject": "Kost",
-      "descriptionCareActor": "Avviktande resultat kost",
-      "descriptionSubjectOfCare": "Utifrån hur du har svarat, märker vi att det är av vikt att ytterligare uppmärksamma dina kostvanor. På 1177 kan du läsa mer om hur din fysiska hälsa påverkas av dina kostvanor, samt en del praktiska tips på hur du skulle kunna förändra dina matvanor: \n\n\nhttps://www.1177.se/Vastra-Gotaland/liv--halsa/ata-for-att-ma-bra/",
-      "approvedForSubjectOfCare": true,
-      "type": "inera:form-engine:drools-java:1",
-      "license": null,
-      "formula": "when\n q: Questions()\nthen\nDouble q1=q.get('anamnes-affektiva-q4',0);,Double q2=q.get('anamnes-affektiva-q5',0);,Double q3=q.get('anamnes-affektiva-q6',0);,Double q4=(5-q.get('anamnes-affektiva-q7',0));,Double sum = q1+q2+q3+q4;,if(sum>11),{outcome.set(sum);}\nend"
-    },
-    {
-      "calculationId": "sleep1",
-      "subject": "Sömn",
-      "descriptionCareActor": "Avvikande resultat Sömn",
-      "descriptionSubjectOfCare": "Utifrån hur du har svarat, märker vi att det är av vikt att ytterligare uppmärksamma dina sömnvanor. På 1177 kan du läsa mer om hur din fysiska hälsa påverkas av sömnen, samt några råd om hur du skulle kunna få bättre sömnvanor:\n\n\nhttps://www.1177.se/Vastra-Gotaland/liv--halsa/stresshantering-och-somn/somnsvarigheter/",
-      "approvedForSubjectOfCare": true,
-      "type": "inera:form-engine:drools-java:1",
-      "license": null,
-      "formula": "when\n q: Questions()\nthen\nDouble q1=q.get('anamnes-affektiva-q9',0);,if(q1<3),{outcome.set(q1);}\nend"
-    },
-    {
-      "calculationId": "hjarta:karlkramp",
-      "subject": "Hjärt-/kärlsjukdom: Kärlkramp",
-      "descriptionCareActor": "Tecken på avvikande hjärt-/kärl-status framkommer vid enkätsvar. Patienten får information om detta för att söka vidare hjälp. Följs upp vid nästkommande besök på mottagningen.",
-      "descriptionSubjectOfCare": "Utifrån dina svar på formuläret kan det finnas anledning att undersöka din hälsa närmre, och vi rekommenderar dig att följa länken nedan för att läsa mer. Om du känner igen dig i den beskrivning som ges ber vi dig kontakta din vårdcentral för ytterligare undersökning.\n\n\nhttps://www.1177.se/Vastra-Gotaland/Fakta-och-rad/Sjukdomar/Karlkramp/",
-      "approvedForSubjectOfCare": true,
-      "type": "inera:form-engine:drools-java:1",
-      "license": null,
-      "formula": "when\n q: Questions()\nthen\nDouble q1=(q.get('anamnes-affektiva-q10',1) == 3 ? 1.0 : 0);,Double q2=(q.get('anamnes-affektiva-q11',1) == 3 ? 1.0 : 0);,Double q3=(q.get('anamnes-affektiva-q12',1) == 3 ? 1.0 : 0);,Double q4=(q.get('anamnes-affektiva-q13',1) == 3 ? 1.0 : 0);,Double q5=(q.get('anamnes-affektiva-q14',1) == 3 ? 1.0 : 0);,Double q6=(q.get('anamnes-affektiva-q15',1) == 3 ? 1.0 : 0);,Double q7=(q.get('anamnes-affektiva-q16',1) == 3 ? 1.0 : 0);,Double sum = q1+q2+q3+q4+q5+q6+q7;,if(sum > 1),{outcome.set(sum);}\nend"
-    },
-    {
-      "calculationId": "hjarta:flimmer",
-      "subject": "Hjärt-/kärlsjukdom: Flimmer",
-      "descriptionCareActor": "Tecken på avvikande hjärt-/kärl-status framkommer vid enkätsvar. Patienten får information om detta för att söka vidare hjälp. Följs upp vid nästkommande besök på mottagningen.",
-      "descriptionSubjectOfCare": "Utifrån dina svar på formuläret kan det finnas anledning att undersöka din hälsa närmre, och vi rekommenderar dig att följa länken nedan för att läsa mer. Om du känner igen dig i den beskrivning som ges ber vi dig kontakta din vårdcentral för ytterligare undersökning.\n\n\nhttps://www.1177.se/Vastra-Gotaland/Fakta-och-rad/Sjukdomar/Formaksflimmer-attackvis/",
-      "approvedForSubjectOfCare": true,
-      "type": "inera:form-engine:drools-java:1",
-      "license": null,
-      "formula": "when\n q: Questions()\nthen\nDouble q1=(q.get('anamnes-affektiva-q17',1) == 3 ? 1.0 : 0);,Double q2=(q.get('anamnes-affektiva-q18',1) == 3 ? 1.0 : 0);,Double sum = q1+q2;,if(sum > 0),{outcome.set(sum);}\nend"
-    },
-    {
-      "calculationId": "hjarta:hjartsvikt",
-      "subject": "Hjärt-/kärlsjukdom: Hjärtsvikt",
-      "descriptionCareActor": "Tecken på avvikande hjärt-/kärl-status framkommer vid enkätsvar. Patienten får information om detta för att söka vidare hjälp. Följs upp vid nästkommande besök på mottagningen.",
-      "descriptionSubjectOfCare": "Utifrån dina svar på formuläret kan det finnas anledning att undersöka din hälsa närmre, och vi rekommenderar dig att följa länken nedan för att läsa mer. Om du känner igen dig i den beskrivning som ges ber vi dig kontakta din vårdcentral för ytterligare undersökning.\n\n\nhttps://www.1177.se/Vastra-Gotaland/Fakta-och-rad/Sjukdomar/Hjartsvikt/",
-      "approvedForSubjectOfCare": true,
-      "type": "inera:form-engine:drools-java:1",
-      "license": null,
-      "formula": "when\n q: Questions()\nthen\nDouble q1=(q.get('anamnes-affektiva-q19',1) == 3 ? 1.0 : 0);,Double q2=(q.get('anamnes-affektiva-q20',1) == 3 ? 1.0 : 0);,Double q3=(q.get('anamnes-affektiva-q21',1) == 3 ? 1.0 : 0);,Double q4=(q.get('anamnes-affektiva-q22',1) == 3 ? 1.0 : 0);,Double q5=(q.get('anamnes-affektiva-q23',1) == 3 ? 1.0 : 0);,Double q6=(q.get('anamnes-affektiva-q24',1) == 3 ? 1.0 : 0);,Double q7=(q.get('anamnes-affektiva-q25',1) == 3 ? 1.0 : 0);,Double sum = q1+q2+q3+q4+q5+q6+q7;,if(sum > 1),{outcome.set(sum);}\nend"
-    },
-    {
-      "calculationId": "andning:kol",
-      "subject": "Andningsvägar: KOL",
-      "descriptionCareActor": "Tecken på avvikande luftvägs-status framkommer vid enkätsvar. Patienten får information om detta för att söka vidare hjälp. Följs upp vid nästkommande besök på mottagningen.” ",
-      "descriptionSubjectOfCare": "Utifrån dina svar på formuläret kan det finnas anledning att undersöka din hälsa närmre, och vi rekommenderar dig att följa länken nedan för att läsa mer. Om du känner igen dig i den beskrivning som ges ber vi dig kontakta din vårdcentral för ytterligare undersökning.\n\n\nhttps://www.1177.se/vastra-gotaland/sjukdomar--besvar/lungor-och-luftvagar/andningssvarigheter-och-andningsuppehall/kol--kroniskt-obstruktiv-lungsjukdom/",
-      "approvedForSubjectOfCare": true,
-      "type": "inera:form-engine:drools-java:1",
-      "license": null,
-      "formula": "when\n q: Questions()\nthen\nDouble q1=(q.get('anamnes-affektiva-q33',1) == 3 ? 1.0 : 0);,Double q2=(q.get('anamnes-affektiva-q34',1) == 3 ? 1.0 : 0);,Double q3=(q.get('anamnes-affektiva-q35',1) == 3 ? 1.0 : 0);,Double q4=(q.get('anamnes-affektiva-q36',1) == 3 ? 1.0 : 0);,Double q5=(q.get('anamnes-affektiva-q37',1) == 3 ? 1.0 : 0);,Double q6=(q.get('anamnes-affektiva-q38',1) == 3 ? 1.0 : 0);,Double q7=(q.get('anamnes-affektiva-q39',1) == 3 ? 1.0 : 0);,Double sum = q1+q2+q4+q5+q6+q7; //fråga 3 är exkluderad,if(sum > 0),{outcome.set(sum);}\nend"
-    },
-    {
-      "calculationId": "tandvard",
-      "subject": "Tandvård",
-      "descriptionCareActor": "Vid positivt utfall: Patienten uppmuntras att boka tid till tandläkare.",
-      "descriptionSubjectOfCare": "Vi rekommenderar dig att snarast möjligt boka en tid för ditt årliga kontrollbesök hos tandläkare. ",
-      "approvedForSubjectOfCare": true,
-      "type": "inera:form-engine:drools-java:1",
-      "license": null,
-      "formula": "when\n q: Questions()\nthen\nDouble q1=(q.get('anamnes-affektiva-q33',1) == 3 ? 1.0 : 0);,Double q2=(q.get('anamnes-affektiva-q34',1) == 3 ? 1.0 : 0);,Double q3=(q.get('anamnes-affektiva-q35',1) == 3 ? 1.0 : 0);,Double q4=(q.get('anamnes-affektiva-q36',1) == 3 ? 1.0 : 0);,if(q1 == 0 || (q2+q3+q4) > 0 ),{outcome.set(1.0);}\nend"
-    },
-    {
-      "calculationId": "cancer",
-      "subject": "Cancer",
-      "descriptionCareActor": "Ett eller flera oförklarade symptom framkommer i enkätsvaren. Patienten hänvisas i enkäten till vårdcentralen för vidare utredning. Följs upp vid nästkommande besök på mottagningen.",
-      "descriptionSubjectOfCare": "Utifrån dina svar på formuläret kan det finnas anledning att undersöka din hälsa närmre, och vi rekommenderar dig att höra av dig till din vårdcentral för ytterligare undersökning.\n\n\nhttps://www.1177.se/Vastra-Gotaland/Fakta-och-rad/Sjukdomar/Karlkramp/",
-      "approvedForSubjectOfCare": true,
-      "type": "inera:form-engine:drools-java:1",
-      "license": null,
-      "formula": "when\n q: Questions()\nthen\nDouble q1=(q.get('anamnes-affektiva-q46',1) == 3 ? 1.0 : 0);,Double q2=(q.get('anamnes-affektiva-q47',1) == 3 ? 1.0 : 0);,Double q3=(q.get('anamnes-affektiva-q48',1) == 3 ? 1.0 : 0);,Double q4=(q.get('anamnes-affektiva-q49',1) == 3 ? 1.0 : 0);,Double q5=(q.get('anamnes-affektiva-q50',1) == 3 ? 1.0 : 0);,Double q6=(q.get('anamnes-affektiva-q51',1) == 3 ? 1.0 : 0);,Double q7=(q.get('anamnes-affektiva-q52',1) == 3 ? 1.0 : 0);,Double q8=(q.get('anamnes-affektiva-q53',1) == 3 ? 1.0 : 0);,Double q9=(q.get('anamnes-affektiva-q54',1) == 3 ? 1.0 : 0);,Double q10=(q.get('anamnes-affektiva-q55',1) == 3 ? 1.0 : 0);,Double sum = q1+q2+q3+q4+q5+q6+q7+q8+q9+q10;,if(sum > 0),{outcome.set(sum);}\nend"
-    },
-    {
-      "calculationId": "cancer-woman",
-      "subject": "Cancer:kvinnor",
-      "descriptionCareActor": "Vid positivt utfall: Patienten uppmuntras att boka tid till gynekolog.",
-      "descriptionSubjectOfCare": "Vi rekommenderar dig att snarast möjligt boka en tid hos en gynekolog för undersökning. ",
-      "approvedForSubjectOfCare": true,
-      "type": "inera:form-engine:drools-java:1",
-      "license": null,
-      "formula": "when\n q: Questions()\nthen\nDouble q1=(q.get('anamnes-affektiva-q57',1) == 2 ? 1.0 : 0);,Double q2=(q.get('anamnes-affektiva-q58',2) == 1 ? 1.0 : 0);,Double q3=(q.get('anamnes-affektiva-q59',2) == 1 ? 1.0 : 0);,if((q1+q2+q3) > 0),{outcome.set(sum);}\nend"
-    },
-    {
-      "calculationId": "stress1",
-      "subject": "Stress",
-      "descriptionCareActor": "Avvikande resultat Stress",
-      "descriptionSubjectOfCare": "Utifrån hur du har svarat, märker vi att det är av vikt att ytterligare uppmärksamma hur och när du blir stressad. På 1177 kan du läsa mer hur stress påverkar den fysiska hälsan och få en del praktiska tips på hur du skulle kunna förändra din vardag och dina vanor för att försöka minska stressen.\n\n\nhttps://www.1177.se/Vastra-Gotaland/liv--halsa/stresshantering-och-somn/stress/",
-      "approvedForSubjectOfCare": true,
-      "type": "inera:form-engine:drools-java:1",
-      "license": null,
-      "formula": "when\n q: Questions()\nthen\nDouble q1=q.get('anamnes-affektiva-q26',1);,Double q2=q.get('anamnes-affektiva-q27',1);,if(q1>4 || q2 > 4 ),{outcome.set(q1+q2);}\nend"
-    },
-    {
-      "calculationId": "alkohol1",
-      "subject": "Alkohol",
-      "descriptionCareActor": "Avvikande resultat Alkohol",
-      "descriptionSubjectOfCare": "Utifrån hur du har svarat, märker vi att det är av vikt att ytterligare uppmärksamma dina alkoholvanor. På 1177 kan du läsa mer om hur din fysiska hälsa påverkas av dina alkoholvanor och några råd om hur du skulle kunna minska din alkoholkonsumtion – samt vart du kan vända sig för att få ytterligare hjälp om du önskar ta tag i detta.\n\n\nhttps://www.1177.se/Vastra-Gotaland/liv--halsa/tobak-och-alkohol/sa-kan-du-andra-dina-alkoholvanor/\n\n\nhttps://www.1177.se/Vastra-Gotaland/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/beroende-och-skadligt-bruk/alkoholberoende/",
-      "approvedForSubjectOfCare": true,
-      "type": "inera:form-engine:drools-java:1",
-      "license": null,
-      "formula": "when\n q: Questions()\nthen\nDouble q1=q.get('anamnes-affektiva-q41',1);,Double q2=q.get('anamnes-affektiva-q42',1);,if(q1>4 || q2 > 3 ),{outcome.set(q1+q2);}\nend"
-    },
-    {
       "calculationId": "tobak1",
       "subject": "Tobak",
-      "descriptionCareActor": "Avvikande resultat tobak",
+      "descriptionCareActor": "Vid tecken på förhöjt bruk av tobak (Fråga 1 >3 poäng, Fråga 2 >3 poäng), får patienten information via länk till 1177. Följs upp vid nästkommande besök på mottagningen.",
       "descriptionSubjectOfCare": "Utifrån hur du har svarat, märker vi att det är av vikt att ytterligare uppmärksamma dina tobaksvanor. På 1177 kan du läsa mer om hur din fysiska hälsa påverkas av tobaksbruk, samt några råd om hur du skulle kunna minska din tobakskonsumtion – samt vart du skulle kunna vända sig för att få ytterligare hjälp om du önskar ta tag i detta:\n\n\nhttps://www.1177.se/Vastra-Gotaland/liv--halsa/tobak-och-alkohol/\n\n\nhttps://www.1177.se/Vastra-Gotaland/liv--halsa/tobak-och-alkohol/rokning-och-snusning/",
       "approvedForSubjectOfCare": true,
       "type": "inera:form-engine:drools-java:1",
       "license": null,
-      "formula": "when\n q: Questions()\nthen\nDouble q1=q.get('anamnes-affektiva-q42',1);,Double q2=q.get('anamnes-affektiva-q44',1);,if(q1>3 || q2>3),{outcome.set(q1+q2);}\nend"
+      "formula": "when\n q: Questions()\nthen\nDouble q1=q.get('anamnes-affektiva-q42',1);\nDouble q2=q.get('anamnes-affektiva-q44',1);\nif(q1>3 || q2>3)\n{outcome.set(q1+q2);}\nend"
     },
     {
       "calculationId": "motivation1",
       "subject": "Motivation",
-      "descriptionCareActor": "Pat visar motivation till att förändra sin livsstil, min 0, max 10",
+      "descriptionCareActor": "Om patienten svarar högre än medel på motivation att ändra vanor hänvisas denne till Hälsocoach online.",
       "descriptionSubjectOfCare": "Utifrån dina ovanstående svar kan vi rekommendera tjänsten Hälsocoach online. Observera att detta är en tjänst som erbjuds alla invånare i Västra Götalandsregionen och är inte direkt kopplad till den vård som du får inom vuxenpsykiatrin på Sahlgrenska.\n\n Hälsocoach online är en individanpassad tjänst som erbjuder motiverande videomöten i mobilen eller surfplattan för att förbättra levnadsvanor. Tjänsten innefattar coachning och rådgivning gällande fysisk aktivitet, mat, tobak och alkohol.\n\n Du kan läsa mer om hälsocoach online på 1177:\n\nhttps://www.1177.se/Vastra-Gotaland/sa-fungerar-varden/att-valja-vardmottagning/besok-halsocoach-online/",
       "approvedForSubjectOfCare": true,
       "type": "inera:form-engine:drools-java:1",
       "license": null,
-      "formula": "when\n q: Questions()\nthen\nDouble m1=q.get('anamnes-affektiva-q61',0);,if( m1 > 5),{outcome.set(m1);}\nend"
+      "formula": "when\n q: Questions()\nthen\nDouble m1=q.get('anamnes-affektiva-q61',0);\nif( m1 > 5)\n{outcome.set(m1);}\nend"
+    },
+    {
+      "calculationId": "fys1",
+      "subject": "Fysisk aktivitet",
+      "descriptionCareActor": "Vid tecken på låg fysisk aktivitet (Fråga 1 = 1 poäng, Fråga 2 < 4  poäng eller fråga 3 < 7 poäng), får patienten information via länk till 1177. Följs upp vid nästkommande besök på mottagningen.",
+      "descriptionSubjectOfCare": "Utifrån hur du har svarat, märker vi att det är av vikt att ytterligare uppmärksamma ditt förhållande till fysisk aktivitet. På 1177 kan du läsa mer om betydelsen av fysisk aktivitet för hälsan samt ta del av en del praktiska tips på hur du skulle kunna förändra din vardag och dina vanor: \n\n\n https://www.1177.se/Vastra-Gotaland/liv--halsa/traning-och-fysisk-halsa/",
+      "approvedForSubjectOfCare": true,
+      "type": "inera:form-engine:drools-java:1",
+      "license": null,
+      "formula": "when\n q: Questions()\nthen\nif(q.get('anamnes-affektiva-q1',0) == 1 || q.get('anamnes-affektiva-q2',0) < 4 || q.get('anamnes-affektiva-q3',0) < 7)\n{outcome.set(1.0);}\nend"
+    },
+    {
+      "calculationId": "kost1",
+      "subject": "Kost",
+      "descriptionCareActor": "Vid tecken på ohälsosamma kostvanor (totalpoäng > 11), får patienten information via länk till 1177. Följs upp vid nästkommande besök på mottagningen.",
+      "descriptionSubjectOfCare": "Utifrån hur du har svarat, märker vi att det är av vikt att ytterligare uppmärksamma dina kostvanor. På 1177 kan du läsa mer om hur din fysiska hälsa påverkas av dina kostvanor, samt en del praktiska tips på hur du skulle kunna förändra dina matvanor: \n\n\nhttps://www.1177.se/Vastra-Gotaland/liv--halsa/ata-for-att-ma-bra/",
+      "approvedForSubjectOfCare": true,
+      "type": "inera:form-engine:drools-java:1",
+      "license": null,
+      "formula": "when\n q: Questions()\nthen\nDouble q1=q.get('anamnes-affektiva-q4',0);\nDouble q2=q.get('anamnes-affektiva-q5',0);\nDouble q3=q.get('anamnes-affektiva-q6',0);\nDouble q4=(5-q.get('anamnes-affektiva-q7',0));\nDouble sum = q1+q2+q3+q4;\nif(sum>11)\n{outcome.set(sum);}\nend"
+    },
+    {
+      "calculationId": "sleep1",
+      "subject": "Sömn",
+      "descriptionCareActor": "Vid tecken på bristfällig sömn (angett mer än 3 poäng på fråga om sömn), får patienten information via länk till 1177. Följs upp vid nästkommande besök på mottagningen.",
+      "descriptionSubjectOfCare": "Utifrån hur du har svarat, märker vi att det är av vikt att ytterligare uppmärksamma dina sömnvanor. På 1177 kan du läsa mer om hur din fysiska hälsa påverkas av sömnen, samt några råd om hur du skulle kunna få bättre sömnvanor:\n\n\nhttps://www.1177.se/Vastra-Gotaland/liv--halsa/stresshantering-och-somn/somnsvarigheter/",
+      "approvedForSubjectOfCare": true,
+      "type": "inera:form-engine:drools-java:1",
+      "license": null,
+      "formula": "when\n q: Questions()\nthen\nDouble q1=q.get('anamnes-affektiva-q9',0);\nif(q1<3)\n{outcome.set(q1);}\nend"
+    },
+    {
+      "calculationId": "hjarta:karlkramp",
+      "subject": "Hjärt-/kärlsjukdom: Kärlkramp",
+      "descriptionCareActor": "Vid tecken på avvikande hjärt-/kärl-status (fler än ett symptom angivet), får patienten information om detta för att söka vidare hjälp. Följs upp vid nästkommande besök på mottagningen.",
+      "descriptionSubjectOfCare": "Utifrån dina svar på formuläret kan det finnas anledning att undersöka din hälsa närmre, och vi rekommenderar dig att följa länken nedan för att läsa mer. Om du känner igen dig i den beskrivning som ges ber vi dig kontakta din vårdcentral för ytterligare undersökning.\n\n\nhttps://www.1177.se/Vastra-Gotaland/Fakta-och-rad/Sjukdomar/Karlkramp/",
+      "approvedForSubjectOfCare": true,
+      "type": "inera:form-engine:drools-java:1",
+      "license": null,
+      "formula": "when\n q: Questions()\nthen\nDouble q1=(q.get('anamnes-affektiva-q10',1) == 3 ? 1.0 : 0);\nDouble q2=(q.get('anamnes-affektiva-q11',1) == 3 ? 1.0 : 0);\nDouble q3=(q.get('anamnes-affektiva-q12',1) == 3 ? 1.0 : 0);\nDouble q4=(q.get('anamnes-affektiva-q13',1) == 3 ? 1.0 : 0);\nDouble q5=(q.get('anamnes-affektiva-q14',1) == 3 ? 1.0 : 0);\nDouble q6=(q.get('anamnes-affektiva-q15',1) == 3 ? 1.0 : 0);\nDouble q7=(q.get('anamnes-affektiva-q16',1) == 3 ? 1.0 : 0);\nDouble sum = q1+q2+q3+q4+q5+q6+q7;\nif(sum > 1)\n{outcome.set(sum);}\nend"
+    },
+    {
+      "calculationId": "hjarta:flimmer",
+      "subject": "Hjärt-/kärlsjukdom: Flimmer",
+      "descriptionCareActor": "Vid tecken på avvikande flimmer-status (ett eller fler symptom angivet), får information om detta för att söka vidare hjälp. Följs upp vid nästkommande besök på mottagningen.",
+      "descriptionSubjectOfCare": "Utifrån dina svar på formuläret kan det finnas anledning att undersöka din hälsa närmre, och vi rekommenderar dig att följa länken nedan för att läsa mer. Om du känner igen dig i den beskrivning som ges ber vi dig kontakta din vårdcentral för ytterligare undersökning.\n\n\nhttps://www.1177.se/Vastra-Gotaland/Fakta-och-rad/Sjukdomar/Formaksflimmer-attackvis/",
+      "approvedForSubjectOfCare": true,
+      "type": "inera:form-engine:drools-java:1",
+      "license": null,
+      "formula": "when\n q: Questions()\nthen\nDouble q1=(q.get('anamnes-affektiva-q17',1) == 3 ? 1.0 : 0);\nDouble q2=(q.get('anamnes-affektiva-q18',1) == 3 ? 1.0 : 0);\nDouble sum = q1+q2;\nif(sum > 0)\n{outcome.set(sum);}\nend"
+    },
+    {
+      "calculationId": "hjarta:hjartsvikt",
+      "subject": "Hjärt-/kärlsjukdom: Hjärtsvikt",
+      "descriptionCareActor": "Vid tecken på avvikande hjärtsvikt-status (fler än ett symptom angivet), får pat information om detta för att söka vidare hjälp. Följs upp vid nästkommande besök på mottagningen.",
+      "descriptionSubjectOfCare": "Utifrån dina svar på formuläret kan det finnas anledning att undersöka din hälsa närmre, och vi rekommenderar dig att följa länken nedan för att läsa mer. Om du känner igen dig i den beskrivning som ges ber vi dig kontakta din vårdcentral för ytterligare undersökning.\n\n\nhttps://www.1177.se/Vastra-Gotaland/Fakta-och-rad/Sjukdomar/Hjartsvikt/",
+      "approvedForSubjectOfCare": true,
+      "type": "inera:form-engine:drools-java:1",
+      "license": null,
+      "formula": "when\n q: Questions()\nthen\nDouble q1=(q.get('anamnes-affektiva-q19',1) == 3 ? 1.0 : 0);\nDouble q2=(q.get('anamnes-affektiva-q20',1) == 3 ? 1.0 : 0);\nDouble q3=(q.get('anamnes-affektiva-q21',1) == 3 ? 1.0 : 0);\nDouble q4=(q.get('anamnes-affektiva-q22',1) == 3 ? 1.0 : 0);\nDouble q5=(q.get('anamnes-affektiva-q23',1) == 3 ? 1.0 : 0);\nDouble q6=(q.get('anamnes-affektiva-q24',1) == 3 ? 1.0 : 0);\nDouble q7=(q.get('anamnes-affektiva-q25',1) == 3 ? 1.0 : 0);\nDouble sum = q1+q2+q3+q4+q5+q6+q7;\nif(sum > 1)\n{outcome.set(sum);}\nend"
+    },
+    {
+      "calculationId": "andning:kol",
+      "subject": "Andningsvägar: KOL",
+      "descriptionCareActor": "Vid tecken på KOL (ett eller fler symptom angivet), får pat information om detta för att söka vidare hjälp. Följs upp vid nästkommande besök på mottagningen.",
+      "descriptionSubjectOfCare": "Utifrån dina svar på formuläret kan det finnas anledning att undersöka din hälsa närmre, och vi rekommenderar dig att följa länken nedan för att läsa mer. Om du känner igen dig i den beskrivning som ges ber vi dig kontakta din vårdcentral för ytterligare undersökning.\n\n\nhttps://www.1177.se/vastra-gotaland/sjukdomar--besvar/lungor-och-luftvagar/andningssvarigheter-och-andningsuppehall/kol--kroniskt-obstruktiv-lungsjukdom/",
+      "approvedForSubjectOfCare": true,
+      "type": "inera:form-engine:drools-java:1",
+      "license": null,
+      "formula": "when\n q: Questions()\nthen\nDouble q1=(q.get('anamnes-affektiva-q33',1) == 3 ? 1.0 : 0);\nDouble q2=(q.get('anamnes-affektiva-q34',1) == 3 ? 1.0 : 0);\nDouble q3=(q.get('anamnes-affektiva-q35',1) == 3 ? 1.0 : 0);\nDouble q4=(q.get('anamnes-affektiva-q36',1) == 3 ? 1.0 : 0);\nDouble q5=(q.get('anamnes-affektiva-q37',1) == 3 ? 1.0 : 0);\nDouble q6=(q.get('anamnes-affektiva-q38',1) == 3 ? 1.0 : 0);\nDouble q7=(q.get('anamnes-affektiva-q39',1) == 3 ? 1.0 : 0);\nDouble sum = q1+q2+q4+q5+q6+q7; //fråga 3 är exkluderad\nif(sum > 0)\n{outcome.set(sum);}\nend"
+    },
+    {
+      "calculationId": "tandvard",
+      "subject": "Tandvård",
+      "descriptionCareActor": "Vid tecken på bristande tandhälsa (nekande till fråga 1 eller bejakande av någon annan fråga) uppmuntras patienten att boka tid till tandläkare. Följs upp vid nästkommande besök på mottagningen.",
+      "descriptionSubjectOfCare": "Vi rekommenderar dig att snarast möjligt boka en tid för ditt årliga kontrollbesök hos tandläkare. ",
+      "approvedForSubjectOfCare": true,
+      "type": "inera:form-engine:drools-java:1",
+      "license": null,
+      "formula": "when\n q: Questions()\nthen\nDouble q1=(q.get('anamnes-affektiva-q33',1) == 3 ? 1.0 : 0);\nDouble q2=(q.get('anamnes-affektiva-q34',1) == 3 ? 1.0 : 0);\nDouble q3=(q.get('anamnes-affektiva-q35',1) == 3 ? 1.0 : 0);\nDouble q4=(q.get('anamnes-affektiva-q36',1) == 3 ? 1.0 : 0);\nif(q1 == 0 || (q2+q3+q4) > 0 )\n{outcome.set(1.0);}\nend"
+    },
+    {
+      "calculationId": "cancer",
+      "subject": "Cancer",
+      "descriptionCareActor": "Vid tecken på cancerliknande symptom (ett eller fler symptom angivet), får patienten uppmaning om att söka vidare hjälp. Följs upp vid nästkommande besök på mottagningen.",
+      "descriptionSubjectOfCare": "Utifrån dina svar på formuläret så framkommer symtom som skulle kunna vara tecken på cancer. Vi rekommenderar att du bokar en tid för undersökning hos din vårdcentral.",
+      "approvedForSubjectOfCare": true,
+      "type": "inera:form-engine:drools-java:1",
+      "license": null,
+      "formula": "when\n q: Questions()\nthen\nDouble q1=(q.get('anamnes-affektiva-q46',1) == 3 ? 1.0 : 0);\nDouble q2=(q.get('anamnes-affektiva-q47',1) == 3 ? 1.0 : 0);\nDouble q3=(q.get('anamnes-affektiva-q48',1) == 3 ? 1.0 : 0);\nDouble q4=(q.get('anamnes-affektiva-q49',1) == 3 ? 1.0 : 0);\nDouble q5=(q.get('anamnes-affektiva-q50',1) == 3 ? 1.0 : 0);\nDouble q6=(q.get('anamnes-affektiva-q51',1) == 3 ? 1.0 : 0);\nDouble q7=(q.get('anamnes-affektiva-q52',1) == 3 ? 1.0 : 0);\nDouble q8=(q.get('anamnes-affektiva-q53',1) == 3 ? 1.0 : 0);\nDouble q9=(q.get('anamnes-affektiva-q54',1) == 3 ? 1.0 : 0);\nDouble q10=(q.get('anamnes-affektiva-q55',1) == 3 ? 1.0 : 0);\nDouble sum = q1+q2+q3+q4+q5+q6+q7+q8+q9+q10;\nif(sum > 0)\n{outcome.set(sum);}\nend"
+    },
+    {
+      "calculationId": "cancer-woman",
+      "subject": "Cancer:kvinnor",
+      "descriptionCareActor": "Vid positivt utfall (ett svar eller fler): uppmuntras patienten att boka tid till gynekolog.",
+      "descriptionSubjectOfCare": "Utifrån dina svar på formuläret så framkommer symtom som skulle kunna vara tecken på cancer. Vi rekommenderar dig att snarast möjligt boka en tid hos en gynekolog för undersökning. ",
+      "approvedForSubjectOfCare": true,
+      "type": "inera:form-engine:drools-java:1",
+      "license": null,
+      "formula": "when\n q: Questions()\nthen\nDouble q1=(q.get('anamnes-affektiva-q57',1) == 2 ? 1.0 : 0);\nDouble q2=(q.get('anamnes-affektiva-q58',2) == 1 ? 1.0 : 0);\nDouble q3=(q.get('anamnes-affektiva-q59',2) == 1 ? 1.0 : 0);\nif((q1+q2+q3) > 0)\n{outcome.set(sum);}\nend"
+    },
+    {
+      "calculationId": "stress1",
+      "subject": "Stress",
+      "descriptionCareActor": "Vid tecken på förhöjda stressnivåer (över 4 poäng på fråga 1 och 2) får patienten information via länk till 1177. Följs upp vid nästkommande besök på mottagningen.",
+      "descriptionSubjectOfCare": "Utifrån hur du har svarat, märker vi att det är av vikt att ytterligare uppmärksamma hur och när du blir stressad. På 1177 kan du läsa mer hur stress påverkar den fysiska hälsan och få en del praktiska tips på hur du skulle kunna förändra din vardag och dina vanor för att försöka minska stressen.\n\n\nhttps://www.1177.se/Vastra-Gotaland/liv--halsa/stresshantering-och-somn/stress/",
+      "approvedForSubjectOfCare": true,
+      "type": "inera:form-engine:drools-java:1",
+      "license": null,
+      "formula": "when\n q: Questions()\nthen\nDouble q1=q.get('anamnes-affektiva-q26',1);\nDouble q2=q.get('anamnes-affektiva-q27',1);\nif(q1>4 || q2 > 4 )\n{outcome.set(q1+q2);}\nend"
+    },
+    {
+      "calculationId": "alkohol1",
+      "subject": "Alkohol",
+      "descriptionCareActor": "Vid tecken på förhöjt bruk av alkohol (Fråga 1 >4 poäng, Fråga 2 >3 poäng), får patienten information via länk till 1177. Följs upp vid nästkommande besök på mottagningen.",
+      "descriptionSubjectOfCare": "Utifrån hur du har svarat, märker vi att det är av vikt att ytterligare uppmärksamma dina alkoholvanor. På 1177 kan du läsa mer om hur din fysiska hälsa påverkas av dina alkoholvanor och några råd om hur du skulle kunna minska din alkoholkonsumtion – samt vart du kan vända sig för att få ytterligare hjälp om du önskar ta tag i detta.\n\n\nhttps://www.1177.se/Vastra-Gotaland/liv--halsa/tobak-och-alkohol/sa-kan-du-andra-dina-alkoholvanor/\n\n\nhttps://www.1177.se/Vastra-Gotaland/sjukdomar--besvar/psykiska-sjukdomar-och-besvar/beroende-och-skadligt-bruk/alkoholberoende/",
+      "approvedForSubjectOfCare": true,
+      "type": "inera:form-engine:drools-java:1",
+      "license": null,
+      "formula": "when\n q: Questions()\nthen\nDouble q1=q.get('anamnes-affektiva-q41',1);\nDouble q2=q.get('anamnes-affektiva-q42',1);\nif(q1>4 || q2 > 3 )\n{outcome.set(q1+q2);}\nend"
     }
   ]
 }

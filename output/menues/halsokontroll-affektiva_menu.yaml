@@ -1,0 +1,352 @@
+- 1
+- Fysisk aktivitet
+- __________________________________________________________________
+- halsokontroll-affektiva-q1
+- Hur mycket rör du dig och anstränger dig kroppsligt på fritiden?
+- - "värde: 1, text: Grupp 1 - Stillasittande fritid - (Du ägnar dig mestadels
+    åt läsning, TV, datorer, bio eller annan stillasittande sysselsättning på
+    fritiden)"
+  - "värde: 2, text: Grupp 2 - Måttlig motion på fritiden -  (Du promenerar,
+    cyklar eller rör dig på annat sätt under minst 4 timmar i veckan. I detta
+    inräknas också gång eller cykling till och från arbetet samt
+    söndags-promenader, trädgårdsarbete, fiske, bordtennis, bowling etc)"
+  - "värde: 3, text: Grupp 3  - Regelbunden motion och träning - (Du ägnar dig
+    åt t ex löpning, simning, tennis, badminton, motionsgymnastik eller
+    liknande. Tyngre trädgårdsarbete och liknande räknas till denna grupp.
+    Observera att det ska vara i genomsnitt minst 2-3 timmar i veckan"
+  - "värde: 4, text: Grupp 4 - Hård träning eller tävlingsidrott - (Du ägnar dig
+    åt hård träning och tävling i löpning, orientering, skidåkning, simning,
+    fotboll, handboll etc regelbundet eller flera gånger i veckan)"
+- halsokontroll-affektiva-q2
+- Hur många minuter ägnar du en vanlig vecka åt fysisk aktivitet/träning, som
+  får dig att bli andfådd, till exempel löpning, motionsgympa eller bollsport?
+- - "värde: 1, text: 0-10 minuter"
+  - "värde: 2, text: 11-30 minuter"
+  - "värde: 3, text: 31-60 minuter (0,5-1 timme)"
+  - "värde: 4, text: 61-90 minuter (1 -1,5 timme)"
+  - "värde: 5, text: mer än 90 minut (1,5-2 timmar)"
+  - "värde: 6, text: mer än 120 minuter (2 timmar eller mer)"
+- halsokontroll-affektiva-q3
+- Hur många minuter ägnar du en vanlig vecka åt vardagsmotion till exempel
+  promenader, cykling eller trädgårdsarbete?
+- - "värde: 1, text: 0-10 minuter"
+  - "värde: 2, text: 11-30 minuter"
+  - "värde: 3, text: 31-60 minuter (0,5-1 timme)"
+  - "värde: 4, text: 61-90 minuter (1 -1,5 timme)"
+  - "värde: 5, text:  91-120 minuter (1,5-2 timmar)"
+  - "värde: 6, text: 121-150 minuter (2-2,5 timmar)"
+  - "värde: 7, text: mer än 151-300 minuter (2,5-5 timmar)"
+  - "värde: 8, text: Mer än 300 minuter (5 timmar och mer)"
+- 2
+- Kostvanor
+- __________________________________________________________________
+- halsokontroll-affektiva-q4
+- " Hur ofta äter du grönsaker och/eller rotfrukter?"
+- - "värde: 1, text: Två gånger per dag eller oftare"
+  - "värde: 2, text: En gång per dag"
+  - "värde: 3, text: Några gånger i veckan"
+  - "värde: 4, text: En gång i veckan eller mer sällan"
+- halsokontroll-affektiva-q5
+- Hur ofta äter du frukt och/eller bär
+- - "värde: 1, text: Två gånger per dag eller oftare"
+  - "värde: 2, text: En gång per dag"
+  - "värde: 3, text: Några gånger i veckan"
+  - "värde: 4, text: En gång i veckan eller mer sällan"
+- halsokontroll-affektiva-q6
+- " Hur ofta äter du fisk eller skaldjur som huvudrätt i sallad eller som
+  pålägg?"
+- - "värde: 1, text: Två gånger per dag eller oftare"
+  - "värde: 2, text: En gång per dag"
+  - "värde: 3, text: Några gånger i veckan"
+  - "värde: 4, text: En gång i veckan eller mer sällan"
+- halsokontroll-affektiva-q7
+- Hur ofta äter du kaffebröd, choklad/godis, chips läsk/saft?
+- - "värde: 1, text: Två gånger per dag eller oftare"
+  - "värde: 2, text: En gång per dag"
+  - "värde: 3, text: Några gånger i veckan"
+  - "värde: 4, text: En gång i veckan eller mer sällan"
+- halsokontroll-affektiva-q8
+- Hur ofta äter du frukost?
+- - "värde: 1, text: Dagligen"
+  - "värde: 2, text: Nästan varje dag"
+  - "värde: 3, text: Några gånger i veckan"
+  - "värde: 4, text: En gång i veckan eller mer sällan"
+- 3
+- Sömn
+- __________________________________________________________________
+- halsokontroll-affektiva-q9
+- Hur ofta känner du dig pigg och utvilad när du vaknat efter en natts sömn?
+- - "värde: 1, text: Mindre än en gång i veckan"
+  - "värde: 2, text: 1-3 gånger i veckan"
+  - "värde: 3, text: Mer än tre gånger per vecka."
+- 4
+- Hjärt-/Kärlsjukdom
+- __________________________________________________________________
+- halsokontroll-affektiva-q10
+- Ett tryck mitt över bröstet, ofta vid ansträngning?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q11
+- "Andfåddhet som kommer i samband med ansträngning? "
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q12
+- En känsla av att det är trångt i bröstet?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q13
+- Smärta i bröstet som ibland strålar ut i en arm, mot halsen, ryggen eller
+  underkäke?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q14
+- Att en sådan känsla kan komma när du anstränger dig fysiskt eller vid starka
+  känsloyttringar eller upprördhet?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q15
+- Att du vaknat nattetid av ovanstående känslor?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q16
+- Att du upplevt sådana känslor i kall väderlek, blåst och/eller stress?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q17
+- Oregelbunden och snabb puls emellanåt?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q18
+- "Känner du igen ett eller flera av dessa symptom: Försämrad fysisk ork, yrsel,
+  svårt att andas, trötthet och svaghet, ont i bröstet, svimning?"
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q19
+- Trötthet och mindre ork?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q20
+- Lätt blir andfådd?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q21
+- Att du har svullna anklar och ben?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q22
+- Har hjärtklappning?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q23
+- Har svårt att sova plant?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q24
+- Ofta behöver du gå upp och kissa på natten?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q25
+- "Fråga till dig som är en 65 årig man: Har aortascreening gjorts? (svara nej
+  om du inte är man över 65))"
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- 5
+- Stress
+- __________________________________________________________________
+- halsokontroll-affektiva-q26
+- Stress i hemmet
+- - "värde: 1, text: Har aldrig upplevt stress"
+  - "värde: 2, text: Har upplevt någon stressperiod"
+  - "värde: 3, text: Någon stressperiod senaste 5 åren"
+  - "värde: 4, text: Flera stressperioder senaste 5 åren"
+  - "värde: 5, text: Ständig stress senaste året"
+  - "värde: 6, text: Ständig stress de senaste 5 åren"
+- halsokontroll-affektiva-q27
+- Stress på jobbet
+- - "värde: 1, text: Har aldrig upplevt stress"
+  - "värde: 2, text: Har upplevt någon stressperiod"
+  - "värde: 3, text: Någon stressperiod senaste 5 åren"
+  - "värde: 4, text: Flera stressperioder senaste 5 åren"
+  - "värde: 5, text: Ständig stress senaste året"
+  - "värde: 6, text: Ständig stress de senaste 5 åren"
+- 6
+- Andningsvägar (KOL)
+- __________________________________________________________________
+- halsokontroll-affektiva-q28
+- Du blir andfådd när du anstränger dig?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q29
+- Känner du dig hindrad i rörelser i vardagen (t.ex. bära kassar/gå upp för
+  backar)?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q30
+- Du känner du dig trött och orkar mindre?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q31
+- Du behöver allt oftare hosta upp slem?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q32
+- Du har väsande, rosslande eller pipande andning – särskilt vid ansträngning?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q33
+- "Du får ofta infektioner i luftvägarna? "
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q34
+- Du går ner i vikt och får svullna fötter?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- 7
+- Tandvård
+- __________________________________________________________________
+- halsokontroll-affektiva-q35
+- Har du träffat någon tandläkare eller tandhygienist de senaste två åren?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q36
+- Har du besvär från munnen? - T.ex. värk, svullnad, trasiga tänder eller
+  fyllningar, lösa tänder, illasittande proteser, muntorrhet, sår eller blåsor?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q37
+- Har du dålig andedräkt eller dålig smak i munnen?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q38
+- Är det något du undviker att äta för att det är besvärligt att tugga eller
+  svälja?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q39
+- Påverkas din mathållning av exempelvis muntorrhet, illasittande proteser,
+  tandförluster eller smärta i munnen?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- 8
+- Alkohol och tobak
+- __________________________________________________________________
+- halsokontroll-affektiva-q40
+- Hur många standardglas dricker du en vanlig vecka?
+- - "värde: 1, text: dricker inte alkohol"
+  - "värde: 2, text: mindre än ett standardglas/vecka"
+  - "värde: 3, text: 1-4 standardglas/vecka"
+  - "värde: 4, text: 5-9 standardglas/vecka"
+  - "värde: 5, text: 10-14 standardglas/vecka"
+  - "värde: 6, text: mer än 15 standardglas/vecka"
+- halsokontroll-affektiva-q41
+- " Hur ofta under en vanlig månad dricker du som är:"
+- - "värde: 1, text: aldrig"
+  - "värde: 2, text: mer sällan än 1 gång/månad"
+  - "värde: 3, text: 1 gång/månad"
+  - "värde: 4, text: 2-3 gånger/månad"
+  - "värde: 5, text: Varje vecka"
+  - "värde: 6, text: Dagligen eller nästan dagligen"
+- halsokontroll-affektiva-q42
+- Mina rökvanor
+- - "värde: 1, text: Jag har aldrig varit rökare"
+  - "värde: 2, text: Jag har slutat röka för mer än 6 månader sedan"
+  - "värde: 3, text: Jag har slutat röka för mindre än 6 månader sedan"
+  - "värde: 4, text: Jag röker, men inte dagligen"
+  - "värde: 5, text: Jag röker dagligen"
+- halsokontroll-affektiva-q43
+- Hur många cigaretter röker du per dag?
+- - "värde: 1, text: 1 - 4 cigaretter/dag "
+  - "värde: 2, text: 5 - 9 cigaretter/dag"
+  - "värde: 3, text: 10 - 14 cigaretter/dag"
+  - "värde: 4, text: 15 - 19 cigaretter/dag"
+  - "värde: 5, text: 20 eller fler cigaretter/dag"
+- halsokontroll-affektiva-q44
+- Mina snusvanor
+- - "värde: 1, text: Jag har aldrig varit snusare"
+  - "värde: 2, text: Jag har slutat snusa för mer än 6 månader sedan"
+  - "värde: 3, text: Jag har slutat snusa för mindre än 6 månader sedan"
+  - "värde: 4, text: Jag snusa, men inte dagligen"
+  - "värde: 5, text: Jag snusar dagligen "
+- halsokontroll-affektiva-q45
+- Hur många dosor snusar du per vecka?
+- - "värde: 1, text: 1 - 3 dosor/vecka"
+  - "värde: 2, text: 4 - 6 dosor/vecka"
+  - "värde: 3, text: 7 eller fler dosor/vecka"
+- 9
+- Riskfaktorer för Cancer
+- __________________________________________________________________
+- halsokontroll-affektiva-q46
+- "Har du en nytillkommen trötthet, som du inte känner igen sedan tidigare? "
+- - "värde: 1, text: Nej "
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q47
+- Har du fått nytillkommen smärta eller värk?
+- - "värde: 1, text: Nej "
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q48
+- Har du fått en större viktnedgång ofrivilligt?
+- - "värde: 1, text: Nej "
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q49
+- Har du känt någon knöl någonstans på kroppen?
+- - "värde: 1, text: Nej "
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q50
+- "Har du ett födelsemärke som blivit större, ändrat färg eller blött? "
+- - "värde: 1, text: Nej "
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q51
+- Gör det ont/känns konstigt/går trögt när du äter?
+- - "värde: 1, text: Nej "
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q52
+- Har du blivit hes/fått hosta i mer än 3 veckor?
+- - "värde: 1, text: Nej "
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q53
+- Har du sett blod i din urin?
+- - "värde: 1, text: Nej "
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q54
+- Har du sett blod, rött eller svart i din avföring?
+- - "värde: 1, text: Nej "
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q55
+- Har du fått förändrade avföringsvanor som diarré, förstoppning eller att din
+  tarmtömning ändrat sig på något sätt?
+- - "värde: 1, text: Nej "
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q56
+- Är du kvinna?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q57
+- Har du känt någon knöl/förhårdnad i bröstet?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q58
+- Har du varit på mammografi?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- halsokontroll-affektiva-q59
+- Har du varit och tagit gynekologiskt cellprov?
+- - "värde: 1, text: Nej"
+  - "värde: 2, text: Ja"
+- 10
+- Avslutande frågor
+- __________________________________________________________________
+- halsokontroll-affektiva-q60
+- Ser du något samband mellan dina levnadsvanor (tobak, alkohol, fysisk
+  aktivitet/motion, kost, sömn, stress) och hur du mår?
+- - "värde: 1, text: Nej, inte alls"
+  - "värde: 2, text: Ja, eventuellt"
+  - "värde: 3, text: Ja, mycket troligt"
+  - "värde: 4, text: Ja"
+- halsokontroll-affektiva-q61
+- Markera på skalan nedan för att markera hur viktigt för dig det är att
+  förändra någon levnadsvana.
+- []
+- halsokontroll-affektiva-q62
+- Markera på skalan nedan för att markera vilken förmåga du upplever du att du
+  har att förändra dina levnadsvanor.
+- []
