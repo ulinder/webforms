@@ -1,0 +1,2069 @@
+                                                           M.I.N.I.
+
+                           MINI INTERNATIONELL NEUROPSYKIATRISK INTERVJU
+
+
+                                                   Swedish Translation Version 7.0.0
+
+
+                                                                 ENLIGT
+
+                                                                 DSM-5
+
+
+Logik: man kan bara gå framåt. 
+
+
+
+
+© Upphovsrätt 1992–2015 Sheehan DV
+
+
+
+Alla rättigheter förbehållna. Ingen del av detta dokument får på något sätt kopieras eller överföras,
+varken elektroniskt eller mekaniskt, inklusive fotokopiering eller via något system för lagring eller
+åtkomst av information, utan skriftligt tillstånd från Dr. Sheehan. Individuella forskare, läkare och
+studenter som arbetar inom icke-kommersiell eller offentlig verksamhet (inklusive universitet, icke
+vinstdrivande sjukhus och statliga institutioner) tillåts göra papperskopior av ett M.I.N.I. instrument,
+för personlig klinisk och forskningssyftande användning, men ej för institutionell användning. All
+användning som innebär ekonomisk vinst kräver ett licensavtal från upphovsrättsinnehavaren och
+betalning av en licensavgift per användningstillfälle.
+
+                                                           FRISKRIVNING
+
+Vårt ändamål är att underlätta bedömningen och uppföljningen av patienter med större noggrannhet och effektivitet. En
+legitimerad läkare ska tolka och gå igenom data som samlats och bearbetats med instrumentet innan de används som
+beslutsunderlag.
+
+Detta instrument är inte utformat eller avsett att ersätta en fullständig medicinsk och psykiatrisk undersökning av en
+legitimerad läkare eller psykiater. Det är enbart avsett att användas som ett verktyg för att underlätta insamling av korrekta
+uppgifter och klassificering av symtom som upptäckts av utbildad personal. Det är inte ett diagnostiskt test.
+
+
+
+
+    Patientens namn:                                                              Patientnummer:
+    Födelsedatum:                                                                 Intervjun börjar kl:
+    Intervjuarens namn:                                                           Intervjun avslutas kl:
+    Intervjudatum:                                                                Total tidsåtgång:
+                                                                                         KRITERIER                                                        PRIMÄR
+                                AVSNITT                    TIDSRAM                                 DSM-5                                  ICD-10
+                                                                                         UPPFYLLDA                                                        DIAGNOS
+A     EGENTLIG DEPRESSIONSEPISOD                           Pågående (senaste 2 veckor)        []
+                                                           Tidigare                           []
+                                                           Recidiverande                      []
+      EGENTLIG DEPRESSION                                                                                  296.20-296.26 En enstaka
+                                                           Pågående (senaste 2 veckor)        []           episod
+                                                                                                                                           F32.x             []
+                                                           Tidigare                           []           296.20-296.26 En enstaka episod F32.x             []
+                                                           Recidiverande                      []           296.30-296.36 Recidiverande F33.x                 []
+B     SUICIDALITET                                         Pågående (gångna månaden)          []                                                             []
+                                                           Någonsin                           [] [] Låg [] Måttlig [] Hög                                    []
+      SUICIDALT BETEENDE                                   Pågående                           [] (Under det gångna året)                                     []
+                                                           I tidig remission                  [] (1–2 år sedan)                                              []
+C     MANISK EPISOD                                        Pågående                           []
+                                                           Tidigare                           []
+      HYPOMAN EPISOD                                       Pågående                           []
+                                                           Tidigare                           [] [] Ej undersökt
+      BIPOLÄR I                                            Pågående                           [] 296.41-296.56                            F31.0-‐F31.76      []
+                                                           Tidigare                           [] 296.41-296.56                            F31.0-‐F31.76      []
+      BIPOLÄR II                                           Pågående                           [] 296.89                                   F31.81             []
+                                                           Tidigare                           [] 296.89                                   F31.81             []
+      BIPOLÄR, OSPECIFICERAD                               Pågående                           [] 296.40/296.50                            F31.9              []
+                                                           Tidigare                           [] 296.40/296.50                            F31.9              []
+      BIPOLÄR I MED PSYKOTISKA SYMTOM                      Pågående                           [] 296.44/296.54                            F31.2/31.5         []
+                                                           Tidigare                           [] 296.44/296.54                            F31.2/31.5         []
+                                                                                                
+D     PANIKSYNDROM                                         Pågående (gångna månaden)          []           300.01                         F41.0              []
+                                                           Någonsin                           []           300.01                         F40.0              []
+E     AGORAFOBI                                            Pågående                           []           300.22                         F40.00             []
+F     SOCIAL ÅNGEST (Social fobi)                          Pågående (gångna
+                                                           månaden)
+                                                                                              []           300.23                         F40.10             []
+                                                                                                
+G     TVÅNGSSYNDROM                                        Pågående (gångna
+                                                           månaden)
+                                                                                              []           300.3                          F42                []
+                                                                                                
+H     POSTTRAUMATISKT STRESSYNDROM (PTSD)                  Pågående (gångna månaden)          []           309.81                         F43.10             []
+                                                                                                
+I     ALKOHOLBRUKSYNDROM                                   Gångna 12 månaderna                []           303.9                          F10.10-20          []
+J     SUBSTANSBRUKSYNDROM (ej alkohol)                     Gångna 12 månaderna                []           304.00-.90/305.20-.90          F11.1xF19.288      []
+                                                                                                
+K     PSYKOTISKA SYNDROM                                   Någonsin                           []           297.3/297.9/                   F20.81-F29         []
+                                                                                                           293.81/298.83/298.89
+                                                           Pågående                           []           297.3/297.9/                   F20.81-F29         []
+                                                                                                           293.81/298.83/298.89
+      FÖRSTÄMNINGSSYNDROM MED PSYKOTISKA SYMTOM Någonsin                                      []           296.24/296.34-296.44/          F31.2/F32.2/F33.   []
+                                                                                                           296.54                         3
+                                                           Pågående                           []           296.24/296.34/296.44/          F31.2/F32.2/F33.   []
+                                                                                                           296.54                         3
+                                                                                                
+L     ANOREXIA NERVOSA                                     Pågående (senaste 3
+                                                           månaderna)
+                                                                                              []           307.1                          F50.01-02          []
+M BULIMIA NERVOSA                                          Pågående (senaste 3
+                                                           månaderna)
+                                                                                              []           307.51                         F50.2              []
+MB HETSÄTNINGSSTÖRNING                                     Pågående (senaste 3
+                                                           månaderna)
+                                                                                              []           307.51                         F50.8              []
+                                                                                                
+N     GENERALISERAT ÅNGESTSYNDROM                          Pågående (senaste 6
+                                                           månaderna)
+                                                                                              []           300.02                         F41.1              []
+
+O     SYMTOMEN HAR INTE MEDICINSKA ELLER ORGANISKA ORSAKER ELLER ÄR
+                                                                                              [] Nej        [] Ja     [] Osäkert
+      SUBSTANSINDUCERADE
+P     PERSONLIGHETSSYNDROM, ANTISOCIAL                     Någonsin                           []           301.7                          F60.2              []
+      IDENTIFIERA DEN PRIMÄRA DIAGNOSEN GENOM ATT KRYSSA I TILLÄMPLIG RUTA.
+      (Vilket problem besvärar dig mest, eller dominerar, eller kom först?)
+
+
+
+                                                     ALLMÄNNA INSTRUKTIONER
+
+M.I.N.I. är utformat som en kortfattad, strukturerad intervju för de huvudsakliga psykiatriska störningarna i enlighet med DSM-5 och
+ICD-10. Validerings- och tillförlitlighetsstudier har gjorts som jämför M.I.N.I. med SCID-P för DSM-III-R samt med CIDI (en
+strukturerad intervju som utvecklats av Världshälsoorganisationen). Resultaten av dessa studier har visat att M.I.N.I. har jämförbar
+tillförlitlighet och validitet, men kan administreras på mycket kortare tid (i genomsnitt 18,7 ± 11,6 minuter, median 15 minuter) än
+ovannämnda instrument. Läkare kan börja använda den efter en kort träningsgenomgång. Lekmannaintervjuare behöver mer
+omfattande utbildning.
+
+INTERVJU
+       För att genomföra intervjun så snabbt som möjligt, tala om för patienten att du ska göra en klinisk intervju som är mer
+       strukturerad än vanligt, med mycket specifika frågor om psykologiska problem som bara behöver besvaras med ”ja”
+       eller ”nej”.
+
+ALLMÄN UTFORMNING
+      M.I.N.I. är indelad i avsnitt, försedda med var sin bokstav, och varje avsnitt motsvarar en diagnostisk kategori.
+       I början av varje diagnostiskt avsnitt (utom den för psykotiska syndrom) presenteras screeningfrågor motsvarande
+      sjukdomstillståndets främsta kriterier i en gråtonad ruta.
+       I slutet av varje avsnitt finns en eller flera diagnosrutor där klinikern anger om de diagnostiska kriterierna uppfyllts eller
+      inte.
+
+TYPOGRAFISKA FÖRKLARINGAR
+      Meningar skrivna med ”vanlig rak stil” ska läsas upp för patienten ordagrant, för att bedömningen av de diagnostiska
+      kriterierna ska standardiseras.
+
+            Meningar skrivna med ”STORA BOKSTÄVER” ska inte läsas upp för patienten. De är anvisningar till intervjuaren som hjälp
+            vid poängsättning av de diagnostiska algoritmerna.
+
+            Meningar skrivna med ”fet stil” anger vilka tidsramar som ska utforskas. Intervjuaren kan läsa upp denna information så
+            ofta som behövs. Endast symtom som inträffar under den angivna tidsramen bör beaktas vid poängsättning av svaren.
+
+            Svar med en pil ovanför (=>) anger att ett av de nödvändiga kriterierna för diagnosen/diagnoserna saknas. I så fall ska
+            intervjuaren gå vidare till slutet av avsnittet, ringa in ”NEJ” i samtliga diagnosrutor och fortsätta med nästa avsnitt.
+
+            Vid beteckningar som åtskiljs av snedstreck (/), läser intervjuaren bara upp de symtom som man vet att patienten har (t.ex.
+            vid fråga J2b eller K6b).
+
+            Text inom (parentes) är kliniska exempel på symtomet. Dessa kan läsas upp för patienten för att förtydliga frågan.
+
+SKATTNINGSINSTRUKTIONER
+
+            Alla frågor måste skattas. Skattningen registreras till höger om varje fråga genom att ringa in JA eller NEJ. Klinisk bedömning
+            ska användas i kodningen av svaren. Intervjuaren behöver vara lyhörd för mångfalden av kulturella inslag vid administration
+            av frågorna och vid poängsättning av svaren. Klinikern ska vid behov be om exempel för att koda rätt. Patienten ska
+            uppmanas att fråga efter förtydliganden om något är oklart.
+            Klinikern bör förvissa sig om att patienten beaktar varje dimension av frågan (t.ex. tidsram, frekvens, svårighetsgrad,
+            och/eller andra alternativ).
+            Symtom som bättre kan förklaras av en organisk orsak eller av alkohol- eller drogbruk ska inte kodas positivt i M.I.N.I.
+            M.I.N.I. PLUS har frågor som undersöker dessa områden.
+
+
+            Vid frågor, förslag och behov av skattningsträning eller för information om uppdaterade versioner av M.I.N.I., kontakta:
+            David V Sheehan, M.D., M.B.A.
+            University of South Florida College of Medicine
+            Tfn: +1 813-956-8437
+            E-post: dsheehan@health.usf.edu
+
+
+
+
+                                                   A. EGENTLIG DEPRESSIONSEPISOD
+              (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ I DIAGNOSRUTAN OCH FORTSÄTT MED NÄSTA AVSNITT)
+
+
+A1     a     Har du någonsin varit deprimerad eller nere, eller känt dig ledsen, tom eller uppgiven                 NEJ              JA
+             under större delen av dagen, nästan varje dag under 2 veckor?
+             OM NEJ, KODA NEJ FÖR A1b; OM JA, FRÅGA:
+       b     Under de senaste 2 veckorna, har du varit deprimerad eller nere, eller känt dig ledsen,                NEJ              JA
+             tom eller uppgiven under större delen av dagen, nästan varje dag?
+
+A2     a     Har du någonsin tappat intresset för det mesta omkring dig eller inte kunnat ha riktigt                NEJ              JA
+             nöje av sådant du brukar tycka om under den största delen av tiden under 2 veckor?
+             OM NEJ, KODA NEJ FÖR A2b; OM JA, FRÅGA:
+       b     Har du under den största delen av tiden under de senaste 2 veckorna varit mycket                       NEJ              JA
+             mindre intresserad för det mesta omkring dig jämfört med andra, eller inte kunnat ha
+             riktigt nöje av sådant du vanligen brukar tycka om?
+                                                                                                                    =>
+             HAR A1a ELLER A2a KODATS JA?                                                                           NEJ              JA
+
+
+A3           OM A1b ELLER A2b = JA: EFTERFRÅGA DEN PÅGÅENDE OCH DEN SVÅRASTE TIDIGARE EPISODEN, ELLER
+             OM A1b OCH A2b = NEJ: EFTERFRÅGA ENBART DEN SVÅRASTE TIDIGARE EPISODEN
+
+             Under tvåveckorsperioden, när du kände dig deprimerad eller ointresserad:
+                                                                                                               Senaste 2        Tidigare
+                                                                                                               veckorna          episod
+       a     Hade du minskad eller ökad aptit nästan varje dag? Minskade eller ökade du oavsiktligt           NEJ         JA   NEJ        JA
+             i vikt (d.v.s. med ± 5% av kroppsvikten, eller ± 3,5 kg eller ±8 lb för en person som väger
+             160 lb/70 kg, på en månad)?
+             VID JA PÅ NÅGON AV DESSA FRÅGOR, KODA JA.
+
+       b     Hade du problem med sömnen nästan varje natt (svårt att somna in, vaknade upp mitt i             NEJ         JA   NEJ        JA
+             natten, vaknade alldeles för tidigt på morgonen eller sov alldeles för mycket)?
+
+       c     Pratade eller rörde du dig långsammare än vanligt eller var du rastlös eller hade svårt att      NEJ         JA   NEJ        JA
+             sitta still nästan varje dag? Märkte någon detta?
+
+       d     Kände du dig trött eller orkeslös nästan varje dag?                                              NEJ         JA   NEJ        JA
+
+       e     Kände du dig värdelös eller hade skuldkänslor nästan varje dag?                                  NEJ         JA   NEJ        JA
+
+             OM JA, BE OM EXEMPEL. LETA EFTER VANFÖRESTÄLLNINGAR OM MISSLYCKANDEN, BRISTER, UNDERGÅNG
+             ELLER SKULD, ELLER OM BEHOV AV BESTRAFFNING, ELLER VANFÖRESTÄLLNINGAR OM SJUKDOM ELLER DÖD,
+             ELLER NIHILISTISKA ELLER KROPPSLIGA VANFÖRESTÄLLNINGAR.
+             EXEMPLEN ÖVERENSSTÄMMER MED EN VANFÖRESTÄLLNING. Pågående episod [] Nej [] Ja
+                                                                      Tidigare episod       [] Nej [] Ja
+
+       f     Hade du svårt att koncentrera dig, tänka eller fatta beslut nästan varje dag?                    NEJ         JA   NEJ        JA
+
+       g     Tänkte du ofta på döden (RÄDSLA FÖR ATT DÖ RÄKNAS INTE HÄR), eller hade tankar på att ta         NEJ         JA   NEJ        JA
+             livet av dig, eller hade du avsikter eller planer på att ta ditt liv? Försökte du ta ditt liv?
+             VID JA PÅ NÅGON AV DESSA FRÅGOR, KODA JA.
+
+A4           Orsakade dessa symtom påtagliga besvär eller problem hemma, i arbetet, i dina studier,           NEJ         JA   NEJ        JA
+             socialt, i relationer, eller på något annat viktigt sätt, och innebär de en förändring mot
+             hur du fungerat tidigare?
+
+A5           Mellan 2 depressionsepisoder, hade du någonsin ett fritt intervall om minst 2 månader            Ej tillämpligt   NEJ        JA
+             utan någon påtaglig depression eller ointresse?
+
+             HAR 5 ELLER FLER SVAR (A1–A3) KODATS JA, OCH HAR A4 KODATS JA FÖR DEN            NEJ             JA
+             AKTUELLA TIDSPERIODEN?
+                                                                                                  EGENTLIG
+             OCH                                                                              DEPRESSIONSEPISOD
+
+             HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?                           PÅGÅENDE
+                                                                                              TIDIGARE
+             ANGE OM EPISODEN ÄR PÅGÅENDE OCH/ELLER TIDIGARE.                                 RECIDIVERANDE
+
+             OM A5 KODATS JA, KODA JA FÖR RECIDIVERANDE.
+
+
+A6     a     Hur många depressionsepisoder har du haft under ditt liv? ____________________
+
+             Mellan varje episod måste det gå minst 2 månader utan påtaglig depression.
+
+
+
+
+                                                                B. SUICIDALITET
+                                                                                                                         Poäng
+         Under den senaste månaden:
+B1       Har du varit med om en olyckshändelse? Detta inbegriper att råka ta för många tabletter.             NEJ   JA     0
+         OM B1 BESVARATS MED NEJ, HOPPA TILL B2; OM JA, STÄLL FRÅGAN B1a:
+
+B1 a Planerade eller avsåg du att skada dig själv i någon olyckshändelse, antingen genom att inte             NEJ   JA     0
+     undvika en risk eller att avsiktligt orsaka olyckan?
+     OM B1a BESVARATS MED NEJ, HOPPA TILL B2: OM JA, STÄLL FRÅGAN B1b:
+B1 b Avsåg du att dö som en följd av någon olyckshändelse?                                                    NEJ   JA     0
+B2       Har du (om ens för ett ögonblick) tänkt att det vore bättre om du var död eller önskat att du var    NEJ   JA     1
+         död eller var tvungen att vara död?
+B3       Har du (om ens för ett ögonblick) tänkt på att skada eller göra illa dig själv                       NEJ   JA     6
+         – med åtminstone en viss avsikt eller medvetenhet om att du kunde dö som följd
+         – eller har du funderat på självmord (d.v.s. att ta ditt liv)?
+         OM B2 + B3 BESVARAS MED NEJ, HOPPA TILL B4. I ANNAT FALL FRÅGA OM:
+         Frekvens                            Intensitet
+
+         Då och då                           Mild
+         Ofta                                Måttlig
+         Mycket ofta                         Svår
+
+B4       Har du hört en röst eller röster som säger till dig att ta livet av dig, eller har du haft drömmar   NEJ   JA     4
+         som på något sätt är relaterade till självmord?
+         Om JA, var det det ena eller       [] var det en röst eller               [] var det en dröm?
+         båda:                                    röster?
+B5       Har du tänkt ut ett sätt att ta ditt liv (dvs. hur)?                                                 NEJ   JA     8
+B6       Har du tänkt ut ett hjälpmedel att ta ditt liv med (dvs. med vad)?                                   NEJ   JA     8
+B7       Har du tänkt ut någon plats för att ta ditt liv (dvs. var någonstans)?                               NEJ   JA     8
+B8       Har du planerat någon dag eller tidsram för att ta ditt liv (dvs. när)?                              NEJ   JA     8
+B9       Har du tänkt på någonting du skulle vilja göra klart innan du försöker ta ditt liv?                  NEJ   JA     8
+         (t.ex. skriva ett självmordsbrev)
+B10      Har du haft för avsikt att agera i enlighet med dina tankar på att ta ditt liv?                      NEJ   JA     8
+         Om JA, markera det ena eller båda: [] hade du för avsikt att göra det vid just det tillfället?
+                                             [] hade du för avsikt att göra det någon gång i framtiden?
+
+B11      Har du haft för avsikt att dö som resultat av en självmordshandling?                                 NEJ   JA     8
+         Om JA, markera det ena eller       [] hade du för avsikt att dö genom självmord vid just det
+         båda:                                  tillfället?
+                                            [] hade du för avsikt att dö genom självmord någon gång i
+                                                framtiden?
+B12      Har du känt behovet eller impulsen att ta livet av dig eller att planera att ta livet av dig snart   NEJ   JA     8
+         hellre än senare?
+         Om JA, markera det ena eller [] var det att begå självmord           [] var det att planera att begå
+         båda:                            (ta livet av dig)?                   självmord (ta livet av dig)?
+         Om JA, markera det ena eller [] var det i princip                    [] var det provocerat?
+         båda:                            oprovocerat?
+         FÖR ATT BEDÖMA HURUVIDA DETTA VAR I PRINCIP OPROVOCERAT, FRÅGA: ”5 minuter innan
+         den här impulsen, hade du kunnat förutsäga att den skulle komma?”
+B13      Har du haft svårt att stå emot dessa impulser?                                                       NEJ   JA     8
+
+
+
+B14      Har du aktivt förberett något självmordsförsök i förväntan eller avsikt att dö (inklusive saker du
+         gjort eller avsiktligt låtit bli att göra som fört dig närmare ett självmordsförsök)? Detta innefattar
+         de gånger då du avsåg att ta ditt liv men blev avbruten eller avbröt dig själv innan du hann skada
+         dig.                                                                                                     NEJ      JA
+         OM B14 BESVARAS MED NEJ, HOPPA TILL B15.
+
+B14 a Har du gjort aktiva förberedelser för att ta ditt liv, men utan att påbörja självmordsförsöket?             NEJ      JA         9
+
+B14 b Har du gjort aktiva förberedelser för att ta ditt liv, men hindrat dig själv precis innan du gjorde         NEJ      JA        10
+      dig någon skada (”ställde in”)?
+
+B14 c Har du gjort aktiva förberedelser för att ta ditt liv, men blivit hindrad av någon eller någonting
+      precis innan du hann skada dig själv (”blev avbruten”)?                                                     NEJ      JA        11
+
+B15      Har du skadat dig själv avsiktligt, utan att du haft för avsikt att dö?                                  NEJ      JA         0
+
+B16      Har du försökt begå självmord (ta livet av dig)?                                                         NEJ      JA
+         OM B16 BESVARAS MED NEJ, HOPPA TILL B17.
+
+B16 a Har du inlett ett självmordsförsök (för att ta livet av dig), men beslutat att avbryta och inte             NEJ      JA        12
+      fullföljt försöket?
+
+B16 b Har du inlett ett självmordsförsök (för att ta livet av dig) men blivit avbruten och inte fullföljt         NEJ      JA        13
+      försöket?
+
+B16 c Har du genomfört ett försök att begå självmord (ta livet av dig) helt och hållet så som du hade             NEJ      JA        14
+      för avsikt att göra?
+      Med självmordsförsök menas att du gjort något som skulle kunna skada dig och med åtminstone
+      en viss avsikt att dö.
+      OM NEJ, HOPPA TILL B17:
+
+         Hoppades på att bli räddad/överleva
+         Förväntade sig/avsåg att dö
+
+B17      TID, DAGLIGEN TILLBRINGAD MED SUICIDALA IMPULSER, TANKAR ELLER HANDLINGAR:
+         Tid, vanligen tillbringad per dag: ____ timmar ____ minuter.
+         Minsta tid, tillbringad per dag:   ____ timmar ____ minuter.
+         Mesta tid, tillbringad per dag:    ____ timmar ____ minuter.
+
+         Under din livstid:
+
+B18      Har du någonsin försökt begå självmord (ta livet av dig)?                                                NEJ      JA         4
+         Om JA, hur många gånger? ____________
+         Om JA, när var det senaste självmordsförsöket?
+         Pågående: under de senaste 12 månaderna
+         I tidig remission: för 12 till 24 månader sedan
+         I remission: för mer än 24 månader sedan
+
+         ”Självmordsförsök är ett självskadande beteende med åtminstone viss avsikt (>0) att dö som följd av handlingen. Evidens för
+         att individen åtminstone till en viss grad hade för avsikt att ta sitt liv, kan vara explicita eller uttydas från beteendet eller
+         omständigheterna. Det definieras som ett suicidförsök, t.ex. om det uppenbarligen inte är fråga om en olyckshändelse eller
+         om personen tror att handlingen kan vara dödlig, även om avsikt förnekas.” (FDA Guidance for Industry Suicidal Ideation and
+         Behavior Document [Vägledningsdokument för suicidala tankar och självmordsbeteende] 2012 och C-CASA definitionen).
+         Posner K et al. Am J Psychiatry 2007; 164 (7): 1035-1043 &
+         http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/default.htm/
+
+B19      Hur sannolikt är det att du kommer försöka ta ditt liv inom de kommande 3 månaderna, på en skala från
+         0–100 % ______%
+         ALL SANNOLIKHET > 0 % VID B19 SKA KODAS SOM JA                                                   NEJ              JA        13
+
+
+
+
+           HAR MINST 1 AV OVANSTÅENDE FRÅGOR (UTOM B1) KODATS JA?                                            NEJ                JA
+           OM JA, ADDERA DE SAMMANRÄKNADE POÄNGEN FÖR DE SVAR (B1–B19) SOM                                       SUICIDALITET
+           KODATS ”JA”, OCH SPECIFICERA GRADEN AV SUICIDALITET I DIAGNOSRUTAN:
+                                                                                           1–8 poäng Låg
+           VISA OM SUICIDALITETEN ÄR PÅGÅENDE (SENASTE MÅNADEN) ELLER GÄLLER ETT FÖRSÖK
+                                                                                          9–16 poäng Måttlig
+           NÅGONSIN I LIVET, ELLER BÅDA, GENOM ATT MARKERA I RÄTT RUTA ELLER GENOM ATT
+                                                                                           ≥17 poäng Hög
+           LÄMNA EN ELLER BÅDA TOMMA.
+           PÅGÅENDE = POSITIVT SVAR TILL NÅGON AV FRÅGORNA B1a TILL B16c ELLER NÅGON TID
+                                                                                         PÅGÅENDE
+           TILLBRINGAD PÅ FRÅGA B17. NÅGONSIN = B18 KODADES JA.
+           SANNOLIKT INOM DEN NÄRMASTE TIDEN = B19 KODADES JA.
+                                                                                         NÅGONSIN
+           KOMMENTERA NEDAN VAD GÄLLER DIN BEDÖMNING AV DENNA PATIENTS AKTUELLA OCH
+                                                                                    SANNOLIKT INOM DEN
+           NÄRA FRAMTIDA SUICIDALITET:
+                                                                                    NÄRMASTE TIDEN
+
+
+
+           HAR B18 KODATS JA?                                                                                NEJ                JA
+           OCH ETT JAKANDE SVAR PÅ                                                                          SUICIDALT BETEENDE
+           Inleddes den suicidala handlingen när patienten inte var i ett tillstånd av förvirring eller
+           delirium?                                                                                               PÅGÅENDE
+
+           OCH ETT JAKANDE SVAR PÅ                                                                        Pågående
+                                                                                                          I tidig remission
+           Begicks den suicidala handlingen utan politiska eller religiösa motiv?
+           OM JA, ANGE OM STÖRNINGEN ÄR PÅGÅENDE, I TIDIG REMISSION, ELLER I REMISSION.                   I remission
+
+
+
+
+                                                  C. MANISK/HYPOMAN EPISOD
+      (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTORNA, RINGA IN NEJ I DIAGNOSRUTORNA FÖR MANISK OCH HYPOMAN OCH FORTSÄTT
+                                                    MED NÄSTA AVSNITT)
+
+             Har någon i din familj haft eller har manisk depressiv sjukdom eller bipolärt syndrom,                    NEJ              JA
+             eller har någon i din familj haft svängningar i humöret som behandlats med läkemedel
+             såsom litium (Lithionit), valproat (Ergenyl, Absenor, Orfiril) eller lamotrigin (Lamictal)?
+             DENNA FRÅGA ÄR INTE ETT KRITERIUM FÖR BIPOLÄRT SYNDROM MEN STÄLLS FÖR ATT ÖKA KLINIKERNS
+             VAKSAMHET RÖRANDE RISK FÖR BIPOLÄRT SYNDROM.
+             OM JA, ANGE VEM: ______________________________________________________
+
+
+C1     a     Har du någon gång haft en period när du känt dig ”uppvarvad”, ”hög” eller ”hyper”, och                    NEJ              JA
+             så aktiv eller full av energi eller så uppfylld av dig själv att du råkat illa ut, eller så att
+             andra tyckt att du inte var dig lik? (Alkohol- eller drogpåverkan räknas ej.)
+
+             OM PATIENTEN ÄR FÖRBRYLLAD ELLER OSÄKER PÅ VAD DU MENAR MED ”UPPVARVAD”
+             ELLER ”HÖG” ELLER ”HYPER”, FÖRTYDLIGA ENLIGT FÖLJANDE: Med ”uppvarvad”
+             eller ”hög” eller ”hyper” menar jag: att vara upprymd, ha ökad energi eller aktivitet,
+             behöva mindre sömn, ha snabb tankeverksamhet, vara full av idéer, ha ökad
+             prestationsförmåga, motivation, kreativitet eller impulsivt beteende, ringa eller arbeta
+             överdrivet mycket eller spendera mer pengar.
+
+             OM NEJ, KODA NEJ PÅ C1b; OM JA, FRÅGA:
+
+       b     Känner du dig för närvarande ”uppvarvad”, ”hög”, ”hyper” eller full av energi?                            NEJ              JA
+
+C2     a     Har du någon gång upplevt återkommande irritation under flera dagar så att du varit                       NEJ              JA
+             med i gräl eller slagsmål eller skrikit åt personer utanför din egen familj? Har du eller
+             andra märkt att du varit mer lättretlig eller överreagerat, jämfört med andra? Detta
+             gäller även situationer där du tyckte att din reaktion varit berättigad.
+
+             OM NEJ, KODA NEJ PÅ C2b; OM JA, FRÅGA:
+
+       b     Upplever du en återkommande känsla av retlighet för närvarande?                                           NEJ              JA
+                                                                                                                       =>
+             HAR C1a ELLER C2a KODATS JA?                                                                              NEJ              JA
+
+
+C3           OM C1b ELLER C2b = JA: UNDERSÖK PÅGÅENDE EPISOD FÖRST OCH SEDAN DEN SVÅRASTE TIDIGARE EPISODEN, ANNARS
+             OM C1b OCH C2b = NEJ: UNDERSÖK ENBART DEN SVÅRASTE TIDIGARE EPISODEN
+             VID UNDERSÖKNING AV PÅGÅENDE EPISOD, INLED VARJE FRÅGA SOM FÖLJER:
+             Under de senaste dagarna, inklusive idag, när du kände dig upprymd och full av energi eller retlig:
+             VID UNDERSÖKNING AV TIDIGARE EPISOD, INLED VARJE FRÅGA SOM FÖLJER:
+             Under en tidigare period på några dagar när du kände dig mest upprymd och mest full av energi eller mest retlig:
+
+
+                                                                                                               Pågående episod     Tidigare
+                                                                                                                                    episod
+       a     Upplevde du att du kunde göra sådant som andra inte kunde, eller att du var en särskilt             NEJ         JA   NEJ        JA
+             viktig person? OM JA, BE OM EXEMPEL.
+             EXEMPLEN ÖVERENSSTÄMMER MED EN VANFÖRESTÄLLNING.          Pågående episod    [] Nej     [] Ja
+                                                                       Tidigare episod    [] Nej     [] Ja
+
+       b     Behövde du mindre sömn (t.ex. att du kände dig utvilad efter bara några timmars sömn)?              NEJ         JA   NEJ        JA
+
+       c     Pratade du för mycket utan uppehåll, eller kände dig tvingad att fortsätta prata?                   NEJ         JA   NEJ        JA
+
+       d     Märkte du att dina tankar gick väldigt fort eller löpte samman eller rusade eller rörde sig         NEJ         JA   NEJ        JA
+             väldigt snabbt från ett ämne till ett annat?
+
+
+
+                                                                                                              Pågående episod Tidigare episod
+
+       e     Blev du lätt distraherad så att varje liten störning kunde få dig att tappa tråden?                NEJ     JA      NEJ       JA
+
+       f     Fick du en påtaglig ökning av intresse eller aktivitet, gällande arbete/studier, eller socialt     NEJ     JA      NEJ       JA
+             eller sexuellt, eller blev du fysiskt eller psykiskt rastlös?
+             Denna ökning av aktiviteten kan vara med eller utan något syfte.
+
+       g     Var du så inriktad på att njuta av livet och ha roligt att du struntade i risker och               NEJ     JA      NEJ       JA
+             konsekvenser (t.ex. överdriven shopping, vårdslös bilkörning eller ansvarslöst sexuellt
+             beteende)?
+
+C3      SUMMERING:              RÖRANDE PÅGÅENDE EPISOD:                                                        NEJ     JA      NEJ       JA
+                                OM C1b ÄR NEJ, HAR 4 ELLER FLER C3-SVAR INKLUSIVE C3f KODATS JA?
+                                OM C1b ÄR JA, HAR 3 ELLER FLER C3-SVAR INKLUSIVE C3f KODATS JA?
+
+                         RÖRANDE TIDIGARE EPISOD:
+                                OM C1a ÄR NEJ, HAR 4 ELLER FLER C3-SVAR INKLUSIVE C3f KODATS JA?
+                                OM C1a ÄR JA, HAR 3 ELLER FLER C3-SVAR INKLUSIVE C3f KODATS JA?
+
+                         KODA JA ENDAST OM OVANSTÅENDE 3 ELLER 4 SYMTOM INTRÄFFADE UNDER
+                         SAMMA TIDSPERIOD.
+
+             REGEL: UPPRYMT/EXPANSIVT HUMÖR KRÄVER BARA 3 C3-SYMTOM MEDAN ENBART
+             RETLIGHET KRÄVER 4 C3-SYMTOM.
+
+C4           Vilken är den längsta tidsperiod som dessa symtom har hållit i sig (större delen av dagen,
+             nästan varje dag)?
+             FASTSTÄLL DENNA VARAKTIGHET UTIFRÅN ALLRA FÖRSTA BÖRJAN TILLS DESS SYMTOMEN UPPHÖRT HELT,
+             INTE BARA KULMINATIONEN.
+
+             a)     Högst 3 dagar                                                                                       []               []
+             b)     4 dagar eller längre                                                                                []               []
+             c)     7 dagar eller längre                                                                                []               []
+
+C5           Blev du intagen på sjukhus för dessa problem?                                                      NEJ     JA      NEJ       JA
+
+             OM JA, RINGA IN JA VID MANISK EPISOD FÖR DEN TIDSPERIODEN OCH GÅ TILL C7.
+
+C6           Orsakade dessa symtom påtagliga problem hemma, på arbetet, socialt, i relationer, i                NEJ     JA      NEJ       JA
+             dina studier eller på något annat viktigt sätt?
+
+C7           Hängde symtomen samman med en tydlig förändring i sättet du fungerat hittills, och                 NEJ     JA      NEJ       JA
+             som var annorlunda från sättet du vanligtvis är på?
+
+
+
+
+             HAR C3-SUMMERING OCH C7 OCH (C4c ELLER C5 ELLER C6 ELLER NÅGOT PSYKOTISKT                            NEJ                 JA
+             SYMTOM VID K1 TILL OCH MED K8) KODATS JA
+                                                                                                                      MANISK EPISOD
+                OCH
+
+             HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?
+                                                                                                                   PÅGÅENDE           []
+                                                                                                                   TIDIGARE           []
+             ANGE OM EPISODEN ÄR PÅGÅENDE OCH/ELLER TIDIGARE.
+
+
+
+
+            HAR C3-SUMMERING KODATS JA OCH HAR C5 OCH C6 KODATS NEJ OCH C7 KODATS JA,                      HYPOMAN EPISOD
+            OCH HAR ANTINGEN C4b ELLER C4c KODATS JA?
+             OCH
+            HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?
+             OCH
+            HAR ALLA PSYKOTISKA SYMTOM VID K1 TILL OCH MED K8 KODATS NEJ?                               PÅGÅENDE   [] NEJ
+                                                                                                                   [] JA
+            ANGE OM EPISODEN ÄR PÅGÅENDE OCH/ELLER TIDIGARE.
+
+            OM JA FÖR PÅGÅENDE MANISK EPISOD, KODA NEJ FÖR PÅGÅENDE HYPOMAN EPISOD.
+                                                                                                        TIDIGARE   [] NEJ
+                                                                                                                   [] JA
+            OM JA FÖR TIDIGARE MANISK EPISOD, KODA TIDIGARE HYPOMAN EPISOD SOM EJ                                  [] EJ UNDERSÖKT
+            UNDERSÖKT.
+
+
+
+            HAR C3-SUMMERING OCH C4a KODATS JA OCH HAR C5 KODATS NEJ?                                    HYPOMANA SYMTOM
+
+
+            ANGE OM EPISODEN ÄR PÅGÅENDE OCH/ELLER TIDIGARE.                                            PÅGÅENDE   [] NEJ
+                                                                                                                   [] JA
+            OM JA FÖR PÅGÅENDE MANISK ELLER HYPOMAN EPISOD,
+            KODA NEJ FÖR NUVARANDE HYPOMANA SYMTOM.
+                                                                                                        TIDIGARE   [] NEJ
+            OM JA FÖR TIDIGARE MANISK EPISOD ELLER TIDIGARE HYPOMAN EPISOD,                                        [] JA
+            KODA TIDIGARE HYPOMANA SYMTOM SOM EJ UNDERSÖKTA.                                                       [] EJ UNDERSÖKT
+
+
+C8          a) OM MANISK EPISOD HAR FÖRELEGAT, ANTINGEN PÅGÅENDE ELLER TIDIGARE,                            NEJ            JA
+               FRÅGA:
+               Har du haft minst 2 av dessa (maniska) episoder som varat 7 dagar eller längre (C4c) i
+               ditt liv (inklusive den pågående episoden om sådan föreligger)?
+
+
+            b) OM MANISK ELLER HYPOMAN EPISOD HAR FÖRELEGAT, ANTINGEN PÅGÅENDE ELLER                        NEJ            JA
+               TIDIGARE, FRÅGA:
+               Har du haft minst 2 av dessa (hypomana) episoder som varat 4 dagar eller mer (C4b) i
+               ditt liv (inklusive den pågående episoden)?
+
+
+            c) OM KATEGORIN TIDIGARE ”HYPOMANA SYMTOM” FÖRELIGGER, FRÅGA:                                   NEJ            JA
+               Har du haft de här hypomana symtomen som pågår under enbart 1 till 3 dagar (C4a) 2
+               eller fler gånger i ditt liv (inklusive den pågående episoden om sådan föreligger)?
+
+
+
+
+                                                           D. PANIKSYNDROM
+                          (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED NÄSTA AVSNITT)
+
+                                                                                                                =>       
+D1     a     Har du, vid mer än ett enstaka tillfälle, upplevt perioder eller attacker av plötslig ängslan,        NEJ      JA
+             stark rädsla, obehag eller olust även i situationer där de flesta andra inte skulle känna så?
+                                                                                                                =>       
+       b     Kulminerade attackerna inom 10 minuter från starten?                                                  NEJ      JA
+
+
+                                                                                                                   =>
+D2           Har det vid något tillfälle hänt att en sådan period eller attack börjat oväntat eller varit helt     NEJ      JA
+             oförutsägbar eller oprovocerad?
+D3           Har du någon gång haft en sådan attack och därefter gått en månad eller mer med ihållande             NEJ      JA
+             rädsla för att få en ny attack eller oro över följderna av attacken? Eller gjorde du någon
+             betydande förändring i ditt beteende på grund av attackerna (t.ex. som att undvika ovana
+             situationer, eller undvika att lämna hemmet, eller att undvika att gå och handla ensam, eller
+             att göra saker för att undvika en panikattack, eller att oftare söka läkarvård eller akut
+             sjukvård)?
+D4           Under den svåraste attack du kan komma ihåg:
+
+       a     Slog hjärtat ojämnt, alldeles för fort eller bankande?                                                NEJ      JA
+
+       b     Blev händerna klibbiga eller svettades du?                                                            NEJ      JA
+
+       c     Blev du darrig eller skakig?                                                                          NEJ      JA
+
+       d     Blev du andfådd eller hade svårt att andas eller en kvävande känsla?                                  NEJ      JA
+
+       e     Fick du kväljningskänsla eller klump i halsen?                                                        NEJ      JA
+
+       f     Hade du värk, tryck- eller obehagskänsla i bröstet?                                                   NEJ      JA
+
+       g     Blev du illamående, hade magbesvär eller plötslig diarré?                                             NEJ      JA
+
+       h     Kände du dig yr, ostadig, snurrig eller svimfärdig?                                                   NEJ      JA
+
+       i     Fick du värmevallningar eller köldrysningar?                                                          NEJ      JA
+
+       j     Fick du krypningar eller domningskänslor i kroppen?                                                   NEJ      JA
+
+       k     Kändes omgivningen konstig, overklig, lösryckt eller främmande, eller kändes det som om du            NEJ      JA
+             var utanför eller helt eller delvis avskärmad från din kropp?
+       l     Var du rädd att du höll på att tappa kontrollen eller bli galen?                                      NEJ      JA
+
+       m Var du rädd att du höll på att dö?                                                                        NEJ      JA
+                                                                                                                   =>
+D5           HAR BÅDE D3 OCH 4 ELLER FLER D4-SVAR KODATS JA?                                                       NEJ      JA
+                                                                                                                            PANIKSYNDROM
+                                                                                                                            NÅGONSIN
+
+D6           Har du under den senaste månaden haft ihållande oro för att få ytterligare en attack,                 NEJ      JA
+                                                                                                                            PANIKSYNDROM
+             eller oroat dig för följderna av attackerna,                                                                   PÅGÅENDE
+             eller har du ändrat ditt beteende på något sätt på grund av attackerna?
+
+             HAR ANTINGEN D5 ELLER D6 KODATS JA,                                                                  NEJ            JA
+             OCH                                                                                                  PANIKSYNDROM
+             HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?                                              NÅGONSIN         []
+                                                                                                                 PÅGÅENDE         []
+             ANGE OM EPISODEN ÄR PÅGÅENDE OCH/ELLER TIDIGARE.
+
+                                                             E. AGORAFOBI
+                          (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED NÄSTA AVSNITT)
+
+
+E1           Känner du dig ängslig eller illa till mods på platser eller i situationer där, om du skulle få
+             en panikattack eller panikartade eller generande symtom, det kanske inte finns tillgång till
+             hjälp eller där det kan vara svårt att komma undan: till exempel i folksamlingar, köer, på
+             öppna platser eller broar, när du är hemifrån på egen hand eller är hemma ensam, eller            =>
+             när du åker buss, tåg, bil eller allmänna färdmedel?                                              NEJ         JA
+
+
+             HAR 2 ELLER FLER E1-SITUATIONER KODATS JA?                                                        =>
+                                                                                                               NEJ         JA
+
+                                                                                                               =>
+E2           Framkallar sådana situationer nästan alltid rädsla eller ångest?                                  NEJ         JA
+
+                                                                                                               =>
+E3           Är du så rädd för dessa situationer att du undviker dem eller lider dig igenom dem, eller         NEJ         JA
+             behöver ha sällskap med dig för att kunna stå ut?
+
+                                                                                                               =>
+E4           Är den här rädslan eller ångesten överdriven eller oproportionerlig i förhållande till hur        NEJ         JA
+             farlig situationen faktiskt är?
+
+                                                                                                               =>
+E5           Varade det här undvikande beteendet, eller den här rädslan eller ångesten i minst 6               NEJ         JA
+             månader?
+
+                                                                                                               =>
+E6           Orsakade dessa symtom påtagliga besvär eller problem hemma, på arbetet, i dina studier,           NEJ         JA
+             socialt eller på något annat viktigt sätt?
+
+
+             HAR E6 KODATS JA?                                                                                NEJ                JA
+
+                                                                                                                     AGORAFOBI
+                                                                                                                     PÅGÅENDE
+
+
+
+
+                                                  F. SOCIAL ÅNGEST (Social fobi)
+                          (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED NÄSTA AVSNITT)
+
+                                                                                                                =>
+F1           Under den senaste månaden, har du haft ihållande rädsla och påtaglig ångest inför att              NEJ                   JA
+             iakttas eller stå i centrum för uppmärksamheten eller för att bli förödmjukad, utskämd
+             eller avvisad?
+             Detta gäller sådant som att tala inför andra, att äta inför eller med andra, att skriva när
+             någon ser på, prestera något inför andra eller att umgås med andra.
+
+
+             EXEMPEL PÅ DYLIKA SOCIALA SITUATIONER ÄR
+                 • INLEDA ELLER UNDERHÅLLA ETT SAMTAL
+                 • DELTA I SMÅ GRUPPER
+                 • DEJTA
+                 • TALA INFÖR PERSONER I HÖG STÄLLNING
+                 • GÅ PÅ FESTER
+                 • TALA INFÖR PUBLIK
+                 • ÄTA INFÖR ANDRA
+                 • PRESTERA NÅGOT INFÖR ANDRA,
+                 • ATT URINERA PÅ EN OFFENTLIG TOALETT, ETC
+                                                                                                                =>
+F2           Framkallar sådana sociala situationer nästan alltid rädsla eller ångest?                           NEJ                   JA
+
+                                                                                                                =>
+F3           Är du så rädd för dessa sociala situationer att du undviker dem eller lider dig                    NEJ                   JA
+             igenom dem, eller behöver ha sällskap med dig för att kunna stå ut?
+
+                                                                                                                =>
+F4           Är den här sociala rädslan eller ångesten överdriven eller orimlig i de här sociala                NEJ                   JA
+             situationerna?
+
+                                                                                                                =>
+F5           Har det här sociala undvikandet, rädslan eller ångesten varat i minst 6 månader?                   NEJ                   JA
+
+                                                                                                                =>
+F6           Orsakade dessa sociala rädslor påtagliga besvär eller påverkade de din förmåga                     NEJ                   JA
+             att fungera på arbetet, i dina studier, socialt, i relationer, eller på något annat
+             viktigt sätt?
+
+                                                                                                             NEJ                           JA
+             HAR F6 KODATS JA                                                                                   SOCIAL ÅNGEST
+                                                                                                                      (Social fobi)
+             och
+                                                                                                                      PÅGÅENDE
+             HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?
+                                                                                                           BEGRÄNSAD TILL SOCIAL ÅNGEST
+                                                                                                           ENDAST I SAMBAND
+             ANMÄRKNING TILL INTERVJUAREN: VÄNLIGEN ANGE OM PATIENTENS RÄDSLA ÄR                           MED FRAMTRÄDANDEN       []
+             BEGRÄNSAD TILL ATT TALA ELLER FRAMTRÄDA INFÖR ANDRA.
+
+
+
+
+                                                           G. TVÅNGSSYNDROM
+                          (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED NÄSTA AVSNITT)
+
+
+G1     a     Under den senaste månaden, har du besvärats av återkommande tankar, impulser, eller                  NEJ          JA
+             inre bilder som var oönskade, motbjudande, olämpliga, påträngande eller obehagliga?                  
+             (T.ex. en känsla av att vara smutsig, förorenad eller ha baciller, eller rädsla för att smitta       HOPPA TILL
+             andra, eller rädsla för att skada någon fast det stör eller besvärar dig, eller rädsla för att       G3a
+             reagera på någon impuls, eller rädsla eller vidskeplighet för att ha ansvar för sådant som
+             blir fel, eller sexfixering (tankar, bilder eller impulser), eller religiösa tvångstankar.)
+
+G1     b     Under den senaste månaden, har du försökt att undertrycka de här tankarna, impulserna                NEJ          JA
+             eller bilderna, eller att neutralisera eller förminska dem med hjälp av någon annan tanke            
+             eller handling?                                                                                      HOPPA TILL
+                                                                                                                  G3a
+
+             (TA INTE MED SÅDANT SOM HELT ENKELT ÄR ÖVERDRIVEN ORO FÖR VERKLIGA PROBLEM.
+             INKLUDERA INTE OBSESSIONER SOM ÄR KLART RELATERAT TILL SAMLARBETEENDE,
+             HÅRPLOCKNING, HUDPLOCKNING, DYSMORFOFOBI, ÄTSTÖRNINGAR, SEXUELLA AVVIKELSER,
+             SPELMANI ELLER ALKOHOL- ELLER DROGMISSBRUK. DETTA EFTERSOM PATIENTEN KAN HA NÖJE
+             AV AKTIVITETEN OCH VILJA MOTSTÅ DEN ENBART PÅ GRUND AV DESS NEGATIVA KONSEKVENSER.)
+
+
+G2           Dök de upp i ditt medvetande om och om igen trots att du försökte strunta i dem eller bli            NEJ          JA
+             av med dem?
+                                                                                                                               obsessioner
+
+
+
+
+G3     a     Under den senaste månaden, har du – på grund av en fixering eller för att följa en strikt            NEJ          JA
+             regel – känt dig tvungen att göra något gång på gång, som att tvätta eller städa
+             överdrivet mycket, att räkna eller kontrollera saker om och om igen, eller att upprepa
+             eller arrangera saker, eller andra vidskepliga ritualer?
+
+G3     b     Utförs de här ritualerna för att förebygga eller minska ångest eller obehag eller för att            NEJ          JA
+             hindra något dåligt från att hända och är de överdrivna eller orimliga?
+                                                                                                                               tvång
+
+
+
+
+                                                                                                                  =>
+             HAR (G1a OCH G1b OCH G2) ELLER (G3a OCH G3b) KODATS JA?                                              NEJ          JA
+
+
+G4           Under den senaste månaden, har dessa tvångstankar och/eller tvångshandlingar                       NEJ                     JA
+             orsakat påtagliga besvär eller stört din förmåga att fungera hemma, på arbetet, i dina
+             studier, socialt eller i relationer, eller på något annat viktigt sätt, eller tog de mer än en      TVÅNGSSYNDROM
+             timme om dagen i anspråk?                                                                              PÅGÅENDE
+                                                                                                              INSIKT:
+             och
+                                                                                                               GOD ELLER HYGGLIG             []
+             HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?                                            BRISTANDE                     []
+             (UNDERSÖK OM DET FINNS TVÅNGSSYMTOM SOM UPPKOMMIT INOM TRE VECKOR                                 INGEN                         []
+             EFTER EN INFEKTION)                                                                               VANFÖRESTÄLLNINGAR            []
+
+             ANGE GRADEN AV INSIKT OCH OM EPISODEN ÄR TICS-RELATERAD.                                          TICS-RELATERAD                []
+
+
+
+
+                                          H. POSTTRAUMATISKT STRESSYNDROM (PTSD)
+                          (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED NÄSTA AVSNITT)
+
+                                                                                                             =>
+H1           Har du någonsin varit med om, eller varit vittne till eller varit tvungen att hantera en        NEJ   JA
+             extremt traumatisk händelse som inneburit dödsfall, dödshot, allvarlig skada eller
+             sexuellt våld mot dig eller någon annan?
+
+             EXEMPEL PÅ TRAUMATISKA HÄNDELSER: ALLVARLIGA OLYCKSHÄNDELSER, SEXUELL
+             ELLER FYSISK MISSHANDEL, TERRORISTATTACK, GISSLANTAGANDE, KIDNAPPNING,
+             ELDSVÅDA, UPPTÄCKA ETT LIK, KRIG ELLER NATURKATASTROF, BEVITTNA ANHÖRIGS
+             VÅLDSAMMA ELLER PLÖTSLIGA DÖD, ELLER EN LIVSHOTANDE SJUKDOM.
+                                                                                                             =>
+H2           Efter den traumatiska händelsen, har du upprepade gånger återupplevt denna händelse             NEJ   JA
+             på ett ofrivilligt och psykiskt obehagligt sätt (som i återkommande drömmar relaterade
+             till händelsen, påträngande minnesbilder eller flashbacks som om det hände en gång till)
+             eller har du fått intensiva fysiska eller psykiska reaktioner när du påmints om händelsen
+             eller utsatts för en liknande händelse?
+
+
+H3           Under den senaste månaden:
+
+       a     Har du ansträngt dig för att undvika att tänka på eller minnas plågsamma detaljer eller         NEJ   JA
+             känslor som är relaterade till händelsen?
+
+       b     Har du ansträngt dig för att undvika människor, samtal, platser, situationer, aktiviteter       NEJ   JA
+             eller saker som väcker obehagliga minnen av händelsen?
+
+                                                                                                             =>
+             HAR 1 ELLER FLERA H3-SVAR KODATS JA?                                                            NEJ   JA
+
+H4           Under den senaste månaden:
+
+       a     Har du haft svårigheter att minnas någon väsentlig del av traumat? (men inte p.g.a. eller       NEJ   JA
+             relaterat till huvudskada, alkohol eller droger).
+
+       b     Har du haft ihållande och orimligt negativa tankar om dig själv, om andra eller om              NEJ   JA
+             världen?
+
+       c     Har du ständigt skuldbelagt dig själv eller andra på ett orimligt sätt för den traumatiska      NEJ   JA
+             händelsen?
+
+       d     Har dina känslor alltid varit negativa (såsom rädsla, skräck, ilska, skuld eller skam)?         NEJ   JA
+
+       e     Har ditt intresse för att delta i aktiviteter som tidigare var betydelsefulla för dig minskat   NEJ   JA
+             betydligt?
+                                                                                                             
+       f     Har du känt dig isolerad från eller främmande inför andra människor?                            NEJ   JA
+
+       g     Har du varit oförmögen att uppleva positiva känslor (såsom lycka, tillfredsställelse eller      NEJ   JA
+             kärlek)?
+                                                                                                             =>
+             HAR 2 ELLER FLERA H4-SVAR KODATS JA?                                                            NEJ   JA
+H5           Under den senaste månaden:
+       a     Har du varit särskilt irritabel eller fått vredesutbrott redan vid liten eller obefintlig       NEJ   JA
+             provokation?
+       b     Har du varit mer vårdslös eller självdestruktiv?                                                NEJ   JA
+       c     Har du varit mer nervös eller överdrivet vaksam?                                                NEJ   JA
+
+       d     Har du varit mer lättskrämd?                                                                    NEJ   JA
+
+       e     Har du haft svårare att koncentrera dig?                                                         NEJ          JA
+
+       f     Har du haft svårare att sova?                                                                    NEJ          JA
+
+                                                                                                              =>
+             HAR 2 ELLER FLER H5-SVAR KODATS JA?                                                              NEJ          JA
+
+                                                                                                              =>
+H6           Började alla de här problemen efter den traumatiska händelsen och pågick de i mer än             NEJ          JA
+             en månad?
+
+
+H7           Under den senaste månaden, har dessa problem orsakat påtagliga besvär eller stört din          NEJ                 JA
+             förmåga att fungera hemma, på arbetet, i dina studier, socialt, i dina relationer, eller på
+             något annat viktigt sätt?                                                                       POSTTRAUMATISKT
+                                                                                                           STRESSYNDROM (PTSD)
+             och
+                                                                                                                PÅGÅENDE
+             HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?
+                                                                                                                      MED
+             ANGE OM DEPERSONALISATION, DEREALISATION ELLER EN FÖRDRÖJD DEBUT ÄR EN                        DEPERSONALISATION    []
+             DEL AV TILLSTÅNDET.                                                                           DEREALISATION        []
+                                                                                                           FÖRDRÖJD DEBUT       []
+
+
+
+
+                                                      I. ALKOHOLBRUKSYNDROM
+                          (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED NÄSTA AVSNITT)
+
+                                                                                                          =>
+I1           Under de senaste 12 månaderna, har du druckit 3 eller fler glas alkoholhaltig dryck inom     NEJ     JA
+             en 3-timmarsperiod vid 3 eller fler tillfällen?
+
+
+I2           Under de senaste 12 månaderna:
+
+       a     När du drack alkohol, brukade det bli så att du drack mer än du hade tänkt från början?      NEJ     JA
+
+       b     Har du upprepade gånger velat minska eller kontrollera din användning av alkohol?            NEJ     JA
+             Har du försökt minska eller kontrollera din användning av alkohol, men misslyckats?
+             VID JA PÅ NÅGON AV DESSA FRÅGOR, KODA JA.
+
+
+       c     De dagar du drack, lade du ner avsevärd tid på att skaffa alkohol, dricka eller att          NEJ     JA
+             återhämta dig från alkoholeffekterna?
+
+       d     Kände du ett sug eller starkt begär eller längtan efter att dricka alkohol?                  NEJ     JA
+
+       e     Ägnade du mindre tid åt att sköta dina plikter på arbetet, i dina studier eller hemma på     NEJ     JA
+             grund av ditt återkommande drickande?
+
+       f     Om ditt drickande ledde till problem med din familj eller andra människor, fortsatte du      NEJ     JA
+             att dricka ändå?
+
+       g     Har du varit alkoholpåverkad mer än en gång i någon situation där du eller andra varit       NEJ     JA
+             utsatt för en fysisk risk, exempelvis när du kört bil, motorcykel, båt, hanterat maskiner
+             etc.?
+
+       h     Fortsatte du använda alkohol, även fast det var tydligt att alkoholen orsakade eller         NEJ     JA
+             förvärrade psykiska eller fysiska problem?
+
+       i     Minskade du på, eller slutade helt med, viktiga arbetsuppgifter, sociala aktiviteter eller   NEJ     JA
+             fritidsnöjen på grund av ditt drickande?
+
+       j     Behövde du dricka mycket mer för att få samma effekt som du fick när du först började        NEJ     JA
+             dricka alkohol eller fick du mycket mindre effekt med fortsatt användning av samma
+             mängd?
+
+       k1 När du minskade på intensivt eller varaktigt drickande, fick du då något av följande:           NEJ     JA
+
+             1. ökad svettning eller förhöjd puls                                     []
+             2. skakiga händer eller ”dille”                                          []
+             3. svårt att sova                                                        []
+             4. illamående eller kräkningar                                           []
+             5. hörde eller såg du saker som andra människor inte kunde höra
+                eller se, eller hade du oförklarliga förnimmelser i huden             []
+             6. oro                                                                   []
+             7. ångest                                                                []
+             8. krampanfall                                                           []
+
+             VID JA PÅ 2 ELLER FLER AV DE OVANSTÅENDE 8, KODA k1 SOM JA.
+
+
+       k2 Drack du alkohol för att minska eller undvika abstinenssymtom eller för att undvika             NEJ     JA
+          baksmälla?
+
+             k-SUMMERING: OM JA PÅ k1 ELLER k2, KODA JA                                                   NEJ     JA
+
+
+
+             HAR 2 ELLER FLER I2-SVAR FR.O.M. I2a T.O.M. I2j OCH I2k-SUMMERING KODATS         NEJ                 JA
+             JA?
+                                                                                            ALKOHOLBRUKSYNDROM
+
+                                                                                            GÅNGNA 12 MÅNADERNA
+
+
+
+             DEFINITIONER FÖR ALKOHOLBRUKSYNDROM:                                         ANGE OM:
+
+
+                  LINDRIG = 2–3 AV DE 12 SYMTOMEN                                             LINDRIG        []
+                  MEDELSVÅR = 4–5 AV DE 12 SYMTOMEN                                           MEDELSVÅR      []
+                  SVÅR = 6 ELLER FLER AV DE 12 SYMTOMEN                                       SVÅR           []
+                  I TIDIG REMISSION = KRITERIER HAR INTE UPPFYLLTS PÅ 3 TILL 12 MÅNADER
+                  I VARAKTIG REMISSION = KRITERIER HAR INTE UPPFYLLTS PÅ 12 MÅNADER
+                                                                                           I TIDIG REMISSION      []
+                  ELLER MER (BÅDA MED UNDANTAG FÖR KRITERIUM d. – (BEGÄR) OVAN).           I VARAKTIG REMISSION   []
+
+                  I KONTROLLERAD MILJÖ = DÄR TILLGÅNGEN PÅ ALKOHOL ÄR BEGRÄNSAD           I KONTROLLERAD MILJÖ    []
+
+
+
+
+                                            J. SUBSTANSBRUKSYNDROM (EJ ALKOHOL)
+                          (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED NÄSTA AVSNITT)
+
+
+             Nu ska jag visa dig/läsa upp en lista på missbruksmedel eller läkemedel.
+                                                                                                                   =>
+J1     a     Har du under de senaste 12 månaderna tagit något av dessa medel mer än en enstaka                     NEJ              JA
+             gång för att bli ”hög”, euforisk, påtänd, eller för att förändra ditt humör?
+
+             RINGA IN VARJE MEDEL SOM ANVÄNTS:
+
+             Stimulantia: Amfetamin, metamfetamin, tjack, fattigmanskola, dos, speed, crystal, Dexedrine, Ritalin/Ritalina,
+             bantningspiller
+             Kokain: Koks, kola, koka, base, diesel, rocks, crack
+             Opiater: Heroin, varor, gryn, horse, jonk, smack, morfin, opium, metadon, kodein, China white, crocodile, metta,
+             Fortalgesic, Dilaudid, Treo Comp, Citodon, Fentanyl, Subutex, OxyContin
+             Hallucinogener: LSD, syra, meskalin, peyote, psilocybin, STP, svampar, ecstasy
+             Dissociativa droger: PCP (fencyklidin, angel dust), eller ketamin, GHB, GHL, Q-benz, hawaiiansk, mexikansk
+             Sniffningsmedel: Butan, boffa, lim, etylklorid, kväveoxidul, lustgas, amylnitrat, butylnitrat, poppers, bensin
+             Cannabis: Hasch, röka, brunt, B, brass, holk, grönt, ganja, joint
+             Sedativa: Stesolid, Sobril, Temesta, Xanor, Halcion, Rohypnol, roppar, flunitrazepam, fludder, bens, piller
+             Diverse: Anabola steroider, dek, ryssfemmor, 4 comp, Khat, receptfria sömn- eller bantningspiller. Hostmedicin? Något
+             annat?
+             VILKET/VILKA AV DESSA MEDEL HAR ANVÄNTS MEST? ________________________________________________
+
+             VILKET/VILKA AV DESSA MEDEL HAR SKAPAT MEST PROBLEM? _________________________________________
+
+             UNDERSÖK FÖRST KRITERIERNA NEDAN FÖR DEN DROGKLASS SOM GIVIT UPPHOV TILL STÖRST PROBLEM OCH MEST SANNOLIKT UPPFYLLER KRITERIERNA
+             FÖR SUBSTANSBRUKSYNDROM. OM FLERA DROGKLASSER HAR MISSBRUKATS, UNDERSÖK SÅ MÅNGA ELLER SÅ FÅ SOM KRÄVS FÖR PROTOKOLLET.
+
+J2           Angående ditt bruk av (NAMNET PÅ VALD DROG/DROGKLASS), under de senaste 12
+             månaderna:
+
+       a     De gånger då du använde drogen, blev det så att du använde mer ( NAMN PÅ VALD
+             DROG/DROGKLASS) än vad du hade tänkt från början?
+                                                                                                                   NEJ              JA
+       b     Har du upprepade gånger försökt använda mindre av eller kontrollera din användning av
+             (NAMN PÅ VALD DROG/DROGKLASS)? Har du försökt att använda mindre av eller kontrollera din
+             användning av (NAMN PÅ VALD DROG/DROGKLASS), men inte lyckats med detta?
+             VID JA PÅ NÅGON AV DESSA FRÅGOR, KODA JA.                                                             NEJ              JA
+
+       c     De dagar då du använde mer (NAMN PÅ VALD DROG/DROGKLASS), lade du ner avsevärt med tid
+             på att skaffa eller använda (NAMN PÅ VALD DROG/DROGKLASS ) eller att återhämta dig från
+             verkningarna?
+                                                                                                                   NEJ              JA
+       d     Kände du ett sug eller ett starkt begär eller längtan efter att använda (NAMN PÅ VALD
+             DROG/DROGKLASS)?
+                                                                                                                   NEJ              JA
+       e     Ägnade du mindre tid åt att sköta dina plikter på arbetet, i dina studier eller hemma på
+             grund av din upprepade användning av (NAMN PÅ VALD DROG/DROGKLASS)?
+                                                                                                                   NEJ              JA
+       f     Om din användning av (NAMN PÅ VALD DROG/DROGKLASS) ledde till problem med din familj
+             eller andra människor, fortsatte du att använda den ändå?
+                                                                                                                   NEJ              JA
+       g     Har du använt drogen mer än en gång i någon situation där du eller andra varit utsatt för
+             en fysisk risk, exempelvis när du kört bil, motorcykel, båt, hanterat maskiner etc.?
+
+                                                                                                          NEJ   JA
+       h     Fortsatte du använda (NAMN PÅ VALD DROG/DROGKLASS), även fast det var tydligt att (NAMN PÅ
+             VALD DROG/DROGKLASS) orsakade eller förvärrade psykiska eller fysiska problem?
+                                                                                                          NEJ   JA
+       i     Minskade du på, eller slutade helt med, viktiga arbetsuppgifter, sociala aktiviteter eller
+             fritidsnöjen på grund av din användning av (NAMN PÅ VALD DROG/DROGKLASS)?
+                                                                                                          NEJ   JA
+       j     Behövde du använda (NAMN PÅ VALD DROG/DROGKLASS) mycket mer för att få samma effekt
+             som du fick när du först började använda den eller fick du mycket mindre effekt med
+             fortsatt användning av samma mängd?
+             DET HÄR KRITERIET SKA KODAS NEJ OM LÄKEMEDLET ÄR FÖRSKRIVET OCH ANVÄNDS                      NEJ   JA
+             UNDER MEDICINSKT ÖVERINSEENDE.
+
+       k1 När du minskade på intensiv eller varaktig användning av drogen, fick du då något av
+          följande abstinenssymtom:
+             VID JA PÅ ERFORDERLIGT ANTAL ABSINENSSYMTOM FÖR VARJE DROGKLASS, KODA J2k1 SOM JA.           NEJ   JA
+             DET HÄR KRITERIET SKA KODAS NEJ OM LÄKEMEDLET ÄR FÖRSKRIVET OCH ANVÄNDS
+             UNDER MEDICINSKT ÖVERINSEENDE.
+
+             Sedativ, hypnotisk eller anxiolytisk (2 eller fler)
+             1. ökad svettning eller förhöjd puls                                                []
+             2. skakiga händer eller ”dille”                                                     []
+             3. svårt att sova                                                                   []
+             4. illamående eller kräkningar                                                      []
+             5. hörde eller såg du saker som andra människor inte kunde höra
+                eller se, eller hade du oförklarliga förnimmelser i huden                        []
+             6. oro                                                                              []
+             7. ångest                                                                           []
+             8. krampanfall                                                                      []
+
+             Opiater (3 eller fler)
+             1. nedstämdhet                                                                      []
+             2. illamående eller kräkningar                                                      []
+             3. muskelvärk                                                                       []
+             4. rinnande näsa eller tårögdhet                                                    []
+             5. vidgade pupiller, gåshud eller ”ståpäls”, eller svettningar                      []
+             6. diarré                                                                           []
+             7. gäspningar                                                                       []
+             8. värmevallning                                                                    []
+             9. svårt att sova                                                                   []
+
+             Stimulantia (2 eller fler)
+             1. trötthet                                                                         []
+             2. livliga eller obehagliga drömmar                                                 []
+             3. svårt att sova eller för mycket sömn                                             []
+             4. ökad aptit                                                                       []
+             5. känsla av eller enligt omgivningen fysisk eller mental tröghet                   []
+
+             Cannabis (3 eller fler)
+             1. retlighet, ilska eller aggression                                                []
+             2. nervositet eller ångest                                                          []
+             3. svårt att sova                                                                   []
+             4. minskad vikt eller aptit                                                         []
+             5. rastlöshet                                                                       []
+             6. nedstämdhet                                                                      []
+             7. påtagliga besvär från något av följande:
+             magont, skakningar eller ”dille”, svettningar, värmevallningar, frossa, huvudvärk   []
+
+
+       k2 Använde du (NAMN PÅ VALD DROG/DROGKLASS) för att minska eller undvika abstinenssymtom?          NEJ   JA
+
+             J2k-SUMMERING: VID JA PÅ J2k1 ELLER J2k2, KODA JA                                            NEJ   JA
+
+             HAR 2 ELLER FLER J2-SVAR FRÅN J2a TILL OCH MED J2k-SUMMERING KODATS JA?        NEJ                 JA
+             (J2k1 OCH J2k2 TILLSAMMANS RÄKNAS SOM ETT BLAND DESSA ALTERNATIV)
+                                                                                          SUBSTANSBRUKSYNDROM
+                                                                                          (namn på drog/drogklass)
+
+                                                                                          GÅNGNA 12 MÅNADERNA
+
+
+
+             DEFINITIONER FÖR SUBSTANSBRUKSYNDROM:                                      ANGE OM:
+
+
+                LINDRIG = 2–3 AV SYMTOMEN UNDER J2                                          LINDRIG        []
+                MEDELSVÅR = 4–5 AV SYMTOMEN UNDER J2                                        MEDELSVÅR      []
+                SVÅR = 6 ELLER FLER AV SYMTOMEN UNDER J2                                    SVÅR           []
+                I TIDIG REMISSION = KRITERIER HAR INTE UPPFYLLTS PÅ 3 TILL 12 MÅNADER
+                I VARAKTIG REMISSION = KRITERIER HAR INTE UPPFYLLTS PÅ 12 MÅNADER
+                                                                                         I TIDIG REMISSION      []
+                ELLER MER (BÅDA MED UNDANTAG FÖR KRITERIUM d. – (BEGÄR) OVAN).           I VARAKTIG REMISSION   []
+
+                I EN KONTROLLERAD MILJÖ = DÄR TILLGÅNGEN PÅ SUBSTANSER/DROGER ÄR        I KONTROLLERAD MILJÖ    []
+                BEGRÄNSAD
+
+
+
+
+           K. PSYKOTISKA SYNDROM OCH AFFEKTIVA SYNDROM MED PSYKOTISKA SYMTOM
+BE OM ETT EXEMPEL FÖR VARJE FRÅGA SOM BEJAKAS. KODA JA ENBART OM EXEMPLEN TYDLIGT VISAR PÅ TANKE- ELLER PERCEPTIONSMÄSSIG VANFÖRESTÄLLNING
+ELLER OM DE ÄR KULTURELLT AVVIKANDE. SYFTET MED DETTA AVSNITT ÄR ATT KUNNA UTESLUTA PATIENTER MED PSYKOTISKA SYNDROM. DETTA AVSNITT KRÄVER
+ERFARENHET.
+
+             Nu ska jag fråga dig om ovanliga upplevelser som en del människor har.
+
+K1     a     Har du någon gång trott att folk spionerade på dig, eller att någon konspirerade mot dig        NEJ               JA
+             eller försökte skada dig?
+             ANMÄRKNING: BE OM EXEMPEL FÖR ATT UTESLUTA ATT PATIENTEN FAKTISKT ÄR FÖRFÖLJD.
+
+       b     OM JA: Tror du för närvarande att det är så?                                                    NEJ               JA
+
+
+K2     a     Har du någonsin trott att någon läste dina tankar eller kunde höra dina tankar eller att        NEJ               JA
+             du själv faktiskt kunde läsa någons tankar eller höra vad någon annan person tänkte?
+
+       b     OM JA: Tror du för närvarande att det är så?                                                    NEJ               JA
+
+
+K3     a     Har du någonsin trott att någon person eller kraft utanför dig själv satte in tankar i ditt     NEJ               JA
+             huvud som inte var dina egna, eller fick dig att bete dig på ett sätt som kändes
+             främmande för dig? Har du någonsin känt dig som om du vore besatt?
+             KLINIKER: BE OM EXEMPEL OCH UTESLUT ALLT SOM INTE ÄR PSYKOTISKT.
+
+
+       b     OM JA: Tror du för närvarande att det är så?                                                    NEJ               JA
+
+
+K4     a     Har du någonsin trott att du fått speciella meddelanden på TV, i radio, internet,               NEJ               JA
+             dagstidningar, tidskrifter eller böcker, eller att någon person som du inte varit
+             personligen bekant med varit särskilt intresserad av dig?
+
+       b     OM JA: Tror du för närvarande att det är så?                                                    NEJ               JA
+
+
+K5     a     Har dina vänner eller släktingar någonsin tyckt att sådant som du tror på är konstigt eller     NEJ               JA
+             ovanligt?
+             INTERVJUARE: BE OM EXEMPEL. KODA JA ENBART OM EXEMPLEN ÄR UPPENBARA VANFÖRESTÄLLNINGAR
+             SOM INTE UNDERSÖKTS I K1–K4 SOM T.EX. RELIGIÖSA, DÖDS- ELLER SJUKDOMSRELATERADE ELLER
+             SOMATISKA VANFÖRESTÄLLNINGAR ELLER VANFÖRESTÄLLNINGAR OM GRANDIOSITET, SVARTSJUKA ELLER
+             SKULD, ELLER OM MISSLYCKANDE, BRIST, UNDERGÅNG ELLER NÖD, ELLER NIHILISTISKA
+             VANFÖRESTÄLLNINGAR.
+
+       b     OM JA: Tycker de för närvarande att det du tror är konstigt eller ovanligt?                     NEJ               JA
+
+K6     a     Har du någonsin hört saker som andra inte kunnat höra, såsom röster?                            NEJ               JA
+
+             OM JA FÖR HÖRSELHALLUCINOS: Hörde du en röst som kommenterade dina tankar eller                 NEJ               JA
+             ditt beteende, eller hörde du två eller fler röster som pratade med varandra?
+
+       b     OM JA FÖR K6a: Har du hört ljud/röster under den senaste månaden?                               NEJ               JA
+
+             OM JA FÖR HÖRSELHALLUCINOS: Hörde du en röst som kommenterade dina tankar eller                 NEJ               JA
+             ditt beteende, eller hörde du två eller fler röster som pratade med varandra?
+
+
+
+
+K7     a     Har du någonsin haft syner i vaket tillstånd eller någon gång sett saker som andra inte    NEJ              JA
+             kunnat se?
+             KLINIKER: UNDERSÖK OM DESSA ÄR KULTURELLT AVVIKANDE.
+
+       b     OM JA: Har du sett något sådant under den senaste månaden?                                 NEJ              JA
+
+             KLINIKERNS BEDÖMNING
+
+K8     a     HAR PATIENTEN NÅGONSIN I DET FÖRFLUTNA UPPVISAT OSORTERAT, SPLITTRAT ELLER                 NEJ              JA
+             URSPÅRAT TAL, ELLER MARKANT UPPLUCKRADE ASSOCIATIONER?
+
+K8     b     UPPVISAR PATIENTEN FÖR NÄRVARANDE SPLITTRING, OSORTERAT ELLER URSPÅRAT TAL                 NEJ              JA
+             ELLER MARKANT UPPLUCKRADE ASSOCIATIONER?
+
+K9     a     HAR PATIENTEN NÅGONSIN I DET FÖRFLUTNA UPPVISAT DESORGANISERAT ELLER                       NEJ              JA
+             KATATONT BETEENDE?
+
+K9     b     VISAR PATIENTEN FÖR NÄRVARANDE DESORGANISERAT ELLER KATATONT BETEENDE?                     NEJ              JA
+
+K10 a        HAR PATIENTEN NÅGONSIN I DET FÖRFLUTNA HAFT NEGATIVA SYMTOM, T.EX.                         NEJ              JA
+             BETYDANDE MINSKNING AV KÄNSLOUTTRYCK, KÄNSLOMÄSSIG AVTRUBBNING,
+             SPRÅKLIG TORFTIGHET (ALOGI) ELLER OFÖRMÅGA ATT STARTA ELLER FORTSÄTTA MED
+             MÅLINRIKTADE AKTIVITETER (AVOLITION)?
+
+K10 b        ÄR NEGATIVA SCHIZOFRENISYMTOM SÅSOM PÅTAGLIG MINSKNING I KÄNSLOUTTRYCK                     NEJ              JA
+             ELLER KÄNSLOMÄSSIG AVTRUBBNING, TORFTIGT SPRÅK (ALOGI) ELLER OFÖRMÅGA ATT
+             STARTA ELLER FORTSÄTTA MED MÅLINRIKTADE AKTIVITETER (AVOLITION),
+             FRAMTRÄDANDE UNDER INTERVJUN?
+
+K11 a        HAR 1 ELLER FLERA ”a”-FRÅGOR FRÅN K1a TILL K7a KODATS JA?
+
+             OCH HAR ANTINGEN:
+
+             EGENTLIG DEPRESSIONSEPISOD (PÅGÅENDE, ÅTERKOMMANDE ELLER TIDIGARE)
+             ELLER
+             MANISK ELLER HYPOMAN EPISOD (PÅGÅENDE ELLER TIDIGARE) KODATS JA?                           NEJ              JA
+                                                                                                         K13
+             HUR LÄNGE VARADE FÖRSTÄMNINGSEPISODEN? _________
+             HUR LÄNGE VARADE DEN PSYKOTISKA EPISODEN? _________
+             OM EN SÅDAN FÖRSTÄMNINGSEPISOD FÖRELIGGER, MÅSTE DEN FÖRELIGGA UNDER
+             MERPARTEN AV DE PSYKOTISKA SYMTOMENS SAMMANLAGDA TID, INNEFATTANDE
+             AKTIVA PERIODER OCH RESTTILLSTÅND. KODA ANNARS NEJ PÅ K11a.
+
+             OM SVARET ÄR NEJ PÅ K11a RINGA IN NEJ I BÅDA DIAGNOSRUTORNA
+             FÖR ”FÖRSTÄMNINGSSYNDROM MED PSYKOTISKA SYMTOM” OCH GÅ TILL K13.
+
+
+       b     Du berättade tidigare för mig att du har haft en period eller perioder när du känt dig    NEJ                    JA
+             (deprimerad/upprymd/ständigt retlig).
+
+             Var de uppfattningar och erfarenheter som du nyss beskrev (SYMTOM KODADE JA FRÅN            FÖRSTÄMNINGS-
+             K1a TILL K7a) helt begränsade till tider då du kände dig deprimerad/upprymd/retlig?          SYNDROM MED
+                                                                                                       PSYKOTISKA SYMTOM
+             OM PATIENTEN NÅGONSIN HAFT EN PERIOD SOM VARAT I MINST 2 VECKOR MED DESSA
+             UPPFATTNINGAR ELLER ERFARENHETER (PSYKOTISKA SYMTOM) UTAN ATT SAMTIDIGT
+             VARA DEPRIMERAD/UPPSTÄMD/RETLIG, KODA NEJ FÖR DETTA SYNDROM.                                     NÅGONSIN
+             OM SVARET ÄR NEJ FÖR DENNA GRUPP AV SYNDROM, RINGA OCKSÅ IN NEJ FÖR K12
+             OCH GÅ TILL K13.
+
+
+K12 a        HAR 1 ELLER FLERA ”b”-FRÅGOR FRÅN K1b TILL K7b KODATS JA OCH HAR ANTINGEN:    NEJ              JA
+
+                        EGENTLIG DEPRESSIV EPISOD (PÅGÅENDE)
+                        ELLER                                                               FÖRSTÄMNINGS-
+                        MANISK ELLER HYPOMAN EPISOD (PÅGÅENDE) KODATS JA?                    SYNDROM MED
+                                                                                          PSYKOTISKA SYMTOM
+             OM SVARET ÄR JA FÖR DETTA SYNDROM (NÅGONSIN ELLER PÅGÅENDE), RINGA IN NEJ
+             FÖR K13 OCH K14 OCH GÅ VIDARE TILL NÄSTA AVSNITT.
+                                                                                                 PÅGÅENDE
+
+
+K13          HAR 1 ELLER FLERA ”b”-FRÅGOR FRÅN K1b TILL K8b KODATS JA?                     NEJ              JA
+             OCH
+                                                                                          PSYKOTISKT SYNDROM
+             HAR 2 ELLER FLER ”b”-FRÅGOR FRÅN K1b TILL K10b KODATS JA?
+                                                                                               PÅGÅENDE
+             OCH INTRÄFFADE MINST TVÅ AV DE PSYKOTISKA SYMTOMEN UNDER EN
+             ENMÅNADSPERIOD?
+
+             OCH
+
+             HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?
+
+
+
+K14          HAR K13 KODATS JA                                                             NEJ              JA
+             ELLER
+                                                                                          PSYKOTISKT SYNDROM
+             (HAR 1 ELLER FLERA ”a”-FRÅGOR FRÅN K1a TILL K8a KODATS JA?
+                                                                                               NÅGONSIN
+             OCH
+
+             HAR 2 ELLER FLER ”a”-FRÅGOR FRÅN K1a TILL K10a KODATS JA
+
+             OCH INTRÄFFADE MINST TVÅ AV DE PSYKOTISKA SYMTOMEN UNDER EN
+             ENMÅNADSPERIOD?)
+
+             OCH
+
+             HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?
+
+
+
+
+                                                           L. ANOREXIA NERVOSA
+                          (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED NÄSTA AVSNITT)
+
+
+L1     a     Hur lång är du?                                                                                                ft               tum
+                                                                                                                                             cm
+       b     Vad vägde du som lägst under de senaste 3 månaderna?                                                                            pund
+                                                                                                                                             kg
+                                                                                                                      =>
+       c     VÄGER PATIENTEN LIKA MYCKET ELLER MINDRE ÄN TRÖSKELVÄRDET MOTSVARANDE                                    NEJ             JA
+             HANS/HENNES LÄNGD? (SE TABELLEN NEDAN)
+
+
+             Under de senaste 3 månaderna:
+                                                                                                                      =>
+L2           Har du, trots att du vägt så lite, försökt att inte gå upp i vikt eller att begränsa ditt matintag? NEJ                  JA
+                                                                                                                      =>
+L3           Har du varit väldigt rädd för att gå upp i vikt eller för att bli tjock fast du var underviktig?         NEJ             JA
+
+L4     a     Har du tyckt att du varit för stor/tjock eller att någon del av din kropp varit för stor/tjock?          NEJ             JA
+
+       b     Har din vikt eller kroppsform påverkat din självkänsla i hög grad?                                       NEJ             JA
+
+       c     Har du upplevt din nuvarande låga vikt som normal eller för hög?                                         NEJ             JA
+                                                                                                                      =>
+L5           HAR 1 ELLER FLER L4-FRÅGOR KODATS JA?                                                                    NEJ             JA
+
+
+             HAR L5 KODATS JA?                                                                                        NEJ                    JA
+
+                                                                                                                      ANOREXIA NERVOSA
+                                                                                                                         PÅGÅENDE
+
+                                                                                2
+TRÖSKELVÄRDEN FÖR LÄNGD OCH VIKT MOTSVARANDE ETT BMI på 17,0 kg/m
+
+Längd (cm)/Vikt (kg)
+ft/tum 4’9       4’10               4’11   5’0     5’1      5’2       5’3       5’4       5’5      5’6          5’7         5’8        5’9   5’10
+pund 79          82                 84     87      90       93        96        99        102      106          109         112        115   119
+cm      145      147                150    152     155      158       160       163       165      168          170         173        175   178
+kg      36       37                 38.5   39.5    41       42.5      43.5      45.5      46.5     48           49          51         52    54
+
+Längd (cm)/Vikt (kg)
+ft/tum 5’11      6’0                6’1    6’2     6’3
+pund 122         125                129    133     136
+cm      180      183                185    188     191
+kg      55       57                 58.5   60      62
+                                                                                                                                  2
+Ovanstående tröskelvärden för vikt har beräknats som ett kroppsmasseindex (BMI) lika med eller lägre än 17,0 kg/m för patientens längd
+med hjälp av Center of Disease Control & Prevention BMI Calculator. Detta är tröskelvärdet under vilken en person bedöms ”underviktig”
+enligt DSM-5, för Anorexia Nervosa.
+
+
+
+
+                                                           M. BULIMIA NERVOSA
+                (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTORNA, RINGA IN NEJ I SAMTLIGA OCH FORTSÄTT MED NÄSTA AVSNITT)
+
+
+M1           Under de senaste tre månaderna, har du hetsätit eller proppat i dig stora mängder mat           NEJ             JA
+             under loppet av en 2-timmarsperiod?                                                              M3
+
+M2           När du hetsåt, kände du då att du förlorat kontrollen över ditt ätande?                         NEJ             JA
+
+                                                                                                             =>
+M3           Gjorde du något för att motverka eller förhindra att du gick upp i vikt, som att kräkas,        NEJ             JA
+             fasta, motionera eller ta laxermedel, lavemang, vätskedrivande medel eller andra
+             läkemedel? Gjorde du detta så ofta som en gång i veckan?
+
+             KODA JA PÅ M3 ENDAST OM SVARET PÅ BÅDA DESSA M3-FRÅGOR ÄR JA.
+
+M3 a         Antal episoder per vecka av olämpliga kompensatoriska beteenden:                   _______
+
+             Antal dagar per vecka med olämpliga kompensatoriska beteenden:                     _______
+                                                                                                             =>
+M4           Under de senaste 3 månaderna, har du hetsätit så ofta som en gång i veckan?                     NEJ             JA
+
+                                                                                                             =>
+M5           Påverkar din vikt eller kroppsform i hög grad din självkänsla?                                  NEJ             JA
+
+M6           UPPFYLLER PATIENTENS SYMTOM KRITERIERNA FÖR ANOREXIA NERVOSA?                                   NEJ             JA
+                                                                                                             
+                                                                                                             Hoppa till M8
+
+M7           Inträffar hetsätandet bara när du väger under (__________pund/kg)?                              NEJ             JA
+             INTERVJUARE: I PARENTESEN OVAN, FYLL I TRÖSKELVÄRDET FÖR PATIENTENS LÄNGD ENLIGT
+             LÄNGD/VIKTTABELLEN I AVSNITTET OM ANOREXIA NERVOSA.
+
+
+
+                                                                                                           NEJ                    JA
+M8           HAR M5 KODATS JA OCH HAR ANTINGEN M6 ELLER M7 KODATS NEJ?
+                                                                                                            BULIMIA NERVOSA
+                                                                                                               PÅGÅENDE
+
+
+
+             HAR M7 KODATS JA?                                                                             NEJ                    JA
+
+                                                                                                           ANOREXIA NERVOSA
+                                                                                                                    Med
+                                                                                                          hetsätning/självrensning
+                                                                                                                PÅGÅENDE
+
+
+
+
+             UPPFYLLER PATIENTENS SYMTOM KRITERIERNA FÖR ANOREXIA NERVOSA?
+                                                                                                NEJ                       JA
+             OCH
+                                                                                                ANOREXIA NERVOSA
+             HAR M2 OCH M3 KODATS NEJ?
+                                                                                                  Med självsvält
+                                                                                                   PÅGÅENDE
+
+
+
+             DEFINITIONER FÖR ÄTSTÖRNING:                                                    ANGE OM:
+
+
+             LINDRIG = 1–3 EPISODER AV OLÄMPLIGA KOMPENSATORISKA BETEENDEN                         LINDRIG           []
+             MEDELSVÅR = 4–7 EPISODER AV OLÄMPLIGA KOMPENSATORISKA BETEENDEN                       MEDELSVÅR         []
+             SVÅR = 8–13 EPISODER AV OLÄMPLIGA KOMPENSATORISKA BETEENDEN                           SVÅR              []
+             MYCKET SVÅR = 14 ELLER FLER EPISODER AV OLÄMPLIGA KOMPENSATORISKA                     MYCKET SVÅR       []
+             BETEENDEN
+
+
+
+
+                                                   MB. HETSÄTNINGSSTÖRNING
+              (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ I DIAGNOSRUTAN OCH FORTSÄTT MED NÄSTA AVSNITT)
+
+
+                                                                                                                     =>
+MB 1         UPPFYLLER PATIENTENS SYMTOM KRITERIERNA FÖR ANOREXIA NERVOSA?                         NEJ               JA
+                                                                                                                     =>
+MB 2         UPPFYLLER PATIENTENS SYMTOM KRITERIERNA FÖR BULIMIA NERVOSA?                          NEJ               JA
+                                                                                                   =>
+MB 3         M2 HAR KODATS JA                                                                      NEJ               JA
+
+
+                                                                                                                     =>
+MB 4         M3 HAR KODATS JA                                                                      NEJ               JA
+
+                                                                                                   =>
+MB 5         M4 HAR KODATS JA                                                                      NEJ               JA
+
+             Under de senaste 3 månaderna av hetsätandet:
+
+MB 6a Åt du fortare än vanligt?                                                                    NEJ               JA
+
+MB 6b Åt du tills du var obehagligt mätt?                                                          NEJ               JA
+
+MB 6c Åt du stora mängder mat fastän du inte var hungrig?                                          NEJ               JA
+
+MB 6d Åt du i ensamhet därför att du skämdes över hur mycket du åt?                                NEJ               JA
+
+MB 6e Kände du dig skamsen, deprimerad eller äcklad över dig själv efter hetsätandet?              NEJ               JA
+
+                                                                                                   =>
+             HAR 3 ELLER FLER MB6-FRÅGOR KODATS JA?                                                NEJ               JA
+
+
+
+
+                                                                               =>
+MB 7         Besvärar dig ditt hetsätande mycket?                              NEJ           JA
+
+MB 8         Antal episoder av hetsätande per vecka:       ______
+
+             Antal dagar av hetsätande per vecka:          ______
+
+
+
+             HAR MB7 KODATS JA?                                              NEJ                  JA
+
+                                                                            HETSÄTNINGSSTÖRNING
+
+                                                                                   PÅGÅENDE
+
+
+
+             DEFINITIONER FÖR ÄTSTÖRNING:                                   ANGE OM:
+
+
+             LINDRIG = 1–3 EPISODER AV HETSÄTANDE PER VECKA                    LINDRIG       []
+             MEDELSVÅR = 4–7 EPISODER AV HETSÄTANDE PER VECKA                  MEDELSVÅR     []
+             SVÅR = 8–13 EPISODER AV HETSÄTANDE PER VECKA                      SVÅR          []
+             MYCKET SVÅR = 14 ELLER FLER EPISODER AV HETSÄTANDE PER VECKA      MYCKET SVÅR   []
+
+
+
+
+                                            N. GENERALISERAT ÅNGESTSYNDROM
+                          (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED NÄSTA AVSNITT)
+
+                                                                                                                =>
+N1     a     Har du varit överdrivet oroad eller ängslig för flera rutinsaker under de senaste 6                NEJ         JA
+             månaderna?
+             OM PATIENTEN ÄR OSÄKER PÅ VAD DU MENAR, UNDERSÖK GENOM ATT FRÅGA (Tycker
+             andra att du är ”en som oroar sig”?) OCH BE OM EXEMPEL.
+                                                                                                                =>
+       b     Infinner sig denna ängslan och oro de flesta dagar?                                                NEJ         JA
+                                                                                                                            =>
+             ÄR PATIENTENS ÄNGSLAN OCH ORO UTESLUTANDE BEGRÄNSAD TILL,                                          NEJ         JA
+             ELLER FÖRKLARAS DEN BÄTTRE AV, NÅGOT TIDIGARE GENOMGÅNGET SYNDROM?
+
+                                                                                                                =>
+N2           Tycker du att det är svårt att kontrollera denna oro?                                              NEJ         JA
+N3           KODA NEJ FÖR FÖLJANDE FRÅGOR OM SYMTOMEN ÄR BEGRÄNSADE TILL SYMTOM AV NÅGOT TIDIGARE
+             GENOMGÅNGET SYNDROM.
+
+             När du var ängslig under de senaste 6 månaderna, var det så att du för det mesta:
+       a     Kände dig rastlös, uppskruvad eller spänd?                                                         NEJ         JA
+       b     Hade du muskelspänningar?                                                                          NEJ         JA
+       c     Kände dig trött, svag eller lätt blev uttröttad?                                                   NEJ         JA
+       d     Hade svårt att koncentrera dig eller blev alldeles tom i huvudet?                                  NEJ         JA
+       e     Kände du dig retlig?                                                                               NEJ         JA
+       f     Hade du problem med sömnen (svårt att somna, vaknade upp mitt i natten, vaknade                    NEJ         JA
+             alldeles för tidigt på morgonen eller sov alldeles för mycket)?
+                                                                                                                =>
+             HAR 3 ELLER FLER N3-SVAR KODATS JA?                                                                NEJ         JA
+
+
+N4           Stör denna oro och dessa bekymmer avsevärt din förmåga att arbeta, att fungera socialt        NEJ                   JA
+             eller i relationer eller i andra viktiga områden av ditt liv, eller orsakar de avsevärda
+             besvär för dig?                                                                                 GENERALISERAT
+                                                                                                            ÅNGESTSYNDROM
+             HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?
+                                                                                                               PÅGÅENDE
+
+ O. UTESLUTNING AV MEDICINSK, ORGANISK ELLER DROGRELATERAD GENES FÖR ALLA SYNDROM
+             OM PATIENTEN KODAT POSITIVT FÖR NÅGOT PÅGÅENDE SYNDROM ELLER EGENTLIG
+             DEPRESSIONSEPISOD ELLER FÖR MANISK ELLER HYPOMAN EPISOD, FRÅGA:
+             Strax innan dessa symtom började:
+O1     a     Tog du då några droger eller mediciner eller hade abstinens från några sådana?             [] Nej     [] Ja   [] Osäkert
+
+O1     b     Hade du någon medicinsk sjukdom?                                                           [] Nej     [] Ja   [] Osäkert
+
+O2           OM O1a ELLER O1b HAR KODATS JA, ÄR NÅGOT AV DEM EN SANNOLIK ORSAK TILL
+             PATIENTENS TILLSTÅND, ENLIGT KLINIKERNS BEDÖMNING? VID BEHOV STÄLLS ÖPPNA
+             TILLÄGGSFRÅGOR.                                                                            [] Nej     [] Ja   [] Osäkert
+       O2-SAMMANFATTNING: HAR EN ORGANISK/MEDICINSK ELLER DROGRELATERAD GENES
+       UTESLUTITS                                                                    [] Nej                        [] Ja   [] Osäkert
+       OM O2 HAR BESVARATS JA, DÅ BLIR O2-SUMMERING NEJ. OM O2 HAR BESVARATS NEJ, DÅ
+       BLIR O2-SUMMERING JA.
+       I ÖVRIGA FALL ÄR DET OSÄKERT.
+
+                                            P. PERSONLIGHETSSYNDROM, ANTISOCIAL
+                                          (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN OCH RINGA IN NEJ)
+
+P1           Före 15 års ålder, hände det att du:
+
+       a     Upprepade gånger skolkade från skolan eller rymde hemifrån över natten eller stannade               NEJ        JA
+             ute på kvällen/natten mot dina föräldrars regler?
+
+       b     Upprepade gånger ljög, fuskade, lurade andra eller stal eller bröt dig in i någons bostad           NEJ        JA
+             eller bil?
+
+       c     Startade slagsmål eller mobbade, hotade eller skrämde andra?                                        NEJ        JA
+
+       d     Avsiktligt förstörde saker eller anlade bränder?                                                    NEJ        JA
+
+       e     Avsiktligt gjorde djur eller människor illa?                                                        NEJ        JA
+
+       f     Tvingade någon till en sexuell handling?                                                            NEJ        JA
+                                                                                                                 =>
+             HAR 2 ELLER FLER P1-SVAR KODATS JA?                                                                 NEJ        JA
+
+             KODA INTE JA FÖR NEDANSTÅENDE BETEENDEN OM DE ENBART BETINGAS AV POLITISKA
+             ELLER RELIGIÖSA MOTIV.
+
+P2           Efter 15 års ålder, har det hänt att du:
+
+       a     Gjort olagliga saker eller saker som man kan bli gripen för, antingen du åkte fast eller ej         NEJ        JA
+             (till exempel vandalisering, snatteri, stöld, narkotikahandel eller något ännu grövre
+             brott)?
+
+       b     Ofta ljugit eller bedragit andra människor för att du haft lust eller för vinnings skull eller      NEJ        JA
+             ljugit bara för skojs skull?
+
+       c     Varit impulsiv och inte brytt dig om att planera framåt?                                            NEJ        JA
+
+       d     Varit i slagsmål upprepade gånger eller angripit andra (inklusive slagsmål med din                  NEJ        JA
+             maka/make/sambo eller dina barn)?
+
+       e     Utsatt andra eller dig själv för fara utan att bry dig?                                             NEJ        JA
+
+       f     Upprepade gånger gjort sådant som andra skulle betrakta som ansvarslöst, som att inte               NEJ        JA
+             betala vad du är skyldig, avsiktligt struntat i att behärska dig eller avsiktligt låtit bli att
+             försörja dig?
+
+       g     Inte haft samvetskval efter att ha skadat andra, behandlat andra illa, ljugit, stulit eller         NEJ        JA
+             vandaliserat?
+
+
+             HAR 3 ELLER FLER P2-FRÅGOR KODATS JA?                                                             NEJ               JA
+
+                                                                                                                  PERSONLIGHETS-
+                                                                                                               SYNDROM, ANTISOCIAL
+                                                                                                                    NÅGONSIN
+
+
+
+                                                           HÄR AVSLUTAS INTERVJUN
+
+
+                                   DIAGNOSTISK ALGORITM FÖR FÖRSTÄMNINGSSYNDROM
+
+Se efter i avsnitten:                     A   Egentlig depressionsepisod
+                                          C   Manisk/hypoman episod
+                                          K   Psykotiska syndrom
+
+
+AVSNITT K:
+
+    1 a      HAR K11b KODATS JA?                                                   NEJ     JA
+    1 b      HAR K12a KODATS JA?                                                   NEJ     JA
+
+
+AVSNITT A och C:                                                             Pågående    Tidigare
+
+2      a     SVARA JA OM EN VANFÖRESTÄLLNING FINNS I A3e                           JA      JA
+             ELLER NÅGOT PSYKOTISKT SYMTOM VID K1 TILL OCH MED K7
+
+       b     SVARA JA OM EN VANFÖRESTÄLLNING FINNS I C3a                           JA      JA
+             ELLER NÅGOT PSYKOTISKT SYMTOM VID K1 TILL OCH MED K7
+
+       c     Har Egentlig depressionsepisod kodats JA (pågående eller tidigare)?                     EGENTLIG DEPRESSION
+              och
+             Har Manisk episod kodats NEJ (pågående och tidigare)?
+              och                                                                                                Pågående Tidigare
+             Har Hypoman episod kodats NEJ (pågående och tidigare)?                                 Egentlig
+                                                                                                    depression       []       []
+              och
+             Har ”Uteslut organisk orsak (O2-SUMMERING)” kodats JA?                                     Med psykotiska symtom
+                                                                                                    Pågående             []
+                                                                                                    Tidigare             []
+             Specificera:
+              Om depressionsepisoden är pågående eller tidigare eller båda
+
+              Med psykotiska symtom pågående: Om 1b eller 2a (pågående) = JA
+               Med psykotiska symtom tidigare: Om 1a eller 2a (tidigare) = JA
+
+
+
+
+       d     Har Manisk episod kodats JA (pågående eller tidigare)?                                                BIPOLÄR I
+              och
+             Har ”Uteslut organisk orsak (O2-SUMMERING)” kodats JA?
+                                                                                                                  Pågående Tidigare
+             Specificera:                                                                             Bipolär I      []          []
+                                                                                                      En enstaka
+              Om det Bipolära I-tillståndet är pågående eller tidigare eller båda
+                                                                                                      manisk episod []           []
+              Med En enstaka manisk episod: Om Manisk episod (pågående eller tidigare) = JA
+               och Egentlig depressionsepisod (pågående eller tidigare) = NEJ                             Med psykotiska symtom
+                                                                                                      Pågående             []
+              Med Psykotiska symtom (pågående): Om 1b eller 2a (pågående) eller 2b (pågående)        Tidigare             []
+               = JA
+               Med Psykotiska symtom (tidigare): Om 1a eller 2a (tidigare) eller 2b (tidigare) = JA       Allra senaste episoden
+                                                                                                      Manisk                []
+              Om den allra senaste episoden är manisk, depressiv,                                    Depressiv             []
+               eller hypoman eller ospecificerad (alla ömsesidigt uteslutande)                        Hypoman               []
+                                                                                                      Ospecificerad         []
+             Den senaste episoden ospecificerad om den tidigare maniska episoden har kodats JA
+                                                                                                           Allra senaste episoden
+                                                           OCH                                        Lindrig                []
+                                                                                                      Medelsvår              []
+             (Om några pågående C3-symtom har kodats JA och pågående C3-SUMMERING har                 Svår                   []
+             kodats NEJ)
+
+                                                           ELLER
+
+             (Om pågående C3-SUMMERING har kodats JA
+             OCH
+             om diagnosrutan för pågående Manisk episod har kodats NEJ pågående)
+
+
+       e     Har Egentlig depressionsepisod kodats JA (pågående eller tidigare)?                                   BIPOLÄR II
+             och
+             Har Hypoman episod kodats JA (pågående eller tidigare)?
+             och
+                                                                                                                    Pågående    Tidigare
+             Har Manisk episod kodats NEJ (pågående och tidigare)?
+                                                                                                      Bipolär II       []           []
+             och
+             Har ”Uteslut organisk orsak (O2-SUMMERING)” kodats JA?
+                                                                                                          Allra senaste episoden
+             Specificera:                                                                             Manisk                []
+                                                                                                      Depressiv             []
+              Om det Bipolära tillståndet är pågående eller tidigare eller båda                      Hypoman               []
+                                                                                                      Ospecificerad         []
+              Om den allra senaste förstämningsepisoden är hypoman eller depressiv (ömsesidigt
+               uteslutande varandra)
+                                                                                                           Allra senaste episoden
+              Senaste episoden ospecificerad om den tidigare maniska/hypomana episoden               Lindrig                []
+               har kodats JA                                                                          Medelsvår              []
+                                                                                                      Svår                   []
+                                                           OCH
+
+             (Om några pågående C3-symtom har kodats JA och pågående C3-SUMMERING har
+             kodats NEJ)
+                                                           ELLER
+             (Om pågående C3-SUMMERING har kodats JA
+             OCH
+             om diagnosrutan för pågående hypoman episod har kodats NEJ pågående)
+
+
+
+
+       f     Har Egentlig depressionsepisod kodats NEJ (pågående och tidigare)                                    BIPOLÄR,
+                och
+             Har Manisk episod kodats NEJ (pågående och tidigare)
+                                                                                                                OSPECIFICERAD
+                och
+                                                                                                                     Pågående   Tidigare
+             Har C4b kodats JA för rätt tidsram
+                och
+                                                                                                          Bipolär,        []        []
+             Har C8b kodats JA?
+                                                                                                          Ospecificerad
+
+                                              eller
+
+
+             Har Manisk episod kodats NEJ (pågående och tidigare)
+                 och
+             Har Hypoman episod kodats NEJ (pågående och tidigare)
+                 och
+             har C4a kodats JA för rätt tidsram
+                 och
+             Har C8c kodats JA?
+
+             Ange om det Bipolära ospecificerade tillståndet är pågående eller tidigare eller både och.
+
+
+
+
+                  VALFRIA BEDÖMNINGSSKALOR FÖR ATT FÖLJA FÖRÄNDRINGAR ÖVER TID
+
+
+                                          A: SKATTNING AV GRÄNSÖVERSKRIDANDE SYMTOM
+
+
+                                                       SYMTOMENS ALLVARLIGHETSGRAD
+
+  Använd den här skalan för att skatta allvarlighetsgraden för ditt symtom i poängkolumnen i tabellen nedan:
+                    Förekommer               Lindrig             Medelsvår           Svår        Mycket svår
+                        inte
+
+
+
+
+                                    Bedömning av symtom som återfinns hos flera syndrom
+
+                                                     Symtomets namn                                            Poäng
+     1         Nedstämdhet
+     2         Ilska
+               Mani (att känna sig ”uppvarvad, ”hög”, ”hyper” eller full av energi, med skenande
+     3
+               tankar)
+     4         Ångest
+     5         Fysiska (somatiska) symtom
+     6         Självmordstankar (att ha NÅGRA SOM HELST tankar på att ta sitt liv)
+               Höra ljud eller röster som andra inte kan höra, eller vara rädd för att någon kan höra
+     7         eller läsa dina tankar, eller tro på saker andra inte kan godta som sanna, t.ex. att folk
+               spionerar på dig eller konspirerar mot dig eller pratar om dig (Psykos)
+    8          Sömnproblem
+    9          Minnesproblem
+    10         Repetitiva tankar eller beteenden
+               Omgivningen känns konstig, overklig, lösryckt eller främmande, eller det känns som du
+    11
+               är utanför eller helt eller delvis avskärmad från din kropp (Dissociation)
+               Förmåga att fungera på arbetet, hemma, i livet, eller i dina relationer
+    12
+               (Personlighetsfunktion)
+    13         Överanvändning av alkohol eller droger
+
+
+
+
+                                            B: HANDIKAPP/FUNKTIONSNEDSÄTTNING
+
+
+                                          ALLVARLIGHETSGRAD AV HANDIKAPP/NEDSÄTTNING
+
+   Använd den här skalan för att skatta, i poängkolumnen i tabellen nedan, hur mycket dina symtom har stört
+                          din förmåga att fungera inom följande områden av ditt liv:
+                    Förekommer             Lindrig              Medelsvår           Mycket       Mycket svår
+                        inte
+
+
+
+
+                                          Bedömning av funktionsnedsättning/handikapp
+
+                                                           Namn på område                                      Poäng
+     1         Arbete eller studier
+     2         Socialt liv eller fritidsaktiviteter (som hobbyer eller saker du gör för nöjes skull)
+     3         Familjeliv och/eller ansvar i hemmet
+     4         Förmåga att komma överens med andra människor
+     5         Privata och sociala relationer
+     6         Förmåga att förstå och kommunicera med andra
+     7         Förmåga att ta hand om dig själv (tvätta dig, duscha, bada, klä dig ordentligt, borsta
+               tänderna, tvätta kläder, kamma dig/borsta håret, äta regelbundet)
+    8          Gjort dig störande eller aggressiv mot andra
+    9          Ekonomiskt (förmåga att sköta din ekonomi)
+    10         Förmåga att förflytta dig fysiskt
+    11         Andligt eller religiöst liv
+    12         Hur mycket har ditt tillstånd påverkat andra i din familj?
+
+
+
+
+                                                              REFERENCES
+
+1. Sheehan DV, Lecrubier Y, Harnett-Sheehan K, Amorim P, Janavs J, Weiller E, Hergueta T, Baker R, Dunbar G: The Mini International
+Neuropsychiatric Interview (M.I.N.I.): The Development and Validation of a Structured Diagnostic Psychiatric Interview. J. Clin
+Psychiatry, 1998;59 (suppl 20): 22-33.
+
+2. Sheehan DV, Lecrubier Y, Harnett-Sheehan K, Janavs J, Weiller E, Bonara LI, Keskiner A, Schinka J, Knapp E, Sheehan MF, Dunbar GC.
+Reliability and Validity of the MINI International Neuropsychiatric Interview (M.I.N.I.): According to the SCID-P. European Psychiatry.
+1997; 12:232-241.
+
+3. Lecrubier Y, Sheehan D, Weiller E, Amorim P, Bonora I, Sheehan K, Janavs J, Dunbar G. The MINI International Neuropsychiatric
+Interview (M.I.N.I.). A Short Diagnostic Structured Interview: Reliability and Validity According to the CIDI. European Psychiatry.
+1997; 12: 224-231.
+
+4. Amorim P, Lecrubier Y, Weiller E, Hergueta T, Sheehan D: DSM-III-R Psychotic Disorders: procedural validity of the Mini
+International Neuropsychiatric Interview (M.I.N.I.). Concordance and causes for discordance with the CIDI. European Psychiatry.
+1998; 13:26-34.
+
+                                                           ACKNOWLEDGEMENTS
+The author wishes to acknowledge the valuable contributions made to the earlier versions of the M.I.N.I. for DSM III-R and DSM IV by:
+1. Yves Lecrubier, my close collaborator (now deceased) on the initial development of the M.I.N.I. for DSM III-R, the DSM IV and ICD-10.
+2. Juris Janavs, Emanuelle Weiller, Christer Allgulander, Kathy Harnett-Sheehan, Roxy Baker, Michael Sheehan, Chris Gray, Thierry
+    Hergueta, N. Kadri, David Baldwin, Christian Even, Rosario Hidalgo, Marelli Soto-Colon, Ossama Osman.
+3. Patricia Amorim for her extensive work on the development of the expanded version of the Psychotic Disorders Module and
+    algorithms for DSM III-R. We have evolved her model further in the M.I.N.I. for Psychotic Disorders 7 and in the M.I.N.I. Plus 7 for
+    DSM-5.
+4. Executive Scientific committee for the M.I.N.I. 6.0.0:
+    Christer Allgulander, Stockholm, Sweden
+    A. Carlo Altamura, Milano, Italy
+    Cyril Hoschl, Praha, Czech Republic
+    George Papadimitriou, Athens, Greece
+    Hans Ågren, Göteborg, Sweden
+    Hans-Jürgen Möller, München, Germany
+    Hans-Ulrich Wittchen, Dresden, Germany
+    István Bitter, Budapest, Hungary
+    Jean-Pierre Lépine, Paris, France
+    Jules Angst, Zurich, Switzerland
+    Julio Bobes, Oviedo, Spain
+    Luciano Conti, Pisa, Italy
+    Marelli Colon-Soto MD, Puerto Rico, United States
+    Michael Van Ameringen MD, Toronto, Canada
+    Rosario Hidalgo MD, Tampa, United States
+    Siegfried Kasper, Vienna, Austria
+    Thomas Schlaepfer, Bonn, Germany
+5. Mapi - Linguistic Validation and the many academic translation teams internationally who collaborated in ensuring that quality
+    translations became available in over 70 languages or language variants. Mapi (http://www.mapigroup.com) is now the official
+    translation and linguistic validation service for all variants of the M.I.N.I..
+6. Individual clinicians and patients who over the years made countless suggestions to help improve the accuracy and clinical value to
+    the M.I.N.I.: JM Giddens for her advice on the M.I.N.I. 7 version of the Suicidality Module, Dr Michael Van Ameringen for assistance
+    with the ADHD module, and Dr P Powers for her advice on the modules on Anorexia Nervosa and Bulimia.
+7. A validation study of this instrument was made possible, in part, by grants from SmithKlineBeecham and the European Commission.
+
+
+
+
+                                                             M.I.N.I. PLUS
+De skuggade avsnitten nedan är tillägg som finns i M.I.N.I. PLUS, utöver avsnitten som finns i standard M.I.N.I. De oskuggade
+avsnitten nedan finns i standard M.I.N.I.
+
+Dessa M.I.N.I. PLUS-avsnitt kan infogas i eller användas i stället för standardavsnitten i M.I.N.I., enligt de specifika behoven för
+studien.
+
+      AVSNITT                                                            TIDSRAM
+A     EGENTLIG DEPRESSIONSEPISOD                                         Pågående (senaste 2 veckor)
+                                                                         Tidigare
+                                                                         Recidiverande
+
+      EGENTLIG DEPRESSION                                                Pågående (senaste 2 veckor)
+                                                                         Tidigare
+                                                                         Recidiverande
+
+      EGENTLIG DEPRESSIONSEPISOD MED MELANKOLI                           Pågående (senaste 2 veckor)
+      EGENTLIG DEPRESSIONSEPISOD MED KATATONI                            Pågående (senaste 2 veckor)
+      EGENTLIG DEPRESSIONSEPISOD MED ATYPISKA DRAG                       Pågående (senaste 2 veckor)
+
+      EGENTLIG DEPRESSION MED PSYKOTISKA SYMTOM                          Pågående
+                                                                         Tidigare
+
+      IHÅLLANDE DEPRESSION (DYSTYMI)                                     Pågående (senaste 2 veckor)
+      (OSPECIFIERAD DEPRESSION)                                          Tidigare
+                                                                         Recidiverande
+
+      FÖRSTÄMNINGSSYNDROM UTLÖST AV ANNAT MEDICINSKT TILLSTÅND           Pågående (senaste 2 veckor)
+                                                                         Tidigare
+
+      SUBSTANSINDUCERAT FÖRSTÄMNINGSSYNDROM                              Pågående (senaste 2 veckor)
+                                                                         Tidigare
+
+AY IHÅLLANDE DEPRESSION (DYSTYMI)                                        Pågående
+
+B     SUICIDALITET                                                       Pågående (gångna
+                                                                         månaden)               []
+                                                                         Någonsin               []      [] Låg [] Medelsvår [] Hög
+      SUICIDALT BETEENDE                                                 Pågående               []      (Under det gångna året)
+                                                                         I tidig remission      []      (1–2 år sedan)
+
+C     MANISK EPISOD                                                      Pågående
+                                                                         Tidigare
+
+      HYPOMAN EPISOD                                                     Pågående
+                                                                         Tidigare
+
+      BIPOLÄR I                                                          Pågående
+                                                                         Tidigare
+
+      BIPOLÄR II                                                         Pågående
+                                                                         Tidigare
+
+      BIPOLÄR, OSPECIFICERAD OCH RELATERADE SYNDROM                      Pågående
+                                                                         Tidigare
+
+      BIPOLÄR I MED PSYKOTISKA SYMTOM                                    Pågående
+                                                                         Tidigare
+
+      MANISK EPISOD ORSAKAD AV ANNAT MEDICINSKT TILLSTÅND                Pågående (senaste 2 veckor)
+                                                                         Tidigare
+
+      HYPOMAN EPISOD ORSAKAD AV ANNAT MEDICINSKT TILLSTÅND               Pågående (senaste 2 veckor)
+                                                                         Tidigare
+
+      SUBSTANSBETINGAD MANISK EPISOD                                     Pågående (senaste 2 veckor)
+                                                                         Tidigare
+
+      SUBSTANSBETINGAD HYPOMAN EPISOD                                Pågående (senaste 2 veckor)
+                                                                     Tidigare
+
+      FÖRSTÄMNINGSSYNDROM OSPECIFICERAT                              Någonsin
+
+D     PANIKSYNDROM                                                   Pågående (gångna månaden)
+                                                                     Någonsin
+
+      ÅNGESTSYNDROM MED PANIKATTACKER ORSAKAT AV ANNAT MEDICINSKT    Pågående
+      TILLSTÅND
+
+      SUBSTANSBETINGAT ÅNGESTSYNDROM MED PANIKATTACKER               Pågående
+
+E     AGORAFOBI                                                      Pågående
+
+F     SOCIAL ÅNGEST (Social fobi)                                    Pågående (gångna månaden)
+                                                                     Generaliserad
+                                                                     Ej generaliserad
+
+FA SPECIFIK FOBI                                                     Pågående
+
+G     TVÅNGSSYNDROM                                                  Pågående (gångna månaden)
+
+      TVÅNGSSYNDROM ORSAKAT AV ANNAT MEDICINSKT TILLSTÅND            Pågående
+
+      SUBSTANSBETINGAT TVÅNGSSYNDROM                                 Pågående
+
+H POSTTRAUMATISKT STRESSYNDROM (PTSD)                                Pågående (gångna månaden)
+HL POSTTRAUMATISKT STRESSYNDROM (PTSD)                               Någonsin
+
+I     ALKOHOLBRUKSYNDROM                                             Gångna 12 månaderna
+
+IL    ALKOHOLBRUKSYNDROM                                             Någonsin
+
+J     SUBSTANSBEROENDE (ej alkohol)                                  Gångna 12 månaderna
+      SUBSTANSMISSBRUK (ej alkohol)                                  Gångna 12 månaderna
+
+JL    SUBSTANSBRUKSYNDROM (ej alkohol)                               Någonsin
+
+K     PSYKOTISKA SYNDROM                                             Någonsin
+                                                                     Pågående
+
+      FÖRSTÄMNINGSSYNDROM MED PSYKOTISKA SYMTOM                      Någonsin
+
+      FÖRSTÄMNINGSSYNDROM MED PSYKOTISKA SYMTOM                      Pågående
+
+      SCHIZOFRENI                                                    Pågående
+                                                                     Någonsin
+
+      SCHIZOAFFEKTIVT SYNDROM                                        Pågående
+                                                                     Någonsin
+
+      SCHIZOFRENIFORMT SYNDROM                                       Pågående
+                                                                     Någonsin
+
+      KORTVARIG PSYKOS                                               Pågående
+                                                                     Någonsin
+
+      VANFÖRESTÄLLNINGSSYNDROM                                       Pågående
+                                                                     Någonsin
+
+      PSYKOS ORSAKAD AV ANNAT MEDICINSKT TILLSTÅND                   Pågående
+                                                                     Någonsin
+
+      SUBSTANSBETINGAD PSYKOS                                        Pågående
+                                                                     Någonsin
+
+      OSPECIFICERAT SCHIZOFRENISPEKTRUMSYNDROM SAMT                  Pågående
+      ANDRA PSYKOSER
+                                                                     Någonsin
+
+
+L     ANOREXIA NERVOSA                                               Pågående (Senaste 3 månaderna)
+
+      ANOREXIA NERVOSA MED HETSÄTNING/SJÄLVRENSNING                  Pågående
+
+      ANOREXIA NERVOSA MED SJÄLVSVÄLT                                Pågående
+
+M     BULIMIA NERVOSA                                                Pågående (Senaste 3 månaderna)
+
+      BULIMIA NERVOSA MED SJÄLVRENSNING                              Pågående
+
+      BULIMIA NERVOSA UTAN SJÄLVRENSNING                             Pågående
+
+
+MB HETSÄTNINGSSTÖRNING                                               Pågående (Senaste 3 månaderna)
+
+N     GENERALISERAT ÅNGESTSYNDROM                                    Pågående (senaste 6 månaderna)
+
+      GENERALISERAT ÅNGESTSYNDROM ORSAKAT AV ANNAT MEDICINSKT        Pågående
+      TILLSTÅND
+      SUBSTANSBETINGAT ÅNGESTSYNDROM                                 Pågående
+
+O     KROPPSSYNDROM                                                  Pågående
+                                                                     Någonsin
+
+P     SJUKDOMSÅNGEST                                                 Pågående
+
+Q     DYSMORFOFOBI                                                   Pågående
+
+R     SMÄRTSYNDROM                                                   Pågående
+
+S     UPPFÖRANDESTÖRNING                                             Pågående (de senaste 12 månaderna)
+
+T     ADHD                                                           Pågående (de senaste 6 månaderna) (barn/ungdomar)
+
+      KOMBINERAD ADHD
+
+      ADHD MED OUPPMÄRKSAMHET
+
+      ADHD MED HYPERAKTIVITET/IMPULSIVITET
+
+TA ADHD                                                              Pågående (de senaste 6 månaderna) (vuxna)
+
+      KOMBINERAD ADHD
+
+      ADHD MED OUPPMÄRKSAMHET
+
+      ADHD MED HYPERAKTIVITET/IMPULSIVITET
+
+U     PREMENSTRUELLT DYSFORISKT SYNDROM (PMS)                        Pågående
+
+V     BLANDAT ÅNGEST- OCH DEPRESSIONSTILLSTÅND                       Pågående
+
+W     ANPASSNINGSSTÖRNINGAR                                          Pågående
+
+X     SYMTOMEN HAR INTE MEDICINSKA ELLER ORGANISKA
+      ORSAKER ELLER ÄR SUBSTANSINDUCERADE
+
+Y     PERSONLIGHETSSYNDROM, ANTISOCIAL                               Någonsin
+
+För studier av schizofreni och psykotiska syndrom samt för specificering av psykotiskt syndrom i kliniska miljöer, använd
+M.I.N.I. for Psychotic Disorders istället för standardversionen av M.I.N.I. För många kliniska miljöer är den här detaljnivån i
+specificeringen av psykotiska syndrom inte nödvändig.
+För barn och ungdomar, använd M.I.N.I. Kid eller M.I.N.I. Kid Parent eller M.I.N.I. Kid for Psychotic Disorders.
+En elektronisk version av M.I.N.I. finns tillgänglig hos Medical Outcomes Systems https://www.medical-outcomes.com. Tills
+vidare finns ingen svensk version.
+
+
+
+

@@ -1,0 +1,7443 @@
+---
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " A. EGENTLIG DEPRESSIONSEPISOD"
+  :title: A. EGENTLIG DEPRESSIONSEPISOD
+  :answer:
+- :id:
+  :subid:
+  :text: " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ I DIAGNOSRUTAN OCH
+    FORTSÄTT MED NÄSTA AVSNITT)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: A1
+  :subid: a
+  :text: 'Har du någonsin varit deprimerad eller nere, eller känt dig ledsen, tom
+    eller uppgiven '
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: " under större delen av dagen, nästan varje dag under 2 veckor?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM NEJ, KODA NEJ FÖR A1b; OM JA, FRÅGA:"
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'Under de senaste 2 veckorna, har du varit deprimerad eller nere, eller känt
+    dig ledsen, '
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: " tom eller uppgiven under större delen av dagen, nästan varje dag?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: A2
+  :subid: a
+  :text: 'Har du någonsin tappat intresset för det mesta omkring dig eller inte kunnat
+    ha riktigt '
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: " nöje av sådant du brukar tycka om under den största delen av tiden under
+    2 veckor?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM NEJ, KODA NEJ FÖR A2b; OM JA, FRÅGA:"
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'Har du under den största delen av tiden under de senaste 2 veckorna varit
+    mycket '
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: " mindre intresserad för det mesta omkring dig jämfört med andra, eller inte
+    kunnat ha"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " riktigt nöje av sådant du vanligen brukar tycka om?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR A1a ELLER A2a KODATS JA? "
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: A3
+  :subid:
+  :text: " OM A1b ELLER A2b = JA: EFTERFRÅGA DEN PÅGÅENDE OCH DEN SVÅRASTE TIDIGARE
+    EPISODEN, ELLER"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM A1b OCH A2b = NEJ: EFTERFRÅGA ENBART DEN SVÅRASTE TIDIGARE EPISODEN"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Under tvåveckorsperioden, när du kände dig deprimerad eller ointresserad:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Senaste 2 Tidigare"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " veckorna episod"
+  :title:
+  :answer:
+- :id:
+  :subid: a
+  :text: 'Hade du minskad eller ökad aptit nästan varje dag? Minskade eller ökade
+    du oavsiktligt '
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: " i vikt (d.v.s. med ± 5% av kroppsvikten, eller ± 3,5 kg eller ±8 lb för
+    en person som väger"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 160 lb/70 kg, på en månad)?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " VID JA PÅ NÅGON AV DESSA FRÅGOR, KODA JA."
+  :title: A.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'Hade du problem med sömnen nästan varje natt (svårt att somna in, vaknade
+    upp mitt i '
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: " natten, vaknade alldeles för tidigt på morgonen eller sov alldeles för
+    mycket)?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: c
+  :text: 'Pratade eller rörde du dig långsammare än vanligt eller var du rastlös eller
+    hade svårt att '
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: " sitta still nästan varje dag? Märkte någon detta?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: d
+  :text: 'Kände du dig trött eller orkeslös nästan varje dag? '
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: e
+  :text: 'Kände du dig värdelös eller hade skuldkänslor nästan varje dag? '
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM JA, BE OM EXEMPEL. LETA EFTER VANFÖRESTÄLLNINGAR OM MISSLYCKANDEN, BRISTER,
+    UNDERGÅNG"
+  :title: L. LETA EFTER VANFÖRESTÄLLNINGAR OM MISSLYCKANDEN, BRISTER, UNDERGÅNG
+  :answer:
+- :id:
+  :subid:
+  :text: " ELLER SKULD, ELLER OM BEHOV AV BESTRAFFNING, ELLER VANFÖRESTÄLLNINGAR OM
+    SJUKDOM ELLER DÖD,"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ELLER NIHILISTISKA ELLER KROPPSLIGA VANFÖRESTÄLLNINGAR."
+  :title: R.
+  :answer:
+- :id:
+  :subid:
+  :text: " EXEMPLEN ÖVERENSSTÄMMER MED EN VANFÖRESTÄLLNING. Pågående episod [] Nej
+    [] Ja"
+  :title: G. Pågående episod [] Nej [] Ja
+  :answer:
+- :id:
+  :subid:
+  :text: " Tidigare episod [] Nej [] Ja"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: f
+  :text: 'Hade du svårt att koncentrera dig, tänka eller fatta beslut nästan varje
+    dag? '
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: g
+  :text: 'Tänkte du ofta på döden (RÄDSLA FÖR ATT DÖ RÄKNAS INTE HÄR), eller hade
+    tankar på att ta '
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: " livet av dig, eller hade du avsikter eller planer på att ta ditt liv? Försökte
+    du ta ditt liv?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " VID JA PÅ NÅGON AV DESSA FRÅGOR, KODA JA."
+  :title: A.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: A4
+  :subid:
+  :text: " Orsakade dessa symtom påtagliga besvär eller problem hemma, i arbetet,
+    i dina studier, "
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: " socialt, i relationer, eller på något annat viktigt sätt, och innebär de
+    en förändring mot"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " hur du fungerat tidigare?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: A5
+  :subid:
+  :text: " Mellan 2 depressionsepisoder, hade du någonsin ett fritt intervall om minst
+    2 månader Ej tillämpligt "
+  :title:
+  :answer:
+  - NEJ        JA
+- :id:
+  :subid:
+  :text: " utan någon påtaglig depression eller ointresse?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR 5 ELLER FLER SVAR (A1–A3) KODATS JA, OCH HAR A4 KODATS JA FÖR DEN "
+  :title:
+  :answer:
+  - NEJ             JA
+- :id:
+  :subid:
+  :text: " AKTUELLA TIDSPERIODEN?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " EGENTLIG"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OCH DEPRESSIONSEPISOD"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA? PÅGÅENDE"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " TIDIGARE"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ANGE OM EPISODEN ÄR PÅGÅENDE OCH/ELLER TIDIGARE. RECIDIVERANDE"
+  :title: E.                                 RECIDIVERANDE
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM A5 KODATS JA, KODA JA FÖR RECIDIVERANDE."
+  :title: E.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: A6
+  :subid: a
+  :text: Hur många depressionsepisoder har du haft under ditt liv? ____________________
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Mellan varje episod måste det gå minst 2 månader utan påtaglig depression."
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " B. SUICIDALITET"
+  :title: B. SUICIDALITET
+  :answer:
+- :id:
+  :subid:
+  :text: " Poäng"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Under den senaste månaden:"
+  :title:
+  :answer:
+- :id: B1
+  :subid:
+  :text: " Har du varit med om en olyckshändelse? Detta inbegriper att råka ta för
+    många tabletter. 0"
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: " OM B1 BESVARATS MED NEJ, HOPPA TILL B2; OM JA, STÄLL FRÅGAN B1a:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: B1
+  :subid:
+  :text: a Planerade eller avsåg du att skada dig själv i någon olyckshändelse, antingen
+    genom att inte 0
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: " undvika en risk eller att avsiktligt orsaka olyckan?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM B1a BESVARATS MED NEJ, HOPPA TILL B2: OM JA, STÄLL FRÅGAN B1b:"
+  :title:
+  :answer:
+- :id: B1
+  :subid:
+  :text: b Avsåg du att dö som en följd av någon olyckshändelse? 0
+  :title:
+  :answer:
+  - NEJ   JA
+- :id: B2
+  :subid:
+  :text: " Har du (om ens för ett ögonblick) tänkt att det vore bättre om du var död
+    eller önskat att du var 1"
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: " död eller var tvungen att vara död?"
+  :title:
+  :answer:
+- :id: B3
+  :subid:
+  :text: " Har du (om ens för ett ögonblick) tänkt på att skada eller göra illa dig
+    själv 6"
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: " – med åtminstone en viss avsikt eller medvetenhet om att du kunde dö som
+    följd"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " – eller har du funderat på självmord (d.v.s. att ta ditt liv)?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM B2 + B3 BESVARAS MED NEJ, HOPPA TILL B4. I ANNAT FALL FRÅGA OM:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Frekvens Intensitet"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Då och då Mild"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Ofta Måttlig"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Mycket ofta Svår"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: B4
+  :subid:
+  :text: " Har du hört en röst eller röster som säger till dig att ta livet av dig,
+    eller har du haft drömmar 4"
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: " som på något sätt är relaterade till självmord?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Om JA, var det det ena eller [] var det en röst eller [] var det en dröm?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " båda: röster?"
+  :title:
+  :answer:
+- :id: B5
+  :subid:
+  :text: " Har du tänkt ut ett sätt att ta ditt liv (dvs. hur)? 8"
+  :title:
+  :answer:
+  - NEJ   JA
+- :id: B6
+  :subid:
+  :text: " Har du tänkt ut ett hjälpmedel att ta ditt liv med (dvs. med vad)? 8"
+  :title:
+  :answer:
+  - NEJ   JA
+- :id: B7
+  :subid:
+  :text: " Har du tänkt ut någon plats för att ta ditt liv (dvs. var någonstans)?
+    8"
+  :title:
+  :answer:
+  - NEJ   JA
+- :id: B8
+  :subid:
+  :text: " Har du planerat någon dag eller tidsram för att ta ditt liv (dvs. när)?
+    8"
+  :title:
+  :answer:
+  - NEJ   JA
+- :id: B9
+  :subid:
+  :text: " Har du tänkt på någonting du skulle vilja göra klart innan du försöker
+    ta ditt liv? 8"
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: " (t.ex. skriva ett självmordsbrev)"
+  :title:
+  :answer:
+- :id: B10
+  :subid:
+  :text: " Har du haft för avsikt att agera i enlighet med dina tankar på att ta ditt
+    liv? 8"
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: " Om JA, markera det ena eller båda: [] hade du för avsikt att göra det vid
+    just det tillfället?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " [] hade du för avsikt att göra det någon gång i framtiden?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: B11
+  :subid:
+  :text: " Har du haft för avsikt att dö som resultat av en självmordshandling? 8"
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: " Om JA, markera det ena eller [] hade du för avsikt att dö genom självmord
+    vid just det"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " båda: tillfället?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " [] hade du för avsikt att dö genom självmord någon gång i"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " framtiden?"
+  :title:
+  :answer:
+- :id: B12
+  :subid:
+  :text: " Har du känt behovet eller impulsen att ta livet av dig eller att planera
+    att ta livet av dig snart 8"
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: " hellre än senare?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Om JA, markera det ena eller [] var det att begå självmord [] var det att
+    planera att begå"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " båda: (ta livet av dig)? självmord (ta livet av dig)?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Om JA, markera det ena eller [] var det i princip [] var det provocerat?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " båda: oprovocerat?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " FÖR ATT BEDÖMA HURUVIDA DETTA VAR I PRINCIP OPROVOCERAT, FRÅGA: ”5 minuter
+    innan"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " den här impulsen, hade du kunnat förutsäga att den skulle komma?”"
+  :title:
+  :answer:
+- :id: B13
+  :subid:
+  :text: " Har du haft svårt att stå emot dessa impulser? 8"
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: B14
+  :subid:
+  :text: " Har du aktivt förberett något självmordsförsök i förväntan eller avsikt
+    att dö (inklusive saker du"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " gjort eller avsiktligt låtit bli att göra som fört dig närmare ett självmordsförsök)?
+    Detta innefattar"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " de gånger då du avsåg att ta ditt liv men blev avbruten eller avbröt dig
+    själv innan du hann skada"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " dig. "
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: " OM B14 BESVARAS MED NEJ, HOPPA TILL B15."
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: B14
+  :subid:
+  :text: a Har du gjort aktiva förberedelser för att ta ditt liv, men utan att påbörja
+    självmordsförsöket? 9
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: B14
+  :subid:
+  :text: b Har du gjort aktiva förberedelser för att ta ditt liv, men hindrat dig
+    själv precis innan du gjorde 10
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: " dig någon skada (”ställde in”)?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: B14
+  :subid:
+  :text: c Har du gjort aktiva förberedelser för att ta ditt liv, men blivit hindrad
+    av någon eller någonting
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " precis innan du hann skada dig själv (”blev avbruten”)? 11"
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: B15
+  :subid:
+  :text: " Har du skadat dig själv avsiktligt, utan att du haft för avsikt att dö?
+    0"
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: B16
+  :subid:
+  :text: " Har du försökt begå självmord (ta livet av dig)? "
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: " OM B16 BESVARAS MED NEJ, HOPPA TILL B17."
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: B16
+  :subid:
+  :text: a Har du inlett ett självmordsförsök (för att ta livet av dig), men beslutat
+    att avbryta och inte 12
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: " fullföljt försöket?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: B16
+  :subid:
+  :text: b Har du inlett ett självmordsförsök (för att ta livet av dig) men blivit
+    avbruten och inte fullföljt 13
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: " försöket?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: B16
+  :subid:
+  :text: c Har du genomfört ett försök att begå självmord (ta livet av dig) helt och
+    hållet så som du hade 14
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: " för avsikt att göra?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Med självmordsförsök menas att du gjort något som skulle kunna skada dig
+    och med åtminstone"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " en viss avsikt att dö."
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM NEJ, HOPPA TILL B17:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Hoppades på att bli räddad/överleva"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Förväntade sig/avsåg att dö"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: B17
+  :subid:
+  :text: " TID, DAGLIGEN TILLBRINGAD MED SUICIDALA IMPULSER, TANKAR ELLER HANDLINGAR:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Tid, vanligen tillbringad per dag: ____ timmar ____ minuter."
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Minsta tid, tillbringad per dag: ____ timmar ____ minuter."
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Mesta tid, tillbringad per dag: ____ timmar ____ minuter."
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Under din livstid:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: B18
+  :subid:
+  :text: " Har du någonsin försökt begå självmord (ta livet av dig)? 4"
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: " Om JA, hur många gånger? ____________"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Om JA, när var det senaste självmordsförsöket?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Pågående: under de senaste 12 månaderna"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " I tidig remission: för 12 till 24 månader sedan"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " I remission: för mer än 24 månader sedan"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ”Självmordsförsök är ett självskadande beteende med åtminstone viss avsikt
+    (>0) att dö som följd av handlingen. Evidens för"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " att individen åtminstone till en viss grad hade för avsikt att ta sitt
+    liv, kan vara explicita eller uttydas från beteendet eller"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " omständigheterna. Det definieras som ett suicidförsök, t.ex. om det uppenbarligen
+    inte är fråga om en olyckshändelse eller"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " om personen tror att handlingen kan vara dödlig, även om avsikt förnekas.”
+    (FDA Guidance for Industry Suicidal Ideation and"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Behavior Document [Vägledningsdokument för suicidala tankar och självmordsbeteende]
+    2012 och C-CASA definitionen)."
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Posner K et al. Am J Psychiatry 2007; 164 (7): 1035-1043 &"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/default.htm/"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: B19
+  :subid:
+  :text: " Hur sannolikt är det att du kommer försöka ta ditt liv inom de kommande
+    3 månaderna, på en skala från"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 0–100 % ______%"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ALL SANNOLIKHET > 0 % VID B19 SKA KODAS SOM JA 13"
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR MINST 1 AV OVANSTÅENDE FRÅGOR (UTOM B1) KODATS JA? "
+  :title:
+  :answer:
+  - NEJ                JA
+- :id:
+  :subid:
+  :text: " OM JA, ADDERA DE SAMMANRÄKNADE POÄNGEN FÖR DE SVAR (B1–B19) SOM SUICIDALITET"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " KODATS ”JA”, OCH SPECIFICERA GRADEN AV SUICIDALITET I DIAGNOSRUTAN:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 1–8 poäng Låg"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " VISA OM SUICIDALITETEN ÄR PÅGÅENDE (SENASTE MÅNADEN) ELLER GÄLLER ETT FÖRSÖK"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 9–16 poäng Måttlig"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " NÅGONSIN I LIVET, ELLER BÅDA, GENOM ATT MARKERA I RÄTT RUTA ELLER GENOM
+    ATT"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ≥17 poäng Hög"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " LÄMNA EN ELLER BÅDA TOMMA."
+  :title: A.
+  :answer:
+- :id:
+  :subid:
+  :text: " PÅGÅENDE = POSITIVT SVAR TILL NÅGON AV FRÅGORNA B1a TILL B16c ELLER NÅGON
+    TID"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " PÅGÅENDE"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " TILLBRINGAD PÅ FRÅGA B17. NÅGONSIN = B18 KODADES JA."
+  :title: A.
+  :answer:
+- :id:
+  :subid:
+  :text: " SANNOLIKT INOM DEN NÄRMASTE TIDEN = B19 KODADES JA."
+  :title: A.
+  :answer:
+- :id:
+  :subid:
+  :text: " NÅGONSIN"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " KOMMENTERA NEDAN VAD GÄLLER DIN BEDÖMNING AV DENNA PATIENTS AKTUELLA OCH"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " SANNOLIKT INOM DEN"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " NÄRA FRAMTIDA SUICIDALITET:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " NÄRMASTE TIDEN"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR B18 KODATS JA? "
+  :title:
+  :answer:
+  - NEJ                JA
+- :id:
+  :subid:
+  :text: " OCH ETT JAKANDE SVAR PÅ SUICIDALT BETEENDE"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Inleddes den suicidala handlingen när patienten inte var i ett tillstånd
+    av förvirring eller"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " delirium? PÅGÅENDE"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OCH ETT JAKANDE SVAR PÅ Pågående"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " I tidig remission"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Begicks den suicidala handlingen utan politiska eller religiösa motiv?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM JA, ANGE OM STÖRNINGEN ÄR PÅGÅENDE, I TIDIG REMISSION, ELLER I REMISSION.
+    I remission"
+  :title: N.                   I remission
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " C. MANISK/HYPOMAN EPISOD"
+  :title: C. MANISK/HYPOMAN EPISOD
+  :answer:
+- :id:
+  :subid:
+  :text: " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTORNA, RINGA IN NEJ I DIAGNOSRUTORNA
+    FÖR MANISK OCH HYPOMAN OCH FORTSÄTT"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " MED NÄSTA AVSNITT)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Har någon i din familj haft eller har manisk depressiv sjukdom eller bipolärt
+    syndrom, "
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: " eller har någon i din familj haft svängningar i humöret som behandlats
+    med läkemedel"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " såsom litium (Lithionit), valproat (Ergenyl, Absenor, Orfiril) eller lamotrigin
+    (Lamictal)?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " DENNA FRÅGA ÄR INTE ETT KRITERIUM FÖR BIPOLÄRT SYNDROM MEN STÄLLS FÖR ATT
+    ÖKA KLINIKERNS"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " VAKSAMHET RÖRANDE RISK FÖR BIPOLÄRT SYNDROM."
+  :title: M.
+  :answer:
+- :id:
+  :subid:
+  :text: " OM JA, ANGE VEM: ______________________________________________________"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: C1
+  :subid: a
+  :text: 'Har du någon gång haft en period när du känt dig ”uppvarvad”, ”hög” eller
+    ”hyper”, och '
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: " så aktiv eller full av energi eller så uppfylld av dig själv att du råkat
+    illa ut, eller så att"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " andra tyckt att du inte var dig lik? (Alkohol- eller drogpåverkan räknas
+    ej.)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM PATIENTEN ÄR FÖRBRYLLAD ELLER OSÄKER PÅ VAD DU MENAR MED ”UPPVARVAD”"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ELLER ”HÖG” ELLER ”HYPER”, FÖRTYDLIGA ENLIGT FÖLJANDE: Med ”uppvarvad”"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " eller ”hög” eller ”hyper” menar jag: att vara upprymd, ha ökad energi eller
+    aktivitet,"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " behöva mindre sömn, ha snabb tankeverksamhet, vara full av idéer, ha ökad"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " prestationsförmåga, motivation, kreativitet eller impulsivt beteende, ringa
+    eller arbeta"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " överdrivet mycket eller spendera mer pengar."
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM NEJ, KODA NEJ PÅ C1b; OM JA, FRÅGA:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'Känner du dig för närvarande ”uppvarvad”, ”hög”, ”hyper” eller full av energi? '
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: C2
+  :subid: a
+  :text: 'Har du någon gång upplevt återkommande irritation under flera dagar så att
+    du varit '
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: " med i gräl eller slagsmål eller skrikit åt personer utanför din egen familj?
+    Har du eller"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " andra märkt att du varit mer lättretlig eller överreagerat, jämfört med
+    andra? Detta"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " gäller även situationer där du tyckte att din reaktion varit berättigad."
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM NEJ, KODA NEJ PÅ C2b; OM JA, FRÅGA:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'Upplever du en återkommande känsla av retlighet för närvarande? '
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR C1a ELLER C2a KODATS JA? "
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: C3
+  :subid:
+  :text: " OM C1b ELLER C2b = JA: UNDERSÖK PÅGÅENDE EPISOD FÖRST OCH SEDAN DEN SVÅRASTE
+    TIDIGARE EPISODEN, ANNARS"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM C1b OCH C2b = NEJ: UNDERSÖK ENBART DEN SVÅRASTE TIDIGARE EPISODEN"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " VID UNDERSÖKNING AV PÅGÅENDE EPISOD, INLED VARJE FRÅGA SOM FÖLJER:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Under de senaste dagarna, inklusive idag, när du kände dig upprymd och
+    full av energi eller retlig:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " VID UNDERSÖKNING AV TIDIGARE EPISOD, INLED VARJE FRÅGA SOM FÖLJER:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Under en tidigare period på några dagar när du kände dig mest upprymd och
+    mest full av energi eller mest retlig:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Pågående episod Tidigare"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " episod"
+  :title:
+  :answer:
+- :id:
+  :subid: a
+  :text: 'Upplevde du att du kunde göra sådant som andra inte kunde, eller att du
+    var en särskilt '
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: " viktig person? OM JA, BE OM EXEMPEL."
+  :title: L.
+  :answer:
+- :id:
+  :subid:
+  :text: " EXEMPLEN ÖVERENSSTÄMMER MED EN VANFÖRESTÄLLNING. Pågående episod [] Nej
+    [] Ja"
+  :title: G.          Pågående episod    [] Nej     [] Ja
+  :answer:
+- :id:
+  :subid:
+  :text: " Tidigare episod [] Nej [] Ja"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'Behövde du mindre sömn (t.ex. att du kände dig utvilad efter bara några
+    timmars sömn)? '
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: c
+  :text: 'Pratade du för mycket utan uppehåll, eller kände dig tvingad att fortsätta
+    prata? '
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: d
+  :text: 'Märkte du att dina tankar gick väldigt fort eller löpte samman eller rusade
+    eller rörde sig '
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: " väldigt snabbt från ett ämne till ett annat?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Pågående episod Tidigare episod"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: e
+  :text: 'Blev du lätt distraherad så att varje liten störning kunde få dig att tappa
+    tråden? '
+  :title:
+  :answer:
+  - NEJ     JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: f
+  :text: 'Fick du en påtaglig ökning av intresse eller aktivitet, gällande arbete/studier,
+    eller socialt '
+  :title:
+  :answer:
+  - NEJ     JA
+- :id:
+  :subid:
+  :text: " eller sexuellt, eller blev du fysiskt eller psykiskt rastlös?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Denna ökning av aktiviteten kan vara med eller utan något syfte."
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: g
+  :text: 'Var du så inriktad på att njuta av livet och ha roligt att du struntade
+    i risker och '
+  :title:
+  :answer:
+  - NEJ     JA
+- :id:
+  :subid:
+  :text: " konsekvenser (t.ex. överdriven shopping, vårdslös bilkörning eller ansvarslöst
+    sexuellt"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " beteende)?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: C3
+  :subid:
+  :text: " SUMMERING: RÖRANDE PÅGÅENDE EPISOD: "
+  :title:
+  :answer:
+  - NEJ     JA
+- :id:
+  :subid:
+  :text: " OM C1b ÄR NEJ, HAR 4 ELLER FLER C3-SVAR INKLUSIVE C3f KODATS JA?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM C1b ÄR JA, HAR 3 ELLER FLER C3-SVAR INKLUSIVE C3f KODATS JA?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " RÖRANDE TIDIGARE EPISOD:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM C1a ÄR NEJ, HAR 4 ELLER FLER C3-SVAR INKLUSIVE C3f KODATS JA?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM C1a ÄR JA, HAR 3 ELLER FLER C3-SVAR INKLUSIVE C3f KODATS JA?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " KODA JA ENDAST OM OVANSTÅENDE 3 ELLER 4 SYMTOM INTRÄFFADE UNDER"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " SAMMA TIDSPERIOD."
+  :title: D.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " REGEL: UPPRYMT/EXPANSIVT HUMÖR KRÄVER BARA 3 C3-SYMTOM MEDAN ENBART"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " RETLIGHET KRÄVER 4 C3-SYMTOM."
+  :title: M.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: C4
+  :subid:
+  :text: " Vilken är den längsta tidsperiod som dessa symtom har hållit i sig (större
+    delen av dagen,"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " nästan varje dag)?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " FASTSTÄLL DENNA VARAKTIGHET UTIFRÅN ALLRA FÖRSTA BÖRJAN TILLS DESS SYMTOMEN
+    UPPHÖRT HELT,"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " INTE BARA KULMINATIONEN."
+  :title: N.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " a) Högst 3 dagar [] []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " b) 4 dagar eller längre [] []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " c) 7 dagar eller längre [] []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: C5
+  :subid:
+  :text: " Blev du intagen på sjukhus för dessa problem? "
+  :title:
+  :answer:
+  - NEJ     JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM JA, RINGA IN JA VID MANISK EPISOD FÖR DEN TIDSPERIODEN OCH GÅ TILL C7."
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: C6
+  :subid:
+  :text: " Orsakade dessa symtom påtagliga problem hemma, på arbetet, socialt, i relationer,
+    i "
+  :title:
+  :answer:
+  - NEJ     JA
+- :id:
+  :subid:
+  :text: " dina studier eller på något annat viktigt sätt?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: C7
+  :subid:
+  :text: " Hängde symtomen samman med en tydlig förändring i sättet du fungerat hittills,
+    och "
+  :title:
+  :answer:
+  - NEJ     JA
+- :id:
+  :subid:
+  :text: " som var annorlunda från sättet du vanligtvis är på?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR C3-SUMMERING OCH C7 OCH (C4c ELLER C5 ELLER C6 ELLER NÅGOT PSYKOTISKT "
+  :title:
+  :answer:
+  - NEJ                 JA
+- :id:
+  :subid:
+  :text: " SYMTOM VID K1 TILL OCH MED K8) KODATS JA"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " MANISK EPISOD"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OCH"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " PÅGÅENDE []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " TIDIGARE []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ANGE OM EPISODEN ÄR PÅGÅENDE OCH/ELLER TIDIGARE."
+  :title: E.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR C3-SUMMERING KODATS JA OCH HAR C5 OCH C6 KODATS NEJ OCH C7 KODATS JA,
+    HYPOMAN EPISOD"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OCH HAR ANTINGEN C4b ELLER C4c KODATS JA?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OCH"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OCH"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR ALLA PSYKOTISKA SYMTOM VID K1 TILL OCH MED K8 KODATS NEJ? PÅGÅENDE
+    [] NEJ"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " [] JA"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ANGE OM EPISODEN ÄR PÅGÅENDE OCH/ELLER TIDIGARE."
+  :title: E.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM JA FÖR PÅGÅENDE MANISK EPISOD, KODA NEJ FÖR PÅGÅENDE HYPOMAN EPISOD."
+  :title: D.
+  :answer:
+- :id:
+  :subid:
+  :text: " TIDIGARE [] NEJ"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " [] JA"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM JA FÖR TIDIGARE MANISK EPISOD, KODA TIDIGARE HYPOMAN EPISOD SOM EJ []
+    EJ UNDERSÖKT"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " UNDERSÖKT."
+  :title: T.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR C3-SUMMERING OCH C4a KODATS JA OCH HAR C5 KODATS NEJ? HYPOMANA SYMTOM"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ANGE OM EPISODEN ÄR PÅGÅENDE OCH/ELLER TIDIGARE. PÅGÅENDE [] NEJ"
+  :title: E.                                            PÅGÅENDE   [] NEJ
+  :answer:
+- :id:
+  :subid:
+  :text: " [] JA"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM JA FÖR PÅGÅENDE MANISK ELLER HYPOMAN EPISOD,"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " KODA NEJ FÖR NUVARANDE HYPOMANA SYMTOM."
+  :title: M.
+  :answer:
+- :id:
+  :subid:
+  :text: " TIDIGARE [] NEJ"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM JA FÖR TIDIGARE MANISK EPISOD ELLER TIDIGARE HYPOMAN EPISOD, [] JA"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " KODA TIDIGARE HYPOMANA SYMTOM SOM EJ UNDERSÖKTA. [] EJ UNDERSÖKT"
+  :title: A.                                                       [] EJ UNDERSÖKT
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: C8
+  :subid:
+  :text: " a) OM MANISK EPISOD HAR FÖRELEGAT, ANTINGEN PÅGÅENDE ELLER TIDIGARE, "
+  :title:
+  :answer:
+  - NEJ            JA
+- :id:
+  :subid:
+  :text: " FRÅGA:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Har du haft minst 2 av dessa (maniska) episoder som varat 7 dagar eller
+    längre (C4c) i"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ditt liv (inklusive den pågående episoden om sådan föreligger)?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " b) OM MANISK ELLER HYPOMAN EPISOD HAR FÖRELEGAT, ANTINGEN PÅGÅENDE ELLER "
+  :title:
+  :answer:
+  - NEJ            JA
+- :id:
+  :subid:
+  :text: " TIDIGARE, FRÅGA:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Har du haft minst 2 av dessa (hypomana) episoder som varat 4 dagar eller
+    mer (C4b) i"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ditt liv (inklusive den pågående episoden)?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " c) OM KATEGORIN TIDIGARE ”HYPOMANA SYMTOM” FÖRELIGGER, FRÅGA: "
+  :title:
+  :answer:
+  - NEJ            JA
+- :id:
+  :subid:
+  :text: " Har du haft de här hypomana symtomen som pågår under enbart 1 till 3 dagar
+    (C4a) 2"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " eller fler gånger i ditt liv (inklusive den pågående episoden om sådan
+    föreligger)?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " D. PANIKSYNDROM"
+  :title: D. PANIKSYNDROM
+  :answer:
+- :id:
+  :subid:
+  :text: " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED
+    NÄSTA AVSNITT)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " => "
+  :title:
+  :answer:
+- :id: D1
+  :subid: a
+  :text: 'Har du, vid mer än ett enstaka tillfälle, upplevt perioder eller attacker
+    av plötslig ängslan, '
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: " stark rädsla, obehag eller olust även i situationer där de flesta andra
+    inte skulle känna så?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " => "
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'Kulminerade attackerna inom 10 minuter från starten? '
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: D2
+  :subid:
+  :text: " Har det vid något tillfälle hänt att en sådan period eller attack börjat
+    oväntat eller varit helt "
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: " oförutsägbar eller oprovocerad?"
+  :title:
+  :answer:
+- :id: D3
+  :subid:
+  :text: " Har du någon gång haft en sådan attack och därefter gått en månad eller
+    mer med ihållande "
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: " rädsla för att få en ny attack eller oro över följderna av attacken? Eller
+    gjorde du någon"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " betydande förändring i ditt beteende på grund av attackerna (t.ex. som
+    att undvika ovana"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " situationer, eller undvika att lämna hemmet, eller att undvika att gå och
+    handla ensam, eller"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " att göra saker för att undvika en panikattack, eller att oftare söka läkarvård
+    eller akut"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " sjukvård)?"
+  :title:
+  :answer:
+- :id: D4
+  :subid:
+  :text: " Under den svåraste attack du kan komma ihåg:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: a
+  :text: 'Slog hjärtat ojämnt, alldeles för fort eller bankande? '
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'Blev händerna klibbiga eller svettades du? '
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: c
+  :text: 'Blev du darrig eller skakig? '
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: d
+  :text: 'Blev du andfådd eller hade svårt att andas eller en kvävande känsla? '
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: e
+  :text: 'Fick du kväljningskänsla eller klump i halsen? '
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: f
+  :text: 'Hade du värk, tryck- eller obehagskänsla i bröstet? '
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: g
+  :text: 'Blev du illamående, hade magbesvär eller plötslig diarré? '
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: h
+  :text: 'Kände du dig yr, ostadig, snurrig eller svimfärdig? '
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: i
+  :text: 'Fick du värmevallningar eller köldrysningar? '
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: j
+  :text: 'Fick du krypningar eller domningskänslor i kroppen? '
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: k
+  :text: 'Kändes omgivningen konstig, overklig, lösryckt eller främmande, eller kändes
+    det som om du '
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: " var utanför eller helt eller delvis avskärmad från din kropp?"
+  :title:
+  :answer:
+- :id:
+  :subid: l
+  :text: 'Var du rädd att du höll på att tappa kontrollen eller bli galen? '
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " m Var du rädd att du höll på att dö? "
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: D5
+  :subid:
+  :text: " HAR BÅDE D3 OCH 4 ELLER FLER D4-SVAR KODATS JA? "
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: " PANIKSYNDROM"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " NÅGONSIN"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: D6
+  :subid:
+  :text: " Har du under den senaste månaden haft ihållande oro för att få ytterligare
+    en attack, "
+  :title:
+  :answer:
+  - NEJ      JA
+- :id:
+  :subid:
+  :text: " PANIKSYNDROM"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " eller oroat dig för följderna av attackerna, PÅGÅENDE"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " eller har du ändrat ditt beteende på något sätt på grund av attackerna?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR ANTINGEN D5 ELLER D6 KODATS JA, "
+  :title:
+  :answer:
+  - NEJ            JA
+- :id:
+  :subid:
+  :text: " OCH PANIKSYNDROM"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA? NÅGONSIN []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " PÅGÅENDE []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ANGE OM EPISODEN ÄR PÅGÅENDE OCH/ELLER TIDIGARE."
+  :title: E.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " E. AGORAFOBI"
+  :title: E. AGORAFOBI
+  :answer:
+- :id:
+  :subid:
+  :text: " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED
+    NÄSTA AVSNITT)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: E1
+  :subid:
+  :text: " Känner du dig ängslig eller illa till mods på platser eller i situationer
+    där, om du skulle få"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " en panikattack eller panikartade eller generande symtom, det kanske inte
+    finns tillgång till"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " hjälp eller där det kan vara svårt att komma undan: till exempel i folksamlingar,
+    köer, på"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " öppna platser eller broar, när du är hemifrån på egen hand eller är hemma
+    ensam, eller =>"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " när du åker buss, tåg, bil eller allmänna färdmedel? "
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR 2 ELLER FLER E1-SITUATIONER KODATS JA? =>"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " "
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: E2
+  :subid:
+  :text: " Framkallar sådana situationer nästan alltid rädsla eller ångest? "
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: E3
+  :subid:
+  :text: " Är du så rädd för dessa situationer att du undviker dem eller lider dig
+    igenom dem, eller "
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: " behöver ha sällskap med dig för att kunna stå ut?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: E4
+  :subid:
+  :text: " Är den här rädslan eller ångesten överdriven eller oproportionerlig i förhållande
+    till hur "
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: " farlig situationen faktiskt är?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: E5
+  :subid:
+  :text: " Varade det här undvikande beteendet, eller den här rädslan eller ångesten
+    i minst 6 "
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: " månader?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: E6
+  :subid:
+  :text: " Orsakade dessa symtom påtagliga besvär eller problem hemma, på arbetet,
+    i dina studier, "
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: " socialt eller på något annat viktigt sätt?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR E6 KODATS JA? "
+  :title:
+  :answer:
+  - NEJ                JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " AGORAFOBI"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " PÅGÅENDE"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " F. SOCIAL ÅNGEST (Social fobi)"
+  :title: F. SOCIAL ÅNGEST (Social fobi)
+  :answer:
+- :id:
+  :subid:
+  :text: " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED
+    NÄSTA AVSNITT)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: F1
+  :subid:
+  :text: " Under den senaste månaden, har du haft ihållande rädsla och påtaglig ångest
+    inför att "
+  :title:
+  :answer:
+  - NEJ                   JA
+- :id:
+  :subid:
+  :text: " iakttas eller stå i centrum för uppmärksamheten eller för att bli förödmjukad,
+    utskämd"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " eller avvisad?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Detta gäller sådant som att tala inför andra, att äta inför eller med andra,
+    att skriva när"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " någon ser på, prestera något inför andra eller att umgås med andra."
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " EXEMPEL PÅ DYLIKA SOCIALA SITUATIONER ÄR"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " • INLEDA ELLER UNDERHÅLLA ETT SAMTAL"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " • DELTA I SMÅ GRUPPER"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " • DEJTA"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " • TALA INFÖR PERSONER I HÖG STÄLLNING"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " • GÅ PÅ FESTER"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " • TALA INFÖR PUBLIK"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " • ÄTA INFÖR ANDRA"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " • PRESTERA NÅGOT INFÖR ANDRA,"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " • ATT URINERA PÅ EN OFFENTLIG TOALETT, ETC"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: F2
+  :subid:
+  :text: " Framkallar sådana sociala situationer nästan alltid rädsla eller ångest? "
+  :title:
+  :answer:
+  - NEJ                   JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: F3
+  :subid:
+  :text: " Är du så rädd för dessa sociala situationer att du undviker dem eller lider
+    dig "
+  :title:
+  :answer:
+  - NEJ                   JA
+- :id:
+  :subid:
+  :text: " igenom dem, eller behöver ha sällskap med dig för att kunna stå ut?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: F4
+  :subid:
+  :text: " Är den här sociala rädslan eller ångesten överdriven eller orimlig i de
+    här sociala "
+  :title:
+  :answer:
+  - NEJ                   JA
+- :id:
+  :subid:
+  :text: " situationerna?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: F5
+  :subid:
+  :text: " Har det här sociala undvikandet, rädslan eller ångesten varat i minst 6
+    månader? "
+  :title:
+  :answer:
+  - NEJ                   JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: F6
+  :subid:
+  :text: " Orsakade dessa sociala rädslor påtagliga besvär eller påverkade de din
+    förmåga "
+  :title:
+  :answer:
+  - NEJ                   JA
+- :id:
+  :subid:
+  :text: " att fungera på arbetet, i dina studier, socialt, i relationer, eller på
+    något annat"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " viktigt sätt?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " "
+  :title:
+  :answer:
+  - NEJ                           JA
+- :id:
+  :subid:
+  :text: " HAR F6 KODATS JA SOCIAL ÅNGEST"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " (Social fobi)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " och"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " PÅGÅENDE"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " BEGRÄNSAD TILL SOCIAL ÅNGEST"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ENDAST I SAMBAND"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ANMÄRKNING TILL INTERVJUAREN: VÄNLIGEN ANGE OM PATIENTENS RÄDSLA ÄR MED
+    FRAMTRÄDANDEN []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " BEGRÄNSAD TILL ATT TALA ELLER FRAMTRÄDA INFÖR ANDRA."
+  :title: A.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " G. TVÅNGSSYNDROM"
+  :title: G. TVÅNGSSYNDROM
+  :answer:
+- :id:
+  :subid:
+  :text: " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED
+    NÄSTA AVSNITT)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: G1
+  :subid: a
+  :text: 'Under den senaste månaden, har du besvärats av återkommande tankar, impulser,
+    eller '
+  :title:
+  :answer:
+  - NEJ          JA
+- :id:
+  :subid:
+  :text: " inre bilder som var oönskade, motbjudande, olämpliga, påträngande eller
+    obehagliga? "
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " (T.ex. en känsla av att vara smutsig, förorenad eller ha baciller, eller
+    rädsla för att smitta HOPPA TILL"
+  :title: T.ex. en känsla av att vara smutsig, förorenad eller ha baciller, eller
+    rädsla för att smitta       HOPPA TILL
+  :answer:
+- :id:
+  :subid:
+  :text: " andra, eller rädsla för att skada någon fast det stör eller besvärar dig,
+    eller rädsla för att G3a"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " reagera på någon impuls, eller rädsla eller vidskeplighet för att ha ansvar
+    för sådant som"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " blir fel, eller sexfixering (tankar, bilder eller impulser), eller religiösa
+    tvångstankar.)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: G1
+  :subid: b
+  :text: 'Under den senaste månaden, har du försökt att undertrycka de här tankarna,
+    impulserna '
+  :title:
+  :answer:
+  - NEJ          JA
+- :id:
+  :subid:
+  :text: " eller bilderna, eller att neutralisera eller förminska dem med hjälp av
+    någon annan tanke "
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " eller handling? HOPPA TILL"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " G3a"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " (TA INTE MED SÅDANT SOM HELT ENKELT ÄR ÖVERDRIVEN ORO FÖR VERKLIGA PROBLEM."
+  :title: M.
+  :answer:
+- :id:
+  :subid:
+  :text: " INKLUDERA INTE OBSESSIONER SOM ÄR KLART RELATERAT TILL SAMLARBETEENDE,"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HÅRPLOCKNING, HUDPLOCKNING, DYSMORFOFOBI, ÄTSTÖRNINGAR, SEXUELLA AVVIKELSER,"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " SPELMANI ELLER ALKOHOL- ELLER DROGMISSBRUK. DETTA EFTERSOM PATIENTEN KAN
+    HA NÖJE"
+  :title: K. DETTA EFTERSOM PATIENTEN KAN HA NÖJE
+  :answer:
+- :id:
+  :subid:
+  :text: " AV AKTIVITETEN OCH VILJA MOTSTÅ DEN ENBART PÅ GRUND AV DESS NEGATIVA KONSEKVENSER.)"
+  :title: R.)
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: G2
+  :subid:
+  :text: " Dök de upp i ditt medvetande om och om igen trots att du försökte strunta
+    i dem eller bli "
+  :title:
+  :answer:
+  - NEJ          JA
+- :id:
+  :subid:
+  :text: " av med dem?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " obsessioner"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: G3
+  :subid: a
+  :text: 'Under den senaste månaden, har du – på grund av en fixering eller för att
+    följa en strikt '
+  :title:
+  :answer:
+  - NEJ          JA
+- :id:
+  :subid:
+  :text: " regel – känt dig tvungen att göra något gång på gång, som att tvätta eller
+    städa"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " överdrivet mycket, att räkna eller kontrollera saker om och om igen, eller
+    att upprepa"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " eller arrangera saker, eller andra vidskepliga ritualer?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: G3
+  :subid: b
+  :text: 'Utförs de här ritualerna för att förebygga eller minska ångest eller obehag
+    eller för att '
+  :title:
+  :answer:
+  - NEJ          JA
+- :id:
+  :subid:
+  :text: " hindra något dåligt från att hända och är de överdrivna eller orimliga?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " tvång"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR (G1a OCH G1b OCH G2) ELLER (G3a OCH G3b) KODATS JA? "
+  :title:
+  :answer:
+  - NEJ          JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: G4
+  :subid:
+  :text: " Under den senaste månaden, har dessa tvångstankar och/eller tvångshandlingar "
+  :title:
+  :answer:
+  - NEJ                     JA
+- :id:
+  :subid:
+  :text: " orsakat påtagliga besvär eller stört din förmåga att fungera hemma, på
+    arbetet, i dina"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " studier, socialt eller i relationer, eller på något annat viktigt sätt,
+    eller tog de mer än en TVÅNGSSYNDROM"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " timme om dagen i anspråk? PÅGÅENDE"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " INSIKT:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " och"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " GOD ELLER HYGGLIG []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA? BRISTANDE []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " (UNDERSÖK OM DET FINNS TVÅNGSSYMTOM SOM UPPKOMMIT INOM TRE VECKOR INGEN
+    []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " EFTER EN INFEKTION) VANFÖRESTÄLLNINGAR []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ANGE GRADEN AV INSIKT OCH OM EPISODEN ÄR TICS-RELATERAD. TICS-RELATERAD
+    []"
+  :title: D.                                          TICS-RELATERAD                []
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " H. POSTTRAUMATISKT STRESSYNDROM (PTSD)"
+  :title: H. POSTTRAUMATISKT STRESSYNDROM (PTSD)
+  :answer:
+- :id:
+  :subid:
+  :text: " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED
+    NÄSTA AVSNITT)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: H1
+  :subid:
+  :text: " Har du någonsin varit med om, eller varit vittne till eller varit tvungen
+    att hantera en "
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: " extremt traumatisk händelse som inneburit dödsfall, dödshot, allvarlig
+    skada eller"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " sexuellt våld mot dig eller någon annan?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " EXEMPEL PÅ TRAUMATISKA HÄNDELSER: ALLVARLIGA OLYCKSHÄNDELSER, SEXUELL"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ELLER FYSISK MISSHANDEL, TERRORISTATTACK, GISSLANTAGANDE, KIDNAPPNING,"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ELDSVÅDA, UPPTÄCKA ETT LIK, KRIG ELLER NATURKATASTROF, BEVITTNA ANHÖRIGS"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " VÅLDSAMMA ELLER PLÖTSLIGA DÖD, ELLER EN LIVSHOTANDE SJUKDOM."
+  :title: M.
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: H2
+  :subid:
+  :text: " Efter den traumatiska händelsen, har du upprepade gånger återupplevt denna
+    händelse "
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: " på ett ofrivilligt och psykiskt obehagligt sätt (som i återkommande drömmar
+    relaterade"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " till händelsen, påträngande minnesbilder eller flashbacks som om det hände
+    en gång till)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " eller har du fått intensiva fysiska eller psykiska reaktioner när du påmints
+    om händelsen"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " eller utsatts för en liknande händelse?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: H3
+  :subid:
+  :text: " Under den senaste månaden:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: a
+  :text: 'Har du ansträngt dig för att undvika att tänka på eller minnas plågsamma
+    detaljer eller '
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: " känslor som är relaterade till händelsen?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'Har du ansträngt dig för att undvika människor, samtal, platser, situationer,
+    aktiviteter '
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: " eller saker som väcker obehagliga minnen av händelsen?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR 1 ELLER FLERA H3-SVAR KODATS JA? "
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: H4
+  :subid:
+  :text: " Under den senaste månaden:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: a
+  :text: 'Har du haft svårigheter att minnas någon väsentlig del av traumat? (men
+    inte p.g.a. eller '
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: " relaterat till huvudskada, alkohol eller droger)."
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'Har du haft ihållande och orimligt negativa tankar om dig själv, om andra
+    eller om '
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: " världen?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: c
+  :text: 'Har du ständigt skuldbelagt dig själv eller andra på ett orimligt sätt för
+    den traumatiska '
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: " händelsen?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: d
+  :text: 'Har dina känslor alltid varit negativa (såsom rädsla, skräck, ilska, skuld
+    eller skam)? '
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: e
+  :text: 'Har ditt intresse för att delta i aktiviteter som tidigare var betydelsefulla
+    för dig minskat '
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: " betydligt?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " "
+  :title:
+  :answer:
+- :id:
+  :subid: f
+  :text: 'Har du känt dig isolerad från eller främmande inför andra människor? '
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: g
+  :text: 'Har du varit oförmögen att uppleva positiva känslor (såsom lycka, tillfredsställelse
+    eller '
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: " kärlek)?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR 2 ELLER FLERA H4-SVAR KODATS JA? "
+  :title:
+  :answer:
+  - NEJ   JA
+- :id: H5
+  :subid:
+  :text: " Under den senaste månaden:"
+  :title:
+  :answer:
+- :id:
+  :subid: a
+  :text: 'Har du varit särskilt irritabel eller fått vredesutbrott redan vid liten
+    eller obefintlig '
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: " provokation?"
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'Har du varit mer vårdslös eller självdestruktiv? '
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid: c
+  :text: 'Har du varit mer nervös eller överdrivet vaksam? '
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: d
+  :text: 'Har du varit mer lättskrämd? '
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: e
+  :text: 'Har du haft svårare att koncentrera dig? '
+  :title:
+  :answer:
+  - NEJ          JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: f
+  :text: 'Har du haft svårare att sova? '
+  :title:
+  :answer:
+  - NEJ          JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR 2 ELLER FLER H5-SVAR KODATS JA? "
+  :title:
+  :answer:
+  - NEJ          JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: H6
+  :subid:
+  :text: " Började alla de här problemen efter den traumatiska händelsen och pågick
+    de i mer än "
+  :title:
+  :answer:
+  - NEJ          JA
+- :id:
+  :subid:
+  :text: " en månad?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: H7
+  :subid:
+  :text: " Under den senaste månaden, har dessa problem orsakat påtagliga besvär eller
+    stört din "
+  :title:
+  :answer:
+  - NEJ                 JA
+- :id:
+  :subid:
+  :text: " förmåga att fungera hemma, på arbetet, i dina studier, socialt, i dina
+    relationer, eller på"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " något annat viktigt sätt? POSTTRAUMATISKT"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " STRESSYNDROM (PTSD)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " och"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " PÅGÅENDE"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " MED"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ANGE OM DEPERSONALISATION, DEREALISATION ELLER EN FÖRDRÖJD DEBUT ÄR EN
+    DEPERSONALISATION []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " DEL AV TILLSTÅNDET. DEREALISATION []"
+  :title: T.                                                                           DEREALISATION        []
+  :answer:
+- :id:
+  :subid:
+  :text: " FÖRDRÖJD DEBUT []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " I. ALKOHOLBRUKSYNDROM"
+  :title: I. ALKOHOLBRUKSYNDROM
+  :answer:
+- :id:
+  :subid:
+  :text: " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED
+    NÄSTA AVSNITT)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: I1
+  :subid:
+  :text: " Under de senaste 12 månaderna, har du druckit 3 eller fler glas alkoholhaltig
+    dryck inom "
+  :title:
+  :answer:
+  - NEJ     JA
+- :id:
+  :subid:
+  :text: " en 3-timmarsperiod vid 3 eller fler tillfällen?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: I2
+  :subid:
+  :text: " Under de senaste 12 månaderna:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: a
+  :text: 'När du drack alkohol, brukade det bli så att du drack mer än du hade tänkt
+    från början? '
+  :title:
+  :answer:
+  - NEJ     JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'Har du upprepade gånger velat minska eller kontrollera din användning av
+    alkohol? '
+  :title:
+  :answer:
+  - NEJ     JA
+- :id:
+  :subid:
+  :text: " Har du försökt minska eller kontrollera din användning av alkohol, men
+    misslyckats?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " VID JA PÅ NÅGON AV DESSA FRÅGOR, KODA JA."
+  :title: A.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: c
+  :text: 'De dagar du drack, lade du ner avsevärd tid på att skaffa alkohol, dricka
+    eller att '
+  :title:
+  :answer:
+  - NEJ     JA
+- :id:
+  :subid:
+  :text: " återhämta dig från alkoholeffekterna?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: d
+  :text: 'Kände du ett sug eller starkt begär eller längtan efter att dricka alkohol? '
+  :title:
+  :answer:
+  - NEJ     JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: e
+  :text: 'Ägnade du mindre tid åt att sköta dina plikter på arbetet, i dina studier
+    eller hemma på '
+  :title:
+  :answer:
+  - NEJ     JA
+- :id:
+  :subid:
+  :text: " grund av ditt återkommande drickande?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: f
+  :text: 'Om ditt drickande ledde till problem med din familj eller andra människor,
+    fortsatte du '
+  :title:
+  :answer:
+  - NEJ     JA
+- :id:
+  :subid:
+  :text: " att dricka ändå?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: g
+  :text: 'Har du varit alkoholpåverkad mer än en gång i någon situation där du eller
+    andra varit '
+  :title:
+  :answer:
+  - NEJ     JA
+- :id:
+  :subid:
+  :text: " utsatt för en fysisk risk, exempelvis när du kört bil, motorcykel, båt,
+    hanterat maskiner"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " etc.?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: h
+  :text: 'Fortsatte du använda alkohol, även fast det var tydligt att alkoholen orsakade
+    eller '
+  :title:
+  :answer:
+  - NEJ     JA
+- :id:
+  :subid:
+  :text: " förvärrade psykiska eller fysiska problem?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: i
+  :text: 'Minskade du på, eller slutade helt med, viktiga arbetsuppgifter, sociala
+    aktiviteter eller '
+  :title:
+  :answer:
+  - NEJ     JA
+- :id:
+  :subid:
+  :text: " fritidsnöjen på grund av ditt drickande?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: j
+  :text: 'Behövde du dricka mycket mer för att få samma effekt som du fick när du
+    först började '
+  :title:
+  :answer:
+  - NEJ     JA
+- :id:
+  :subid:
+  :text: " dricka alkohol eller fick du mycket mindre effekt med fortsatt användning
+    av samma"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " mängd?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " k1 När du minskade på intensivt eller varaktigt drickande, fick du då något
+    av följande: "
+  :title:
+  :answer:
+  - NEJ     JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 1. ökad svettning eller förhöjd puls []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 2. skakiga händer eller ”dille” []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 3. svårt att sova []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 4. illamående eller kräkningar []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 5. hörde eller såg du saker som andra människor inte kunde höra"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " eller se, eller hade du oförklarliga förnimmelser i huden []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 6. oro []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 7. ångest []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 8. krampanfall []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " VID JA PÅ 2 ELLER FLER AV DE OVANSTÅENDE 8, KODA k1 SOM JA."
+  :title: A.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " k2 Drack du alkohol för att minska eller undvika abstinenssymtom eller
+    för att undvika "
+  :title:
+  :answer:
+  - NEJ     JA
+- :id:
+  :subid:
+  :text: " baksmälla?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " k-SUMMERING: OM JA PÅ k1 ELLER k2, KODA JA "
+  :title:
+  :answer:
+  - NEJ     JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR 2 ELLER FLER I2-SVAR FR.O.M. I2a T.O.M. I2j OCH I2k-SUMMERING KODATS "
+  :title: R.O.M. I
+  :answer:
+  - NEJ                 JA
+- :id:
+  :subid:
+  :text: " JA?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ALKOHOLBRUKSYNDROM"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " GÅNGNA 12 MÅNADERNA"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " DEFINITIONER FÖR ALKOHOLBRUKSYNDROM: ANGE OM:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " LINDRIG = 2–3 AV DE 12 SYMTOMEN LINDRIG []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " MEDELSVÅR = 4–5 AV DE 12 SYMTOMEN MEDELSVÅR []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " SVÅR = 6 ELLER FLER AV DE 12 SYMTOMEN SVÅR []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " I TIDIG REMISSION = KRITERIER HAR INTE UPPFYLLTS PÅ 3 TILL 12 MÅNADER"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " I VARAKTIG REMISSION = KRITERIER HAR INTE UPPFYLLTS PÅ 12 MÅNADER"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " I TIDIG REMISSION []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ELLER MER (BÅDA MED UNDANTAG FÖR KRITERIUM d. – (BEGÄR) OVAN). I VARAKTIG
+    REMISSION []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " I KONTROLLERAD MILJÖ = DÄR TILLGÅNGEN PÅ ALKOHOL ÄR BEGRÄNSAD I KONTROLLERAD
+    MILJÖ []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " J. SUBSTANSBRUKSYNDROM (EJ ALKOHOL)"
+  :title: J. SUBSTANSBRUKSYNDROM (EJ ALKOHOL)
+  :answer:
+- :id:
+  :subid:
+  :text: " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED
+    NÄSTA AVSNITT)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Nu ska jag visa dig/läsa upp en lista på missbruksmedel eller läkemedel."
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: J1
+  :subid: a
+  :text: 'Har du under de senaste 12 månaderna tagit något av dessa medel mer än en
+    enstaka '
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: " gång för att bli ”hög”, euforisk, påtänd, eller för att förändra ditt humör?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " RINGA IN VARJE MEDEL SOM ANVÄNTS:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Stimulantia: Amfetamin, metamfetamin, tjack, fattigmanskola, dos, speed,
+    crystal, Dexedrine, Ritalin/Ritalina,"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " bantningspiller"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Kokain: Koks, kola, koka, base, diesel, rocks, crack"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Opiater: Heroin, varor, gryn, horse, jonk, smack, morfin, opium, metadon,
+    kodein, China white, crocodile, metta,"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Fortalgesic, Dilaudid, Treo Comp, Citodon, Fentanyl, Subutex, OxyContin"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Hallucinogener: LSD, syra, meskalin, peyote, psilocybin, STP, svampar,
+    ecstasy"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Dissociativa droger: PCP (fencyklidin, angel dust), eller ketamin, GHB,
+    GHL, Q-benz, hawaiiansk, mexikansk"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Sniffningsmedel: Butan, boffa, lim, etylklorid, kväveoxidul, lustgas, amylnitrat,
+    butylnitrat, poppers, bensin"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Cannabis: Hasch, röka, brunt, B, brass, holk, grönt, ganja, joint"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Sedativa: Stesolid, Sobril, Temesta, Xanor, Halcion, Rohypnol, roppar,
+    flunitrazepam, fludder, bens, piller"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Diverse: Anabola steroider, dek, ryssfemmor, 4 comp, Khat, receptfria sömn-
+    eller bantningspiller. Hostmedicin? Något"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " annat?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " VILKET/VILKA AV DESSA MEDEL HAR ANVÄNTS MEST? ________________________________________________"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " VILKET/VILKA AV DESSA MEDEL HAR SKAPAT MEST PROBLEM? _________________________________________"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " UNDERSÖK FÖRST KRITERIERNA NEDAN FÖR DEN DROGKLASS SOM GIVIT UPPHOV TILL
+    STÖRST PROBLEM OCH MEST SANNOLIKT UPPFYLLER KRITERIERNA"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " FÖR SUBSTANSBRUKSYNDROM. OM FLERA DROGKLASSER HAR MISSBRUKATS, UNDERSÖK
+    SÅ MÅNGA ELLER SÅ FÅ SOM KRÄVS FÖR PROTOKOLLET."
+  :title: M. OM FLERA DROGKLASSER HAR MISSBRUKATS, UNDERSÖK SÅ MÅNGA ELLER SÅ FÅ SOM
+    KRÄVS FÖR PROTOKOLLET.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: J2
+  :subid:
+  :text: " Angående ditt bruk av (NAMNET PÅ VALD DROG/DROGKLASS), under de senaste
+    12"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " månaderna:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: a
+  :text: De gånger då du använde drogen, blev det så att du använde mer ( NAMN PÅ
+    VALD
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " DROG/DROGKLASS) än vad du hade tänkt från början?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " "
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid: b
+  :text: Har du upprepade gånger försökt använda mindre av eller kontrollera din användning
+    av
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " (NAMN PÅ VALD DROG/DROGKLASS)? Har du försökt att använda mindre av eller
+    kontrollera din"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " användning av (NAMN PÅ VALD DROG/DROGKLASS), men inte lyckats med detta?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " VID JA PÅ NÅGON AV DESSA FRÅGOR, KODA JA. "
+  :title: A.                                                             NEJ              JA
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: c
+  :text: De dagar då du använde mer (NAMN PÅ VALD DROG/DROGKLASS), lade du ner avsevärt
+    med tid
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " på att skaffa eller använda (NAMN PÅ VALD DROG/DROGKLASS ) eller att återhämta
+    dig från"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " verkningarna?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " "
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid: d
+  :text: Kände du ett sug eller ett starkt begär eller längtan efter att använda (NAMN
+    PÅ VALD
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " DROG/DROGKLASS)?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " "
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid: e
+  :text: Ägnade du mindre tid åt att sköta dina plikter på arbetet, i dina studier
+    eller hemma på
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " grund av din upprepade användning av (NAMN PÅ VALD DROG/DROGKLASS)?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " "
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid: f
+  :text: Om din användning av (NAMN PÅ VALD DROG/DROGKLASS) ledde till problem med
+    din familj
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " eller andra människor, fortsatte du att använda den ändå?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " "
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid: g
+  :text: Har du använt drogen mer än en gång i någon situation där du eller andra
+    varit utsatt för
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " en fysisk risk, exempelvis när du kört bil, motorcykel, båt, hanterat maskiner
+    etc.?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " "
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid: h
+  :text: Fortsatte du använda (NAMN PÅ VALD DROG/DROGKLASS), även fast det var tydligt
+    att (NAMN PÅ
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " VALD DROG/DROGKLASS) orsakade eller förvärrade psykiska eller fysiska problem?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " "
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid: i
+  :text: Minskade du på, eller slutade helt med, viktiga arbetsuppgifter, sociala
+    aktiviteter eller
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " fritidsnöjen på grund av din användning av (NAMN PÅ VALD DROG/DROGKLASS)?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " "
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid: j
+  :text: Behövde du använda (NAMN PÅ VALD DROG/DROGKLASS) mycket mer för att få samma
+    effekt
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " som du fick när du först började använda den eller fick du mycket mindre
+    effekt med"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " fortsatt användning av samma mängd?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " DET HÄR KRITERIET SKA KODAS NEJ OM LÄKEMEDLET ÄR FÖRSKRIVET OCH ANVÄNDS "
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: " UNDER MEDICINSKT ÖVERINSEENDE."
+  :title: E.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " k1 När du minskade på intensiv eller varaktig användning av drogen, fick
+    du då något av"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " följande abstinenssymtom:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " VID JA PÅ ERFORDERLIGT ANTAL ABSINENSSYMTOM FÖR VARJE DROGKLASS, KODA J2k1
+    SOM JA. "
+  :title: A.           NEJ   JA
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: " DET HÄR KRITERIET SKA KODAS NEJ OM LÄKEMEDLET ÄR FÖRSKRIVET OCH ANVÄNDS"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " UNDER MEDICINSKT ÖVERINSEENDE."
+  :title: E.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Sedativ, hypnotisk eller anxiolytisk (2 eller fler)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 1. ökad svettning eller förhöjd puls []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 2. skakiga händer eller ”dille” []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 3. svårt att sova []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 4. illamående eller kräkningar []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 5. hörde eller såg du saker som andra människor inte kunde höra"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " eller se, eller hade du oförklarliga förnimmelser i huden []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 6. oro []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 7. ångest []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 8. krampanfall []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Opiater (3 eller fler)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 1. nedstämdhet []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 2. illamående eller kräkningar []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 3. muskelvärk []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 4. rinnande näsa eller tårögdhet []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 5. vidgade pupiller, gåshud eller ”ståpäls”, eller svettningar []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 6. diarré []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 7. gäspningar []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 8. värmevallning []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 9. svårt att sova []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Stimulantia (2 eller fler)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 1. trötthet []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 2. livliga eller obehagliga drömmar []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 3. svårt att sova eller för mycket sömn []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 4. ökad aptit []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 5. känsla av eller enligt omgivningen fysisk eller mental tröghet []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Cannabis (3 eller fler)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 1. retlighet, ilska eller aggression []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 2. nervositet eller ångest []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 3. svårt att sova []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 4. minskad vikt eller aptit []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 5. rastlöshet []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 6. nedstämdhet []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 7. påtagliga besvär från något av följande:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " magont, skakningar eller ”dille”, svettningar, värmevallningar, frossa,
+    huvudvärk []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " k2 Använde du (NAMN PÅ VALD DROG/DROGKLASS) för att minska eller undvika
+    abstinenssymtom? "
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " J2k-SUMMERING: VID JA PÅ J2k1 ELLER J2k2, KODA JA "
+  :title:
+  :answer:
+  - NEJ   JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR 2 ELLER FLER J2-SVAR FRÅN J2a TILL OCH MED J2k-SUMMERING KODATS JA? "
+  :title:
+  :answer:
+  - NEJ                 JA
+- :id:
+  :subid:
+  :text: " (J2k1 OCH J2k2 TILLSAMMANS RÄKNAS SOM ETT BLAND DESSA ALTERNATIV)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " SUBSTANSBRUKSYNDROM"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " (namn på drog/drogklass)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " GÅNGNA 12 MÅNADERNA"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " DEFINITIONER FÖR SUBSTANSBRUKSYNDROM: ANGE OM:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " LINDRIG = 2–3 AV SYMTOMEN UNDER J2 LINDRIG []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " MEDELSVÅR = 4–5 AV SYMTOMEN UNDER J2 MEDELSVÅR []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " SVÅR = 6 ELLER FLER AV SYMTOMEN UNDER J2 SVÅR []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " I TIDIG REMISSION = KRITERIER HAR INTE UPPFYLLTS PÅ 3 TILL 12 MÅNADER"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " I VARAKTIG REMISSION = KRITERIER HAR INTE UPPFYLLTS PÅ 12 MÅNADER"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " I TIDIG REMISSION []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ELLER MER (BÅDA MED UNDANTAG FÖR KRITERIUM d. – (BEGÄR) OVAN). I VARAKTIG
+    REMISSION []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " I EN KONTROLLERAD MILJÖ = DÄR TILLGÅNGEN PÅ SUBSTANSER/DROGER ÄR I KONTROLLERAD
+    MILJÖ []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " BEGRÄNSAD"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " K. PSYKOTISKA SYNDROM OCH AFFEKTIVA SYNDROM MED PSYKOTISKA SYMTOM"
+  :title: K. PSYKOTISKA SYNDROM OCH AFFEKTIVA SYNDROM MED PSYKOTISKA SYMTOM
+  :answer:
+- :id:
+  :subid:
+  :text: BE OM ETT EXEMPEL FÖR VARJE FRÅGA SOM BEJAKAS. KODA JA ENBART OM EXEMPLEN
+    TYDLIGT VISAR PÅ TANKE- ELLER PERCEPTIONSMÄSSIG VANFÖRESTÄLLNING
+  :title: S. KODA JA ENBART OM EXEMPLEN TYDLIGT VISAR PÅ TANKE- ELLER PERCEPTIONSMÄSSIG
+    VANFÖRESTÄLLNING
+  :answer:
+- :id:
+  :subid:
+  :text: ELLER OM DE ÄR KULTURELLT AVVIKANDE. SYFTET MED DETTA AVSNITT ÄR ATT KUNNA
+    UTESLUTA PATIENTER MED PSYKOTISKA SYNDROM. DETTA AVSNITT KRÄVER
+  :title: E. SYFTET MED DETTA AVSNITT ÄR ATT KUNNA UTESLUTA PATIENTER MED PSYKOTISKA
+    SYNDROM. DETTA AVSNITT KRÄVER
+  :answer:
+- :id:
+  :subid:
+  :text: ERFARENHET.
+  :title: T.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Nu ska jag fråga dig om ovanliga upplevelser som en del människor har."
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: K1
+  :subid: a
+  :text: 'Har du någon gång trott att folk spionerade på dig, eller att någon konspirerade
+    mot dig '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: " eller försökte skada dig?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ANMÄRKNING: BE OM EXEMPEL FÖR ATT UTESLUTA ATT PATIENTEN FAKTISKT ÄR FÖRFÖLJD."
+  :title: D.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'OM JA: Tror du för närvarande att det är så? '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: K2
+  :subid: a
+  :text: 'Har du någonsin trott att någon läste dina tankar eller kunde höra dina
+    tankar eller att '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: " du själv faktiskt kunde läsa någons tankar eller höra vad någon annan person
+    tänkte?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'OM JA: Tror du för närvarande att det är så? '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: K3
+  :subid: a
+  :text: 'Har du någonsin trott att någon person eller kraft utanför dig själv satte
+    in tankar i ditt '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: " huvud som inte var dina egna, eller fick dig att bete dig på ett sätt som
+    kändes"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " främmande för dig? Har du någonsin känt dig som om du vore besatt?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " KLINIKER: BE OM EXEMPEL OCH UTESLUT ALLT SOM INTE ÄR PSYKOTISKT."
+  :title: T.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'OM JA: Tror du för närvarande att det är så? '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: K4
+  :subid: a
+  :text: 'Har du någonsin trott att du fått speciella meddelanden på TV, i radio,
+    internet, '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: " dagstidningar, tidskrifter eller böcker, eller att någon person som du
+    inte varit"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " personligen bekant med varit särskilt intresserad av dig?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'OM JA: Tror du för närvarande att det är så? '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: K5
+  :subid: a
+  :text: 'Har dina vänner eller släktingar någonsin tyckt att sådant som du tror på
+    är konstigt eller '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: " ovanligt?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " INTERVJUARE: BE OM EXEMPEL. KODA JA ENBART OM EXEMPLEN ÄR UPPENBARA VANFÖRESTÄLLNINGAR"
+  :title: L. KODA JA ENBART OM EXEMPLEN ÄR UPPENBARA VANFÖRESTÄLLNINGAR
+  :answer:
+- :id:
+  :subid:
+  :text: " SOM INTE UNDERSÖKTS I K1–K4 SOM T.EX. RELIGIÖSA, DÖDS- ELLER SJUKDOMSRELATERADE
+    ELLER"
+  :title: T.EX. RELIGIÖSA, DÖDS- ELLER SJUKDOMSRELATERADE ELLER
+  :answer:
+- :id:
+  :subid:
+  :text: " SOMATISKA VANFÖRESTÄLLNINGAR ELLER VANFÖRESTÄLLNINGAR OM GRANDIOSITET,
+    SVARTSJUKA ELLER"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " SKULD, ELLER OM MISSLYCKANDE, BRIST, UNDERGÅNG ELLER NÖD, ELLER NIHILISTISKA"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " VANFÖRESTÄLLNINGAR."
+  :title: R.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'OM JA: Tycker de för närvarande att det du tror är konstigt eller ovanligt? '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: K6
+  :subid: a
+  :text: 'Har du någonsin hört saker som andra inte kunnat höra, såsom röster? '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM JA FÖR HÖRSELHALLUCINOS: Hörde du en röst som kommenterade dina tankar
+    eller "
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: " ditt beteende, eller hörde du två eller fler röster som pratade med varandra?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'OM JA FÖR K6a: Har du hört ljud/röster under den senaste månaden? '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM JA FÖR HÖRSELHALLUCINOS: Hörde du en röst som kommenterade dina tankar
+    eller "
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: " ditt beteende, eller hörde du två eller fler röster som pratade med varandra?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: K7
+  :subid: a
+  :text: 'Har du någonsin haft syner i vaket tillstånd eller någon gång sett saker
+    som andra inte '
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: " kunnat se?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " KLINIKER: UNDERSÖK OM DESSA ÄR KULTURELLT AVVIKANDE."
+  :title: E.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'OM JA: Har du sett något sådant under den senaste månaden? '
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " KLINIKERNS BEDÖMNING"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: K8
+  :subid: a
+  :text: 'HAR PATIENTEN NÅGONSIN I DET FÖRFLUTNA UPPVISAT OSORTERAT, SPLITTRAT ELLER '
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: " URSPÅRAT TAL, ELLER MARKANT UPPLUCKRADE ASSOCIATIONER?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: K8
+  :subid: b
+  :text: 'UPPVISAR PATIENTEN FÖR NÄRVARANDE SPLITTRING, OSORTERAT ELLER URSPÅRAT TAL '
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: " ELLER MARKANT UPPLUCKRADE ASSOCIATIONER?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: K9
+  :subid: a
+  :text: 'HAR PATIENTEN NÅGONSIN I DET FÖRFLUTNA UPPVISAT DESORGANISERAT ELLER '
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: " KATATONT BETEENDE?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: K9
+  :subid: b
+  :text: 'VISAR PATIENTEN FÖR NÄRVARANDE DESORGANISERAT ELLER KATATONT BETEENDE? '
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: K10
+  :subid:
+  :text: 'a HAR PATIENTEN NÅGONSIN I DET FÖRFLUTNA HAFT NEGATIVA SYMTOM, T.EX. '
+  :title: T.EX.                         NEJ              JA
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: " BETYDANDE MINSKNING AV KÄNSLOUTTRYCK, KÄNSLOMÄSSIG AVTRUBBNING,"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " SPRÅKLIG TORFTIGHET (ALOGI) ELLER OFÖRMÅGA ATT STARTA ELLER FORTSÄTTA MED"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " MÅLINRIKTADE AKTIVITETER (AVOLITION)?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: K10
+  :subid:
+  :text: 'b ÄR NEGATIVA SCHIZOFRENISYMTOM SÅSOM PÅTAGLIG MINSKNING I KÄNSLOUTTRYCK '
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: " ELLER KÄNSLOMÄSSIG AVTRUBBNING, TORFTIGT SPRÅK (ALOGI) ELLER OFÖRMÅGA ATT"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " STARTA ELLER FORTSÄTTA MED MÅLINRIKTADE AKTIVITETER (AVOLITION),"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " FRAMTRÄDANDE UNDER INTERVJUN?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: K11
+  :subid:
+  :text: a HAR 1 ELLER FLERA ”a”-FRÅGOR FRÅN K1a TILL K7a KODATS JA?
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OCH HAR ANTINGEN:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " EGENTLIG DEPRESSIONSEPISOD (PÅGÅENDE, ÅTERKOMMANDE ELLER TIDIGARE)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ELLER"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " MANISK ELLER HYPOMAN EPISOD (PÅGÅENDE ELLER TIDIGARE) KODATS JA? "
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: "  K13"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HUR LÄNGE VARADE FÖRSTÄMNINGSEPISODEN? _________"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HUR LÄNGE VARADE DEN PSYKOTISKA EPISODEN? _________"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM EN SÅDAN FÖRSTÄMNINGSEPISOD FÖRELIGGER, MÅSTE DEN FÖRELIGGA UNDER"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " MERPARTEN AV DE PSYKOTISKA SYMTOMENS SAMMANLAGDA TID, INNEFATTANDE"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " AKTIVA PERIODER OCH RESTTILLSTÅND. KODA ANNARS NEJ PÅ K11a."
+  :title: D. KODA ANNARS NEJ PÅ K
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM SVARET ÄR NEJ PÅ K11a RINGA IN NEJ I BÅDA DIAGNOSRUTORNA"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " FÖR ”FÖRSTÄMNINGSSYNDROM MED PSYKOTISKA SYMTOM” OCH GÅ TILL K13."
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'Du berättade tidigare för mig att du har haft en period eller perioder när
+    du känt dig '
+  :title:
+  :answer:
+  - NEJ                    JA
+- :id:
+  :subid:
+  :text: " (deprimerad/upprymd/ständigt retlig)."
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Var de uppfattningar och erfarenheter som du nyss beskrev (SYMTOM KODADE
+    JA FRÅN FÖRSTÄMNINGS-"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " K1a TILL K7a) helt begränsade till tider då du kände dig deprimerad/upprymd/retlig?
+    SYNDROM MED"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " PSYKOTISKA SYMTOM"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM PATIENTEN NÅGONSIN HAFT EN PERIOD SOM VARAT I MINST 2 VECKOR MED DESSA"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " UPPFATTNINGAR ELLER ERFARENHETER (PSYKOTISKA SYMTOM) UTAN ATT SAMTIDIGT"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " VARA DEPRIMERAD/UPPSTÄMD/RETLIG, KODA NEJ FÖR DETTA SYNDROM. NÅGONSIN"
+  :title: M.                                     NÅGONSIN
+  :answer:
+- :id:
+  :subid:
+  :text: " OM SVARET ÄR NEJ FÖR DENNA GRUPP AV SYNDROM, RINGA OCKSÅ IN NEJ FÖR K12"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OCH GÅ TILL K13."
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: K12
+  :subid:
+  :text: 'a HAR 1 ELLER FLERA ”b”-FRÅGOR FRÅN K1b TILL K7b KODATS JA OCH HAR ANTINGEN: '
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " EGENTLIG DEPRESSIV EPISOD (PÅGÅENDE)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ELLER FÖRSTÄMNINGS-"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " MANISK ELLER HYPOMAN EPISOD (PÅGÅENDE) KODATS JA? SYNDROM MED"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " PSYKOTISKA SYMTOM"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM SVARET ÄR JA FÖR DETTA SYNDROM (NÅGONSIN ELLER PÅGÅENDE), RINGA IN NEJ"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " FÖR K13 OCH K14 OCH GÅ VIDARE TILL NÄSTA AVSNITT."
+  :title: T.
+  :answer:
+- :id:
+  :subid:
+  :text: " PÅGÅENDE"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: K13
+  :subid:
+  :text: " HAR 1 ELLER FLERA ”b”-FRÅGOR FRÅN K1b TILL K8b KODATS JA? "
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: " OCH"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " PSYKOTISKT SYNDROM"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR 2 ELLER FLER ”b”-FRÅGOR FRÅN K1b TILL K10b KODATS JA?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " PÅGÅENDE"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OCH INTRÄFFADE MINST TVÅ AV DE PSYKOTISKA SYMTOMEN UNDER EN"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ENMÅNADSPERIOD?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OCH"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: K14
+  :subid:
+  :text: " HAR K13 KODATS JA "
+  :title:
+  :answer:
+  - NEJ              JA
+- :id:
+  :subid:
+  :text: " ELLER"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " PSYKOTISKT SYNDROM"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " (HAR 1 ELLER FLERA ”a”-FRÅGOR FRÅN K1a TILL K8a KODATS JA?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " NÅGONSIN"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OCH"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR 2 ELLER FLER ”a”-FRÅGOR FRÅN K1a TILL K10a KODATS JA"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OCH INTRÄFFADE MINST TVÅ AV DE PSYKOTISKA SYMTOMEN UNDER EN"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ENMÅNADSPERIOD?)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OCH"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " L. ANOREXIA NERVOSA"
+  :title: L. ANOREXIA NERVOSA
+  :answer:
+- :id:
+  :subid:
+  :text: " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED
+    NÄSTA AVSNITT)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: L1
+  :subid: a
+  :text: Hur lång är du? ft tum
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " cm"
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: Vad vägde du som lägst under de senaste 3 månaderna? pund
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " kg"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id:
+  :subid: c
+  :text: 'VÄGER PATIENTEN LIKA MYCKET ELLER MINDRE ÄN TRÖSKELVÄRDET MOTSVARANDE '
+  :title:
+  :answer:
+  - NEJ             JA
+- :id:
+  :subid:
+  :text: " HANS/HENNES LÄNGD? (SE TABELLEN NEDAN)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Under de senaste 3 månaderna:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: L2
+  :subid:
+  :text: " Har du, trots att du vägt så lite, försökt att inte gå upp i vikt eller
+    att begränsa ditt matintag? "
+  :title:
+  :answer:
+  - NEJ                  JA
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: L3
+  :subid:
+  :text: " Har du varit väldigt rädd för att gå upp i vikt eller för att bli tjock
+    fast du var underviktig? "
+  :title:
+  :answer:
+  - NEJ             JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: L4
+  :subid: a
+  :text: 'Har du tyckt att du varit för stor/tjock eller att någon del av din kropp
+    varit för stor/tjock? '
+  :title:
+  :answer:
+  - NEJ             JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'Har din vikt eller kroppsform påverkat din självkänsla i hög grad? '
+  :title:
+  :answer:
+  - NEJ             JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: c
+  :text: 'Har du upplevt din nuvarande låga vikt som normal eller för hög? '
+  :title:
+  :answer:
+  - NEJ             JA
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: L5
+  :subid:
+  :text: " HAR 1 ELLER FLER L4-FRÅGOR KODATS JA? "
+  :title:
+  :answer:
+  - NEJ             JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR L5 KODATS JA? "
+  :title:
+  :answer:
+  - NEJ                    JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ANOREXIA NERVOSA"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " PÅGÅENDE"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " 2"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " M. BULIMIA NERVOSA"
+  :title: M. BULIMIA NERVOSA
+  :answer:
+- :id:
+  :subid:
+  :text: " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTORNA, RINGA IN NEJ I SAMTLIGA OCH
+    FORTSÄTT MED NÄSTA AVSNITT)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: M1
+  :subid:
+  :text: " Under de senaste tre månaderna, har du hetsätit eller proppat i dig stora
+    mängder mat "
+  :title:
+  :answer:
+  - NEJ             JA
+- :id:
+  :subid:
+  :text: " under loppet av en 2-timmarsperiod?  M3"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: M2
+  :subid:
+  :text: " När du hetsåt, kände du då att du förlorat kontrollen över ditt ätande? "
+  :title:
+  :answer:
+  - NEJ             JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: M3
+  :subid:
+  :text: " Gjorde du något för att motverka eller förhindra att du gick upp i vikt,
+    som att kräkas, "
+  :title:
+  :answer:
+  - NEJ             JA
+- :id:
+  :subid:
+  :text: " fasta, motionera eller ta laxermedel, lavemang, vätskedrivande medel eller
+    andra"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " läkemedel? Gjorde du detta så ofta som en gång i veckan?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " KODA JA PÅ M3 ENDAST OM SVARET PÅ BÅDA DESSA M3-FRÅGOR ÄR JA."
+  :title: A.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: M3
+  :subid:
+  :text: 'a Antal episoder per vecka av olämpliga kompensatoriska beteenden: _______'
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Antal dagar per vecka med olämpliga kompensatoriska beteenden: _______"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: M4
+  :subid:
+  :text: " Under de senaste 3 månaderna, har du hetsätit så ofta som en gång i veckan? "
+  :title:
+  :answer:
+  - NEJ             JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: M5
+  :subid:
+  :text: " Påverkar din vikt eller kroppsform i hög grad din självkänsla? "
+  :title:
+  :answer:
+  - NEJ             JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: M6
+  :subid:
+  :text: " UPPFYLLER PATIENTENS SYMTOM KRITERIERNA FÖR ANOREXIA NERVOSA? "
+  :title:
+  :answer:
+  - NEJ             JA
+- :id:
+  :subid:
+  :text: " "
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Hoppa till M8"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: M7
+  :subid:
+  :text: " Inträffar hetsätandet bara när du väger under (__________pund/kg)? "
+  :title:
+  :answer:
+  - NEJ             JA
+- :id:
+  :subid:
+  :text: " INTERVJUARE: I PARENTESEN OVAN, FYLL I TRÖSKELVÄRDET FÖR PATIENTENS LÄNGD
+    ENLIGT"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " LÄNGD/VIKTTABELLEN I AVSNITTET OM ANOREXIA NERVOSA."
+  :title: A.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " "
+  :title:
+  :answer:
+  - NEJ                    JA
+- :id: M8
+  :subid:
+  :text: " HAR M5 KODATS JA OCH HAR ANTINGEN M6 ELLER M7 KODATS NEJ?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " BULIMIA NERVOSA"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " PÅGÅENDE"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR M7 KODATS JA? "
+  :title:
+  :answer:
+  - NEJ                    JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ANOREXIA NERVOSA"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Med"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " hetsätning/självrensning"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " PÅGÅENDE"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " UPPFYLLER PATIENTENS SYMTOM KRITERIERNA FÖR ANOREXIA NERVOSA?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " "
+  :title:
+  :answer:
+  - NEJ                       JA
+- :id:
+  :subid:
+  :text: " OCH"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ANOREXIA NERVOSA"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR M2 OCH M3 KODATS NEJ?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Med självsvält"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " PÅGÅENDE"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " DEFINITIONER FÖR ÄTSTÖRNING: ANGE OM:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " LINDRIG = 1–3 EPISODER AV OLÄMPLIGA KOMPENSATORISKA BETEENDEN LINDRIG []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " MEDELSVÅR = 4–7 EPISODER AV OLÄMPLIGA KOMPENSATORISKA BETEENDEN MEDELSVÅR
+    []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " SVÅR = 8–13 EPISODER AV OLÄMPLIGA KOMPENSATORISKA BETEENDEN SVÅR []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " MYCKET SVÅR = 14 ELLER FLER EPISODER AV OLÄMPLIGA KOMPENSATORISKA MYCKET
+    SVÅR []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " BETEENDEN"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " MB. HETSÄTNINGSSTÖRNING"
+  :title: B. HETSÄTNINGSSTÖRNING
+  :answer:
+- :id:
+  :subid:
+  :text: " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ I DIAGNOSRUTAN OCH
+    FORTSÄTT MED NÄSTA AVSNITT)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: 'MB 1 UPPFYLLER PATIENTENS SYMTOM KRITERIERNA FÖR ANOREXIA NERVOSA? '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: 'MB 2 UPPFYLLER PATIENTENS SYMTOM KRITERIERNA FÖR BULIMIA NERVOSA? '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: 'MB 3 M2 HAR KODATS JA '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: 'MB 4 M3 HAR KODATS JA '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: 'MB 5 M4 HAR KODATS JA '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Under de senaste 3 månaderna av hetsätandet:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: 'MB 6a Åt du fortare än vanligt? '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: 'MB 6b Åt du tills du var obehagligt mätt? '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: 'MB 6c Åt du stora mängder mat fastän du inte var hungrig? '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: 'MB 6d Åt du i ensamhet därför att du skämdes över hur mycket du åt? '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: 'MB 6e Kände du dig skamsen, deprimerad eller äcklad över dig själv efter
+    hetsätandet? '
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR 3 ELLER FLER MB6-FRÅGOR KODATS JA? "
+  :title:
+  :answer:
+  - NEJ               JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: 'MB 7 Besvärar dig ditt hetsätande mycket? '
+  :title:
+  :answer:
+  - NEJ           JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: 'MB 8 Antal episoder av hetsätande per vecka: ______'
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Antal dagar av hetsätande per vecka: ______"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR MB7 KODATS JA? "
+  :title:
+  :answer:
+  - NEJ                  JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HETSÄTNINGSSTÖRNING"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " PÅGÅENDE"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " DEFINITIONER FÖR ÄTSTÖRNING: ANGE OM:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " LINDRIG = 1–3 EPISODER AV HETSÄTANDE PER VECKA LINDRIG []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " MEDELSVÅR = 4–7 EPISODER AV HETSÄTANDE PER VECKA MEDELSVÅR []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " SVÅR = 8–13 EPISODER AV HETSÄTANDE PER VECKA SVÅR []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " MYCKET SVÅR = 14 ELLER FLER EPISODER AV HETSÄTANDE PER VECKA MYCKET SVÅR
+    []"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " N. GENERALISERAT ÅNGESTSYNDROM"
+  :title: N. GENERALISERAT ÅNGESTSYNDROM
+  :answer:
+- :id:
+  :subid:
+  :text: " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED
+    NÄSTA AVSNITT)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: N1
+  :subid: a
+  :text: 'Har du varit överdrivet oroad eller ängslig för flera rutinsaker under de
+    senaste 6 '
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: " månaderna?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM PATIENTEN ÄR OSÄKER PÅ VAD DU MENAR, UNDERSÖK GENOM ATT FRÅGA (Tycker"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " andra att du är ”en som oroar sig”?) OCH BE OM EXEMPEL."
+  :title: L.
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'Infinner sig denna ängslan och oro de flesta dagar? '
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ÄR PATIENTENS ÄNGSLAN OCH ORO UTESLUTANDE BEGRÄNSAD TILL, "
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: " ELLER FÖRKLARAS DEN BÄTTRE AV, NÅGOT TIDIGARE GENOMGÅNGET SYNDROM?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id: N2
+  :subid:
+  :text: " Tycker du att det är svårt att kontrollera denna oro? "
+  :title:
+  :answer:
+  - NEJ         JA
+- :id: N3
+  :subid:
+  :text: " KODA NEJ FÖR FÖLJANDE FRÅGOR OM SYMTOMEN ÄR BEGRÄNSADE TILL SYMTOM AV NÅGOT
+    TIDIGARE"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " GENOMGÅNGET SYNDROM."
+  :title: M.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " När du var ängslig under de senaste 6 månaderna, var det så att du för
+    det mesta:"
+  :title:
+  :answer:
+- :id:
+  :subid: a
+  :text: 'Kände dig rastlös, uppskruvad eller spänd? '
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid: b
+  :text: 'Hade du muskelspänningar? '
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid: c
+  :text: 'Kände dig trött, svag eller lätt blev uttröttad? '
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid: d
+  :text: 'Hade svårt att koncentrera dig eller blev alldeles tom i huvudet? '
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid: e
+  :text: 'Kände du dig retlig? '
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid: f
+  :text: 'Hade du problem med sömnen (svårt att somna, vaknade upp mitt i natten,
+    vaknade '
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: " alldeles för tidigt på morgonen eller sov alldeles för mycket)?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR 3 ELLER FLER N3-SVAR KODATS JA? "
+  :title:
+  :answer:
+  - NEJ         JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: N4
+  :subid:
+  :text: " Stör denna oro och dessa bekymmer avsevärt din förmåga att arbeta, att
+    fungera socialt "
+  :title:
+  :answer:
+  - NEJ                   JA
+- :id:
+  :subid:
+  :text: " eller i relationer eller i andra viktiga områden av ditt liv, eller orsakar
+    de avsevärda"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " besvär för dig? GENERALISERAT"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ÅNGESTSYNDROM"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " PÅGÅENDE"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " O. UTESLUTNING AV MEDICINSK, ORGANISK ELLER DROGRELATERAD GENES FÖR ALLA
+    SYNDROM"
+  :title: O. UTESLUTNING AV MEDICINSK, ORGANISK ELLER DROGRELATERAD GENES FÖR ALLA
+    SYNDROM
+  :answer:
+- :id:
+  :subid:
+  :text: " OM PATIENTEN KODAT POSITIVT FÖR NÅGOT PÅGÅENDE SYNDROM ELLER EGENTLIG"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " DEPRESSIONSEPISOD ELLER FÖR MANISK ELLER HYPOMAN EPISOD, FRÅGA:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " Strax innan dessa symtom började:"
+  :title:
+  :answer:
+- :id: O1
+  :subid: a
+  :text: Tog du då några droger eller mediciner eller hade abstinens från några sådana?
+    [] Nej [] Ja [] Osäkert
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: O1
+  :subid: b
+  :text: Hade du någon medicinsk sjukdom? [] Nej [] Ja [] Osäkert
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: O2
+  :subid:
+  :text: " OM O1a ELLER O1b HAR KODATS JA, ÄR NÅGOT AV DEM EN SANNOLIK ORSAK TILL"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " PATIENTENS TILLSTÅND, ENLIGT KLINIKERNS BEDÖMNING? VID BEHOV STÄLLS ÖPPNA"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " TILLÄGGSFRÅGOR. [] Nej [] Ja [] Osäkert"
+  :title: R.                                                                            []
+    Nej     [] Ja   [] Osäkert
+  :answer:
+- :id:
+  :subid:
+  :text: " O2-SAMMANFATTNING: HAR EN ORGANISK/MEDICINSK ELLER DROGRELATERAD GENES"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " UTESLUTITS [] Nej [] Ja [] Osäkert"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " OM O2 HAR BESVARATS JA, DÅ BLIR O2-SUMMERING NEJ. OM O2 HAR BESVARATS NEJ,
+    DÅ"
+  :title: J. OM O
+  :answer:
+- :id:
+  :subid:
+  :text: " BLIR O2-SUMMERING JA."
+  :title: A.
+  :answer:
+- :id:
+  :subid:
+  :text: " I ÖVRIGA FALL ÄR DET OSÄKERT."
+  :title: T.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " P. PERSONLIGHETSSYNDROM, ANTISOCIAL"
+  :title: P. PERSONLIGHETSSYNDROM, ANTISOCIAL
+  :answer:
+- :id:
+  :subid:
+  :text: " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN OCH RINGA IN NEJ)"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: P1
+  :subid:
+  :text: " Före 15 års ålder, hände det att du:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: a
+  :text: 'Upprepade gånger skolkade från skolan eller rymde hemifrån över natten eller
+    stannade '
+  :title:
+  :answer:
+  - NEJ        JA
+- :id:
+  :subid:
+  :text: " ute på kvällen/natten mot dina föräldrars regler?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'Upprepade gånger ljög, fuskade, lurade andra eller stal eller bröt dig in
+    i någons bostad '
+  :title:
+  :answer:
+  - NEJ        JA
+- :id:
+  :subid:
+  :text: " eller bil?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: c
+  :text: 'Startade slagsmål eller mobbade, hotade eller skrämde andra? '
+  :title:
+  :answer:
+  - NEJ        JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: d
+  :text: 'Avsiktligt förstörde saker eller anlade bränder? '
+  :title:
+  :answer:
+  - NEJ        JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: e
+  :text: 'Avsiktligt gjorde djur eller människor illa? '
+  :title:
+  :answer:
+  - NEJ        JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: f
+  :text: 'Tvingade någon till en sexuell handling? '
+  :title:
+  :answer:
+  - NEJ        JA
+- :id:
+  :subid:
+  :text: " =>"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " HAR 2 ELLER FLER P1-SVAR KODATS JA? "
+  :title:
+  :answer:
+  - NEJ        JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " KODA INTE JA FÖR NEDANSTÅENDE BETEENDEN OM DE ENBART BETINGAS AV POLITISKA"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " ELLER RELIGIÖSA MOTIV."
+  :title: V.
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id: P2
+  :subid:
+  :text: " Efter 15 års ålder, har det hänt att du:"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: a
+  :text: 'Gjort olagliga saker eller saker som man kan bli gripen för, antingen du
+    åkte fast eller ej '
+  :title:
+  :answer:
+  - NEJ        JA
+- :id:
+  :subid:
+  :text: " (till exempel vandalisering, snatteri, stöld, narkotikahandel eller något
+    ännu grövre"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " brott)?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: b
+  :text: 'Ofta ljugit eller bedragit andra människor för att du haft lust eller för
+    vinnings skull eller '
+  :title:
+  :answer:
+  - NEJ        JA
+- :id:
+  :subid:
+  :text: " ljugit bara för skojs skull?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: c
+  :text: 'Varit impulsiv och inte brytt dig om att planera framåt? '
+  :title:
+  :answer:
+  - NEJ        JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: d
+  :text: 'Varit i slagsmål upprepade gånger eller angripit andra (inklusive slagsmål
+    med din '
+  :title:
+  :answer:
+  - NEJ        JA
+- :id:
+  :subid:
+  :text: " maka/make/sambo eller dina barn)?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: e
+  :text: 'Utsatt andra eller dig själv för fara utan att bry dig? '
+  :title:
+  :answer:
+  - NEJ        JA
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: f
+  :text: 'Upprepade gånger gjort sådant som andra skulle betrakta som ansvarslöst,
+    som att inte '
+  :title:
+  :answer:
+  - NEJ        JA
+- :id:
+  :subid:
+  :text: " betala vad du är skyldig, avsiktligt struntat i att behärska dig eller
+    avsiktligt låtit bli att"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: " försörja dig?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid: g
+  :text: 'Inte haft samvetskval efter att ha skadat andra, behandlat andra illa, ljugit,
+    stulit eller '
+  :title:
+  :answer:
+  - NEJ        JA
+- :id:
+  :subid:
+  :text: " vandaliserat?"
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
+- :id:
+  :subid:
+  :text: ''
+  :title:
+  :answer:
