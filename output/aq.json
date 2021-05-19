@@ -1,0 +1,3062 @@
+{
+  "anonymous": false,
+  "category": "Psykisk ohälsa",
+  "description": "**Hur man fyller i formuläret:**\n\nHär följer en lista med påståenden. Var god läs igenom varje påstående mycket noggrant och bedöm hur starkt du instämmer eller inte instämmer genom att ange ett av svarsalternativen.\n\nDu kan pausa och spara när du vill genom att skrolla till slutet av formuläret och klicka på knappen **Spara**.",
+  "descriptionInternal": "Autism-Spectrum Quotient AQ – vuxenversion (enl Baron-Cohen, Wheelwright, Skinner, Martin & Clubley, 2001). (Översättning: Peter Söderstrand, Neuropsyk Borås, 2006-10-05)",
+  "completeText": "### Tack för dina svar!",
+  "title": null,
+  "name": "AQ_2020-11-24T09:15:39.520Z",
+  "language": {
+    "code": "swe",
+    "codeSystem": "1.0.639.2"
+  },
+  "term": "Genom att skicka in detta formulär godkänner jag att mina uppgifter lagras och används av min vårdgivare.",
+  "media": {
+    "mediaURL": "https://qa.formular.1177.se/media/3510303e-d154-442f-ac2d-cc3df4b84849.png",
+    "mediaType": "image/png",
+    "mediaAlt": null
+  },
+  "code": null,
+  "pages": [
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 1,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 3,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": "aq-q1",
+                "subject": "1. Jag gör hellre saker tillsammans med andra än på egen hand",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q2",
+                "subject": "2. Jag gör helst saker på samma sätt om och om igen",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q3",
+                "subject": "3. Om jag försöker föreställa mig någonting, tycker jag det är mycket lätt att skapa en bild i mitt huvud",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 2,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 3,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": "aq-q4",
+                "subject": "4. Jag blir ofta så djupt försjunken i en sak att jag missar andra saker",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q5",
+                "subject": "5. Jag lägger ofta märke till små ljud när andra inte gör det",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q6",
+                "subject": "6. Jag lägger ofta märke till nummerplåtar på bilar eller liknande serier av siffror eller bokstäver",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 3,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 3,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": "aq-q7",
+                "subject": "7. Andra säger ofta till mig att det jag sa var ohövligt, fastän jag själv tycker det var hövligt sagt",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q8",
+                "subject": "8. När jag läser en historia kan jag lätt föreställa mig hur personerna i berättelsen skulle kunna se ut",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q9",
+                "subject": "9. Jag är fascinerad av datum",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 4,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 3,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": "aq-q10",
+                "subject": "10. I en samling människor som umgås, kan jag lätt hålla reda på flera olika personers konversation",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q11",
+                "subject": "11. Jag har lätt för sociala situationer",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q12",
+                "subject": "12. Jag brukar lägga märke till detaljer som andra inte lägger märke till",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 5,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 3,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": "aq-q13",
+                "subject": "13. Jag går hellre till ett bibliotek än till en fest",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q14",
+                "subject": "14. Jag tycker det är lätt att hitta på berättelser",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q15",
+                "subject": "15. Jag finner människor mer intresseväckande än saker",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 6,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 3,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": "aq-q16",
+                "subject": "16. Jag har mycket starka intressen och kan bli upprörd om jag inte kan ägna mig åt dem",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q17",
+                "subject": "17. Jag njuter av socialt småprat",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q18",
+                "subject": "18. När jag pratar är det inte alltid så lätt för andra att få ett ord med i laget",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 7,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 3,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": "aq-q19",
+                "subject": "19. Jag är fascinerad av siffror",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q20",
+                "subject": "20. När jag läser en berättelse tycker jag det är svårt att räkna ut vad personerna i berättelsen har för motiv och avsikter med det de gör",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q21",
+                "subject": "21. Jag tycker inte särskilt mycket om att läsa skönlitteratur (d v s påhittade berättelser)",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 8,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 3,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": "aq-q22",
+                "subject": "22. Jag har svårt för att skaffa mig nya vänner",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q23",
+                "subject": "23. Jag lägger märke till mönster i allting hela tiden",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q24",
+                "subject": "24. Jag går hellre till teatern än till ett museum",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 9,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 3,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": "aq-q25",
+                "subject": "25. Det gör mig inte upprörd om mina dagliga rutiner blir störda",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q26",
+                "subject": "26. Jag vet ofta inte hur jag skall göra för att hålla igång ett samtal",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q27",
+                "subject": "27. Jag tycker det är lätt att ”läsa mellan raderna” när någon talar till mig",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 10,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 3,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": "aq-q28",
+                "subject": "28. Jag brukar vanligtvis koncentrera mig mer på helhetsbilden än på de små detaljerna",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q29",
+                "subject": "29. Jag är inte så bra på att komma ihåg telefonnummer",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q30",
+                "subject": "30. Jag brukar inte vanligtvis lägga märke till små förändringar i en situation eller i en persons utseende",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 11,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 3,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": "aq-q31",
+                "subject": "31. Jag kan lägga märke till när någon som lyssnar på mig börjar bli uttråkad",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q32",
+                "subject": "32. Jag tycker det är lätt att göra mer än en sak åt gången",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q33",
+                "subject": "33. När jag talar i telefon är jag osäker på när det är min tur att tala",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 12,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 3,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": "aq-q34",
+                "subject": "34. Jag gillar att göra saker spontant",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q35",
+                "subject": "35. Jag är ofta den siste att fatta poängen i ett skämt",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q36",
+                "subject": "36. Jag tycker det är lätt att förstå vad någon tänker eller känner bara genom att se på deras ansikte",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 13,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 3,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": "aq-q37",
+                "subject": "37. Om det blir ett avbrott, kan jag mycket snabbt återvända till det jag höll på med",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q38",
+                "subject": "38. Jag är bra på socialt småprat",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q39",
+                "subject": "39. Människor säger ofta till mig att jag fortsätter prata och prata om samma sak",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 14,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 3,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": "aq-q40",
+                "subject": "40. När jag var liten brukade jag gilla att leka lekar med andra barn som innebar att man låtsades",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q41",
+                "subject": "41. Jag tycker om att samla information om saker som tillhör samma kategori (t ex bilmärken, fågelarter, olika typer av tåg, olika växter m m)",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q42",
+                "subject": "42. Jag tycker det är svårt att föreställa mig hur det skulle vara att vara någon annan",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 15,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 3,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": "aq-q43",
+                "subject": "43. Jag tycker om att noga planera varje aktivitet jag deltar i",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q44",
+                "subject": "44. Jag njuter av sociala sammankomster",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q45",
+                "subject": "45. Jag tycker det är svårt att räkna ut andra människors avsikter",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 16,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 3,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": "aq-q46",
+                "subject": "46. Nya situationer gör mig ängslig",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q47",
+                "subject": "47. Jag gillar att träffa nya människor",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q48",
+                "subject": "48. Jag är en god diplomat",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 17,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 2,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": "aq-q49",
+                "subject": "49. Jag är inte särskilt bra på att komma ihåg folks födelsedatum",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "aq-q50",
+                "subject": "50. Jag tycker det är mycket lätt att leka lekar med barn som innebär att man låtsas",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer helt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer delvis",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ganska lite",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer inte alls",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    }
+  ],
+  "minNumberOfQuestions": 50,
+  "maxNumberOfQuestions": 50,
+  "minNumberOfPages": 17,
+  "maxNumberOfPages": 17,
+  "calculationFormulas": [
+    {
+      "calculationId": "summa",
+      "subject": "summa",
+      "descriptionCareActor": "Summering av frågor",
+      "descriptionSubjectOfCare": "",
+      "approvedForSubjectOfCare": false,
+      "formula": "when\n q: Questions()\nthen\noutcome.set(\n(f.get('q1') > 2) ? 1.0: 0.0) +\n(f.get('q2') < 3) ? 1.0: 0.0) +\n(f.get('q3') > 2) ? 1.0: 0.0) +\n(f.get('q4') < 3) ? 1.0: 0.0) +\n(f.get('q5') < 3) ? 1.0: 0.0) +\n(f.get('q6') < 3) ? 1.0: 0.0) +\n(f.get('q7') < 3) ? 1.0: 0.0) +\n(f.get('q8') > 2) ? 1.0: 0.0) +\n(f.get('q9') < 3) ? 1.0: 0.0) +\n(f.get('q10') > 2) ? 1.0: 0.0) +\n(f.get('q11') > 2) ? 1.0: 0.0) +\n(f.get('q12') < 3) ? 1.0: 0.0) +\n(f.get('q13') < 3) ? 1.0: 0.0) +\n(f.get('q14') > 2) ? 1.0: 0.0) +\n(f.get('q15') > 2) ? 1.0: 0.0) +\n(f.get('q16') < 3) ? 1.0: 0.0) +\n(f.get('q17') > 2) ? 1.0: 0.0) +\n(f.get('q18') < 3) ? 1.0: 0.0) +\n(f.get('q19') < 3) ? 1.0: 0.0) +\n(f.get('q20') < 3) ? 1.0: 0.0) +\n(f.get('q21') < 3) ? 1.0: 0.0) +\n(f.get('q22') < 3) ? 1.0: 0.0) +\n(f.get('q23') < 3) ? 1.0: 0.0) +\n(f.get('q24') > 2) ? 1.0: 0.0) +\n(f.get('q25') > 2) ? 1.0: 0.0) +\n(f.get('q26') < 3) ? 1.0: 0.0) +\n(f.get('q27') > 2) ? 1.0: 0.0) +\n(f.get('q28') > 2) ? 1.0: 0.0) +\n(f.get('q29') > 2) ? 1.0: 0.0) +\n(f.get('q30') > 2) ? 1.0: 0.0) +\n(f.get('q31') > 2) ? 1.0: 0.0) +\n(f.get('q32') > 2) ? 1.0: 0.0) +\n(f.get('q33') < 3) ? 1.0: 0.0) +\n(f.get('q34') > 2) ? 1.0: 0.0) +\n(f.get('q35') < 3) ? 1.0: 0.0) +\n(f.get('q36') > 2) ? 1.0: 0.0) +\n(f.get('q37') > 2) ? 1.0: 0.0) +\n(f.get('q38') > 2) ? 1.0: 0.0) +\n(f.get('q39') < 3) ? 1.0: 0.0) +\n(f.get('q40') > 2) ? 1.0: 0.0) +\n(f.get('q41') < 3) ? 1.0: 0.0) +\n(f.get('q42') < 3) ? 1.0: 0.0) +\n(f.get('q43') < 3) ? 1.0: 0.0) +\n(f.get('q44') > 2) ? 1.0: 0.0) +\n(f.get('q45') < 3) ? 1.0: 0.0) +\n(f.get('q46') < 3) ? 1.0: 0.0) +\n(f.get('q47') > 2) ? 1.0: 0.0) +\n(f.get('q48') > 2) ? 1.0: 0.0) +\n(f.get('q49') > 2) ? 1.0: 0.0) +\n(f.get('q50') > 2) ? 1.0: 0.0)\n);\nend",
+      "license": null,
+      "type": "inera:form-engine:drools-java:1"
+    }
+  ]
+}

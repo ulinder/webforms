@@ -11,6 +11,7 @@ class AqTest < Test::Unit::TestCase
 
     # GENERAL SETTINGS
     @test_instructions = YAML.load(File.open(__dir__ + "/output/testfiles/#{@testname}_testfile.yaml", "r"))
+    Selenium::WebDriver::Chrome::Service.driver_path = __dir__ + "/chromedriver89"
     @driver = Selenium::WebDriver.for :chrome
     @driver.manage.timeouts.implicit_wait = 10 
     @wait = Selenium::WebDriver::Wait.new(:timeout => 10) # seconds

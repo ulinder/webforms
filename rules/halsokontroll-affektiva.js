@@ -9,7 +9,7 @@ let ruleArray = [
       approvedForSubjectOfCare: true,
       formula: [
         "if(q.get('halsokontroll-affektiva-q1',1) == 1 || q.get('halsokontroll-affektiva-q2',1) < 4 || q.get('halsokontroll-affektiva-q3',1) < 7)", 
-        "{outcome.set(1.0);}"
+        "{outcome.set(1.0);}" 
         ]
   },
 
@@ -162,7 +162,7 @@ let ruleArray = [
       "Double q2=(q.get('halsokontroll-affektiva-q58',2) == 1 ? 1.0 : 0);", 
       "Double q3=(q.get('halsokontroll-affektiva-q59',2) == 1 ? 1.0 : 0);", 
       "if((q1+q2+q3) > 0)",
-      "{outcome.set(sum);}" 
+      "{outcome.set(1.0);}" 
       ]
 },  
 
