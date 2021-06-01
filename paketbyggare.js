@@ -1,3 +1,21 @@
+/* 
+
+INFO
+Förutsätter att de enskilda testen har fungerande regler kopplade till sig.
+Scriptet döper om reglerna och alla ID för att bli unika i paketet
+
+*/
+// Ange vilka skattningar som ska ingå i NAMES
+// NAMES = ["anamnes-affektiva-v2", "audit-c", "dudit-ed", "whodas-36"];    // Affektiva
+// NAMES = ["anamnes-bipolar", "audit-c", "dudit", "wurs", "asrs", "raads-14", "as-18", "scid-ii"]; // Bipolar
+// NAMES = ["phq-9","gad-7","audit","dudit"]; // AoB
+NAMES = ["anamnes-pmm","audit","dudit", "raads-14", "whodas-36", "aq", "pid-v-sf","dsm5", "isi", "lpfs-bf", "hcl32","madrs-s", "barkley", "screening-angest"]; // AoB
+
+// Give this bundle a name
+BUNDLENAME = "pmm-skattningspaket"
+
+
+
 require('./constants.js');
 const YAML = require('yaml');
 var fs = require('fs');
@@ -16,25 +34,24 @@ var F = {
 }
 
 
-NAMES = ["anamnes-affektiva-v2", "audit-c", "dudit-ed", "whodas-36"];    // Affektiva
-// NAMES = ["anamnes-bipolar", "audit-c", "dudit", "wurs", "asrs", "raads-14", "as-18", "scid-ii"]; // Bipolar
-// NAMES = ["phq-9","gad-7","audit","dudit"]; // AoB
 
 F.base.name = "Paket: " + NAMES.join(", ");
 
 for(var i = 0; i < NAMES.length; i++){
 
     form = JSON.parse( fs.readFileSync( path.join(WEBFORMS_ROOT, 'vault', NAMES[i] + '.json'), 'utf8' ) );
-    fe = new FormExtractor(form, NAMES[i]);
-    this_form = fe.form_all(); 
+    fe = new FormExtractor(form, NAMES[i], 1);
+    console.log('Working with: ', fe.formObj.name); 
+    this_form = fe.formObj;
 
     F.base.minNumberOfQuestions = F.base.minNumberOfQuestions + fe.formObj.minNumberOfQuestions;
     F.base.maxNumberOfQuestions = F.base.maxNumberOfQuestions + fe.formObj.maxNumberOfQuestions;
 
 
     // ALIGN CALCULATIONS
-    this_form.body.calculationFormulas.map( (ruleblock)=>{
+    fe.formObj.calculationFormulas.map( (ruleblock)=>{
       ruleblock.subject = NAMES[i] +": "+ ruleblock.subject
+      ruleblock.calculationId = NAMES[i] +": "+ ruleblock.calculationId
       ruleblock.formula = ruleblock.formula
       .split("\"").join("'")
       .split("\“").join("'")
@@ -45,8 +62,8 @@ for(var i = 0; i < NAMES.length; i++){
 
     // Align page number with whole array
 
-    this_form.body.pages[0].page.subject = this_form.body.name;
-    this_form.body.pages.map( page => F.base.pages.push(page) ); 
+    fe.body.pages[0].page.subject = fe.body.name;
+    fe.body.pages.map( page => F.base.pages.push(page) ); 
     
 } // END NAMES LOOP
 
@@ -58,9 +75,8 @@ F.base.pages.map( (page, index) => {
 F.base.maxNumberOfPages = F.base.pages.length;
 F.base.minNumberOfPages = F.base.maxNumberOfPages;
 
-wf("testpaket.json", JSON.stringify(F.base) );
+wf( BUNDLENAME+".json", JSON.stringify(F.base) );
 
-// write auto test file
-feDone = new FormExtractor(F.base, "testpaket");
-
-wf("testfiles/testpaket_testfile.yaml", YAML.stringify({url: "", beskrivning:"", frågor: feDone.form_all().test } ));
+// Create a test file from exported bundle
+feDone = new FormExtractor(F.base, BUNDLENAME, 1);
+wf(`testfiles/${BUNDLENAME}_testfile.yaml`, YAML.stringify({url: "", beskrivning:"", frågor: feDone.test } ));

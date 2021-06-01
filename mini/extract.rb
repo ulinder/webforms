@@ -8,6 +8,7 @@ EXP_SUB_ID = /\s{2,}[a-z]\s{2,}/
 EXP_NEJ = /(NEJ\s+JA)\D+/
 
 @questions = []
+@questions2 = []
 @lines = []
 @line = {id: nil, subid: nil, text: nil, title: nil, answer: nil}
 
@@ -39,13 +40,6 @@ def proc_line line # IDENTIFY WHAT KIND OF LINE AND BREAK APART INTO TYPES
   @questions << q 
 end
 
-def bundle_rows
-  baserow = @questions[@collect_array[0]].clone
-  @collect_array.each do |i| 
-    baserow[:text] << @questions[i][:text]
-  end
-  return baserow
-end  
 
 # first iteration - build array from lines
 f.each_line{ |line| proc_line line }
@@ -59,14 +53,15 @@ f.each_line{ |line| proc_line line }
            @questions[i][:subid].nil? and 
            @questions[i][:answer].nil? and 
            @questions[i][:text].empty? ) 
-    # while row not empty
-    unless (@questions[i][:id].nil? or @questions[i][:subid].nil? or @questions[i][:title].nil?)
-      @questions2 << bundle_rows if @collect_array.count > 0
-      @collect_array = [] 
-      @collect_array << i 
-    else 
-      @collect_array << i 
-    end
+
+          unless (@questions[i][:id].nil? or @questions[i][:subid].nil? or @questions[i][:title].nil?)
+            @questions2 << @questions[i] # if @collect_array.count > 0
+            @collect_array = [] 
+            @collect_array << i 
+          else 
+            @questions2 << @questions[i] # if @collect_array.count > 0
+            @collect_array << i 
+          end
   end
 
 }

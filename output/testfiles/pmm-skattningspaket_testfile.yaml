@@ -1,0 +1,1732 @@
+url: "https://demo.formular.1177.se/etjanst/53bccc4d-8259-4a50-9b1e-e21d568531d7"
+beskrivning: ""
+frågor:
+  - type: page
+    id: 1
+  - type: question
+    id: pmm-skattningspaket-2.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-2.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-2.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-2.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-2.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-2.1.6
+    testValue: 1
+  - type: page
+    id: 2
+  - type: question
+    id: pmm-skattningspaket-3.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-3.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-3.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-3.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-3.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-3.1.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-3.1.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-3.1.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-3.1.9
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-3.1.10
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-3.1.11
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-3.1.12
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-3.1.13
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-3.1.14
+    testValue: 1
+  - type: page
+    id: 3
+  - type: question
+    id: pmm-skattningspaket-4.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-4.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-4.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-4.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-4.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-4.1.6
+    testValue: 1
+  - type: page
+    id: 4
+  - type: question
+    id: pmm-skattningspaket-5.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.1.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.1.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.1.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.1.9
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.1.10
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.1.11
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.2.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.2.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.2.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.2.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.2.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.2.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.2.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.2.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.2.9
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.2.10
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.2.11
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.3.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.3.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.3.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.3.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.3.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.3.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.3.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.3.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.3.9
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.3.10
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.3.11
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.3.12
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.3.13
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.3.14
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-5.3.15
+    testValue: 1
+  - type: page
+    id: 5
+  - type: question
+    id: pmm-skattningspaket-6.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-6.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-6.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-6.1.4
+    testValue: 1
+  - type: page
+    id: 6
+  - type: question
+    id: pmm-skattningspaket-7.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-7.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-7.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-7.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-7.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-7.1.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-7.1.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-7.1.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-7.1.9
+    testValue: 1
+  - type: page
+    id: 7
+  - type: question
+    id: pmm-skattningspaket-8.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-8.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-8.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-8.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-8.2.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-8.2.2
+    testValue: 1
+  - type: page
+    id: 8
+  - type: question
+    id: pmm-skattningspaket-9.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-9.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-9.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-9.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-9.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-9.1.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-9.1.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-9.1.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-9.1.9
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-9.1.10
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-9.1.11
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-9.1.12
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-9.1.13
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-9.1.14
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-9.1.15
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-9.1.16
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-9.1.17
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-9.1.18
+    testValue: 1
+  - type: page
+    id: 9
+  - type: question
+    id: pmm-skattningspaket-10.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-10.1.2
+    testValue: 1
+  - type: page
+    id: 10
+  - type: question
+    id: pmm-skattningspaket-11.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-11.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-11.1.3
+    testValue: 1
+  - type: page
+    id: 11
+  - type: question
+    id: pmm-skattningspaket-12.1.1
+    testValue: 1
+  - type: page
+    id: 12
+  - type: question
+    id: pmm-skattningspaket-13.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-13.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-13.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-13.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-13.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-13.1.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-13.1.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-13.1.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-13.1.9
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-13.1.10
+    testValue: 1
+  - type: page
+    id: 13
+  - type: question
+    id: pmm-skattningspaket-14.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-14.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-14.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-14.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-14.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-14.1.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-14.1.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-14.1.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-14.1.9
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-14.1.10
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-14.1.11
+    testValue: 1
+  - type: page
+    id: 14
+  - type: question
+    id: pmm-skattningspaket-15.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-15.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-15.1.3
+    testValue: 1
+  - type: page
+    id: 15
+  - type: question
+    id: pmm-skattningspaket-16.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-16.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-16.1.3
+    testValue: 1
+  - type: page
+    id: 16
+  - type: question
+    id: pmm-skattningspaket-17.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-17.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-17.1.3
+    testValue: 1
+  - type: page
+    id: 17
+  - type: question
+    id: pmm-skattningspaket-18.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-18.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-18.1.3
+    testValue: 1
+  - type: page
+    id: 18
+  - type: question
+    id: pmm-skattningspaket-19.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-19.1.2
+    testValue: 1
+  - type: page
+    id: 19
+  - type: question
+    id: pmm-skattningspaket-20.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.1.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.2.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.2.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.2.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.2.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.2.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.3.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.3.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.3.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.3.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.4.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.4.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.4.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.4.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.4.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.5.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.5.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.5.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.5.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.6.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.6.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.6.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.6.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.6.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.7.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.7.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.7.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.7.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.7.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.7.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.7.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.7.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.8.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.8.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-20.8.3
+    testValue: 1
+  - type: page
+    id: 20
+  - type: question
+    id: pmm-skattningspaket-21.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-21.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-21.1.3
+    testValue: 1
+  - type: page
+    id: 21
+  - type: question
+    id: pmm-skattningspaket-22.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-22.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-22.1.3
+    testValue: 1
+  - type: page
+    id: 22
+  - type: question
+    id: pmm-skattningspaket-23.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-23.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-23.1.3
+    testValue: 1
+  - type: page
+    id: 23
+  - type: question
+    id: pmm-skattningspaket-24.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-24.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-24.1.3
+    testValue: 1
+  - type: page
+    id: 24
+  - type: question
+    id: pmm-skattningspaket-25.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-25.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-25.1.3
+    testValue: 1
+  - type: page
+    id: 25
+  - type: question
+    id: pmm-skattningspaket-26.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-26.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-26.1.3
+    testValue: 1
+  - type: page
+    id: 26
+  - type: question
+    id: pmm-skattningspaket-27.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-27.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-27.1.3
+    testValue: 1
+  - type: page
+    id: 27
+  - type: question
+    id: pmm-skattningspaket-28.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-28.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-28.1.3
+    testValue: 1
+  - type: page
+    id: 28
+  - type: question
+    id: pmm-skattningspaket-29.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-29.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-29.1.3
+    testValue: 1
+  - type: page
+    id: 29
+  - type: question
+    id: pmm-skattningspaket-30.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-30.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-30.1.3
+    testValue: 1
+  - type: page
+    id: 30
+  - type: question
+    id: pmm-skattningspaket-31.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-31.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-31.1.3
+    testValue: 1
+  - type: page
+    id: 31
+  - type: question
+    id: pmm-skattningspaket-32.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-32.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-32.1.3
+    testValue: 1
+  - type: page
+    id: 32
+  - type: question
+    id: pmm-skattningspaket-33.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-33.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-33.1.3
+    testValue: 1
+  - type: page
+    id: 33
+  - type: question
+    id: pmm-skattningspaket-34.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-34.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-34.1.3
+    testValue: 1
+  - type: page
+    id: 34
+  - type: question
+    id: pmm-skattningspaket-35.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-35.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-35.1.3
+    testValue: 1
+  - type: page
+    id: 35
+  - type: question
+    id: pmm-skattningspaket-36.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-36.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-36.1.3
+    testValue: 1
+  - type: page
+    id: 36
+  - type: question
+    id: pmm-skattningspaket-37.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-37.1.2
+    testValue: 1
+  - type: page
+    id: 37
+  - type: question
+    id: pmm-skattningspaket-38.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-38.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-38.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-38.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-38.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-38.1.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-38.1.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-38.1.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-38.1.9
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-38.1.10
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-38.1.11
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-38.1.12
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-38.1.13
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-38.1.14
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-38.1.15
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-38.1.16
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-38.1.17
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-38.1.18
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-38.1.19
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-38.1.20
+    testValue: 1
+  - type: page
+    id: 38
+  - type: question
+    id: pmm-skattningspaket-39.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-39.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-39.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-39.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-39.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-39.1.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-39.1.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-39.1.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-39.1.9
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-39.1.10
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-39.1.11
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-39.1.12
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-39.1.13
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-39.1.14
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-39.1.15
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-39.1.16
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-39.1.17
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-39.1.18
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-39.1.19
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-39.1.20
+    testValue: 1
+  - type: page
+    id: 39
+  - type: question
+    id: pmm-skattningspaket-40.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-40.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-40.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-40.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-40.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-40.1.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-40.1.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-40.1.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-40.1.9
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-40.1.10
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-40.1.11
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-40.1.12
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-40.1.13
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-40.1.14
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-40.1.15
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-40.1.16
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-40.1.17
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-40.1.18
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-40.1.19
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-40.1.20
+    testValue: 1
+  - type: page
+    id: 40
+  - type: question
+    id: pmm-skattningspaket-41.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-41.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-41.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-41.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-41.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-41.1.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-41.1.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-41.1.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-41.1.9
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-41.1.10
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-41.1.11
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-41.1.12
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-41.1.13
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-41.1.14
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-41.1.15
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-41.1.16
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-41.1.17
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-41.1.18
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-41.1.19
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-41.1.20
+    testValue: 1
+  - type: page
+    id: 41
+  - type: question
+    id: pmm-skattningspaket-42.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-42.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-42.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-42.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-42.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-42.1.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-42.1.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-42.1.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-42.1.9
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-42.1.10
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-42.1.11
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-42.1.12
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-42.1.13
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-42.1.14
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-42.1.15
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-42.1.16
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-42.1.17
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-42.1.18
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-42.1.19
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-42.1.20
+    testValue: 1
+  - type: page
+    id: 42
+  - type: question
+    id: pmm-skattningspaket-43.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-43.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-43.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-43.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-43.1.5
+    testValue: 1
+  - type: page
+    id: 43
+  - type: question
+    id: pmm-skattningspaket-44.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-44.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-44.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-44.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-44.1.5
+    testValue: 1
+  - type: page
+    id: 44
+  - type: question
+    id: pmm-skattningspaket-45.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-45.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-45.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-45.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-45.1.5
+    testValue: 1
+  - type: page
+    id: 45
+  - type: question
+    id: pmm-skattningspaket-46.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-46.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-46.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-46.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-46.1.5
+    testValue: 1
+  - type: page
+    id: 46
+  - type: question
+    id: pmm-skattningspaket-47.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-47.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-47.1.3
+    testValue: 1
+  - type: page
+    id: 47
+  - type: question
+    id: pmm-skattningspaket-48.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-48.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-48.1.3
+    testValue: 1
+  - type: page
+    id: 48
+  - type: question
+    id: pmm-skattningspaket-49.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-49.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-49.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-49.2.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-49.2.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-49.2.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-49.2.4
+    testValue: 1
+  - type: page
+    id: 49
+  - type: question
+    id: pmm-skattningspaket-50.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-50.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-50.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-50.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-50.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-50.1.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-50.1.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-50.1.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-50.1.9
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-50.1.10
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-50.1.11
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-50.1.12
+    testValue: 1
+  - type: page
+    id: 50
+  - type: question
+    id: pmm-skattningspaket-51.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.2.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.9
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.10
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.11
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.12
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.13
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.14
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.15
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.16
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.17
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.18
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.19
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.20
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.21
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.22
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.23
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.24
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.25
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.26
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.27
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.28
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.29
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.30
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.31
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.3.32
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.4.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.5.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.5.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.5.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.5.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.6.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.6.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.6.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-51.6.4
+    testValue: 1
+  - type: page
+    id: 51
+  - type: question
+    id: pmm-skattningspaket-52.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-52.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-52.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-52.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-52.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-52.1.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-52.1.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-52.1.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-52.1.9
+    testValue: 1
+  - type: page
+    id: 52
+  - type: question
+    id: pmm-skattningspaket-53.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-53.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-53.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-53.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-53.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-53.1.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-53.1.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-53.1.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-53.1.9
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-53.1.10
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-53.1.11
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-53.1.12
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-53.1.13
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-53.1.14
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-53.1.15
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-53.1.16
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-53.1.17
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-53.1.18
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-53.1.19
+    testValue: 1
+  - type: page
+    id: 53
+  - type: question
+    id: pmm-skattningspaket-54.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-54.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-54.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-54.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-54.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-54.1.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-54.1.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-54.1.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-54.1.9
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-54.1.10
+    testValue: 1
+  - type: page
+    id: 54
+  - type: question
+    id: pmm-skattningspaket-55.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-55.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-55.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-55.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-55.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-55.1.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-55.1.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-55.1.8
+    testValue: 1
+  - type: page
+    id: 55
+  - type: question
+    id: pmm-skattningspaket-56.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-56.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-56.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-56.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-56.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-56.1.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-56.1.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-56.1.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-56.1.9
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-56.1.10
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-56.1.11
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-56.1.12
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-56.1.13
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-56.1.14
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-56.1.15
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-56.1.16
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-56.1.17
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-56.1.18
+    testValue: 1
+  - type: page
+    id: 56
+  - type: question
+    id: pmm-skattningspaket-57.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-57.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-57.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-57.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-57.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-57.1.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-57.1.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-57.1.8
+    testValue: 1
+  - type: page
+    id: 57
+  - type: question
+    id: pmm-skattningspaket-58.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-58.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-58.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-58.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-58.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-58.1.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-58.1.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-58.1.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-58.1.9
+    testValue: 1
+  - type: page
+    id: 58
+  - type: question
+    id: pmm-skattningspaket-59.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-59.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-59.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-59.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-59.1.5
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-59.1.6
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-59.1.7
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-59.1.8
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-59.1.9
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-59.1.10
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-59.1.11
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-59.1.12
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-59.1.13
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-59.1.14
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-59.1.15
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-59.1.16
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-59.1.17
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-59.1.18
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-59.1.19
+    testValue: 1
+  - type: page
+    id: 59
+  - type: question
+    id: pmm-skattningspaket-60.1.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-60.1.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-60.1.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-60.1.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-60.2.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-60.2.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-60.3.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-60.3.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-60.3.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-60.4.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-60.4.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-60.4.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-60.5.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-60.5.2
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-60.5.3
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-60.5.4
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-60.6.1
+    testValue: 1
+  - type: question
+    id: pmm-skattningspaket-60.6.2
+    testValue: 1

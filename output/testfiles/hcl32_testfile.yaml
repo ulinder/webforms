@@ -1,0 +1,136 @@
+url: "https://demo.formular.1177.se/etjanst/661c5bee-7018-4275-a7df-87659871e6e2"
+beskrivning: ""
+frågor:
+  - type: page
+    id: 1
+  - type: page
+    id: 2
+  - type: question
+    id: hcl32-3.1.1
+    testValue: 1
+  - type: question
+    id: hcl32-3.2.1
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.1
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.2
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.3
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.4
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.5
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.6
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.7
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.8
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.9
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.10
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.11
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.12
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.13
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.14
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.15
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.16
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.17
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.18
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.19
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.20
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.21
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.22
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.23
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.24
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.25
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.26
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.27
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.28
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.29
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.30
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.31
+    testValue: 1
+  - type: question
+    id: hcl32-3.3.32
+    testValue: 1
+  - type: question
+    id: hcl32-3.4.1
+    testValue: 1
+  - type: question
+    id: hcl32-3.5.1
+    testValue: 1
+  - type: question
+    id: hcl32-3.5.2
+    testValue: 1
+  - type: question
+    id: hcl32-3.5.3
+    testValue: 1
+  - type: question
+    id: hcl32-3.5.4
+    testValue: 1
+  - type: question
+    id: hcl32-3.6.1
+    testValue: 1
+  - type: question
+    id: hcl32-3.6.2
+    testValue: 1
+  - type: question
+    id: hcl32-3.6.3
+    testValue: 1
+  - type: question
+    id: hcl32-3.6.4
+    testValue: 1

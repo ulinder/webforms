@@ -1,0 +1,4631 @@
+{
+  "anonymous": false,
+  "category": "Hälsoformulär",
+  "description": null,
+  "descriptionInternal": "ADHD-ENKÄT ENLIGT RUSSEL A BARKLEY SJÄLVBEDÖMNINGSFORMULÄR. Översatt av Peter Söderstrand, Neuropsykiatriska utredningsenheten, Borås. Attention-Deficit Hyperactivity Disorder: A Clinical Workbook 2E by Russell A Barkley and Kevin R Murphy. Translated into Swedish with permission of copyright holder Guilford Publications, Inc, Spring Street, New York, NY 10012. Copyright © 1998 by The Guilford Press.",
+  "completeText": "Tack för att du tog dig tid att besvara frågorna!",
+  "title": null,
+  "name": "Barkley ADHD Självskattning",
+  "language": {
+    "code": "swe",
+    "codeSystem": "1.0.639.2"
+  },
+  "term": "Genom att skicka in detta formulär godkänner jag att mina uppgifter lagras och används av min vårdgivare.",
+  "media": null,
+  "code": null,
+  "pages": [
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 1,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "1. NUVARANDE SYMTOM",
+            "description": "**Instruktioner:** Fyll i den siffra som bäst beskriver ditt sätt att bete dig under de **senaste 6 månaderna.**",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 19,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": null,
+                "subject": "1. Är ouppmärksam på detaljer eller gör slarvfel i mitt arbete",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "2. Har svårt att vara still med händer eller fötter, eller kan inte sitta still",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "3. Har svårt att bibehålla uppmärksamheten inför uppgifter eller nöjesaktiviteter",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "4. Lämnar min plats i situationer där jag förväntas/förväntades sitta kvar en längre stund",
+                "description": "",
+                "questionNumber": 4,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "5. Lyssnar inte på direkt tilltal",
+                "description": "",
+                "questionNumber": 5,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "6. Känner mig rastlös",
+                "description": "",
+                "questionNumber": 6,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "7. Följer inte givna instruktioner och misslyckas med att genomföra arbetsuppgifter",
+                "description": "",
+                "questionNumber": 7,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "8. Har svårt att utöva fritidsaktiviteter eller göra roliga saker lugnt och stilla",
+                "description": "",
+                "questionNumber": 8,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "9. Har svårt att organisera mina uppgifter och aktiviteter",
+                "description": "",
+                "questionNumber": 9,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "10. Känner mig vara \"på språng\" eller \"gå på högvarv\"",
+                "description": "",
+                "questionNumber": 10,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "11. Undviker, ogillar eller är ovillig att utföra uppgifter som kräver mental uthållighet",
+                "description": "",
+                "questionNumber": 11,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "12. Pratar överdrivet mycket",
+                "description": "",
+                "questionNumber": 12,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "13. Tappar bort saker som är nödvändiga för olika aktiviteter",
+                "description": "",
+                "questionNumber": 13,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "14. Kastar ur mig svar på frågor innan frågeställaren pratat färdigt",
+                "description": "",
+                "questionNumber": 14,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "15. Är lättdistraherad av yttre stimuli",
+                "description": "",
+                "questionNumber": 15,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "16. Har svårigheter att vänta på min tur",
+                "description": "",
+                "questionNumber": 16,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "17. Är glömsk i det dagliga livet",
+                "description": "",
+                "questionNumber": 17,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "18. Avbryter eller inkräktar på andra (t ex kastar mig in i andras samtal)",
+                "description": "",
+                "questionNumber": 18,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Ungefär hur gammal var du när de problem du har markerat ovan först uppträdde?",
+                "description": "",
+                "questionNumber": 19,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "text",
+                "inputUnit": "år gammal",
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": 98,
+                "answerPattern": "^(-?\\d+(,\\d+)?)?$",
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 2,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "1. NUVARANDE SYMTOM",
+            "description": "**Instruktioner:** Markera den siffra som du tycker passar bäst in på dig. I vilken utsträckning påverkar problemen du har markerat på den föregående sidan ditt sätt att fungera på ett negativt sätt inom **områdena nedanför**?",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 10,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": null,
+                "subject": "I ditt privata liv med den närmaste familjen",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "I ditt arbete eller sysselsättning",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "I ditt sociala samspel med andra",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "I dina aktiviteter eller uppdrag i samhället",
+                "description": "",
+                "questionNumber": 4,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "I något utbildningssammanhang",
+                "description": "",
+                "questionNumber": 5,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "I dina partner- eller äktenskapliga relationer",
+                "description": "",
+                "questionNumber": 6,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "I ditt hanterande av pengar",
+                "description": "",
+                "questionNumber": 7,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "I ditt körande av bil eller annat motorfordon",
+                "description": "",
+                "questionNumber": 8,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "I dina fritids- eller nöjesaktiviteter",
+                "description": "",
+                "questionNumber": 9,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "I ditt hanterande av vardagliga ansvarsuppgifter",
+                "description": "",
+                "questionNumber": 10,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 3,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "1. NUVARANDE SYMTOM",
+            "description": "**Instruktioner:** Markera den siffra som bäst beskriver ditt sätt att bete dig på följande punkter under de **senaste 6 månaderna**:",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 8,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": null,
+                "subject": "1. Tappar besinningen",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "2. Grälar med andra",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "3. Trotsar aktivt eller vägrar underordna mig andras krav eller regler",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "4. Förargar andra med avsikt",
+                "description": "",
+                "questionNumber": 4,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "5. Skyller på andra för egna misstag eller dåligt uppförande",
+                "description": "",
+                "questionNumber": 5,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "6. Är lättretad och stingslig",
+                "description": "",
+                "questionNumber": 6,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "7. Är arg och förbittrad",
+                "description": "",
+                "questionNumber": 7,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "8. Är hämndlysten eller elak",
+                "description": "",
+                "questionNumber": 8,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 4,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "2. BARNDOMSSYMTOM",
+            "description": "**Instruktioner:** Markera den siffra som bäst beskriver ditt sätt att bete dig under barndomen i åldern **5 till 12 år**.",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 18,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": null,
+                "subject": "1. Var ouppmärksam på detaljer eller gjorde slarvfel i mitt arbete",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "2. Hade svårt att vara still med händer eller fötter, eller kunde inte sitta still",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "3. Hade svårt att bibehålla uppmärksamheten inför uppgifter eller nöjesaktiviteter",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "4. Lämnade min plats i situationer där jag förväntades sitta kvar en längre stund",
+                "description": "",
+                "questionNumber": 4,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "5. Lyssnade inte på direkt tilltal",
+                "description": "",
+                "questionNumber": 5,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "6. Sprang omkring, klättrade eller klängde mer än vad som ansågs lämpligt för situationen",
+                "description": "",
+                "questionNumber": 6,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "7. Följde inte givna instruktioner och misslyckades med att genomföra arbetsuppgifter",
+                "description": "",
+                "questionNumber": 7,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "8. Hade svårt att utöva fritidsaktiviteter eller göra roliga saker lugnt och stilla",
+                "description": "",
+                "questionNumber": 8,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "9. Hade svårt att organisera mina uppgifter och aktiviteter",
+                "description": "",
+                "questionNumber": 9,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "10. Kände mig vara \"på språng\" eller \"gå på högvarv\"",
+                "description": "",
+                "questionNumber": 10,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "11. Undvek, ogillade eller var ovillig att utföra uppgifter som kräver mental uthållighet",
+                "description": "",
+                "questionNumber": 11,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "12. Pratade överdrivet mycket",
+                "description": "",
+                "questionNumber": 12,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "13. Tappade bort saker som är nödvändiga för olika aktiviteter",
+                "description": "",
+                "questionNumber": 13,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "14. Kastade ur mig svar på frågor innan frågeställaren pratat färdigt",
+                "description": "",
+                "questionNumber": 14,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "15. Var lättdistraherad av yttre stimuli",
+                "description": "",
+                "questionNumber": 15,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "16. Hade svårigheter att vänta på min tur",
+                "description": "",
+                "questionNumber": 16,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "17. Var glömsk i det dagliga livet",
+                "description": "",
+                "questionNumber": 17,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "18. Avbröt eller inkräktade på andra (t ex kastade mig in i andras samtal eller lekar)",
+                "description": "",
+                "questionNumber": 18,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 5,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "2. BARNDOMSSYMTOM",
+            "description": "**Instruktioner:** I vilken utsträckning påverkade problemen du har markerat på föregående sidan ditt sätt att fungera på ett negativt sätt inom områdena nedan under barndomen mellan **5 och 12 års ålder?**",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 8,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": null,
+                "subject": " I ditt privata liv med den närmaste familjen",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "I ditt sociala samspel med andra barn",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "I dina aktiviteter eller uppdrag i samhället",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "I skolan",
+                "description": "",
+                "questionNumber": 4,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "I ditt deltagande i organiserade aktiviteter, t ex klubb",
+                "description": "",
+                "questionNumber": 5,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "I din förmåga att ta vara på dig själv",
+                "description": "",
+                "questionNumber": 6,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "I dina lek-, fritids- eller nöjesaktiviteter",
+                "description": "",
+                "questionNumber": 7,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "I ditt hanterande av vardagliga ansvarsuppgifter",
+                "description": "",
+                "questionNumber": 8,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 6,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "2. BARNDOMSSYMTOM",
+            "description": "**Instruktioner:** Markera den siffra som bäst beskriver ditt sätt att bete dig på följande punkter när du var ett barn i **5 till 12 års ålder:**",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 9,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": null,
+                "subject": "1. Tappade besinningen",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "2. Grälade med andra",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "3. Trotsade aktivt eller vägrade underordna mig andras krav eller regler",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "4. Förargade andra med avsikt",
+                "description": "",
+                "questionNumber": 4,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "5. Skyllde på andra för egna misstag eller dåligt uppförande",
+                "description": "",
+                "questionNumber": 5,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "6. Var lättretad och stingslig",
+                "description": "",
+                "questionNumber": 6,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "7. Var arg och förbittrad",
+                "description": "",
+                "questionNumber": 7,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "8. Var hämndlysten eller elak",
+                "description": "",
+                "questionNumber": 8,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "0. Aldrig eller sällan",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "1. Ibland",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "2. Ofta",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "3. Mycket ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Vid vilken ålder uppträdde dessa beteendesvårigheter först?",
+                "description": "",
+                "questionNumber": 9,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "text",
+                "inputUnit": "år",
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": 98,
+                "answerPattern": "^(-?\\d+(,\\d+)?)?$",
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 7,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "2. BARNDOMSSYMTOM",
+            "description": "**Instruktioner:** Ange om du gjorde något av följande mellan **5 och 18 års ålder:**",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 19,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": null,
+                "subject": "1. Hotade, trakasserade eller förödmjukade ofta andra",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Ja",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Nej",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "2. Påbörjade ofta slagsmål",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Ja",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Nej",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "3. Använde något vapen som kan orsaka allvarlig fysisk skada på andra",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Ja",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Nej",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "4. Visade fysisk grymhet mot någon människa",
+                "description": "",
+                "questionNumber": 4,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Ja",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Nej",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "5. Visade fysisk grymhet mot djur",
+                "description": "",
+                "questionNumber": 5,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Ja",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Nej",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "6. Stöld under direkt konfrontation med offret (t ex väskryckning, rån)",
+                "description": "",
+                "questionNumber": 6,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Ja",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Nej",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "7. Tvingade någon till sexuellt umgänge",
+                "description": "",
+                "questionNumber": 7,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Ja",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Nej",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "8. Stack något i brand i avsikt att orsaka allvarlig skada",
+                "description": "",
+                "questionNumber": 8,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Ja",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Nej",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "9. Förstörde andras egendom avsiktligt (annat än genom brand)",
+                "description": "",
+                "questionNumber": 9,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Ja",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Nej",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "10. Bröt dig in i någons lägenhet, hus eller bil",
+                "description": "",
+                "questionNumber": 10,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Ja",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Nej",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "11. Ljög ofta i syfte att uppnå fördelar eller undvika skyldigheter",
+                "description": "",
+                "questionNumber": 11,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Ja",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Nej",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "12. Tillskansade dig värden utan direkt konfrontation med offret (t ex snatteri, förfalskning)",
+                "description": "",
+                "questionNumber": 12,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Ja",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Nej",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "13. Var ofta ute på nätterna trots föräldrarnas förbud",
+                "description": "",
+                "questionNumber": 13,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Ja",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Nej",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Vid vilken ålder började detta?",
+                "description": "",
+                "questionNumber": 14,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "text",
+                "inputUnit": "år",
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": 98,
+                "answerPattern": "^(-?\\d+(,\\d+)?)?$",
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": {
+                  "superiorAnswerAlternativeNumbers": [
+                    1
+                  ],
+                  "superiorQuestionNumber": 13
+                },
+                "answerAlternatives": [],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "14. Rymde från föräldrahemmet eller fosterhemmet och stannade borta över natten minst två gånger (eller en gång om det rörde sig om en längre tid)",
+                "description": "",
+                "questionNumber": 15,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Ja",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Nej",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Hur många gånger?",
+                "description": "",
+                "questionNumber": 16,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "text",
+                "inputUnit": "gånger",
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": 98,
+                "answerPattern": "^(-?\\d+(,\\d+)?)?$",
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": {
+                  "superiorAnswerAlternativeNumbers": [
+                    1
+                  ],
+                  "superiorQuestionNumber": 15
+                },
+                "answerAlternatives": [],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "15. Skolkade ofta från skolan",
+                "description": "",
+                "questionNumber": 17,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Ja",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Nej",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Vid vilken ålder började detta?",
+                "description": "",
+                "questionNumber": 18,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "text",
+                "inputUnit": "år",
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": 98,
+                "answerPattern": "^(-?\\d+(,\\d+)?)?$",
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": {
+                  "superiorAnswerAlternativeNumbers": [
+                    1
+                  ],
+                  "superiorQuestionNumber": 17
+                },
+                "answerAlternatives": [],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Vid vilken ålder uppträdde dessa beteendesvårigheter först?",
+                "description": "",
+                "questionNumber": 19,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "text",
+                "inputUnit": "år",
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": 98,
+                "answerPattern": "^(-?\\d+(,\\d+)?)?$",
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    }
+  ],
+  "minNumberOfQuestions": 88,
+  "maxNumberOfQuestions": 91,
+  "minNumberOfPages": 7,
+  "maxNumberOfPages": 7,
+  "calculationFormulas": []
+}

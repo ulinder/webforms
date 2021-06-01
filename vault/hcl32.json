@@ -1,0 +1,2168 @@
+{
+    "anonymous": false,
+    "category": "Beforskade skattningsskalor",
+    "description": null,
+    "descriptionInternal": "Kontaktperson: Mikael Granlund, SU, mikael.granlund@vgregion.se",
+    "completeText": null,
+    "title": null,
+    "name": "HCL-32",
+    "language":
+    {
+        "code": "swe",
+        "codeSystem": "1.0.639.2"
+    },
+    "term": null,
+    "media": null,
+    "code": null,
+    "pages":
+    [
+
+        {
+            "page":
+            {
+                "subject": "",
+                "description": "Nästan alla upplever svängningar i sin energi, aktivitet och sitt humör (att vara ”uppåt” eller ”hög” respektive ”nedåt” eller ”låg”). Detta frågeformulär kan vara till hjälp i bedömningen av Dina ”uppåt”- perioder.",
+                "informationURL": "",
+                "pageNumber": 1,
+                "lastPage": true,
+                "questionBlocks":
+                [
+                    {
+                        "subject": "",
+                        "description": "",
+                        "blockNumber": 1,
+                        "informationURL": "",
+                        "numberOfQuestions": 1,
+                        "gridConfig": null,
+                        "questions":
+                        [
+                            {
+                                "questionId": null,
+                                "subject": "1. Hur mår Du idag jämfört med hur Du vanligtvis mår?",
+                                "description": "",
+                                "questionNumber": 1,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue": null,
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Mycket sämre  än vanligt ",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Sämre än vanligt",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Lite sämre än vanligt",
+                                        "number": 3,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Som vanligt ",
+                                        "number": 4,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Lite bättre än vanligt ",
+                                        "number": 5,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Bättre än vanligt",
+                                        "number": 6,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Mycket bättre än vanligt",
+                                        "number": 7,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            }
+                        ]
+                    },
+                    {
+                        "subject": "",
+                        "description": "",
+                        "blockNumber": 2,
+                        "informationURL": "",
+                        "numberOfQuestions": 1,
+                        "gridConfig": null,
+                        "questions":
+                        [
+                            {
+                                "questionId": null,
+                                "subject": " 2. Hur är Du för det mesta, i jämförelse med andra?",
+                                "description": "Oberoende av hur Du mår idag, försök beskriva hur Du är jämfört med andra.\n\n**Jämfört med andra, är min energi, aktivitet och mitt humör…**",
+                                "questionNumber": 1,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue": null,
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": " ....för det mesta stabilt ",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "…..för det mesta bättre (mer ”uppåt”) ",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "….för det mesta sämre (mer ”nedåt”) ",
+                                        "number": 3,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "….för det mesta omväxlande ”uppåt” och ”nedåt” ",
+                                        "number": 4,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            }
+                        ]
+                    },
+                    {
+                        "subject": "3. Försök komma ihåg en period när du var ”uppåt”? Hur var det då?",
+                        "description": "Besvara frågorna nedan oberoende av hur Du mår nu; markera Ja- eller Nej-rutan.\n\n**När jag är \"uppåt\"...**",
+                        "blockNumber": 3,
+                        "informationURL": "",
+                        "numberOfQuestions": 32,
+                        "gridConfig":
+                        {
+                            "rows": 32,
+                            "cols": 1
+                        },
+                        "questions":
+                        [
+                            {
+                                "questionId": null,
+                                "subject": "…behöver jag mindre sömn ",
+                                "description": "",
+                                "questionNumber": 1,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 1,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…känner jag mig mer energisk och aktiv ",
+                                "description": "",
+                                "questionNumber": 2,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 2,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…har jag ökat självförtroende",
+                                "description": "",
+                                "questionNumber": 3,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 3,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…tycker jag bättre om mitt arbete",
+                                "description": "",
+                                "questionNumber": 4,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 4,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…är jag mer utåtriktad (talar mer i telefon, går ut mer) ",
+                                "description": "",
+                                "questionNumber": 5,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 5,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…ökar min reslust/reser jag mer ",
+                                "description": "",
+                                "questionNumber": 6,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 6,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…kör jag fortare/tar större risker vid bilkörning ",
+                                "description": "",
+                                "questionNumber": 7,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 7,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…gör jag av med mer pengar ",
+                                "description": "",
+                                "questionNumber": 8,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 8,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…är jag mer risktagande i vanliga vardagsaktiviteter, t ex på arbetet ",
+                                "description": "",
+                                "questionNumber": 9,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 9,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…är jag fysiskt mer aktiv",
+                                "description": "",
+                                "questionNumber": 10,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 10,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…planerar jag fler aktiviteter eller projekt ",
+                                "description": "",
+                                "questionNumber": 11,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 11,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…har jag fler idéer/är jag mer kreativ",
+                                "description": "",
+                                "questionNumber": 12,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 12,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…är jag mindre blyg/inbunden ",
+                                "description": "",
+                                "questionNumber": 13,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 13,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…klär jag mig mer modeinriktat och lyxigt/använder jag mer make-up ",
+                                "description": "",
+                                "questionNumber": 14,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 14,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…vill jag träffa fler människor/träffar jag fler människor ",
+                                "description": "",
+                                "questionNumber": 15,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 15,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…är jag mer intresserad av sex/har jag ökad sexlust",
+                                "description": "",
+                                "questionNumber": 16,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 16,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…flörtar jag mer/är jag mer sexuellt aktiv",
+                                "description": "",
+                                "questionNumber": 17,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 17,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…talar jag mer ",
+                                "description": "",
+                                "questionNumber": 18,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 18,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…är jag mer snabbtänkt ",
+                                "description": "",
+                                "questionNumber": 19,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 19,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "… är jag mer skämtsam ",
+                                "description": "",
+                                "questionNumber": 20,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 20,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…blir jag lättare distraherad ",
+                                "description": "",
+                                "questionNumber": 21,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 21,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…engagerar jag mig i många nya aktiviteter ",
+                                "description": "",
+                                "questionNumber": 22,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 22,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…hoppar mina tankar från ämne till ämne",
+                                "description": "",
+                                "questionNumber": 23,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 23,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…gör jag saker enklare/snabbare ",
+                                "description": "",
+                                "questionNumber": 24,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 24,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…är jag mer otålig/lättirriterad ",
+                                "description": "",
+                                "questionNumber": 25,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 25,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…kan jag vara mer tröttsam/irriterande för andra",
+                                "description": "",
+                                "questionNumber": 26,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 26,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…råkar jag lätt i gräl ",
+                                "description": "",
+                                "questionNumber": 27,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 27,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…är mitt humör bättre/känner jag mig mer optimistisk ",
+                                "description": "",
+                                "questionNumber": 28,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 28,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…dricker jag mer kaffe ",
+                                "description": "",
+                                "questionNumber": 29,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 29,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…röker jag fler cigaretter ",
+                                "description": "",
+                                "questionNumber": 30,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 30,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…dricker jag mer alkohol ",
+                                "description": "",
+                                "questionNumber": 31,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 31,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "…använder jag mer droger/beroendeframkallande medicin ",
+                                "description": "",
+                                "questionNumber": 32,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 32,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            }
+                        ]
+                    },
+                    {
+                        "subject": "",
+                        "description": "",
+                        "blockNumber": 4,
+                        "informationURL": "",
+                        "numberOfQuestions": 1,
+                        "gridConfig": null,
+                        "questions":
+                        [
+                            {
+                                "questionId": null,
+                                "subject": " 4. Frågorna ovan, som visar på hur det är att vara ”uppåt”, beskriver Dig ….",
+                                "description": "",
+                                "questionNumber": 1,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue": null,
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "…som Du är ibland/i perioder (t ex för det mesta omväxlande ”uppåt” och ”nedåt”). ",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "…som Du är för det mesta? ",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Jag har aldrig upplevt en sådan ”uppåt”- period. ",
+                                        "number": 3,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            }
+                        ]
+                    },
+                    {
+                        "subject": " 5. Hur påverkar dessa ”uppåt”- perioder/Ditt ”uppåt” Ditt/ Din",
+                        "description": "",
+                        "blockNumber": 5,
+                        "informationURL": "",
+                        "numberOfQuestions": 4,
+                        "gridConfig":
+                        {
+                            "rows": 4,
+                            "cols": 1
+                        },
+                        "questions":
+                        [
+                            {
+                                "questionId": null,
+                                "subject": " Familjeliv ",
+                                "description": "",
+                                "questionNumber": 1,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 1,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": " Både positivt och negativt ",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Positivt ",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Negativt",
+                                        "number": 3,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Ingenting",
+                                        "number": 4,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "Umgänge",
+                                "description": "",
+                                "questionNumber": 2,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 2,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": " Både positivt och negativt ",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Positivt ",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Negativt",
+                                        "number": 3,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Ingenting",
+                                        "number": 4,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "Arbetsliv",
+                                "description": "",
+                                "questionNumber": 3,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 3,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": " Både positivt och negativt ",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Positivt ",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Negativt",
+                                        "number": 3,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Ingenting",
+                                        "number": 4,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": " Fritid ",
+                                "description": "",
+                                "questionNumber": 4,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue":
+                                {
+                                    "row": 4,
+                                    "col": 1
+                                },
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": " Både positivt och negativt ",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Positivt ",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Negativt",
+                                        "number": 3,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Ingenting",
+                                        "number": 4,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            }
+                        ]
+                    },
+                    {
+                        "subject": "",
+                        "description": "",
+                        "blockNumber": 6,
+                        "informationURL": "",
+                        "numberOfQuestions": 4,
+                        "gridConfig": null,
+                        "questions":
+                        [
+                            {
+                                "questionId": null,
+                                "subject": "6. Hur reagerar Din omgivning på Dina ”uppåt”- perioder/Ditt ”uppåt”?",
+                                "description": "",
+                                "questionNumber": 1,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue": null,
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "positivt och uppmuntrande ",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "både positivt och negativt ",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "negativt (bekymrade, irriterade, kritiska)",
+                                        "number": 3,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "inga reaktioner eller kommentarer",
+                                        "number": 4,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "7. Hur länge varar Dina ”uppåt”- perioder?",
+                                "description": "",
+                                "questionNumber": 2,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue": null,
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "1 dag eller mindre ",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "2-3 dagar ",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "4-7 dagar ",
+                                        "number": 3,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "längre än en vecka ",
+                                        "number": 4,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "längre än en månad ",
+                                        "number": 5,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "kan ej avgöra/vet ej",
+                                        "number": 6,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "8. Har Du haft ”uppåt”- perioder de senaste 12 månaderna?",
+                                "description": "",
+                                "questionNumber": 3,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "radio",
+                                "inputUnit": null,
+                                "gridValue": null,
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": null,
+                                "answerPattern": null,
+                                "answerStep": null,
+                                "mandatory": true,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior": null,
+                                "answerAlternatives":
+                                [
+                                    {
+                                        "value": "Ja",
+                                        "number": 1,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    },
+                                    {
+                                        "value": "Nej",
+                                        "number": 2,
+                                        "helpText": null,
+                                        "code": null,
+                                        "media": null
+                                    }
+                                ],
+                                "validationEvents":
+                                []
+                            },
+                            {
+                                "questionId": null,
+                                "subject": "9. Om Du varit ”uppåt” under de senaste 12 månaderna försök uppskatta det  antal dagar som Du varit ”uppåt”?",
+                                "description": "Sammanlagt var det:",
+                                "questionNumber": 4,
+                                "code": null,
+                                "informationURL": null,
+                                "media": null,
+                                "input": "text",
+                                "inputUnit": "dagar",
+                                "gridValue": null,
+                                "answerMin": null,
+                                "answerMax": null,
+                                "answerMaxLength": 98,
+                                "answerPattern": "^(-?\\d+(,\\d+)?)?$",
+                                "answerStep": null,
+                                "mandatory": false,
+                                "questionAlign": null,
+                                "minNumberOfChoices": null,
+                                "maxNumberOfChoices": null,
+                                "questionSuperior":
+                                {
+                                    "superiorAnswerAlternativeNumbers":
+                                    [
+                                        1
+                                    ],
+                                    "superiorQuestionNumber": 3
+                                },
+                                "answerAlternatives":
+                                [],
+                                "validationEvents":
+                                []
+                            }
+                        ]
+                    }
+                ]
+            },
+            "routing": null
+        }
+    ],
+    "minNumberOfQuestions": 42,
+    "maxNumberOfQuestions": 43,
+    "minNumberOfPages": 1,
+    "maxNumberOfPages": 1,
+    "calculationFormulas":
+    []
+}

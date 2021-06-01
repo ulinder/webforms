@@ -1,0 +1,685 @@
+{
+  "anonymous": false,
+  "category": "Beforskade skattningsskalor",
+  "description": null,
+  "descriptionInternal": "Level of Personality Functioning Scale – Brief Form (LPFS-BF) 2.0  Svensk v.2. Joost Hutsebaut, Dine J. Feenstra, Jan H. Kamphuis (2016). Översatt med författarens tillstånd av Peter Jacobsson, Psykiatrin Halland",
+  "completeText": "Tack för att du tog dig tid att besvara frågorna!",
+  "title": null,
+  "name": "LPFS-BF",
+  "language": {
+    "code": "swe",
+    "codeSystem": "1.0.639.2"
+  },
+  "term": "Genom att skicka in detta formulär godkänner jag att mina uppgifter lagras och används av min vårdgivare.",
+  "media": {
+    "mediaURL": "https://qa.formular.1177.se/media/e0cd22df-ce7d-4ed3-ba5b-584c7321f6bc.png",
+    "mediaType": "image/png",
+    "mediaAlt": null
+  },
+  "code": null,
+  "pages": [
+    {
+      "page": {
+        "subject": "Level of Personality Functioning Scale",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 1,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "Ange i vilken omfattning följande påståenden stämmer in på dig just nu",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 12,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": null,
+                "subject": "1. Jag vet ofta inte vem jag verkligen är",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Mycket falskt eller ofta falskt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska falskt eller ibland falskt",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska sant eller ibland sant",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Mycket sant eller ofta sant",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "2. Jag tänker ofta mycket negativt om mig själv",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Mycket falskt eller ofta falskt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska falskt eller ibland falskt",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska sant eller ibland sant",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Mycket sant eller ofta sant",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "3. Mina känslor växlar ofta utan att jag kan kontrollera dem",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Mycket falskt eller ofta falskt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska falskt eller ibland falskt",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska sant eller ibland sant",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Mycket sant eller ofta sant",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "4. Jag har ingen aning om vad jag vill med mitt liv",
+                "description": "",
+                "questionNumber": 4,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Mycket falskt eller ofta falskt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska falskt eller ibland falskt",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska sant eller ibland sant",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Mycket sant eller ofta sant",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "5. Jag har ofta svårt att förstå mina tankar och känslor",
+                "description": "",
+                "questionNumber": 5,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Mycket falskt eller ofta falskt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska falskt eller ibland falskt",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska sant eller ibland sant",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Mycket sant eller ofta sant",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "6. Jag har ofta orealistiska krav på mig själv",
+                "description": "",
+                "questionNumber": 6,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Mycket falskt eller ofta falskt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska falskt eller ibland falskt",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska sant eller ibland sant",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Mycket sant eller ofta sant",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "7. Jag har ofta svårt att förstå andra människors tankar och känslor",
+                "description": "",
+                "questionNumber": 7,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Mycket falskt eller ofta falskt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska falskt eller ibland falskt",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska sant eller ibland sant",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Mycket sant eller ofta sant",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "8. Jag har ofta svårt att stå ut med att andra har en annan åsikt än jag själv",
+                "description": "",
+                "questionNumber": 8,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Mycket falskt eller ofta falskt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska falskt eller ibland falskt",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska sant eller ibland sant",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Mycket sant eller ofta sant",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "9. Jag förstår ofta inte fullt ut varför mitt beteende påverkar andra människor på ett särskilt sätt",
+                "description": "",
+                "questionNumber": 9,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Mycket falskt eller ofta falskt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska falskt eller ibland falskt",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska sant eller ibland sant",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Mycket sant eller ofta sant",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "10. Mina förhållanden och vänskapsrelationer varar sällan särskilt länge",
+                "description": "",
+                "questionNumber": 10,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Mycket falskt eller ofta falskt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska falskt eller ibland falskt",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska sant eller ibland sant",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Mycket sant eller ofta sant",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "11. Jag känner mig ofta väldigt sårbar när relationer till andra blir mer personliga",
+                "description": "",
+                "questionNumber": 11,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Mycket falskt eller ofta falskt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska falskt eller ibland falskt",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska sant eller ibland sant",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Mycket sant eller ofta sant",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "12. Jag har ofta svårt att samarbeta med andra på ett ömsesidigt tillfredsställande sätt",
+                "description": "",
+                "questionNumber": 12,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Mycket falskt eller ofta falskt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska falskt eller ibland falskt",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Ganska sant eller ibland sant",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Mycket sant eller ofta sant",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    }
+  ],
+  "minNumberOfQuestions": 12,
+  "maxNumberOfQuestions": 12,
+  "minNumberOfPages": 1,
+  "maxNumberOfPages": 1,
+  "calculationFormulas": []
+}
