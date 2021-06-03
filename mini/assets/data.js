@@ -3,7 +3,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " A. EGENTLIG DEPRESSIONSEPISOD",
+        "text": null,
         "title": "A. EGENTLIG DEPRESSIONSEPISOD",
         "rules": null,
         "answer": null
