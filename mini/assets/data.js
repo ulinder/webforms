@@ -19,7 +19,7 @@ DATA =
     {
         "id": "A1",
         "subid": "a",
-        "text": "Har du någonsin varit deprimerad eller nere, eller känt dig ledsen, tom eller uppgiven ",
+        "text": "Har du någonsin varit deprimerad eller nere, eller känt dig ledsen, tom eller uppgiven  under större delen av dagen, nästan varje dag under 2 veckor?",
         "title": null,
         "rules": null,
         "answer":
@@ -27,14 +27,7 @@ DATA =
             "NEJ              JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " under större delen av dagen, nästan varje dag under 2 veckor?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+   
     {
         "id": null,
         "subid": null,
@@ -44,9 +37,9 @@ DATA =
         "answer": null
     },
     {
-        "id": null,
+        "id": "A1",
         "subid": "b",
-        "text": "Under de senaste 2 veckorna, har du varit deprimerad eller nere, eller känt dig ledsen, ",
+        "text": "Under de senaste 2 veckorna, har du varit deprimerad eller nere, eller känt dig ledsen,  tom eller uppgiven under större delen av dagen, nästan varje dag?",
         "title": null,
         "rules": null,
         "answer":
@@ -54,18 +47,11 @@ DATA =
             "NEJ              JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " tom eller uppgiven under större delen av dagen, nästan varje dag?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+ 
     {
         "id": "A2",
         "subid": "a",
-        "text": "Har du någonsin tappat intresset för det mesta omkring dig eller inte kunnat ha riktigt ",
+        "text": "Har du någonsin tappat intresset för det mesta omkring dig eller inte kunnat ha riktigt  nöje av sådant du brukar tycka om under den största delen av tiden under 2 veckor?",
         "title": null,
         "rules": null,
         "answer":
@@ -73,14 +59,7 @@ DATA =
             "NEJ              JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " nöje av sådant du brukar tycka om under den största delen av tiden under 2 veckor?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+    
     {
         "id": null,
         "subid": null,
