@@ -21,7 +21,7 @@ DATA =
         "subid": "a",
         "text": "Har du någonsin varit deprimerad eller nere, eller känt dig ledsen, tom eller uppgiven  under större delen av dagen, nästan varje dag under 2 veckor?",
         "title": null,
-        "rules": null,
+        "rules":  "OM NEJ, KODA NEJ FÖR A1b; OM JA, FRÅGA:",
         "answer":
         [
             "NEJ              JA"
@@ -31,7 +31,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " OM NEJ, KODA NEJ FÖR A1b; OM JA, FRÅGA:",
+        "text": null,
         "title": null,
         "rules": null,
         "answer": null
@@ -53,25 +53,18 @@ DATA =
         "subid": "a",
         "text": "Har du någonsin tappat intresset för det mesta omkring dig eller inte kunnat ha riktigt  nöje av sådant du brukar tycka om under den största delen av tiden under 2 veckor?",
         "title": null,
-        "rules": null,
+        "rules": " OM NEJ, KODA NEJ FÖR A2b; OM JA, FRÅGA:",
         "answer":
         [
             "NEJ              JA"
         ]
     },
     
-    {
-        "id": null,
-        "subid": null,
-        "text": " OM NEJ, KODA NEJ FÖR A2b; OM JA, FRÅGA:",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+ 
     {
         "id": null,
         "subid": "b",
-        "text": "Har du under den största delen av tiden under de senaste 2 veckorna varit mycket ",
+        "text": "Har du under den största delen av tiden under de senaste 2 veckorna varit mycket mindre intresserad för det mesta omkring dig jämfört med andra, eller inte kunnat ha riktigt nöje av sådant du vanligen brukar tycka om?",
         "title": null,
         "rules": null,
         "answer":
@@ -79,77 +72,49 @@ DATA =
             "NEJ              JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " mindre intresserad för det mesta omkring dig jämfört med andra, eller inte kunnat ha",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " riktigt nöje av sådant du vanligen brukar tycka om?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+   
     {
         "id": null,
         "subid": null,
         "text": " =>",
         "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " HAR A1a ELLER A2a KODATS JA? ",
-        "title": null,
-        "rules": null,
+        "rules": " HAR A1a ELLER A2a KODATS JA? ",
         "answer":
         [
             "NEJ              JA"
         ]
     },
+
     {
         "id": "A3",
-        "subid": null,
-        "text": " OM A1b ELLER A2b = JA: EFTERFRÅGA DEN PÅGÅENDE OCH DEN SVÅRASTE TIDIGARE EPISODEN, ELLER",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OM A1b OCH A2b = NEJ: EFTERFRÅGA ENBART DEN SVÅRASTE TIDIGARE EPISODEN",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
+        //rules hamnar fel, den ska ligga längst upp - men kan inte ha regler i samma del som något annat element utan att den hamnar sist
+        "rules": " OM A1b ELLER A2b = JA: EFTERFRÅGA DEN PÅGÅENDE OCH DEN SVÅRASTE TIDIGARE EPISODEN, ELLER OM A1b OCH A2b = NEJ: EFTERFRÅGA ENBART DEN SVÅRASTE TIDIGARE EPISODEN",
+
+
+        "subid": " ",
         "text": " Under tvåveckorsperioden, när du kände dig deprimerad eller ointresserad:",
+
+
+        "title": null,
+
+      
+        "answer": null
+    },
+
+    { 
+        //Dessa textavsnitt måste läggas i separata objekt för att de ska skrivas ut
+      //I vilket fall blir ju detta skumt då dessa är rubriker på kolumner med ja/nej svar på frågorna nedan  
+        "id": null,
+        "subid": null,
+        "text": "Senaste 2 veckorna",
         "title": null,
         "rules": null,
         "answer": null
     },
     {
         "id": null,
+        "text": "Tidigare episod",
         "subid": null,
-        "text": " Senaste 2 Tidigare",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " veckorna episod",
         "title": null,
         "rules": null,
         "answer": null
@@ -157,7 +122,7 @@ DATA =
     {
         "id": null,
         "subid": "a",
-        "text": "Hade du minskad eller ökad aptit nästan varje dag? Minskade eller ökade du oavsiktligt ",
+        "text": "Hade du minskad eller ökad aptit nästan varje dag? Minskade eller ökade du oavsiktligt i vikt (d.v.s. med ± 5% av kroppsvikten, eller ± 3,5 kg eller ±8 lb för en person som väger 160 lb/70 kg, på en månad)?",
         "title": null,
         "rules": null,
         "answer":
@@ -165,34 +130,19 @@ DATA =
             "NEJ         JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " i vikt (d.v.s. med ± 5% av kroppsvikten, eller ± 3,5 kg eller ±8 lb för en person som väger",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " 160 lb/70 kg, på en månad)?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+   
     {
         "id": null,
         "subid": null,
         "text": " VID JA PÅ NÅGON AV DESSA FRÅGOR, KODA JA.",
-        "title": "A.",
+        "title": null,
         "rules": null,
-        "answer": null
+        "answer": null,
     },
     {
         "id": null,
         "subid": "b",
-        "text": "Hade du problem med sömnen nästan varje natt (svårt att somna in, vaknade upp mitt i ",
+        "text": "Hade du problem med sömnen nästan varje natt (svårt att somna in, vaknade upp mitt i natten, vaknade alldeles för tidigt på morgonen eller sov alldeles för mycket)?",
         "title": null,
         "rules": null,
         "answer":
@@ -200,18 +150,11 @@ DATA =
             "NEJ         JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " natten, vaknade alldeles för tidigt på morgonen eller sov alldeles för mycket)?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+   
     {
         "id": null,
         "subid": "c",
-        "text": "Pratade eller rörde du dig långsammare än vanligt eller var du rastlös eller hade svårt att ",
+        "text": "Pratade eller rörde du dig långsammare än vanligt eller var du rastlös eller hade svårt att sitta still nästan varje dag? Märkte någon detta?",
         "title": null,
         "rules": null,
         "answer":
@@ -219,14 +162,7 @@ DATA =
             "NEJ         JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " sitta still nästan varje dag? Märkte någon detta?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+   
     {
         "id": null,
         "subid": "d",
@@ -241,7 +177,7 @@ DATA =
     {
         "id": null,
         "subid": "e",
-        "text": "Kände du dig värdelös eller hade skuldkänslor nästan varje dag? ",
+        "text": "Kände du dig värdelös eller hade skuldkänslor nästan varje dag?",
         "title": null,
         "rules": null,
         "answer":
@@ -252,42 +188,33 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " OM JA, BE OM EXEMPEL. LETA EFTER VANFÖRESTÄLLNINGAR OM MISSLYCKANDEN, BRISTER, UNDERGÅNG",
-        "title": "L. LETA EFTER VANFÖRESTÄLLNINGAR OM MISSLYCKANDEN, BRISTER, UNDERGÅNG",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ELLER SKULD, ELLER OM BEHOV AV BESTRAFFNING, ELLER VANFÖRESTÄLLNINGAR OM SJUKDOM ELLER DÖD,",
+        "text": " OM JA, BE OM EXEMPEL. LETA EFTER VANFÖRESTÄLLNINGAR OM MISSLYCKANDEN, BRISTER, UNDERGÅNG  ELLER SKULD, ELLER OM BEHOV AV BESTRAFFNING, ELLER VANFÖRESTÄLLNINGAR OM SJUKDOM ELLER DÖD, ELLER NIHILISTISKA ELLER KROPPSLIGA VANFÖRESTÄLLNINGAR. EXEMPLEN ÖVERENSSTÄMMER MED EN VANFÖRESTÄLLNING. ",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " ELLER NIHILISTISKA ELLER KROPPSLIGA VANFÖRESTÄLLNINGAR.",
-        "title": "R.",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " EXEMPLEN ÖVERENSSTÄMMER MED EN VANFÖRESTÄLLNING. Pågående episod [] Nej [] Ja",
-        "title": "G. Pågående episod [] Nej [] Ja",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " Tidigare episod [] Nej [] Ja",
+        "text": "Pågående episod",
         "title": null,
         "rules": null,
-        "answer": null
+        "answer":
+        [
+            "NEJ         JA"
+        ]
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": " Tidigare episod",
+        "title": null,
+        "rules": null,
+        "answer":
+        [
+            "NEJ         JA"
+        ]
     },
     {
         "id": null,
@@ -303,7 +230,7 @@ DATA =
     {
         "id": null,
         "subid": "g",
-        "text": "Tänkte du ofta på döden (RÄDSLA FÖR ATT DÖ RÄKNAS INTE HÄR), eller hade tankar på att ta ",
+        "text": "Tänkte du ofta på döden (RÄDSLA FÖR ATT DÖ RÄKNAS INTE HÄR), eller hade tankar på att ta livet av dig, eller hade du avsikter eller planer på att ta ditt liv? Försökte du ta ditt liv? VID JA PÅ NÅGON AV DESSA FRÅGOR, KODA JA.",
         "title": null,
         "rules": null,
         "answer":
@@ -311,26 +238,12 @@ DATA =
             "NEJ         JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " livet av dig, eller hade du avsikter eller planer på att ta ditt liv? Försökte du ta ditt liv?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " VID JA PÅ NÅGON AV DESSA FRÅGOR, KODA JA.",
-        "title": "A.",
-        "rules": null,
-        "answer": null
-    },
+   
+  
     {
         "id": "A4",
-        "subid": null,
-        "text": " Orsakade dessa symtom påtagliga besvär eller problem hemma, i arbetet, i dina studier, ",
+        "subid": " " ,
+        "text": "Orsakade dessa symtom påtagliga besvär eller problem hemma, i arbetet, i dina studier, socialt, i relationer, eller på något annat viktigt sätt, och innebär de en förändring mot hur du fungerat tidigare?",
         "title": null,
         "rules": null,
         "answer":
@@ -338,48 +251,28 @@ DATA =
             "NEJ         JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " socialt, i relationer, eller på något annat viktigt sätt, och innebär de en förändring mot",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " hur du fungerat tidigare?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": "A5",
-        "subid": null,
-        "text": " Mellan 2 depressionsepisoder, hade du någonsin ett fritt intervall om minst 2 månader Ej tillämpligt ",
+        "subid": " " ,
+        "text": "Mellan 2 depressionsepisoder, hade du någonsin ett fritt intervall om minst 2 månader utan någon påtaglig depression eller ointresse?",
         "title": null,
         "rules": null,
         "answer":
         [
-            "NEJ        JA"
+            "NEJ        Ej tillämpligt"
         ]
     },
+ 
+   
+  
     {
-        "id": null,
-        "subid": null,
-        "text": " utan någon påtaglig depression eller ointresse?",
+        "id": "EGENTLIG OCH DEPRESSIONSEPISOD",
+        "subid": " ",
+        "text": " ",
         "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " HAR 5 ELLER FLER SVAR (A1–A3) KODATS JA, OCH HAR A4 KODATS JA FÖR DEN ",
-        "title": null,
-        "rules": null,
-        "answer":
+        "rules": " HAR 5 ELLER FLER SVAR (A1–A3) KODATS JA, OCH HAR A4 KODATS JA FÖR DEN AKTUELLA TIDSPERIODEN OCH HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA? ANGE OM EPISODEN ÄR PÅGÅENDE OCH/ELLER TIDIGARE. OM A5 KODATS JA, KODA JA FÖR RECIDIVERANDE", 
+         "answer":
         [
             "NEJ             JA"
         ]
@@ -387,59 +280,15 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " AKTUELLA TIDSPERIODEN?",
+        "text": null,
         "title": null,
         "rules": null,
-        "answer": null
+        "answer": 
+        [ 
+        "PÅGÅENDE TIDIGARE RECIDIVERANDE"
+        ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " EGENTLIG",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OCH DEPRESSIONSEPISOD",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA? PÅGÅENDE",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " TIDIGARE",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ANGE OM EPISODEN ÄR PÅGÅENDE OCH/ELLER TIDIGARE. RECIDIVERANDE",
-        "title": "E.                                 RECIDIVERANDE",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OM A5 KODATS JA, KODA JA FÖR RECIDIVERANDE.",
-        "title": "E.",
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": "A6",
         "subid": "a",
@@ -457,33 +306,61 @@ DATA =
         "answer": null
     },
     {
-        "id": null,
-        "subid": null,
-        "text": " B. SUICIDALITET",
-        "title": "B. SUICIDALITET",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " Poäng",
+        "id": " B. SUICIDALITET",
+        "subid": " ",
+        "text": "Under den senaste månaden:",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " Under den senaste månaden:",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": "B1",
+        "subid": " ",
+        "text": " Har du varit med om en olyckshändelse? Detta inbegriper att råka ta för många tabletter.",
+        "title": null,
+        "rules": " OM B1 BESVARATS MED NEJ, HOPPA TILL B2; OM JA, STÄLL FRÅGAN B1a:",
+        "answer":
+        [
+            "NEJ   JA"
+        ]
+    },
+
+    {
+        "id": null,
         "subid": null,
-        "text": " Har du varit med om en olyckshändelse? Detta inbegriper att råka ta för många tabletter. 0",
+        "text": null,
+        "title": null,
+        "rules": " Poäng 0",
+        "answer": null
+    },
+
+    {
+        "id": "B1",
+        "subid": "a",
+        "text": "Planerade eller avsåg du att skada dig själv i någon olyckshändelse, antingen genom att inte undvika en risk eller att avsiktligt orsaka olyckan?",
+        "title": null,
+        "rules": "OM B1a BESVARATS MED NEJ, HOPPA TILL B2: OM JA, STÄLL FRÅGAN B1b:",
+        "answer":
+        [
+            "NEJ   JA"
+        ]
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " Poäng 0",
+        "answer": null
+    },
+    
+ 
+    {
+        "id": "B1",
+        "subid": "b",
+        "text": "Avsåg du att dö som en följd av någon olyckshändelse?",
         "title": null,
         "rules": null,
         "answer":
@@ -491,56 +368,20 @@ DATA =
             "NEJ   JA"
         ]
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " OM B1 BESVARATS MED NEJ, HOPPA TILL B2; OM JA, STÄLL FRÅGAN B1a:",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " Poäng 0",
         "answer": null
     },
-    {
-        "id": "B1",
-        "subid": null,
-        "text": "a Planerade eller avsåg du att skada dig själv i någon olyckshändelse, antingen genom att inte 0",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ   JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " undvika en risk eller att avsiktligt orsaka olyckan?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OM B1a BESVARATS MED NEJ, HOPPA TILL B2: OM JA, STÄLL FRÅGAN B1b:",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": "B1",
-        "subid": null,
-        "text": "b Avsåg du att dö som en följd av någon olyckshändelse? 0",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ   JA"
-        ]
-    },
+
     {
         "id": "B2",
-        "subid": null,
-        "text": " Har du (om ens för ett ögonblick) tänkt att det vore bättre om du var död eller önskat att du var 1",
+        "subid": " ",
+        "text": " Har du (om ens för ett ögonblick) tänkt att det vore bättre om du var död eller önskat att du var tvungen att vara död?",
         "title": null,
         "rules": null,
         "answer":
@@ -548,29 +389,32 @@ DATA =
             "NEJ   JA"
         ]
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " död eller var tvungen att vara död?",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " Poäng 1",
         "answer": null
     },
+
     {
         "id": "B3",
-        "subid": null,
-        "text": " Har du (om ens för ett ögonblick) tänkt på att skada eller göra illa dig själv 6",
+        "subid": " ",
+        "text": " Har du (om ens för ett ögonblick) tänkt på att skada eller göra illa dig själv", 
         "title": null,
         "rules": null,
-        "answer":
-        [
-            "NEJ   JA"
-        ]
+        "answer": null,
+       
     },
+
+
+
     {
         "id": null,
         "subid": null,
-        "text": " – med åtminstone en viss avsikt eller medvetenhet om att du kunde dö som följd",
+        "text": "– med åtminstone en viss avsikt eller medvetenhet om att du kunde dö som följd",
         "title": null,
         "rules": null,
         "answer": null
@@ -581,12 +425,32 @@ DATA =
         "text": " – eller har du funderat på självmord (d.v.s. att ta ditt liv)?",
         "title": null,
         "rules": null,
+        "answer":  [
+            "NEJ   JA"
+        ]
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " Poäng 6",
+        "answer": null
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " OM B2 + B3 BESVARAS MED NEJ, HOPPA TILL B4. I ANNAT FALL FRÅGA OM:",
         "answer": null
     },
     {
         "id": null,
         "subid": null,
-        "text": " OM B2 + B3 BESVARAS MED NEJ, HOPPA TILL B4. I ANNAT FALL FRÅGA OM:",
+        "text": " Frekvens/Intensitet",
         "title": null,
         "rules": null,
         "answer": null
@@ -594,7 +458,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " Frekvens Intensitet",
+        "text": " Då och då/ Mild",
         "title": null,
         "rules": null,
         "answer": null
@@ -602,7 +466,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " Då och då Mild",
+        "text": " Ofta/ Måttlig",
         "title": null,
         "rules": null,
         "answer": null
@@ -610,23 +474,15 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " Ofta Måttlig",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " Mycket ofta Svår",
+        "text": " Mycket ofta/ Svår",
         "title": null,
         "rules": null,
         "answer": null
     },
     {
         "id": "B4",
-        "subid": null,
-        "text": " Har du hört en röst eller röster som säger till dig att ta livet av dig, eller har du haft drömmar 4",
+        "subid": " ",
+        "text": " Har du hört en röst eller röster som säger till dig att ta livet av dig, eller har du haft drömmar som på något sätt är relaterade till självmord?",
         "title": null,
         "rules": null,
         "answer":
@@ -637,31 +493,25 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " som på något sätt är relaterade till självmord?",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " Poäng 4",
         "answer": null
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " Om JA, var det det ena eller [] var det en röst eller [] var det en dröm?",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " Om JA, var det det ena eller båda [] var det en röst eller röster [] var det en dröm?",
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " båda: röster?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+   
     {
         "id": "B5",
-        "subid": null,
-        "text": " Har du tänkt ut ett sätt att ta ditt liv (dvs. hur)? 8",
+        "subid": " ",
+        "text": " Har du tänkt ut ett sätt att ta ditt liv (dvs. hur)?",
         "title": null,
         "rules": null,
         "answer":
@@ -669,10 +519,20 @@ DATA =
             "NEJ   JA"
         ]
     },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " Poäng 8",
+        "answer": null
+    },
+
     {
         "id": "B6",
-        "subid": null,
-        "text": " Har du tänkt ut ett hjälpmedel att ta ditt liv med (dvs. med vad)? 8",
+        "subid": " ",
+        "text": " Har du tänkt ut ett hjälpmedel att ta ditt liv med (dvs. med vad)?",
         "title": null,
         "rules": null,
         "answer":
@@ -680,10 +540,20 @@ DATA =
             "NEJ   JA"
         ]
     },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " Poäng 8",
+        "answer": null
+    },
+
     {
         "id": "B7",
-        "subid": null,
-        "text": " Har du tänkt ut någon plats för att ta ditt liv (dvs. var någonstans)? 8",
+        "subid": " ",
+        "text": " Har du tänkt ut någon plats för att ta ditt liv (dvs. var någonstans)? ",
         "title": null,
         "rules": null,
         "answer":
@@ -691,10 +561,20 @@ DATA =
             "NEJ   JA"
         ]
     },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " Poäng 8",
+        "answer": null
+    },
+
     {
         "id": "B8",
-        "subid": null,
-        "text": " Har du planerat någon dag eller tidsram för att ta ditt liv (dvs. när)? 8",
+        "subid": " ",
+        "text": " Har du planerat någon dag eller tidsram för att ta ditt liv (dvs. när)? ",
         "title": null,
         "rules": null,
         "answer":
@@ -702,10 +582,20 @@ DATA =
             "NEJ   JA"
         ]
     },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " Poäng 8",
+        "answer": null
+    },
+
     {
         "id": "B9",
-        "subid": null,
-        "text": " Har du tänkt på någonting du skulle vilja göra klart innan du försöker ta ditt liv? 8",
+        "subid": " ",
+        "text": " Har du tänkt på någonting du skulle vilja göra klart innan du försöker ta ditt liv? (t.ex. skriva ett självmordsbrev)",
         "title": null,
         "rules": null,
         "answer":
@@ -713,18 +603,21 @@ DATA =
             "NEJ   JA"
         ]
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " (t.ex. skriva ett självmordsbrev)",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " Poäng 8",
         "answer": null
     },
+
+
     {
         "id": "B10",
-        "subid": null,
-        "text": " Har du haft för avsikt att agera i enlighet med dina tankar på att ta ditt liv? 8",
+        "subid": " ",
+        "text": " Har du haft för avsikt att agera i enlighet med dina tankar på att ta ditt liv?",
         "title": null,
         "rules": null,
         "answer":
@@ -732,26 +625,47 @@ DATA =
             "NEJ   JA"
         ]
     },
+
+        {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " Poäng 8",
+        "answer": null
+    },
+
     {
         "id": null,
         "subid": null,
-        "text": " Om JA, markera det ena eller båda: [] hade du för avsikt att göra det vid just det tillfället?",
+        "text": null,
+        "title": null,
+        "rules": " Om JA, markera det ena eller båda:",
+        "answer": null
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": "[] hade du för avsikt att göra det vid just det tillfället?",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " [] hade du för avsikt att göra det någon gång i framtiden?",
+        "text": "[] hade du för avsikt att göra det någon gång i framtiden?",
         "title": null,
         "rules": null,
         "answer": null
     },
+   
     {
         "id": "B11",
-        "subid": null,
-        "text": " Har du haft för avsikt att dö som resultat av en självmordshandling? 8",
+        "subid": " ",
+        "text": " Har du haft för avsikt att dö som resultat av en självmordshandling? ",
         "title": null,
         "rules": null,
         "answer":
@@ -759,42 +673,55 @@ DATA =
             "NEJ   JA"
         ]
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " Om JA, markera det ena eller [] hade du för avsikt att dö genom självmord vid just det",
+        "text": null,
+        "title": null,
+        "rules": " Poäng 8",
+        "answer": null
+    },
+
+      {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " Om JA, markera det ena eller båda:",
+        "answer": null
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": " [] hade du för avsikt att dö genom självmord vid just det tillfället",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
+
+     {
         "id": null,
         "subid": null,
-        "text": " båda: tillfället?",
         "title": null,
         "rules": null,
         "answer": null
     },
+ 
     {
         "id": null,
         "subid": null,
-        "text": " [] hade du för avsikt att dö genom självmord någon gång i",
+        "text": " [] hade du för avsikt att dö genom självmord någon gång i framtiden?",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " framtiden?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+  
     {
         "id": "B12",
-        "subid": null,
-        "text": " Har du känt behovet eller impulsen att ta livet av dig eller att planera att ta livet av dig snart 8",
+        "subid": " ",
+        "text": " Har du känt behovet eller impulsen att ta livet av dig eller att planera att ta livet av dig snart hellre än senare?",
         "title": null,
         "rules": null,
         "answer":
@@ -805,63 +732,70 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " hellre än senare?",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " Om JA, markera det ena eller båda",
         "answer": null
     },
     {
         "id": null,
         "subid": null,
-        "text": " Om JA, markera det ena eller [] var det att begå självmord [] var det att planera att begå",
+        "text": "[] var det att begå självmord (ta livet av dig)? ",
         "title": null,
         "rules": null,
         "answer": null
     },
+    
     {
         "id": null,
         "subid": null,
-        "text": " båda: (ta livet av dig)? självmord (ta livet av dig)?",
+        "text": "[] var det att planera att begå självmord (ta livet av dig)?",
         "title": null,
         "rules": null,
         "answer": null
     },
+
+     {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " Om JA, markera det ena eller båda",
+        "answer": null
+    },
+
     {
         "id": null,
         "subid": null,
-        "text": " Om JA, markera det ena eller [] var det i princip [] var det provocerat?",
+        "text": "[] var det i princip oprovocerat?",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " båda: oprovocerat?",
+        "text": "[] var det provocerat?",
         "title": null,
         "rules": null,
         "answer": null
     },
+ 
+ 
     {
         "id": null,
         "subid": null,
-        "text": " FÖR ATT BEDÖMA HURUVIDA DETTA VAR I PRINCIP OPROVOCERAT, FRÅGA: ”5 minuter innan",
+        "text": " FÖR ATT BEDÖMA HURUVIDA DETTA VAR I PRINCIP OPROVOCERAT, FRÅGA: ”5 minuter innan den här impulsen, hade du kunnat förutsäga att den skulle komma?”",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " den här impulsen, hade du kunnat förutsäga att den skulle komma?”",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+   
     {
         "id": "B13",
-        "subid": null,
-        "text": " Har du haft svårt att stå emot dessa impulser? 8",
+        "subid": " ",
+        "text": " Har du haft svårt att stå emot dessa impulser?",
         "title": null,
         "rules": null,
         "answer":
@@ -869,34 +803,42 @@ DATA =
             "NEJ   JA"
         ]
     },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " Poäng 8",
+        "answer": null
+    },
+
     {
         "id": "B14",
-        "subid": null,
-        "text": " Har du aktivt förberett något självmordsförsök i förväntan eller avsikt att dö (inklusive saker du",
+        "subid": " ",
+        "text": " Har du aktivt förberett något självmordsförsök i förväntan eller avsikt att dö (inklusive saker du  gjort eller avsiktligt låtit bli att göra som fört dig närmare ett självmordsförsök)? Detta innefattar de gånger då du avsåg att ta ditt liv men blev avbruten eller avbröt dig själv innan du hann skada dig.",
         "title": null,
         "rules": null,
-        "answer": null
+         "answer":
+        [
+            "NEJ      JA"
+        ]
     },
+  
+  
+  
     {
         "id": null,
         "subid": null,
-        "text": " gjort eller avsiktligt låtit bli att göra som fört dig närmare ett självmordsförsök)? Detta innefattar",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " OM B14 BESVARAS MED NEJ, HOPPA TILL B15.",
         "answer": null
     },
     {
-        "id": null,
-        "subid": null,
-        "text": " de gånger då du avsåg att ta ditt liv men blev avbruten eller avbröt dig själv innan du hann skada",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " dig. ",
+        "id": "B14",
+        "subid": "a ",
+        "text": "Har du gjort aktiva förberedelser för att ta ditt liv, men utan att påbörja självmordsförsöket?",
         "title": null,
         "rules": null,
         "answer":
@@ -904,18 +846,20 @@ DATA =
             "NEJ      JA"
         ]
     },
-    {
+
+       {
         "id": null,
         "subid": null,
-        "text": " OM B14 BESVARAS MED NEJ, HOPPA TILL B15.",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " Poäng 9",
         "answer": null
     },
+
     {
         "id": "B14",
-        "subid": null,
-        "text": "a Har du gjort aktiva förberedelser för att ta ditt liv, men utan att påbörja självmordsförsöket? 9",
+        "subid": " b",
+        "text": "Har du gjort aktiva förberedelser för att ta ditt liv, men hindrat dig själv precis innan du gjorde dig någon skada (ställde in)?",
         "title": null,
         "rules": null,
         "answer":
@@ -923,48 +867,41 @@ DATA =
             "NEJ      JA"
         ]
     },
+   {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " Poäng 10",
+        "answer": null
+    },
+
     {
         "id": "B14",
-        "subid": null,
-        "text": "b Har du gjort aktiva förberedelser för att ta ditt liv, men hindrat dig själv precis innan du gjorde 10",
+        "subid": "c",
+        "text": "Har du gjort aktiva förberedelser för att ta ditt liv, men blivit hindrad av någon eller någonting precis innan du hann skada dig själv (blev avbruten)?",
         "title": null,
         "rules": null,
-        "answer":
+         "answer":
         [
             "NEJ      JA"
         ]
     },
-    {
+
+       {
         "id": null,
         "subid": null,
-        "text": " dig någon skada (”ställde in”)?",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " Poäng 11",
         "answer": null
     },
-    {
-        "id": "B14",
-        "subid": null,
-        "text": "c Har du gjort aktiva förberedelser för att ta ditt liv, men blivit hindrad av någon eller någonting",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " precis innan du hann skada dig själv (”blev avbruten”)? 11",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ      JA"
-        ]
-    },
+
+   
     {
         "id": "B15",
-        "subid": null,
-        "text": " Har du skadat dig själv avsiktligt, utan att du haft för avsikt att dö? 0",
+        "subid": " ",
+        "text": " Har du skadat dig själv avsiktligt, utan att du haft för avsikt att dö?",
         "title": null,
         "rules": null,
         "answer":
@@ -972,9 +909,19 @@ DATA =
             "NEJ      JA"
         ]
     },
+
+       {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " Poäng 0",
+        "answer": null
+    },
+
     {
         "id": "B16",
-        "subid": null,
+        "subid": " ",
         "text": " Har du försökt begå självmord (ta livet av dig)? ",
         "title": null,
         "rules": null,
@@ -986,15 +933,16 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " OM B16 BESVARAS MED NEJ, HOPPA TILL B17.",
+        "text": null, 
         "title": null,
-        "rules": null,
+        "rules": " OM B16 BESVARAS MED NEJ, HOPPA TILL B17.",
         "answer": null
     },
+
     {
         "id": "B16",
-        "subid": null,
-        "text": "a Har du inlett ett självmordsförsök (för att ta livet av dig), men beslutat att avbryta och inte 12",
+        "subid": "a",
+        "text": "Har du inlett ett självmordsförsök (för att ta livet av dig), men beslutat att avbryta och inte fullföljt försöket?",
         "title": null,
         "rules": null,
         "answer":
@@ -1002,18 +950,21 @@ DATA =
             "NEJ      JA"
         ]
     },
-    {
+
+       {
         "id": null,
         "subid": null,
-        "text": " fullföljt försöket?",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " Poäng 12",
         "answer": null
     },
+
+ 
     {
         "id": "B16",
-        "subid": null,
-        "text": "b Har du inlett ett självmordsförsök (för att ta livet av dig) men blivit avbruten och inte fullföljt 13",
+        "subid": "b",
+        "text": "Har du inlett ett självmordsförsök (för att ta livet av dig) men blivit avbruten och inte fullföljt försöket?",
         "title": null,
         "rules": null,
         "answer":
@@ -1021,18 +972,21 @@ DATA =
             "NEJ      JA"
         ]
     },
-    {
+
+       {
         "id": null,
         "subid": null,
-        "text": " försöket?",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " Poäng 13",
         "answer": null
     },
+
+  
     {
         "id": "B16",
-        "subid": null,
-        "text": "c Har du genomfört ett försök att begå självmord (ta livet av dig) helt och hållet så som du hade 14",
+        "subid": "c",
+        "text": "Har du genomfört ett försök att begå självmord (ta livet av dig) helt och hållet så som du hade för avsikt att göra?",
         "title": null,
         "rules": null,
         "answer":
@@ -1040,10 +994,38 @@ DATA =
             "NEJ      JA"
         ]
     },
+
+       {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " Poäng 14",
+        "answer": null
+    },
+
+ 
     {
         "id": null,
         "subid": null,
-        "text": " för avsikt att göra?",
+        "text": " Med självmordsförsök menas att du gjort något som skulle kunna skada dig och med åtminstone en viss avsikt att dö.",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+ 
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " OM NEJ, HOPPA TILL B17:",
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": "[]  Hoppades på att bli räddad/överleva",
         "title": null,
         "rules": null,
         "answer": null
@@ -1051,46 +1033,14 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " Med självmordsförsök menas att du gjort något som skulle kunna skada dig och med åtminstone",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " en viss avsikt att dö.",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OM NEJ, HOPPA TILL B17:",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " Hoppades på att bli räddad/överleva",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " Förväntade sig/avsåg att dö",
+        "text": "[] Förväntade sig/avsåg att dö",
         "title": null,
         "rules": null,
         "answer": null
     },
     {
         "id": "B17",
-        "subid": null,
+        "subid": " ",
         "text": " TID, DAGLIGEN TILLBRINGAD MED SUICIDALA IMPULSER, TANKAR ELLER HANDLINGAR:",
         "title": null,
         "rules": null,
@@ -1130,8 +1080,8 @@ DATA =
     },
     {
         "id": "B18",
-        "subid": null,
-        "text": " Har du någonsin försökt begå självmord (ta livet av dig)? 4",
+        "subid": " ",
+        "text": " Har du någonsin försökt begå självmord (ta livet av dig)?",
         "title": null,
         "rules": null,
         "answer":
@@ -1139,10 +1089,29 @@ DATA =
             "NEJ      JA"
         ]
     },
+
+       {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " Poäng 4",
+        "answer": null
+    },
+
+      {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " Om JA:",
+        "answer": null
+    },
+
     {
         "id": null,
         "subid": null,
-        "text": " Om JA, hur många gånger? ____________",
+        "text":  "Hur många gånger? ____________",
         "title": null,
         "rules": null,
         "answer": null
@@ -1150,7 +1119,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " Om JA, när var det senaste självmordsförsöket?",
+        "text": "När var det senaste självmordsförsöket?",
         "title": null,
         "rules": null,
         "answer": null
@@ -1158,7 +1127,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " Pågående: under de senaste 12 månaderna",
+        "text": " Pågående: under de senaste 12 månaderna []",
         "title": null,
         "rules": null,
         "answer": null
@@ -1166,7 +1135,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " I tidig remission: för 12 till 24 månader sedan",
+        "text": " I tidig remission: för 12 till 24 månader sedan []",
         "title": null,
         "rules": null,
         "answer": null
@@ -1174,7 +1143,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " I remission: för mer än 24 månader sedan",
+        "text": " I remission: för mer än 24 månader sedan []",
         "title": null,
         "rules": null,
         "answer": null
@@ -1182,79 +1151,24 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " ”Självmordsförsök är ett självskadande beteende med åtminstone viss avsikt (>0) att dö som följd av handlingen. Evidens för",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " att individen åtminstone till en viss grad hade för avsikt att ta sitt liv, kan vara explicita eller uttydas från beteendet eller",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " omständigheterna. Det definieras som ett suicidförsök, t.ex. om det uppenbarligen inte är fråga om en olyckshändelse eller",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " om personen tror att handlingen kan vara dödlig, även om avsikt förnekas.” (FDA Guidance for Industry Suicidal Ideation and",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " Behavior Document [Vägledningsdokument för suicidala tankar och självmordsbeteende] 2012 och C-CASA definitionen).",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " Posner K et al. Am J Psychiatry 2007; 164 (7): 1035-1043 &",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/default.htm/",
+        "text": " ”Självmordsförsök är ett självskadande beteende med åtminstone viss avsikt (>0) att dö som följd av handlingen. Evidens för att individen åtminstone till en viss grad hade för avsikt att ta sitt liv, kan vara explicita eller uttydas från beteendet eller omständigheterna. Det definieras som ett suicidförsök, t.ex. om det uppenbarligen inte är fråga om en olyckshändelse eller om personen tror att handlingen kan vara dödlig, även om avsikt förnekas.” (FDA Guidance for Industry Suicidal Ideation and Behavior Document [Vägledningsdokument för suicidala tankar och självmordsbeteende] 2012 och C-CASA definitionen) Posner K et al. Am J Psychiatry 2007; 164 (7): 1035-1043 & http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/default.htm/",
         "title": null,
         "rules": null,
         "answer": null
     },
     {
         "id": "B19",
-        "subid": null,
-        "text": " Hur sannolikt är det att du kommer försöka ta ditt liv inom de kommande 3 månaderna, på en skala från",
+        "subid": " ",
+        "text": " Hur sannolikt är det att du kommer försöka ta ditt liv inom de kommande 3 månaderna, på en skala från  0–100 % ______%",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " 0–100 % ______%",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ALL SANNOLIKHET > 0 % VID B19 SKA KODAS SOM JA 13",
+        "text": " ALL SANNOLIKHET > 0 % VID B19 SKA KODAS SOM JA",
         "title": null,
         "rules": null,
         "answer":
@@ -1262,9 +1176,21 @@ DATA =
             "NEJ              JA"
         ]
     },
-    {
+
+           {
         "id": null,
         "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " Poäng 13",
+        "answer": null
+    },
+
+
+
+    {
+        "id": "SUICIDALITET",
+        "subid": " ",
         "text": " HAR MINST 1 AV OVANSTÅENDE FRÅGOR (UTOM B1) KODATS JA? ",
         "title": null,
         "rules": null,
@@ -1273,10 +1199,20 @@ DATA =
             "NEJ                JA"
         ]
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " OM JA, ADDERA DE SAMMANRÄKNADE POÄNGEN FÖR DE SVAR (B1–B19) SOM SUICIDALITET",
+        "text": null,
+        "title": null,
+        "rules": " OM JA, ADDERA DE SAMMANRÄKNADE POÄNGEN FÖR DE SVAR (B1–B19) SOM KODATS ”JA”, OCH SPECIFICERA GRADEN AV SUICIDALITET I DIAGNOSRUTAN:",
+        "answer": null
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": " 1–8 poäng Låg []",
         "title": null,
         "rules": null,
         "answer": null
@@ -1284,7 +1220,16 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " KODATS ”JA”, OCH SPECIFICERA GRADEN AV SUICIDALITET I DIAGNOSRUTAN:",
+        "text": " 9–16 poäng Måttlig []",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": " ≥17 poäng Hög []",
         "title": null,
         "rules": null,
         "answer": null
@@ -1292,7 +1237,17 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " 1–8 poäng Låg",
+        "text": " VISA OM SUICIDALITETEN ÄR PÅGÅENDE (SENASTE MÅNADEN) ELLER GÄLLER ETT FÖRSÖK NÅGONSIN I LIVET, ELLER BÅDA, GENOM ATT MARKERA I RÄTT RUTA ELLER GENOM ATT LÄMNA EN ELLER BÅDA TOMMA PÅGÅENDE = POSITIVT SVAR TILL NÅGON AV FRÅGORNA B1a TILL B16c ELLER NÅGON TID TILLBRINGAD PÅ FRÅGA B17. NÅGONSIN = B18 KODADES JA. SANNOLIKT INOM DEN NÄRMASTE TIDEN = B19 KODADES JA.",
+        "title": null,
+        "rules": null,
+        "answer": null
+
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": "Pågående []",
         "title": null,
         "rules": null,
         "answer": null
@@ -1300,7 +1255,16 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " VISA OM SUICIDALITETEN ÄR PÅGÅENDE (SENASTE MÅNADEN) ELLER GÄLLER ETT FÖRSÖK",
+        "text": " Någonsin []",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": "Sannolikt inom den närmsta tiden []",
         "title": null,
         "rules": null,
         "answer": null
@@ -1308,113 +1272,19 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " 9–16 poäng Måttlig",
+        "text": "KOMMENTERA NEDAN VAD GÄLLER DIN BEDÖMNING AV DENNA PATIENTS AKTUELLA OCH NÄRA FRAMTIDA SUICIDALITET:",
         "title": null,
         "rules": null,
         "answer": null
     },
+
+
     {
-        "id": null,
-        "subid": null,
-        "text": " NÅGONSIN I LIVET, ELLER BÅDA, GENOM ATT MARKERA I RÄTT RUTA ELLER GENOM ATT",
+        "id": "SUICIDALT BETEENDE",
+        "subid": " ",
+        "text": null,
         "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ≥17 poäng Hög",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " LÄMNA EN ELLER BÅDA TOMMA.",
-        "title": "A.",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " PÅGÅENDE = POSITIVT SVAR TILL NÅGON AV FRÅGORNA B1a TILL B16c ELLER NÅGON TID",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " PÅGÅENDE",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " TILLBRINGAD PÅ FRÅGA B17. NÅGONSIN = B18 KODADES JA.",
-        "title": "A.",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " SANNOLIKT INOM DEN NÄRMASTE TIDEN = B19 KODADES JA.",
-        "title": "A.",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " NÅGONSIN",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " KOMMENTERA NEDAN VAD GÄLLER DIN BEDÖMNING AV DENNA PATIENTS AKTUELLA OCH",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " SANNOLIKT INOM DEN",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " NÄRA FRAMTIDA SUICIDALITET:",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " NÄRMASTE TIDEN",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " HAR B18 KODATS JA? ",
-        "title": null,
-        "rules": null,
+        "rules": " HAR B18 KODATS JA? ",
         "answer":
         [
             "NEJ                JA"
@@ -1423,43 +1293,29 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " OCH ETT JAKANDE SVAR PÅ SUICIDALT BETEENDE",
+        "text":  null,
         "title": null,
-        "rules": null,
+        "rules": " OCH ETT JAKANDE SVAR PÅ",
         "answer": null
     },
     {
         "id": null,
         "subid": null,
-        "text": " Inleddes den suicidala handlingen när patienten inte var i ett tillstånd av förvirring eller",
+        "text": " Inleddes den suicidala handlingen när patienten inte var i ett tillstånd av förvirring eller delirium?",
         "title": null,
         "rules": null,
         "answer": null
     },
+  
     {
         "id": null,
         "subid": null,
-        "text": " delirium? PÅGÅENDE",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " OCH ETT JAKANDE SVAR PÅ",
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OCH ETT JAKANDE SVAR PÅ Pågående",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " I tidig remission",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": null,
@@ -1471,23 +1327,43 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " OM JA, ANGE OM STÖRNINGEN ÄR PÅGÅENDE, I TIDIG REMISSION, ELLER I REMISSION. I remission",
-        "title": "N.                   I remission",
+        "text": " OM JA, ANGE OM STÖRNINGEN ÄR PÅGÅENDE, I TIDIG REMISSION, ELLER I REMISSION.",
+        "title": null,            
         "rules": null,
         "answer": null
     },
-    {
+
+        {
         "id": null,
         "subid": null,
-        "text": " C. MANISK/HYPOMAN EPISOD",
-        "title": "C. MANISK/HYPOMAN EPISOD",
+        "text": "Pågående []",
+        "title": null,
         "rules": null,
         "answer": null
     },
-    {
+
+        {
         "id": null,
         "subid": null,
-        "text": " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTORNA, RINGA IN NEJ I DIAGNOSRUTORNA FÖR MANISK OCH HYPOMAN OCH FORTSÄTT",
+        "text": " I tidig remission []",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+
+        {
+        "id": null,
+        "subid": null,
+        "text": " I remission []",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+
+    {
+        "id": "C. MANISK/HYPOMAN EPISOD",
+        "subid": " ",
+        "text": null,
         "title": null,
         "rules": null,
         "answer": null
@@ -1495,53 +1371,22 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " MED NÄSTA AVSNITT)",
+        "text": " ",
         "title": null,
-        "rules": null,
-        "answer": null
+        "rules": " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTORNA, RINGA IN NEJ I DIAGNOSRUTORNA FÖR MANISK OCH HYPOMAN OCH FORTSÄTT MED NÄSTA AVSNITT)",
+        "answer": null,
     },
+  
     {
         "id": null,
         "subid": null,
-        "text": " Har någon i din familj haft eller har manisk depressiv sjukdom eller bipolärt syndrom, ",
+        "text": " Har någon i din familj haft eller har manisk depressiv sjukdom eller bipolärt syndrom, eller har någon i din familj haft svängningar i humöret som behandlats med läkemedel såsom litium (Lithionit), valproat (Ergenyl, Absenor, Orfiril) eller lamotrigin (Lamictal)? DENNA FRÅGA ÄR INTE ETT KRITERIUM FÖR BIPOLÄRT SYNDROM MEN STÄLLS FÖR ATT ÖKA KLINIKERNS VAKSAMHET RÖRANDE RISK FÖR BIPOLÄRT SYNDROM.",
         "title": null,
         "rules": null,
         "answer":
         [
             "NEJ              JA"
         ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " eller har någon i din familj haft svängningar i humöret som behandlats med läkemedel",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " såsom litium (Lithionit), valproat (Ergenyl, Absenor, Orfiril) eller lamotrigin (Lamictal)?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " DENNA FRÅGA ÄR INTE ETT KRITERIUM FÖR BIPOLÄRT SYNDROM MEN STÄLLS FÖR ATT ÖKA KLINIKERNS",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " VAKSAMHET RÖRANDE RISK FÖR BIPOLÄRT SYNDROM.",
-        "title": "M.",
-        "rules": null,
-        "answer": null
     },
     {
         "id": null,
@@ -1554,10 +1399,10 @@ DATA =
     {
         "id": "C1",
         "subid": "a",
-        "text": "Har du någon gång haft en period när du känt dig ”uppvarvad”, ”hög” eller ”hyper”, och ",
+        "text": "Har du någon gång haft en period när du känt dig ”uppvarvad”, ”hög” eller ”hyper”, och så aktiv eller full av energi eller så uppfylld av dig själv att du råkat illa ut, eller så att andra tyckt att du inte var dig lik? (Alkohol- eller drogpåverkan räknas ej.) OM PATIENTEN ÄR FÖRBRYLLAD ELLER OSÄKER PÅ VAD DU MENAR MED ”UPPVARVAD” ELLER ”HÖG” ELLER ”HYPER”, FÖRTYDLIGA ENLIGT FÖLJANDE: Med ”uppvarvad” eller ”hög” eller ”hyper” menar jag: att vara upprymd, ha ökad energi eller aktivitet, behöva mindre sömn, ha snabb tankeverksamhet, vara full av idéer, ha ökad prestationsförmåga, motivation, kreativitet eller impulsivt beteende, ringa eller arbeta vet mycket eller spendera mer pengar.",
         "title": null,
         "rules": null,
-        "answer":
+         "answer":
         [
             "NEJ              JA"
         ]
@@ -1565,73 +1410,9 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " så aktiv eller full av energi eller så uppfylld av dig själv att du råkat illa ut, eller så att",
+        "text": null,
         "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " andra tyckt att du inte var dig lik? (Alkohol- eller drogpåverkan räknas ej.)",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OM PATIENTEN ÄR FÖRBRYLLAD ELLER OSÄKER PÅ VAD DU MENAR MED ”UPPVARVAD”",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ELLER ”HÖG” ELLER ”HYPER”, FÖRTYDLIGA ENLIGT FÖLJANDE: Med ”uppvarvad”",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " eller ”hög” eller ”hyper” menar jag: att vara upprymd, ha ökad energi eller aktivitet,",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " behöva mindre sömn, ha snabb tankeverksamhet, vara full av idéer, ha ökad",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " prestationsförmåga, motivation, kreativitet eller impulsivt beteende, ringa eller arbeta",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " överdrivet mycket eller spendera mer pengar.",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OM NEJ, KODA NEJ PÅ C1b; OM JA, FRÅGA:",
-        "title": null,
-        "rules": null,
+        "rules": " OM NEJ, KODA NEJ PÅ C1b; OM JA, FRÅGA:",
         "answer": null
     },
     {
@@ -1647,45 +1428,22 @@ DATA =
     },
     {
         "id": "C2",
-        "subid": "a",
-        "text": "Har du någon gång upplevt återkommande irritation under flera dagar så att du varit ",
+        "subid": "a", 
+        "text": "Har du någon gång upplevt återkommande irritation under flera dagar så att du varit med i gräl eller slagsmål eller skrikit åt personer utanför din egen familj? Har du eller andra märkt att du varit mer lättretlig eller överreagerat, jämfört med andra? Detta gäller även situationer där du tyckte att din reaktion varit berättigad.",
         "title": null,
         "rules": null,
-        "answer":
+         "answer":
         [
             "NEJ              JA"
         ]
     },
+    
     {
         "id": null,
         "subid": null,
-        "text": " med i gräl eller slagsmål eller skrikit åt personer utanför din egen familj? Har du eller",
+        "text": null,
         "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " andra märkt att du varit mer lättretlig eller överreagerat, jämfört med andra? Detta",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " gäller även situationer där du tyckte att din reaktion varit berättigad.",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OM NEJ, KODA NEJ PÅ C2b; OM JA, FRÅGA:",
-        "title": null,
-        "rules": null,
+        "rules": "OM NEJ, KODA NEJ PÅ C2b; OM JA, FRÅGA:",
         "answer": null
     },
     {
@@ -1699,14 +1457,7 @@ DATA =
             "NEJ              JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " =>",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": null,
@@ -1718,20 +1469,32 @@ DATA =
             "NEJ              JA"
         ]
     },
-    {
-        "id": "C3",
+
+        {
+        "id": null,
         "subid": null,
-        "text": " OM C1b ELLER C2b = JA: UNDERSÖK PÅGÅENDE EPISOD FÖRST OCH SEDAN DEN SVÅRASTE TIDIGARE EPISODEN, ANNARS",
+        "text": " =>", //Om nej - Nej i diagnosruta, sen nästa avsnitt
         "title": null,
         "rules": null,
+        "answer": null
+    },
+
+    {
+        "id": "C3",
+        "subid": " ",
+        "text": null,
+        "title": null,
+        "rules": " OM C1b ELLER C2b = JA: UNDERSÖK PÅGÅENDE EPISOD FÖRST OCH SEDAN DEN SVÅRASTE TIDIGARE EPISODEN, ANNARS",
+        "title": null,
         "answer": null
     },
     {
         "id": null,
         "subid": null,
-        "text": " OM C1b OCH C2b = NEJ: UNDERSÖK ENBART DEN SVÅRASTE TIDIGARE EPISODEN",
+        "text": null,        
+        "rules": " OM C1b OCH C2b = NEJ: UNDERSÖK ENBART DEN SVÅRASTE TIDIGARE EPISODEN",
         "title": null,
-        "rules": null,
+
         "answer": null
     },
     {
@@ -1769,23 +1532,22 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " Pågående episod Tidigare",
-        "title": null,
+        "text": null,
+        "title":"Pågående episod ", //Gör om till kolumn
         "rules": null,
         "answer": null
     },
     {
         "id": null,
         "subid": null,
-        "text": " episod",
-        "title": null,
-        "rules": null,
+        "text": null,
+        "title":"Tidigare episod", //Gör om till kolumn
         "answer": null
     },
     {
         "id": null,
         "subid": "a",
-        "text": "Upplevde du att du kunde göra sådant som andra inte kunde, eller att du var en särskilt ",
+        "text": "Upplevde du att du kunde göra sådant som andra inte kunde, eller att du var en särskilt viktig person? OM JA, BE OM EXEMPEL.", //Ev. kanske man vill spränga in en anteckningsruta för sånt här 
         "title": null,
         "rules": null,
         "answer":
@@ -1793,23 +1555,28 @@ DATA =
             "NEJ         JA"
         ]
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " viktig person? OM JA, BE OM EXEMPEL.",
-        "title": "L.",
-        "rules": null,
+        "text": " EXEMPLEN ÖVERENSSTÄMMER MED EN VANFÖRESTÄLLNING.",
+        "title": null,
+        "rules": null,  
         "answer": null
     },
-    {
+
+        {
         "id": null,
         "subid": null,
-        "text": " EXEMPLEN ÖVERENSSTÄMMER MED EN VANFÖRESTÄLLNING. Pågående episod [] Nej [] Ja",
-        "title": "G.          Pågående episod    [] Nej     [] Ja",
+        "text": "Pågående episod [] Nej [] Ja",
+        "title": null,
         "rules": null,
         "answer": null
     },
+
     {
+
+
         "id": null,
         "subid": null,
         "text": " Tidigare episod [] Nej [] Ja",
@@ -1842,7 +1609,7 @@ DATA =
     {
         "id": null,
         "subid": "d",
-        "text": "Märkte du att dina tankar gick väldigt fort eller löpte samman eller rusade eller rörde sig ",
+        "text": "Märkte du att dina tankar gick väldigt fort eller löpte samman eller rusade eller rörde sig väldigt snabbt från ett ämne till ett annat?",
         "title": null,
         "rules": null,
         "answer":
@@ -1850,22 +1617,7 @@ DATA =
             "NEJ         JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " väldigt snabbt från ett ämne till ett annat?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " Pågående episod Tidigare episod",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": "e",
@@ -1880,83 +1632,52 @@ DATA =
     {
         "id": null,
         "subid": "f",
-        "text": "Fick du en påtaglig ökning av intresse eller aktivitet, gällande arbete/studier, eller socialt ",
+        "text": "Fick du en påtaglig ökning av intresse eller aktivitet, gällande arbete/studier, eller socialt eller sexuellt, eller blev du fysiskt eller psykiskt rastlös? Denna ökning av aktiviteten kan vara med eller utan något syfte.",
         "title": null,
         "rules": null,
-        "answer":
+         "answer":
         [
             "NEJ     JA"
         ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " eller sexuellt, eller blev du fysiskt eller psykiskt rastlös?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " Denna ökning av aktiviteten kan vara med eller utan något syfte.",
-        "title": null,
-        "rules": null,
-        "answer": null
     },
     {
         "id": null,
         "subid": "g",
-        "text": "Var du så inriktad på att njuta av livet och ha roligt att du struntade i risker och ",
+        "text": "Var du så inriktad på att njuta av livet och ha roligt att du struntade i risker och konsekvenser (t.ex. överdriven shopping, vårdslös bilkörning eller ansvarslöst sexuellt beteende)?",
         "title": null,
         "rules": null,
-        "answer":
+         "answer":
         [
             "NEJ     JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " konsekvenser (t.ex. överdriven shopping, vårdslös bilkörning eller ansvarslöst sexuellt",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " beteende)?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": "C3",
-        "subid": null,
-        "text": " SUMMERING: RÖRANDE PÅGÅENDE EPISOD: ",
+        "subid": " SUMMERING: ",
+        "text": null,
         "title": null,
         "rules": null,
-        "answer":
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": "RÖRANDE PÅGÅENDE EPISOD: ",
+        "title": null,
+        "rules": " OM C1b ÄR NEJ, HAR 4 ELLER FLER C3-SVAR INKLUSIVE C3f KODATS JA?",
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " OM C1b ÄR JA, HAR 3 ELLER FLER C3-SVAR INKLUSIVE C3f KODATS JA?",
+         "answer":
         [
             "NEJ     JA"
         ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OM C1b ÄR NEJ, HAR 4 ELLER FLER C3-SVAR INKLUSIVE C3f KODATS JA?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OM C1b ÄR JA, HAR 3 ELLER FLER C3-SVAR INKLUSIVE C3f KODATS JA?",
-        "title": null,
-        "rules": null,
-        "answer": null
     },
     {
         "id": null,
@@ -1969,7 +1690,23 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " OM C1a ÄR NEJ, HAR 4 ELLER FLER C3-SVAR INKLUSIVE C3f KODATS JA?",
+        "text":  null,
+        "title": null,
+        "rules": " OM C1a ÄR NEJ, HAR 4 ELLER FLER C3-SVAR INKLUSIVE C3f KODATS JA?",
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text":  null,
+        "title": null,
+        "rules": " OM C1a ÄR JA, HAR 3 ELLER FLER C3-SVAR INKLUSIVE C3f KODATS JA?",
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": " KODA JA ENDAST OM OVANSTÅENDE 3 ELLER 4 SYMTOM INTRÄFFADE UNDER SAMMA TIDSPERIOD.",
         "title": null,
         "rules": null,
         "answer": null
@@ -1977,72 +1714,17 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " OM C1a ÄR JA, HAR 3 ELLER FLER C3-SVAR INKLUSIVE C3f KODATS JA?",
+        "text": " REGEL: UPPRYMT/EXPANSIVT HUMÖR KRÄVER BARA 3 C3-SYMTOM MEDAN ENBART RETLIGHET KRÄVER 4 C3-SYMTOM.",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " KODA JA ENDAST OM OVANSTÅENDE 3 ELLER 4 SYMTOM INTRÄFFADE UNDER",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " SAMMA TIDSPERIOD.",
-        "title": "D.",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " REGEL: UPPRYMT/EXPANSIVT HUMÖR KRÄVER BARA 3 C3-SYMTOM MEDAN ENBART",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " RETLIGHET KRÄVER 4 C3-SYMTOM.",
-        "title": "M.",
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": "C4",
-        "subid": null,
-        "text": " Vilken är den längsta tidsperiod som dessa symtom har hållit i sig (större delen av dagen,",
+        "subid": " ",
+        "text": " Vilken är den längsta tidsperiod som dessa symtom har hållit i sig (större delen av dagen, nästan varje dag)? FASTSTÄLL DENNA VARAKTIGHET UTIFRÅN ALLRA FÖRSTA BÖRJAN TILLS DESS SYMTOMEN UPPHÖRT HELT, INTE BARA KULMINATIONEN.",
         "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " nästan varje dag)?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " FASTSTÄLL DENNA VARAKTIGHET UTIFRÅN ALLRA FÖRSTA BÖRJAN TILLS DESS SYMTOMEN UPPHÖRT HELT,",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " INTE BARA KULMINATIONEN.",
-        "title": "N.",
         "rules": null,
         "answer": null
     },
@@ -2072,7 +1754,7 @@ DATA =
     },
     {
         "id": "C5",
-        "subid": null,
+        "subid": " ",
         "text": " Blev du intagen på sjukhus för dessa problem? ",
         "title": null,
         "rules": null,
@@ -2084,15 +1766,15 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " OM JA, RINGA IN JA VID MANISK EPISOD FÖR DEN TIDSPERIODEN OCH GÅ TILL C7.",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " OM JA, RINGA IN JA VID MANISK EPISOD FÖR DEN TIDSPERIODEN OCH GÅ TILL C7.",
         "answer": null
     },
     {
         "id": "C6",
-        "subid": null,
-        "text": " Orsakade dessa symtom påtagliga problem hemma, på arbetet, socialt, i relationer, i ",
+        "subid": " ",
+        "text": " Orsakade dessa symtom påtagliga problem hemma, på arbetet, socialt, i relationer, i dina studier eller på något annat viktigt sätt?",
         "title": null,
         "rules": null,
         "answer":
@@ -2100,18 +1782,11 @@ DATA =
             "NEJ     JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " dina studier eller på något annat viktigt sätt?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": "C7",
-        "subid": null,
-        "text": " Hängde symtomen samman med en tydlig förändring i sättet du fungerat hittills, och ",
+        "subid": " ",
+        "text": " Hängde symtomen samman med en tydlig förändring i sättet du fungerat hittills, och som var annorlunda från sättet du vanligtvis är på?",
         "title": null,
         "rules": null,
         "answer":
@@ -2119,10 +1794,10 @@ DATA =
             "NEJ     JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " som var annorlunda från sättet du vanligtvis är på?",
+     {
+        "id": " MANISK EPISOD",
+        "subid": " ",
+        "text": null,
         "title": null,
         "rules": null,
         "answer": null
@@ -2130,28 +1805,9 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " HAR C3-SUMMERING OCH C7 OCH (C4c ELLER C5 ELLER C6 ELLER NÅGOT PSYKOTISKT ",
+        "text": null,
         "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ                 JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " SYMTOM VID K1 TILL OCH MED K8) KODATS JA",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " MANISK EPISOD",
-        "title": null,
-        "rules": null,
+        "rules": " HAR C3-SUMMERING OCH C7 OCH (C4c ELLER C5 ELLER C6 ELLER NÅGOT PSYKOTISKT SYMTOM VID K1 TILL OCH MED K8) KODATS JA",
         "answer": null
     },
     {
@@ -2165,7 +1821,19 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?",
+        "text": null,
+        "title": null,
+        "rules": " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?",
+        "answer":
+        [
+            "NEJ                 JA"
+        ]
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": " ANGE OM EPISODEN ÄR PÅGÅENDE OCH/ELLER TIDIGARE.",
         "title": null,
         "rules": null,
         "answer": null
@@ -2187,89 +1855,69 @@ DATA =
         "answer": null
     },
     {
+        "id": "HYPOMAN EPISOD",
+        "subid": " ",
+        "text": null,
+        "title": null,
+        "rules": " HAR C3-SUMMERING KODATS JA OCH HAR C5 OCH C6 KODATS NEJ OCH C7 KODATS JA, HYPOMAN EPISOD OCH HAR ANTINGEN C4b ELLER C4c KODATS JA?",
+        "answer": null
+    },
+
+    {
         "id": null,
         "subid": null,
-        "text": " ANGE OM EPISODEN ÄR PÅGÅENDE OCH/ELLER TIDIGARE.",
-        "title": "E.",
-        "rules": null,
+        "text": null,
+        "title": null,
+        "rules": " OCH", 
         "answer": null
     },
     {
         "id": null,
         "subid": null,
-        "text": " HAR C3-SUMMERING KODATS JA OCH HAR C5 OCH C6 KODATS NEJ OCH C7 KODATS JA, HYPOMAN EPISOD",
+        "text":  null,
         "title": null,
-        "rules": null,
+        "rules": " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?",
         "answer": null
     },
     {
         "id": null,
         "subid": null,
-        "text": " OCH HAR ANTINGEN C4b ELLER C4c KODATS JA?",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " OCH",
         "answer": null
     },
     {
         "id": null,
         "subid": null,
-        "text": " OCH",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " HAR ALLA PSYKOTISKA SYMTOM VID K1 TILL OCH MED K8 KODATS NEJ?",
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OCH",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " HAR ALLA PSYKOTISKA SYMTOM VID K1 TILL OCH MED K8 KODATS NEJ? PÅGÅENDE [] NEJ",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " [] JA",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": null,
         "text": " ANGE OM EPISODEN ÄR PÅGÅENDE OCH/ELLER TIDIGARE.",
-        "title": "E.",
+        "title": null,
         "rules": null,
         "answer": null
     },
-    {
+
+        {
         "id": null,
         "subid": null,
-        "text": " OM JA FÖR PÅGÅENDE MANISK EPISOD, KODA NEJ FÖR PÅGÅENDE HYPOMAN EPISOD.",
-        "title": "D.",
+        "text": " PÅGÅENDE [] NEJ [] JA",
+        "title": null,
         "rules": null,
         "answer": null
     },
-    {
+
+        {
         "id": null,
         "subid": null,
-        "text": " TIDIGARE [] NEJ",
+        "text": " TIDIGARE [] NEJ [] JA [] EJ UNDERSÖKT",
         "title": null,
         "rules": null,
         "answer": null
@@ -2277,95 +1925,80 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " [] JA",
+        "text": null,
+        "title": null,
+        "rules": " OM JA FÖR PÅGÅENDE MANISK EPISOD, KODA NEJ FÖR PÅGÅENDE HYPOMAN EPISOD.", 
+        "answer": null
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " OM JA FÖR TIDIGARE MANISK EPISOD, KODA TIDIGARE HYPOMAN EPISOD SOM EJ UNDERSÖKT.",
+        "answer": null
+    },
+
+    {
+        "id": "HYPOMANA SYMTOM",
+        "subid": " ",
+        "text": null,
+        "title": null,
+        "rules": " HAR C3-SUMMERING OCH C4a KODATS JA OCH HAR C5 KODATS NEJ?", 
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null, 
+        "rules": " ANGE OM EPISODEN ÄR PÅGÅENDE OCH/ELLER TIDIGARE.",
+        "answer": null
+    },
+
+ 
+    {
+        "id": null,
+        "subid": null,
+        "text":  null, 
+        "title": null,
+        "rules": " OM JA FÖR PÅGÅENDE MANISK ELLER HYPOMAN EPISOD, KODA NEJ FÖR NUVARANDE HYPOMANA SYMTOM.",
+        "answer": null
+    },
+
+
+    {
+        "id": null,
+        "subid": null,
+        "text": null, 
+        "title": null,
+        "rules": " OM JA FÖR TIDIGARE MANISK EPISOD ELLER TIDIGARE HYPOMAN EPISOD, KODA TIDIGARE HYPOMANA SYMTOM SOM EJ UNDERSÖKTA",
+        "answer": null
+    },   
+
+    {
+        "id": null,
+        "subid": null,
+        "text": " PÅGÅENDE [] NEJ [] JA",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
+
+        {
         "id": null,
         "subid": null,
-        "text": " OM JA FÖR TIDIGARE MANISK EPISOD, KODA TIDIGARE HYPOMAN EPISOD SOM EJ [] EJ UNDERSÖKT",
+        "text": " TIDIGARE [] NEJ [] JA [] EJ UNDERSÖKT",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " UNDERSÖKT.",
-        "title": "T.",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " HAR C3-SUMMERING OCH C4a KODATS JA OCH HAR C5 KODATS NEJ? HYPOMANA SYMTOM",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ANGE OM EPISODEN ÄR PÅGÅENDE OCH/ELLER TIDIGARE. PÅGÅENDE [] NEJ",
-        "title": "E.                                            PÅGÅENDE   [] NEJ",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " [] JA",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OM JA FÖR PÅGÅENDE MANISK ELLER HYPOMAN EPISOD,",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " KODA NEJ FÖR NUVARANDE HYPOMANA SYMTOM.",
-        "title": "M.",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " TIDIGARE [] NEJ",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OM JA FÖR TIDIGARE MANISK EPISOD ELLER TIDIGARE HYPOMAN EPISOD, [] JA",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " KODA TIDIGARE HYPOMANA SYMTOM SOM EJ UNDERSÖKTA. [] EJ UNDERSÖKT",
-        "title": "A.                                                       [] EJ UNDERSÖKT",
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": "C8",
-        "subid": null,
-        "text": " a) OM MANISK EPISOD HAR FÖRELEGAT, ANTINGEN PÅGÅENDE ELLER TIDIGARE, ",
+        "subid": " ",
+        "text": " a) OM MANISK EPISOD HAR FÖRELEGAT, ANTINGEN PÅGÅENDE ELLER TIDIGARE, FRÅGA:",
         "title": null,
         "rules": null,
         "answer":
@@ -2373,14 +2006,7 @@ DATA =
             "NEJ            JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " FRÅGA:",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": null,

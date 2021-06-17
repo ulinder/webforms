@@ -18,7 +18,9 @@ window.addEventListener('load', function () {
 
     if(DATA[i].subid) target_div.append( new_el('h3', `${current_id} ${DATA[i].subid}`) )   
     if(DATA[i].title) target_div.append( new_el('h2', DATA[i].title) ) 
-    if(DATA[i].text)  target_div.append( new_el('p', DATA[i].text ) )  
+    if(DATA[i].text)  target_div.append( new_el('p', DATA[i].text ) ) 
+    if(DATA[i].rules)  target_div.append( new_el('h4', DATA[i].rules ) ) 
+      
     if(DATA[i].answer){ target_div.append( new_el('p','JA/NEJ') ) } // `<input type="radio" name="radio${i}"> NEJ <input type="radio" name="radio${i}"> JA` }
 
   }
