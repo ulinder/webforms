@@ -2001,32 +2001,13 @@ DATA =
         "text": " a) OM MANISK EPISOD HAR FÖRELEGAT, ANTINGEN PÅGÅENDE ELLER TIDIGARE, FRÅGA:",
         "title": null,
         "rules": null,
-        "answer":
-        [
-            "NEJ            JA"
-        ]
+        "answer": null
     },
 
     {
         "id": null,
         "subid": null,
-        "text": " Har du haft minst 2 av dessa (maniska) episoder som varat 7 dagar eller längre (C4c) i",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ditt liv (inklusive den pågående episoden om sådan föreligger)?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " b) OM MANISK ELLER HYPOMAN EPISOD HAR FÖRELEGAT, ANTINGEN PÅGÅENDE ELLER ",
+        "text": " Har du haft minst 2 av dessa (maniska) episoder som varat 7 dagar eller längre (C4c) i ditt liv (inklusive den pågående episoden om sådan föreligger)?",
         "title": null,
         "rules": null,
         "answer":
@@ -2034,57 +2015,50 @@ DATA =
             "NEJ            JA"
         ]
     },
+ 
     {
         "id": null,
         "subid": null,
-        "text": " TIDIGARE, FRÅGA:",
+        "text": " b) OM MANISK ELLER HYPOMAN EPISOD HAR FÖRELEGAT, ANTINGEN PÅGÅENDE ELLER TIDIGARE, FRÅGA:",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " Har du haft minst 2 av dessa (hypomana) episoder som varat 4 dagar eller mer (C4b) i",
+        "text": " Har du haft minst 2 av dessa (hypomana) episoder som varat 4 dagar eller mer (C4b) i ditt liv (inklusive den pågående episoden)?",
         "title": null,
         "rules": null,
-        "answer": null
+        "answer": 
+        [
+            "NEJ            JA"
+        ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ditt liv (inklusive den pågående episoden)?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+ 
     {
         "id": null,
         "subid": null,
         "text": " c) OM KATEGORIN TIDIGARE ”HYPOMANA SYMTOM” FÖRELIGGER, FRÅGA: ",
         "title": null,
         "rules": null,
+        "answer": null,
+
+        
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": " Har du haft de här hypomana symtomen som pågår under enbart 1 till 3 dagar (C4a) 2 eller fler gånger i ditt liv (inklusive den pågående episoden om sådan föreligger)?",
+        "title": null,
+        "rules": null,
         "answer":
         [
             "NEJ            JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " Har du haft de här hypomana symtomen som pågår under enbart 1 till 3 dagar (C4a) 2",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " eller fler gånger i ditt liv (inklusive den pågående episoden om sådan föreligger)?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+  
     {
         "id": null,
         "subid": null,
@@ -2112,7 +2086,7 @@ DATA =
     {
         "id": "D1",
         "subid": "a",
-        "text": "Har du, vid mer än ett enstaka tillfälle, upplevt perioder eller attacker av plötslig ängslan, ",
+        "text": "Har du, vid mer än ett enstaka tillfälle, upplevt perioder eller attacker av plötslig ängslan, stark rädsla, obehag eller olust även i situationer där de flesta andra inte skulle känna så?",
         "title": null,
         "rules": null,
         "answer":
@@ -2120,14 +2094,7 @@ DATA =
             "NEJ      JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " stark rädsla, obehag eller olust även i situationer där de flesta andra inte skulle känna så?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": null,
@@ -2157,8 +2124,8 @@ DATA =
     },
     {
         "id": "D2",
-        "subid": null,
-        "text": " Har det vid något tillfälle hänt att en sådan period eller attack börjat oväntat eller varit helt ",
+        "subid": " ",
+        "text": " Har det vid något tillfälle hänt att en sådan period eller attack börjat oväntat eller varit helt  oförutsägbar eller oprovocerad?",
         "title": null,
         "rules": null,
         "answer":
@@ -2166,75 +2133,28 @@ DATA =
             "NEJ      JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " oförutsägbar eller oprovocerad?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+  
     {
         "id": "D3",
-        "subid": null,
-        "text": " Har du någon gång haft en sådan attack och därefter gått en månad eller mer med ihållande ",
+        "subid": " ",
+        "text": " Har du någon gång haft en sådan attack och därefter gått en månad eller mer med ihållande rädsla för att få en ny attack eller oro över följderna av attacken? Eller gjorde du någon betydande förändring i ditt beteende på grund av attackerna (t.ex. som att undvika ovana situationer, eller undvika att lämna hemmet, eller att undvika att gå och handla ensam, eller att göra saker för att undvika en panikattack, eller att oftare söka läkarvård eller akut sjukvård)?",
         "title": null,
         "rules": null,
-        "answer":
+        "answer":   
         [
             "NEJ      JA"
         ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " rädsla för att få en ny attack eller oro över följderna av attacken? Eller gjorde du någon",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " betydande förändring i ditt beteende på grund av attackerna (t.ex. som att undvika ovana",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " situationer, eller undvika att lämna hemmet, eller att undvika att gå och handla ensam, eller",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " att göra saker för att undvika en panikattack, eller att oftare söka läkarvård eller akut",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " sjukvård)?",
-        "title": null,
-        "rules": null,
-        "answer": null
     },
     {
         "id": "D4",
-        "subid": null,
-        "text": " Under den svåraste attack du kan komma ihåg:",
+        "subid": " ",
+        "text": "Under den svåraste attack du kan komma ihåg:",
         "title": null,
         "rules": null,
         "answer": null
     },
     {
-        "id": null,
+        "id": " ",
         "subid": "a",
         "text": "Slog hjärtat ojämnt, alldeles för fort eller bankande? ",
         "title": null,
@@ -2245,7 +2165,7 @@ DATA =
         ]
     },
     {
-        "id": null,
+        "id": " ",
         "subid": "b",
         "text": "Blev händerna klibbiga eller svettades du? ",
         "title": null,
@@ -2346,7 +2266,7 @@ DATA =
     {
         "id": null,
         "subid": "k",
-        "text": "Kändes omgivningen konstig, overklig, lösryckt eller främmande, eller kändes det som om du ",
+        "text": "Kändes omgivningen konstig, overklig, lösryckt eller främmande, eller kändes det som om du var utanför eller helt eller delvis avskärmad från din kropp?",
         "title": null,
         "rules": null,
         "answer":
@@ -2354,14 +2274,7 @@ DATA =
             "NEJ      JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " var utanför eller helt eller delvis avskärmad från din kropp?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+  
     {
         "id": null,
         "subid": "l",
@@ -2375,8 +2288,8 @@ DATA =
     },
     {
         "id": null,
-        "subid": null,
-        "text": " m Var du rädd att du höll på att dö? ",
+        "subid": "m",
+        "text": "Var du rädd att du höll på att dö? ",
         "title": null,
         "rules": null,
         "answer":
@@ -2384,14 +2297,7 @@ DATA =
             "NEJ      JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " =>",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+ 
     {
         "id": "D5",
         "subid": null,
@@ -2403,26 +2309,22 @@ DATA =
             "NEJ      JA"
         ]
     },
+
+
     {
         "id": null,
         "subid": null,
-        "text": " PANIKSYNDROM",
+        "text": " PANIKSYNDROM NÅGONSIN",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " NÅGONSIN",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
+ 
     {
         "id": "D6",
         "subid": null,
-        "text": " Har du under den senaste månaden haft ihållande oro för att få ytterligare en attack, ",
+        "text": " Har du under den senaste månaden haft ihållande oro för att få ytterligare en attack eller oroat dig för följderna av attackerna, eller har du ändrat ditt beteende på något sätt på grund av attackerna?",
         "title": null,
         "rules": null,
         "answer":
@@ -2430,81 +2332,57 @@ DATA =
             "NEJ      JA"
         ]
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " PANIKSYNDROM",
+        "text": " PANIKSYNDROM PÅGÅENDE",
         "title": null,
         "rules": null,
         "answer": null
     },
+
+
     {
-        "id": null,
-        "subid": null,
-        "text": " eller oroat dig för följderna av attackerna, PÅGÅENDE",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " eller har du ändrat ditt beteende på något sätt på grund av attackerna?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " HAR ANTINGEN D5 ELLER D6 KODATS JA, ",
+        "id": "PANIKSYNDROM",
+        "subid": " ",
+        "text": " HAR ANTINGEN D5 ELLER D6 KODATS JA, OCH HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?",
         "title": null,
         "rules": null,
         "answer":
         [
             "NEJ            JA"
         ]
-    },
+
+    } ,   
+  
     {
         "id": null,
         "subid": null,
-        "text": " OCH PANIKSYNDROM",
+        "text": " NÅGONSIN []",
+        "title": null,
+        "rules": null,
+        "answer": null
+    }, 
+
+    {
+        "id": null,
+        "subid": null,
+        "text": "PÅGÅENDE []",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
-        "id": null,
-        "subid": null,
-        "text": " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA? NÅGONSIN []",
+        "id": "E. AGORAFOBI",
+        "subid": " ",
+        "text": null,
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " PÅGÅENDE []",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ANGE OM EPISODEN ÄR PÅGÅENDE OCH/ELLER TIDIGARE.",
-        "title": "E.",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " E. AGORAFOBI",
-        "title": "E. AGORAFOBI",
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": null,
@@ -2515,40 +2393,8 @@ DATA =
     },
     {
         "id": "E1",
-        "subid": null,
-        "text": " Känner du dig ängslig eller illa till mods på platser eller i situationer där, om du skulle få",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " en panikattack eller panikartade eller generande symtom, det kanske inte finns tillgång till",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " hjälp eller där det kan vara svårt att komma undan: till exempel i folksamlingar, köer, på",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " öppna platser eller broar, när du är hemifrån på egen hand eller är hemma ensam, eller =>",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " när du åker buss, tåg, bil eller allmänna färdmedel? ",
+        "subid": " ",
+        "text": " Känner du dig ängslig eller illa till mods på platser eller i situationer där, om du skulle få en panikattack eller panikartade eller generande symtom, det kanske inte finns tillgång till hjälp eller där det kan vara svårt att komma undan: till exempel i folksamlingar, köer, på öppna platser eller broar, när du är hemifrån på egen hand eller är hemma ensam, när du åker buss, tåg, bil eller allmänna färdmedel? =>",
         "title": null,
         "rules": null,
         "answer":
@@ -2556,25 +2402,28 @@ DATA =
             "NEJ         JA"
         ]
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " HAR 2 ELLER FLER E1-SITUATIONER KODATS JA? =>",
+        "text": " =>",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
-        "id": null,
-        "subid": null,
-        "text": " ",
+        "id": "E2",
+        "subid": " ",
+        "text": " HAR 2 ELLER FLER E1-SITUATIONER KODATS JA?",
         "title": null,
         "rules": null,
-        "answer":
+          "answer":
         [
             "NEJ         JA"
         ]
     },
+
     {
         "id": null,
         "subid": null,
@@ -2594,7 +2443,8 @@ DATA =
             "NEJ         JA"
         ]
     },
-    {
+
+       {
         "id": null,
         "subid": null,
         "text": " =>",
@@ -2602,24 +2452,17 @@ DATA =
         "rules": null,
         "answer": null
     },
+
     {
         "id": "E3",
-        "subid": null,
-        "text": " Är du så rädd för dessa situationer att du undviker dem eller lider dig igenom dem, eller ",
+        "subid": " ",
+        "text": " Är du så rädd för dessa situationer att du undviker dem eller lider dig igenom dem, eller behöver ha sällskap med dig för att kunna stå ut?",
         "title": null,
         "rules": null,
         "answer":
         [
             "NEJ         JA"
         ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " behöver ha sällskap med dig för att kunna stå ut?",
-        "title": null,
-        "rules": null,
-        "answer": null
     },
     {
         "id": null,
@@ -2629,10 +2472,12 @@ DATA =
         "rules": null,
         "answer": null
     },
+
+
     {
         "id": "E4",
-        "subid": null,
-        "text": " Är den här rädslan eller ångesten överdriven eller oproportionerlig i förhållande till hur ",
+        "subid": " ",
+        "text": " Är den här rädslan eller ångesten överdriven eller oproportionerlig i förhållande till hur farlig situationen faktiskt är?",
         "title": null,
         "rules": null,
         "answer":
@@ -2640,14 +2485,7 @@ DATA =
             "NEJ         JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " farlig situationen faktiskt är?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": null,
@@ -2658,8 +2496,8 @@ DATA =
     },
     {
         "id": "E5",
-        "subid": null,
-        "text": " Varade det här undvikande beteendet, eller den här rädslan eller ångesten i minst 6 ",
+        "subid": " ",
+        "text": " Varade det här undvikande beteendet, eller den här rädslan eller ångesten i minst 6 månader?",
         "title": null,
         "rules": null,
         "answer":
@@ -2667,14 +2505,7 @@ DATA =
             "NEJ         JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " månader?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": null,
@@ -2685,8 +2516,8 @@ DATA =
     },
     {
         "id": "E6",
-        "subid": null,
-        "text": " Orsakade dessa symtom påtagliga besvär eller problem hemma, på arbetet, i dina studier, ",
+        "subid": " ",
+        "text": " Orsakade dessa symtom påtagliga besvär eller problem hemma, på arbetet, i dina studier socialt eller på något annat viktigt sätt?",
         "title": null,
         "rules": null,
         "answer":
@@ -2694,17 +2525,10 @@ DATA =
             "NEJ         JA"
         ]
     },
+
     {
-        "id": null,
-        "subid": null,
-        "text": " socialt eller på något annat viktigt sätt?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
+        "id": " AGORAFOBI PÅGÅENDE",
+        "subid": " ",
         "text": " HAR E6 KODATS JA? ",
         "title": null,
         "rules": null,
@@ -2713,50 +2537,21 @@ DATA =
             "NEJ                JA"
         ]
     },
+
+
     {
-        "id": null,
-        "subid": null,
-        "text": " AGORAFOBI",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " PÅGÅENDE",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " F. SOCIAL ÅNGEST (Social fobi)",
-        "title": "F. SOCIAL ÅNGEST (Social fobi)",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
+        "id": "F. SOCIAL ÅNGEST (Social fobi)",
+        "subid": " ",
         "text": " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED NÄSTA AVSNITT)",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " =>",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+ 
     {
         "id": "F1",
         "subid": null,
-        "text": " Under den senaste månaden, har du haft ihållande rädsla och påtaglig ångest inför att ",
+        "text": " Under den senaste månaden, har du haft ihållande rädsla och påtaglig ångest inför att iakttas eller stå i centrum för uppmärksamheten eller för att bli förödmjukad, utskämd eller avvisad? Detta gäller sådant som att tala inför andra, att äta inför eller med andra, att skriva när någon ser på, prestera något inför andra eller att umgås med andra.",
         "title": null,
         "rules": null,
         "answer":
@@ -2764,38 +2559,17 @@ DATA =
             "NEJ                   JA"
         ]
     },
-    {
+
+       {
         "id": null,
         "subid": null,
-        "text": " iakttas eller stå i centrum för uppmärksamheten eller för att bli förödmjukad, utskämd",
+        "text": " =>",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " eller avvisad?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " Detta gäller sådant som att tala inför andra, att äta inför eller med andra, att skriva när",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " någon ser på, prestera något inför andra eller att umgås med andra.",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
+ 
     {
         "id": null,
         "subid": null,
@@ -2876,17 +2650,10 @@ DATA =
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " =>",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": "F2",
-        "subid": null,
+        "subid": " ",
         "text": " Framkallar sådana sociala situationer nästan alltid rädsla eller ångest? ",
         "title": null,
         "rules": null,
@@ -2905,8 +2672,8 @@ DATA =
     },
     {
         "id": "F3",
-        "subid": null,
-        "text": " Är du så rädd för dessa sociala situationer att du undviker dem eller lider dig ",
+        "subid": " ",
+        "text": " Är du så rädd för dessa sociala situationer att du undviker dem eller lider dig igenom dem, eller behöver ha sällskap med dig för att kunna stå ut?",
         "title": null,
         "rules": null,
         "answer":
@@ -2914,14 +2681,7 @@ DATA =
             "NEJ                   JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " igenom dem, eller behöver ha sällskap med dig för att kunna stå ut?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": null,
@@ -2932,8 +2692,8 @@ DATA =
     },
     {
         "id": "F4",
-        "subid": null,
-        "text": " Är den här sociala rädslan eller ångesten överdriven eller orimlig i de här sociala ",
+        "subid": " ",
+        "text": " Är den här sociala rädslan eller ångesten överdriven eller orimlig i de här sociala situationerna?",
         "title": null,
         "rules": null,
         "answer":
@@ -2941,14 +2701,7 @@ DATA =
             "NEJ                   JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " situationerna?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+  
     {
         "id": null,
         "subid": null,
@@ -2959,7 +2712,7 @@ DATA =
     },
     {
         "id": "F5",
-        "subid": null,
+        "subid": " ",
         "text": " Har det här sociala undvikandet, rädslan eller ångesten varat i minst 6 månader? ",
         "title": null,
         "rules": null,
@@ -2978,8 +2731,8 @@ DATA =
     },
     {
         "id": "F6",
-        "subid": null,
-        "text": " Orsakade dessa sociala rädslor påtagliga besvär eller påverkade de din förmåga ",
+        "subid":  " ",
+        "text": " Orsakade dessa sociala rädslor påtagliga besvär eller påverkade de din förmåga  att fungera på arbetet, i dina studier, socialt, i relationer, eller på något annat viktigt sätt?",
         "title": null,
         "rules": null,
         "answer":
@@ -2987,121 +2740,66 @@ DATA =
             "NEJ                   JA"
         ]
     },
+  
+    {
+        "id": "SOCIAL ÅNGEST (Social fobi) PÅGÅENDE",
+        "subid": " ",
+        "text": null,
+        "title": null,
+        "rules": " HAR F6 KODATS JA",
+         "answer": null,
+        
+    },
+
     {
         "id": null,
         "subid": null,
-        "text": " att fungera på arbetet, i dina studier, socialt, i relationer, eller på något annat",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " och",
         "answer": null
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " viktigt sätt?",
+        "text": null,
         "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ",
-        "title": null,
-        "rules": null,
-        "answer":
+        "rules": " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?",
+        "answer": 
         [
             "NEJ                           JA"
         ]
     },
+
+
     {
         "id": null,
         "subid": null,
-        "text": " HAR F6 KODATS JA SOCIAL ÅNGEST",
+        "text": " ANMÄRKNING TILL INTERVJUAREN: VÄNLIGEN ANGE OM PATIENTENS RÄDSLA ÄR BEGRÄNSAD TILL ATT TALA ELLER FRAMTRÄDA INFÖR ANDRA.",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " (Social fobi)",
+        "text": " BEGRÄNSAD TILL SOCIAL ÅNGEST ENDAST I SAMBAND MED FFRAMTRÄDANDEN []",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
-        "id": null,
-        "subid": null,
-        "text": " och",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " PÅGÅENDE",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " BEGRÄNSAD TILL SOCIAL ÅNGEST",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ENDAST I SAMBAND",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ANMÄRKNING TILL INTERVJUAREN: VÄNLIGEN ANGE OM PATIENTENS RÄDSLA ÄR MED FRAMTRÄDANDEN []",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " BEGRÄNSAD TILL ATT TALA ELLER FRAMTRÄDA INFÖR ANDRA.",
-        "title": "A.",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " G. TVÅNGSSYNDROM",
-        "title": "G. TVÅNGSSYNDROM",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
+        "id": " G. TVÅNGSSYNDROM",
+        "subid": " "
         "text": " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED NÄSTA AVSNITT)",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
         "id": "G1",
         "subid": "a",
