@@ -2547,10 +2547,10 @@ DATA =
         "rules": null,
         "answer": null
     },
- 
+
     {
         "id": "F1",
-        "subid": null,
+        "subid": " ",
         "text": " Under den senaste månaden, har du haft ihållande rädsla och påtaglig ångest inför att iakttas eller stå i centrum för uppmärksamheten eller för att bli förödmjukad, utskämd eller avvisad? Detta gäller sådant som att tala inför andra, att äta inför eller med andra, att skriva när någon ser på, prestera något inför andra eller att umgås med andra.",
         "title": null,
         "rules": null,
@@ -2569,7 +2569,7 @@ DATA =
         "answer": null
     },
 
- 
+
     {
         "id": null,
         "subid": null,
@@ -2793,7 +2793,7 @@ DATA =
 
     {
         "id": " G. TVÅNGSSYNDROM",
-        "subid": " "
+        "subid": " ",
         "text": " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED NÄSTA AVSNITT)",
         "title": null,
         "rules": null,
@@ -2803,133 +2803,57 @@ DATA =
     {
         "id": "G1",
         "subid": "a",
-        "text": "Under den senaste månaden, har du besvärats av återkommande tankar, impulser, eller ",
+        "text": "Under den senaste månaden, har du besvärats av återkommande tankar, impulser, eller inre bilder som var oönskade, motbjudande, olämpliga, påträngande eller obehagliga? (T.ex. en känsla av att vara smutsig, förorenad eller ha baciller, eller rädsla för att smitta HOPPA TILL andra, eller rädsla för att skada någon fast det stör eller besvärar dig, eller rädsla för att G3a reagera på någon impuls, eller rädsla eller vidskeplighet för att ha ansvar för sådant som blir fel, eller sexfixering (tankar, bilder eller impulser), eller religiösa tvångstankar.)",
         "title": null,
         "rules": null,
-        "answer":
+         "answer":
         [
             "NEJ          JA"
         ]
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " inre bilder som var oönskade, motbjudande, olämpliga, påträngande eller obehagliga? ",
+        "text": "=> HOPPA TILL G3a",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " (T.ex. en känsla av att vara smutsig, förorenad eller ha baciller, eller rädsla för att smitta HOPPA TILL",
-        "title": "T.ex. en känsla av att vara smutsig, förorenad eller ha baciller, eller rädsla för att smitta       HOPPA TILL",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " andra, eller rädsla för att skada någon fast det stör eller besvärar dig, eller rädsla för att G3a",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " reagera på någon impuls, eller rädsla eller vidskeplighet för att ha ansvar för sådant som",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " blir fel, eller sexfixering (tankar, bilder eller impulser), eller religiösa tvångstankar.)",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": "G1",
         "subid": "b",
-        "text": "Under den senaste månaden, har du försökt att undertrycka de här tankarna, impulserna ",
+        "text": "Under den senaste månaden, har du försökt att undertrycka de här tankarna, impulserna eller bilderna, eller att neutralisera eller förminska dem med hjälp av någon annan tanke eller handling?",
         "title": null,
         "rules": null,
-        "answer":
+         "answer":
         [
             "NEJ          JA"
         ]
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " eller bilderna, eller att neutralisera eller förminska dem med hjälp av någon annan tanke ",
+        "text": "=> HOPPA TILL G3a",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " eller handling? HOPPA TILL",
+        "text": " (TA INTE MED SÅDANT SOM HELT ENKELT ÄR ÖVERDRIVEN ORO FÖR VERKLIGA PROBLEM.INKLUDERA INTE OBSESSIONER SOM ÄR KLART RELATERAT TILL SAMLARBETEENDE, HÅRPLOCKNING, HUDPLOCKNING, DYSMORFOFOBI, ÄTSTÖRNINGAR, SEXUELLA AVVIKELSER SPELMANI ELLER ALKOHOL- ELLER DROGMISSBRUK. DETTA EFTERSOM PATIENTEN KAN HA NÖJE AV AKTIVITETEN OCH VILJA MOTSTÅ DEN ENBART PÅ GRUND AV DESS NEGATIVA KONSEKVENSER.)",
         "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " G3a",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " (TA INTE MED SÅDANT SOM HELT ENKELT ÄR ÖVERDRIVEN ORO FÖR VERKLIGA PROBLEM.",
-        "title": "M.",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " INKLUDERA INTE OBSESSIONER SOM ÄR KLART RELATERAT TILL SAMLARBETEENDE,",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " HÅRPLOCKNING, HUDPLOCKNING, DYSMORFOFOBI, ÄTSTÖRNINGAR, SEXUELLA AVVIKELSER,",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " SPELMANI ELLER ALKOHOL- ELLER DROGMISSBRUK. DETTA EFTERSOM PATIENTEN KAN HA NÖJE",
-        "title": "K. DETTA EFTERSOM PATIENTEN KAN HA NÖJE",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " AV AKTIVITETEN OCH VILJA MOTSTÅ DEN ENBART PÅ GRUND AV DESS NEGATIVA KONSEKVENSER.)",
-        "title": "R.)",
         "rules": null,
         "answer": null
     },
     {
         "id": "G2",
-        "subid": null,
-        "text": " Dök de upp i ditt medvetande om och om igen trots att du försökte strunta i dem eller bli ",
+        "subid": " ",
+        "text": "Dök de upp i ditt medvetande om och om igen trots att du försökte strunta i dem eller bli av med dem?",
         "title": null,
         "rules": null,
         "answer":
@@ -2940,15 +2864,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " av med dem?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " obsessioner",
+        "text": "-> Obsessioner",
         "title": null,
         "rules": null,
         "answer": null
@@ -2956,7 +2872,7 @@ DATA =
     {
         "id": "G3",
         "subid": "a",
-        "text": "Under den senaste månaden, har du – på grund av en fixering eller för att följa en strikt ",
+        "text": "Under den senaste månaden, har du – på grund av en fixering eller för att följa en strikt regel – känt dig tvungen att göra något gång på gång, som att tvätta eller städa överdrivet mycket, att räkna eller kontrollera saker om och om igen, eller att upprepa eller arrangera saker, eller andra vidskepliga ritualer?",
         "title": null,
         "rules": null,
         "answer":
@@ -2964,34 +2880,11 @@ DATA =
             "NEJ          JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " regel – känt dig tvungen att göra något gång på gång, som att tvätta eller städa",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " överdrivet mycket, att räkna eller kontrollera saker om och om igen, eller att upprepa",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " eller arrangera saker, eller andra vidskepliga ritualer?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": "G3",
         "subid": "b",
-        "text": "Utförs de här ritualerna för att förebygga eller minska ångest eller obehag eller för att ",
+        "text": "Utförs de här ritualerna för att förebygga eller minska ångest eller obehag eller för att hindra något dåligt från att hända och är de överdrivna eller orimliga?",
         "title": null,
         "rules": null,
         "answer":
@@ -2999,22 +2892,28 @@ DATA =
             "NEJ          JA"
         ]
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " hindra något dåligt från att hända och är de överdrivna eller orimliga?",
+        "text": "=> Tvång",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " tvång",
+        "text": null,
         "title": null,
-        "rules": null,
-        "answer": null
+        "rules": "HAR (G1a OCH G1b OCH G2) ELLER (G3a OCH G3b) KODATS JA? ",
+        "answer":
+        [
+            "NEJ          JA"
+        ]
     },
+
     {
         "id": null,
         "subid": null,
@@ -3023,21 +2922,53 @@ DATA =
         "rules": null,
         "answer": null
     },
+
+    {
+        "id": "G4",
+        "subid": " ",
+        "text": " Under den senaste månaden, har dessa tvångstankar och/eller tvångshandlingar orsakat påtagliga besvär eller stört din förmåga att fungera hemma, på arbetet, i dina studier, socialt eller i relationer, eller på något annat viktigt sätt, eller tog de mer än en timme om dagen i anspråk?",
+        "title": null,
+        "rules": null,
+         "answer":
+        [
+            "NEJ                     JA"
+        ]
+    },
+
     {
         "id": null,
         "subid": null,
-        "text": " HAR (G1a OCH G1b OCH G2) ELLER (G3a OCH G3b) KODATS JA? ",
+        "text": " och",
         "title": null,
         "rules": null,
-        "answer":
+        "answer": null
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA? ",
+        "title": null,
+        "rules": null,
+          "answer":
         [
-            "NEJ          JA"
+            "NEJ                     JA"
         ]
     },
+
     {
-        "id": "G4",
+        "id": null,
         "subid": null,
-        "text": " Under den senaste månaden, har dessa tvångstankar och/eller tvångshandlingar ",
+        "text": " (UNDERSÖK OM DET FINNS TVÅNGSSYMTOM SOM UPPKOMMIT INOM TRE VECKOR EFTER EN INFEKTION) ANGE GRADEN AV INSIKT OCH OM EPISODEN ÄR TICS-RELATERAD.",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+
+    {
+        "id": "TVÅNGSSYNDROM PÅGÅENDE",
+        "subid": " ",
+        "text": null,
         "title": null,
         "rules": null,
         "answer":
@@ -3045,30 +2976,7 @@ DATA =
             "NEJ                     JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " orsakat påtagliga besvär eller stört din förmåga att fungera hemma, på arbetet, i dina",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " studier, socialt eller i relationer, eller på något annat viktigt sätt, eller tog de mer än en TVÅNGSSYNDROM",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " timme om dagen i anspråk? PÅGÅENDE",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": null,
@@ -3080,134 +2988,79 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " och",
+        "text": "GOD ELLER HYGGLIG []",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
+
+     {
         "id": null,
         "subid": null,
-        "text": " GOD ELLER HYGGLIG []",
+        "text": "BRISTANDE []",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
+
+      {
         "id": null,
         "subid": null,
-        "text": " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA? BRISTANDE []",
+        "text": "INGEN []",
         "title": null,
         "rules": null,
         "answer": null
     },
+
+
     {
         "id": null,
         "subid": null,
-        "text": " (UNDERSÖK OM DET FINNS TVÅNGSSYMTOM SOM UPPKOMMIT INOM TRE VECKOR INGEN []",
+        "text": "VANFÖRESTÄLLNINGAR []",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
+
+        {
         "id": null,
         "subid": null,
-        "text": " EFTER EN INFEKTION) VANFÖRESTÄLLNINGAR []",
+        "text": "TICS-RELATERAD []",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
-        "id": null,
-        "subid": null,
-        "text": " ANGE GRADEN AV INSIKT OCH OM EPISODEN ÄR TICS-RELATERAD. TICS-RELATERAD []",
-        "title": "D.                                          TICS-RELATERAD                []",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " H. POSTTRAUMATISKT STRESSYNDROM (PTSD)",
-        "title": "H. POSTTRAUMATISKT STRESSYNDROM (PTSD)",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
+        "id": " H. POSTTRAUMATISKT STRESSYNDROM (PTSD)",
+        "subid": " ",
         "text": " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED NÄSTA AVSNITT)",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " =>",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
+ 
     {
         "id": "H1",
-        "subid": null,
-        "text": " Har du någonsin varit med om, eller varit vittne till eller varit tvungen att hantera en ",
+        "subid": " ",
+        "text": " Har du någonsin varit med om, eller varit vittne till eller varit tvungen att hantera en extremt traumatisk händelse som inneburit dödsfall, dödshot, allvarlig skada eller sexuellt våld mot dig eller någon annan?",
         "title": null,
         "rules": null,
-        "answer":
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": " EXEMPEL PÅ TRAUMATISKA HÄNDELSER: ALLVARLIGA OLYCKSHÄNDELSER, SEXUELL ELLER FYSISK MISSHANDEL, TERRORISTATTACK, GISSLANTAGANDE, KIDNAPPNING ELDSVÅDA, UPPTÄCKA ETT LIK, KRIG ELLER NATURKATASTROF, BEVITTNA ANHÖRIGS VÅLDSAMMA ELLER PLÖTSLIGA DÖD, ELLER EN LIVSHOTANDE SJUKDOM.",
+        "title": null, 
+        "rules": null,
+         "answer":
         [
             "NEJ   JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " extremt traumatisk händelse som inneburit dödsfall, dödshot, allvarlig skada eller",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " sexuellt våld mot dig eller någon annan?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " EXEMPEL PÅ TRAUMATISKA HÄNDELSER: ALLVARLIGA OLYCKSHÄNDELSER, SEXUELL",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ELLER FYSISK MISSHANDEL, TERRORISTATTACK, GISSLANTAGANDE, KIDNAPPNING,",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ELDSVÅDA, UPPTÄCKA ETT LIK, KRIG ELLER NATURKATASTROF, BEVITTNA ANHÖRIGS",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " VÅLDSAMMA ELLER PLÖTSLIGA DÖD, ELLER EN LIVSHOTANDE SJUKDOM.",
-        "title": "M.",
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": null,
@@ -3216,10 +3069,12 @@ DATA =
         "rules": null,
         "answer": null
     },
+
+ 
     {
         "id": "H2",
-        "subid": null,
-        "text": " Efter den traumatiska händelsen, har du upprepade gånger återupplevt denna händelse ",
+        "subid": " ",
+        "text": " Efter den traumatiska händelsen, har du upprepade gånger återupplevt denna händelse på ett ofrivilligt och psykiskt obehagligt sätt (som i återkommande drömmar relaterade till händelsen, påträngande minnesbilder eller flashbacks som om det hände en gång till) eller har du fått intensiva fysiska eller psykiska reaktioner när du påmints om händelsen eller utsatts för en liknande händelse?",
         "title": null,
         "rules": null,
         "answer":
@@ -3227,38 +3082,16 @@ DATA =
             "NEJ   JA"
         ]
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " på ett ofrivilligt och psykiskt obehagligt sätt (som i återkommande drömmar relaterade",
+        "text": " =>",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " till händelsen, påträngande minnesbilder eller flashbacks som om det hände en gång till)",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " eller har du fått intensiva fysiska eller psykiska reaktioner när du påmints om händelsen",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " eller utsatts för en liknande händelse?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": "H3",
         "subid": null,
@@ -3270,7 +3103,7 @@ DATA =
     {
         "id": null,
         "subid": "a",
-        "text": "Har du ansträngt dig för att undvika att tänka på eller minnas plågsamma detaljer eller ",
+        "text": "Har du ansträngt dig för att undvika att tänka på eller minnas plågsamma detaljer eller känslor som är relaterade till händelsen?",
         "title": null,
         "rules": null,
         "answer":
@@ -3278,18 +3111,11 @@ DATA =
             "NEJ   JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " känslor som är relaterade till händelsen?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": "b",
-        "text": "Har du ansträngt dig för att undvika människor, samtal, platser, situationer, aktiviteter ",
+        "text": "Har du ansträngt dig för att undvika människor, samtal, platser, situationer, aktiviteter eller saker som väcker obehagliga minnen av händelsen?",
         "title": null,
         "rules": null,
         "answer":
@@ -3297,15 +3123,21 @@ DATA =
             "NEJ   JA"
         ]
     },
+
+
     {
         "id": null,
         "subid": null,
-        "text": " eller saker som väcker obehagliga minnen av händelsen?",
+        "text": null,
         "title": null,
-        "rules": null,
-        "answer": null
+        "rules": " HAR 1 ELLER FLERA H3-SVAR KODATS JA? ",
+        "answer":
+        [
+            "NEJ   JA"
+        ]
     },
-    {
+
+        {
         "id": null,
         "subid": null,
         "text": " =>",
@@ -3313,17 +3145,7 @@ DATA =
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " HAR 1 ELLER FLERA H3-SVAR KODATS JA? ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ   JA"
-        ]
-    },
+
     {
         "id": "H4",
         "subid": null,
@@ -3335,7 +3157,7 @@ DATA =
     {
         "id": null,
         "subid": "a",
-        "text": "Har du haft svårigheter att minnas någon väsentlig del av traumat? (men inte p.g.a. eller ",
+        "text": "Har du haft svårigheter att minnas någon väsentlig del av traumat? (men inte p.g.a. eller relaterat till huvudskada, alkohol eller droger).",
         "title": null,
         "rules": null,
         "answer":
@@ -3343,18 +3165,11 @@ DATA =
             "NEJ   JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " relaterat till huvudskada, alkohol eller droger).",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": "b",
-        "text": "Har du haft ihållande och orimligt negativa tankar om dig själv, om andra eller om ",
+        "text": "Har du haft ihållande och orimligt negativa tankar om dig själv, om andra eller om världen?",
         "title": null,
         "rules": null,
         "answer":
@@ -3362,18 +3177,11 @@ DATA =
             "NEJ   JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " världen?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": "c",
-        "text": "Har du ständigt skuldbelagt dig själv eller andra på ett orimligt sätt för den traumatiska ",
+        "text": "Har du ständigt skuldbelagt dig själv eller andra på ett orimligt sätt för den traumatiska händelsen?",
         "title": null,
         "rules": null,
         "answer":
@@ -3381,14 +3189,7 @@ DATA =
             "NEJ   JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " händelsen?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": "d",
@@ -3400,10 +3201,11 @@ DATA =
             "NEJ   JA"
         ]
     },
+
     {
         "id": null,
         "subid": "e",
-        "text": "Har ditt intresse för att delta i aktiviteter som tidigare var betydelsefulla för dig minskat ",
+        "text": "Har ditt intresse för att delta i aktiviteter som tidigare var betydelsefulla för dig minskat betydligt?",
         "title": null,
         "rules": null,
         "answer":
@@ -3411,22 +3213,7 @@ DATA =
             "NEJ   JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " betydligt?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": "f",
@@ -3441,7 +3228,7 @@ DATA =
     {
         "id": null,
         "subid": "g",
-        "text": "Har du varit oförmögen att uppleva positiva känslor (såsom lycka, tillfredsställelse eller ",
+        "text": "Har du varit oförmögen att uppleva positiva känslor (såsom lycka, tillfredsställelse eller kärlek)?",
         "title": null,
         "rules": null,
         "answer":
@@ -3449,14 +3236,20 @@ DATA =
             "NEJ   JA"
         ]
     },
+
+
     {
         "id": null,
         "subid": null,
-        "text": " kärlek)?",
+        "text": null,
         "title": null,
-        "rules": null,
-        "answer": null
+        "rules": " HAR 2 ELLER FLERA H4-SVAR KODATS JA? ", 
+        "answer":
+        [
+            "NEJ   JA"
+        ]
     },
+
     {
         "id": null,
         "subid": null,
@@ -3465,17 +3258,7 @@ DATA =
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " HAR 2 ELLER FLERA H4-SVAR KODATS JA? ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ   JA"
-        ]
-    },
+
     {
         "id": "H5",
         "subid": null,
@@ -3487,7 +3270,7 @@ DATA =
     {
         "id": null,
         "subid": "a",
-        "text": "Har du varit särskilt irritabel eller fått vredesutbrott redan vid liten eller obefintlig ",
+        "text": "Har du varit särskilt irritabel eller fått vredesutbrott redan vid liten eller obefintlig provokation?",
         "title": null,
         "rules": null,
         "answer":
@@ -3495,14 +3278,7 @@ DATA =
             "NEJ   JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " provokation?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": "b",
@@ -3569,9 +3345,9 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " HAR 2 ELLER FLER H5-SVAR KODATS JA? ",
+        "text":  null,
         "title": null,
-        "rules": null,
+        "rules": " HAR 2 ELLER FLER H5-SVAR KODATS JA? ",
         "answer":
         [
             "NEJ          JA"
@@ -3587,8 +3363,8 @@ DATA =
     },
     {
         "id": "H6",
-        "subid": null,
-        "text": " Började alla de här problemen efter den traumatiska händelsen och pågick de i mer än ",
+        "subid": " ",
+        "text": " Började alla de här problemen efter den traumatiska händelsen och pågick de i mer än en månad?",
         "title": null,
         "rules": null,
         "answer":
@@ -3596,49 +3372,17 @@ DATA =
             "NEJ          JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " en månad?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": "H7",
-        "subid": null,
-        "text": " Under den senaste månaden, har dessa problem orsakat påtagliga besvär eller stört din ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ                 JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " förmåga att fungera hemma, på arbetet, i dina studier, socialt, i dina relationer, eller på",
+        "subid": " ",
+        "text": " Under den senaste månaden, har dessa problem orsakat påtagliga besvär eller stört din förmåga att fungera hemma, på arbetet, i dina studier, socialt, i dina relationer, eller på något annat viktigt sätt? ",
         "title": null,
         "rules": null,
         "answer": null
+    
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " något annat viktigt sätt? POSTTRAUMATISKT",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " STRESSYNDROM (PTSD)",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": null,
@@ -3647,22 +3391,37 @@ DATA =
         "rules": null,
         "answer": null
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " PÅGÅENDE",
+        "text": null,
+        "title": null,
+        "rules": "HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?",
+        "answer":
+        [
+            "NEJ                 JA"
+        ]
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": " ANGE OM DEPERSONALISATION, DEREALISATION ELLER EN FÖRDRÖJD DEBUT ÄR EN DEL AV TILLSTÅNDET.", 
         "title": null,
         "rules": null,
         "answer": null
     },
+    
     {
-        "id": null,
-        "subid": null,
-        "text": " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?",
+        "id": "POSTTRAUMATISKT STRESSYNDROM (PTSD) PÅGÅENDE",
+        "subid": " ",
+        "text": " ",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
         "id": null,
         "subid": null,
@@ -3671,10 +3430,20 @@ DATA =
         "rules": null,
         "answer": null
     },
+ 
     {
         "id": null,
         "subid": null,
-        "text": " ANGE OM DEPERSONALISATION, DEREALISATION ELLER EN FÖRDRÖJD DEBUT ÄR EN DEPERSONALISATION []",
+        "text":  "DEPERSONALISATION []",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text":  "DEREALISATION []",
         "title": null,
         "rules": null,
         "answer": null
@@ -3682,35 +3451,34 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " DEL AV TILLSTÅNDET. DEREALISATION []",
-        "title": "T.                                                                           DEREALISATION        []",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " FÖRDRÖJD DEBUT []",
+        "text":  "FÖRDRÖJD DEBUT []",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
-        "id": null,
-        "subid": null,
-        "text": " I. ALKOHOLBRUKSYNDROM",
-        "title": "I. ALKOHOLBRUKSYNDROM",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
+        "id": " I. ALKOHOLBRUKSYNDROM",
+        "subid": " ",
         "text": " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED NÄSTA AVSNITT)",
         "title": null,
         "rules": null,
         "answer": null
     },
+
+
+    {
+        "id": "I1",
+        "subid": null,
+        "text": " Under de senaste 12 månaderna, har du druckit 3 eller fler glas alkoholhaltig dryck inom  en 3-timmarsperiod vid 3 eller fler tillfällen?",
+        "title": null,
+        "rules": null,
+         "answer":
+        [
+            "NEJ     JA"
+        ]
+    },
+
     {
         "id": null,
         "subid": null,
@@ -3719,25 +3487,7 @@ DATA =
         "rules": null,
         "answer": null
     },
-    {
-        "id": "I1",
-        "subid": null,
-        "text": " Under de senaste 12 månaderna, har du druckit 3 eller fler glas alkoholhaltig dryck inom ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ     JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " en 3-timmarsperiod vid 3 eller fler tillfällen?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": "I2",
         "subid": null,
@@ -3763,10 +3513,7 @@ DATA =
         "text": "Har du upprepade gånger velat minska eller kontrollera din användning av alkohol? ",
         "title": null,
         "rules": null,
-        "answer":
-        [
-            "NEJ     JA"
-        ]
+        "answer": null
     },
     {
         "id": null,
@@ -3780,14 +3527,6 @@ DATA =
         "id": null,
         "subid": null,
         "text": " VID JA PÅ NÅGON AV DESSA FRÅGOR, KODA JA.",
-        "title": "A.",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": "c",
-        "text": "De dagar du drack, lade du ner avsevärd tid på att skaffa alkohol, dricka eller att ",
         "title": null,
         "rules": null,
         "answer":
@@ -3797,12 +3536,16 @@ DATA =
     },
     {
         "id": null,
-        "subid": null,
-        "text": " återhämta dig från alkoholeffekterna?",
+        "subid": "c",
+        "text": "De dagar du drack, lade du ner avsevärd tid på att skaffa alkohol, dricka eller att återhämta dig från alkoholeffekterna?",
         "title": null,
         "rules": null,
-        "answer": null
+        "answer":
+        [
+            "NEJ     JA"
+        ]
     },
+
     {
         "id": null,
         "subid": "d",
@@ -3817,7 +3560,7 @@ DATA =
     {
         "id": null,
         "subid": "e",
-        "text": "Ägnade du mindre tid åt att sköta dina plikter på arbetet, i dina studier eller hemma på ",
+        "text": "Ägnade du mindre tid åt att sköta dina plikter på arbetet, i dina studier eller hemma på grund av ditt återkommande drickande?",
         "title": null,
         "rules": null,
         "answer":
@@ -3825,18 +3568,11 @@ DATA =
             "NEJ     JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " grund av ditt återkommande drickande?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": "f",
-        "text": "Om ditt drickande ledde till problem med din familj eller andra människor, fortsatte du ",
+        "text": "Om ditt drickande ledde till problem med din familj eller andra människor, fortsatte du att dricka ändå?",
         "title": null,
         "rules": null,
         "answer":
@@ -3844,18 +3580,11 @@ DATA =
             "NEJ     JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " att dricka ändå?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": "g",
-        "text": "Har du varit alkoholpåverkad mer än en gång i någon situation där du eller andra varit ",
+        "text": "Har du varit alkoholpåverkad mer än en gång i någon situation där du eller andra varit  utsatt för en fysisk risk, exempelvis när du kört bil, motorcykel, båt, hanterat maskiner etc.?",
         "title": null,
         "rules": null,
         "answer":
@@ -3863,26 +3592,11 @@ DATA =
             "NEJ     JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " utsatt för en fysisk risk, exempelvis när du kört bil, motorcykel, båt, hanterat maskiner",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " etc.?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": "h",
-        "text": "Fortsatte du använda alkohol, även fast det var tydligt att alkoholen orsakade eller ",
+        "text": "Fortsatte du använda alkohol, även fast det var tydligt att alkoholen orsakade eller förvärrade psykiska eller fysiska problem?",
         "title": null,
         "rules": null,
         "answer":
@@ -3890,18 +3604,11 @@ DATA =
             "NEJ     JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " förvärrade psykiska eller fysiska problem?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": "i",
-        "text": "Minskade du på, eller slutade helt med, viktiga arbetsuppgifter, sociala aktiviteter eller ",
+        "text": "Minskade du på, eller slutade helt med, viktiga arbetsuppgifter, sociala aktiviteter eller fritidsnöjen på grund av ditt drickande?",
         "title": null,
         "rules": null,
         "answer":
@@ -3909,20 +3616,123 @@ DATA =
             "NEJ     JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " fritidsnöjen på grund av ditt drickande?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": "j",
-        "text": "Behövde du dricka mycket mer för att få samma effekt som du fick när du först började ",
+        "text": "Behövde du dricka mycket mer för att få samma effekt som du fick när du först började dricka alkohol eller fick du mycket mindre effekt med fortsatt användning av samma mängd?",
         "title": null,
         "rules": null,
+        "answer":
+        [
+            "NEJ     JA"
+        ]
+    },
+   
+
+    {
+        "id": "k1",
+        "subid": " ",
+        "text": " När du minskade på intensivt eller varaktigt drickande, fick du då något av följande: ",
+        "title": null,
+        "rules": null,
+        "answer": null
+
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": "1. ökad svettning eller förhöjd puls []",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": "2. skakiga händer eller ”dille” []",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": "3. svårt att sova []",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": "4 illamående eller kräkningar []",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": "5. hörde eller såg du saker som andra människor inte kunde höra eller se, eller hade du oförklarliga förnimmelser i huden []",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+  
+    {
+        "id": null,
+        "subid": null,
+        "text": "6. oro []",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": "7. ångest []",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": "8.krampanfall []",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": "VID JA PÅ 2 ELLER FLER AV DE OVANSTÅENDE 8, KODA k1 SOM JA.",
+         "answer":
+        [
+            "NEJ     JA"
+        ]
+    },
+    {
+        "id": "k2",
+        "subid": null,
+        "text": "Drack du alkohol för att minska eller undvika abstinenssymtom eller för att undvika baksmälla?",
+        "title": null,
+        "rules": null,
+        "answer":
+        [
+            "NEJ     JA"
+        ]
+    },
+  
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": "k-SUMMERING: OM JA PÅ k1 ELLER k2, KODA JA ",
         "answer":
         [
             "NEJ     JA"
@@ -3931,205 +3741,45 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " dricka alkohol eller fick du mycket mindre effekt med fortsatt användning av samma",
+        "text": null,
         "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " mängd?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " k1 När du minskade på intensivt eller varaktigt drickande, fick du då något av följande: ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ     JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " 1. ökad svettning eller förhöjd puls []",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " 2. skakiga händer eller ”dille” []",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " 3. svårt att sova []",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " 4. illamående eller kräkningar []",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " 5. hörde eller såg du saker som andra människor inte kunde höra",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " eller se, eller hade du oförklarliga förnimmelser i huden []",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " 6. oro []",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " 7. ångest []",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " 8. krampanfall []",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " VID JA PÅ 2 ELLER FLER AV DE OVANSTÅENDE 8, KODA k1 SOM JA.",
-        "title": "A.",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " k2 Drack du alkohol för att minska eller undvika abstinenssymtom eller för att undvika ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ     JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " baksmälla?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " k-SUMMERING: OM JA PÅ k1 ELLER k2, KODA JA ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ     JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " HAR 2 ELLER FLER I2-SVAR FR.O.M. I2a T.O.M. I2j OCH I2k-SUMMERING KODATS ",
-        "title": "R.O.M. I",
-        "rules": null,
+        "rules": " HAR 2 ELLER FLER I2-SVAR FR.O.M. I2a T.O.M. I2j OCH I2k-SUMMERING KODATS JA?",
         "answer":
         [
             "NEJ                 JA"
         ]
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " JA?",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": "DEFINITIONER FÖR ALKOHOLBRUKSYNDROM:",
         "answer": null
     },
     {
         "id": null,
         "subid": null,
-        "text": " ALKOHOLBRUKSYNDROM",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": "LINDRIG = 2–3 AV DE 12 SYMTOMEN",
         "answer": null
     },
     {
         "id": null,
         "subid": null,
-        "text": " GÅNGNA 12 MÅNADERNA",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": "MEDELSVÅR = 4–5 AV DE 12 SYMTOMEN",
         "answer": null
     },
     {
         "id": null,
         "subid": null,
-        "text": " DEFINITIONER FÖR ALKOHOLBRUKSYNDROM: ANGE OM:",
+        "text": null,
         "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " LINDRIG = 2–3 AV DE 12 SYMTOMEN LINDRIG []",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " MEDELSVÅR = 4–5 AV DE 12 SYMTOMEN MEDELSVÅR []",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " SVÅR = 6 ELLER FLER AV DE 12 SYMTOMEN SVÅR []",
-        "title": null,
-        "rules": null,
+        "rules": "SVÅR = 6 ELLER FLER AV DE 12 SYMTOMEN",
         "answer": null
     },
     {
@@ -4143,47 +3793,111 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " I VARAKTIG REMISSION = KRITERIER HAR INTE UPPFYLLTS PÅ 12 MÅNADER",
+        "text": " I VARAKTIG REMISSION = KRITERIER HAR INTE UPPFYLLTS PÅ 12 MÅNADER ELLER MER (BÅDA MED UNDANTAG FÖR KRITERIUM d. – (BEGÄR) OVAN).",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " I TIDIG REMISSION []",
+        "text": " I KONTROLLERAD MILJÖ = DÄR TILLGÅNGEN PÅ ALKOHOL ÄR BEGRÄNSAD",
         "title": null,
         "rules": null,
         "answer": null
     },
+
+
+
     {
-        "id": null,
-        "subid": null,
-        "text": " ELLER MER (BÅDA MED UNDANTAG FÖR KRITERIUM d. – (BEGÄR) OVAN). I VARAKTIG REMISSION []",
+        "id": "ALKOHOLBRUKSYNDROM GÅNGNA 12 MÅNADERNA",
+        "subid": " ",
+        "text": null,
         "title": null,
         "rules": null,
-        "answer": null
+         "answer":
+        [
+            "NEJ                 JA"
+        ]
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " I KONTROLLERAD MILJÖ = DÄR TILLGÅNGEN PÅ ALKOHOL ÄR BEGRÄNSAD I KONTROLLERAD MILJÖ []",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": "ANGE OM:",
         "answer": null
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " J. SUBSTANSBRUKSYNDROM (EJ ALKOHOL)",
-        "title": "J. SUBSTANSBRUKSYNDROM (EJ ALKOHOL)",
-        "rules": null,
+        "text": null,
+        "title": null,
+        "rules": "LINDRIG []",
         "answer": null
     },
+
     {
         "id": null,
         "subid": null,
+        "text": null,
+        "title": null,
+        "rules": "MEDELSVÅR []",
+        "answer": null
+    },
+
+        {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": "SVÅR []",
+        "answer": null
+    },
+
+        {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " I TIDIG REMISSION []",
+        "answer": null
+    },
+
+
+     {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": "I VARAKTIG REMISSION []",
+        "answer": null
+    },
+
+      {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": "I KONTROLLERAD MILJÖ []",
+        "answer": null
+    },
+
+    {
+        "id": " J. SUBSTANSBRUKSYNDROM (EJ ALKOHOL)",
+        "subid": " ",
         "text": " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED NÄSTA AVSNITT)",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
         "title": null,
         "rules": null,
         "answer": null
@@ -4196,6 +3910,19 @@ DATA =
         "rules": null,
         "answer": null
     },
+
+        {
+        "id": "J1",
+        "subid": "a",
+        "text": "Har du under de senaste 12 månaderna tagit något av dessa medel mer än en enstaka  gång för att bli ”hög”, euforisk, påtänd, eller för att förändra ditt humör?",
+        "title": null,
+        "rules": null,
+        "answer":
+        [
+            "NEJ              JA"
+        ]
+    },
+
     {
         "id": null,
         "subid": null,
@@ -4204,21 +3931,12 @@ DATA =
         "rules": null,
         "answer": null
     },
-    {
-        "id": "J1",
-        "subid": "a",
-        "text": "Har du under de senaste 12 månaderna tagit något av dessa medel mer än en enstaka ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ              JA"
-        ]
-    },
+
+
     {
         "id": null,
         "subid": null,
-        "text": " gång för att bli ”hög”, euforisk, påtänd, eller för att förändra ditt humör?",
+        "text": " RINGA IN VARJE MEDEL SOM ANVÄNTS:", //Gör dessa klickbara?
         "title": null,
         "rules": null,
         "answer": null
@@ -4226,23 +3944,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " RINGA IN VARJE MEDEL SOM ANVÄNTS:",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " Stimulantia: Amfetamin, metamfetamin, tjack, fattigmanskola, dos, speed, crystal, Dexedrine, Ritalin/Ritalina,",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " bantningspiller",
+        "text": " Stimulantia: Amfetamin, metamfetamin, tjack, fattigmanskola, dos, speed, crystal, Dexedrine, Ritalin/Ritalina, bantningspiller",
         "title": null,
         "rules": null,
         "answer": null
@@ -4258,19 +3960,12 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " Opiater: Heroin, varor, gryn, horse, jonk, smack, morfin, opium, metadon, kodein, China white, crocodile, metta,",
+        "text": " Opiater: Heroin, varor, gryn, horse, jonk, smack, morfin, opium, metadon, kodein, China white, crocodile, metta,Fortalgesic, Dilaudid, Treo Comp, Citodon, Fentanyl, Subutex, OxyContin",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " Fortalgesic, Dilaudid, Treo Comp, Citodon, Fentanyl, Subutex, OxyContin",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": null,
@@ -4314,19 +4009,12 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " Diverse: Anabola steroider, dek, ryssfemmor, 4 comp, Khat, receptfria sömn- eller bantningspiller. Hostmedicin? Något",
+        "text": " Diverse: Anabola steroider, dek, ryssfemmor, 4 comp, Khat, receptfria sömn- eller bantningspiller. Hostmedicin? Något annat?",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " annat?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+ 
     {
         "id": null,
         "subid": null,
@@ -4346,55 +4034,24 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " UNDERSÖK FÖRST KRITERIERNA NEDAN FÖR DEN DROGKLASS SOM GIVIT UPPHOV TILL STÖRST PROBLEM OCH MEST SANNOLIKT UPPFYLLER KRITERIERNA",
+        "text": " UNDERSÖK FÖRST KRITERIERNA NEDAN FÖR DEN DROGKLASS SOM GIVIT UPPHOV TILL STÖRST PROBLEM OCH MEST SANNOLIKT UPPFYLLER KRITERIERNA FÖR SUBSTANSBRUKSYNDROM. OM FLERA DROGKLASSER HAR MISSBRUKATS, UNDERSÖK SÅ MÅNGA ELLER SÅ FÅ SOM KRÄVS FÖR PROTOKOLLET.",
         "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " FÖR SUBSTANSBRUKSYNDROM. OM FLERA DROGKLASSER HAR MISSBRUKATS, UNDERSÖK SÅ MÅNGA ELLER SÅ FÅ SOM KRÄVS FÖR PROTOKOLLET.",
-        "title": "M. OM FLERA DROGKLASSER HAR MISSBRUKATS, UNDERSÖK SÅ MÅNGA ELLER SÅ FÅ SOM KRÄVS FÖR PROTOKOLLET.",
         "rules": null,
         "answer": null
     },
     {
         "id": "J2",
-        "subid": null,
-        "text": " Angående ditt bruk av (NAMNET PÅ VALD DROG/DROGKLASS), under de senaste 12",
+        "subid": " ",
+        "text": " Angående ditt bruk av (NAMNET PÅ VALD DROG/DROGKLASS), under de senaste 12 månaderna:",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " månaderna:",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": "a",
-        "text": "De gånger då du använde drogen, blev det så att du använde mer ( NAMN PÅ VALD",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " DROG/DROGKLASS) än vad du hade tänkt från början?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ",
+        "text": "a) De gånger då du använde drogen, blev det så att du använde mer ( NAMN PÅ VALD DROG/DROGKLASS) än vad du hade tänkt från början?",
         "title": null,
         "rules": null,
         "answer":
@@ -4402,26 +4059,11 @@ DATA =
             "NEJ              JA"
         ]
     },
-    {
-        "id": null,
-        "subid": "b",
-        "text": "Har du upprepade gånger försökt använda mindre av eller kontrollera din användning av",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": null,
-        "text": " (NAMN PÅ VALD DROG/DROGKLASS)? Har du försökt att använda mindre av eller kontrollera din",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " användning av (NAMN PÅ VALD DROG/DROGKLASS), men inte lyckats med detta?",
+        "text": "b) Har du upprepade gånger försökt använda mindre av eller kontrollera din användning av (NAMN PÅ VALD DROG/DROGKLASS)? Har du försökt att använda mindre av eller kontrollera din användning av (NAMN PÅ VALD DROG/DROGKLASS), men inte lyckats med detta?",
         "title": null,
         "rules": null,
         "answer": null
@@ -4430,41 +4072,6 @@ DATA =
         "id": null,
         "subid": null,
         "text": " VID JA PÅ NÅGON AV DESSA FRÅGOR, KODA JA. ",
-        "title": "A.                                                             NEJ              JA",
-        "rules": null,
-        "answer":
-        [
-            "NEJ              JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": "c",
-        "text": "De dagar då du använde mer (NAMN PÅ VALD DROG/DROGKLASS), lade du ner avsevärt med tid",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " på att skaffa eller använda (NAMN PÅ VALD DROG/DROGKLASS ) eller att återhämta dig från",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " verkningarna?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ",
         "title": null,
         "rules": null,
         "answer":
@@ -4474,24 +4081,20 @@ DATA =
     },
     {
         "id": null,
-        "subid": "d",
-        "text": "Kände du ett sug eller ett starkt begär eller längtan efter att använda (NAMN PÅ VALD",
+        "subid": null,
+        "text": "c) De dagar då du använde mer (NAMN PÅ VALD DROG/DROGKLASS), lade du ner avsevärt med tid på att skaffa eller använda (NAMN PÅ VALD DROG/DROGKLASS ) eller att återhämta dig från verkningarna?",
         "title": null,
         "rules": null,
-        "answer": null
+        "answer":
+        [
+            "NEJ              JA"
+        ]
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " DROG/DROGKLASS)?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ",
+        "text": "d) Kände du ett sug eller ett starkt begär eller längtan efter att använda (NAMN PÅ VALD DROG/DROGKLASS)?",
         "title": null,
         "rules": null,
         "answer":
@@ -4501,24 +4104,8 @@ DATA =
     },
     {
         "id": null,
-        "subid": "e",
-        "text": "Ägnade du mindre tid åt att sköta dina plikter på arbetet, i dina studier eller hemma på",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
         "subid": null,
-        "text": " grund av din upprepade användning av (NAMN PÅ VALD DROG/DROGKLASS)?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ",
+        "text": "e) Ägnade du mindre tid åt att sköta dina plikter på arbetet, i dina studier eller hemma på grund av din upprepade användning av (NAMN PÅ VALD DROG/DROGKLASS)?",
         "title": null,
         "rules": null,
         "answer":
@@ -4528,24 +4115,8 @@ DATA =
     },
     {
         "id": null,
-        "subid": "f",
-        "text": "Om din användning av (NAMN PÅ VALD DROG/DROGKLASS) ledde till problem med din familj",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
         "subid": null,
-        "text": " eller andra människor, fortsatte du att använda den ändå?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ",
+        "text": "f) Om din användning av (NAMN PÅ VALD DROG/DROGKLASS) ledde till problem med din familj eller andra människor, fortsatte du att använda den ändå?",
         "title": null,
         "rules": null,
         "answer":
@@ -4555,113 +4126,8 @@ DATA =
     },
     {
         "id": null,
-        "subid": "g",
-        "text": "Har du använt drogen mer än en gång i någon situation där du eller andra varit utsatt för",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
         "subid": null,
-        "text": " en fysisk risk, exempelvis när du kört bil, motorcykel, båt, hanterat maskiner etc.?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ   JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": "h",
-        "text": "Fortsatte du använda (NAMN PÅ VALD DROG/DROGKLASS), även fast det var tydligt att (NAMN PÅ",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " VALD DROG/DROGKLASS) orsakade eller förvärrade psykiska eller fysiska problem?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ   JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": "i",
-        "text": "Minskade du på, eller slutade helt med, viktiga arbetsuppgifter, sociala aktiviteter eller",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " fritidsnöjen på grund av din användning av (NAMN PÅ VALD DROG/DROGKLASS)?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ   JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": "j",
-        "text": "Behövde du använda (NAMN PÅ VALD DROG/DROGKLASS) mycket mer för att få samma effekt",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " som du fick när du först började använda den eller fick du mycket mindre effekt med",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " fortsatt användning av samma mängd?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " DET HÄR KRITERIET SKA KODAS NEJ OM LÄKEMEDLET ÄR FÖRSKRIVET OCH ANVÄNDS ",
+        "text": "g) Har du använt drogen mer än en gång i någon situation där du eller andra varit utsatt för en fysisk risk, exempelvis när du kört bil, motorcykel, båt, hanterat maskiner etc.?",
         "title": null,
         "rules": null,
         "answer":
@@ -4672,15 +4138,29 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " UNDER MEDICINSKT ÖVERINSEENDE.",
-        "title": "E.",
+        "text": "h) Fortsatte du använda (NAMN PÅ VALD DROG/DROGKLASS), även fast det var tydligt att (NAMN PÅ VALD DROG/DROGKLASS) orsakade eller förvärrade psykiska eller fysiska problem?",
+        "title": null,
         "rules": null,
-        "answer": null
+        "answer":
+        [
+            "NEJ   JA"
+        ]
     },
     {
         "id": null,
         "subid": null,
-        "text": " k1 När du minskade på intensiv eller varaktig användning av drogen, fick du då något av",
+        "text": "i) Minskade du på, eller slutade helt med, viktiga arbetsuppgifter, sociala aktiviteter eller fritidsnöjen på grund av din användning av (NAMN PÅ VALD DROG/DROGKLASS)?",
+        "title": null,
+        "rules": null,
+        "answer":
+        [
+            "NEJ   JA"
+        ]
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": "j) Behövde du använda (NAMN PÅ VALD DROG/DROGKLASS) mycket mer för att få samma effekt som du fick när du först började använda den eller fick du mycket mindre effekt med fortsatt användning av samma mängd?",
         "title": null,
         "rules": null,
         "answer": null
@@ -4688,38 +4168,45 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " följande abstinenssymtom:",
+        "text": " DET HÄR KRITERIET SKA KODAS NEJ OM LÄKEMEDLET ÄR FÖRSKRIVET OCH ANVÄNDS UNDER MEDICINSKT ÖVERINSEENDE.",
+        "title": null,
+        "rules": null,
+        "answer":
+        [
+            "NEJ   JA"
+        ]
+    },
+
+    {
+        "id": "k1",
+        "subid": " ",
+        "text": " När du minskade på intensiv eller varaktig användning av drogen, fick du då något av följande abstinenssymtom:",
         "title": null,
         "rules": null,
         "answer": null
     },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": " DET HÄR KRITERIET SKA KODAS NEJ OM LÄKEMEDLET ÄR FÖRSKRIVET OCH ANVÄNDS UNDER MEDICINSKT ÖVERINSEENDE.",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+
     {
         "id": null,
         "subid": null,
         "text": " VID JA PÅ ERFORDERLIGT ANTAL ABSINENSSYMTOM FÖR VARJE DROGKLASS, KODA J2k1 SOM JA. ",
-        "title": "A.           NEJ   JA",
+        "title": null,
         "rules": null,
         "answer":
         [
             "NEJ   JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " DET HÄR KRITERIET SKA KODAS NEJ OM LÄKEMEDLET ÄR FÖRSKRIVET OCH ANVÄNDS",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " UNDER MEDICINSKT ÖVERINSEENDE.",
-        "title": "E.",
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": null,
@@ -5001,9 +4488,9 @@ DATA =
         "answer": null
     },
     {
-        "id": null,
-        "subid": null,
-        "text": " k2 Använde du (NAMN PÅ VALD DROG/DROGKLASS) för att minska eller undvika abstinenssymtom? ",
+        "id": "k2",
+        "subid": " ",
+        "text": "  Använde du (NAMN PÅ VALD DROG/DROGKLASS) för att minska eller undvika abstinenssymtom? ",
         "title": null,
         "rules": null,
         "answer":
@@ -5014,9 +4501,9 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " J2k-SUMMERING: VID JA PÅ J2k1 ELLER J2k2, KODA JA ",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " J2k-SUMMERING: VID JA PÅ J2k1 ELLER J2k2, KODA JA ",
         "answer":
         [
             "NEJ   JA"
@@ -5025,7 +4512,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " HAR 2 ELLER FLER J2-SVAR FRÅN J2a TILL OCH MED J2k-SUMMERING KODATS JA? ",
+        "text": " HAR 2 ELLER FLER J2-SVAR FRÅN J2a TILL OCH MED J2k-SUMMERING KODATS JA? (J2k1 OCH J2k2 TILLSAMMANS RÄKNAS SOM ETT BLAND DESSA ALTERNATIV)",
         "title": null,
         "rules": null,
         "answer":
@@ -5033,10 +4520,31 @@ DATA =
             "NEJ                 JA"
         ]
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " (J2k1 OCH J2k2 TILLSAMMANS RÄKNAS SOM ETT BLAND DESSA ALTERNATIV)",
+        "text": " SUBSTANSBRUKSYNDROM (namn på drog/drogklass) GÅNGNA 12 MÅNADERNA",
+        "title": null,
+        "rules": null,
+          "answer":
+        [
+            "NEJ                 JA"
+        ]
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": "ANGE OM:",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+    
+    {
+        "id": null,
+        "subid": null,
+        "text": " LINDRIG []",
         "title": null,
         "rules": null,
         "answer": null
@@ -5044,7 +4552,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " SUBSTANSBRUKSYNDROM",
+        "text": "MEDELSVÅR []",
         "title": null,
         "rules": null,
         "answer": null
@@ -5052,63 +4560,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " (namn på drog/drogklass)",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " GÅNGNA 12 MÅNADERNA",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " DEFINITIONER FÖR SUBSTANSBRUKSYNDROM: ANGE OM:",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " LINDRIG = 2–3 AV SYMTOMEN UNDER J2 LINDRIG []",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " MEDELSVÅR = 4–5 AV SYMTOMEN UNDER J2 MEDELSVÅR []",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " SVÅR = 6 ELLER FLER AV SYMTOMEN UNDER J2 SVÅR []",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " I TIDIG REMISSION = KRITERIER HAR INTE UPPFYLLTS PÅ 3 TILL 12 MÅNADER",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " I VARAKTIG REMISSION = KRITERIER HAR INTE UPPFYLLTS PÅ 12 MÅNADER",
+        "text": "SVÅR []",
         "title": null,
         "rules": null,
         "answer": null
@@ -5124,7 +4576,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " ELLER MER (BÅDA MED UNDANTAG FÖR KRITERIUM d. – (BEGÄR) OVAN). I VARAKTIG REMISSION []",
+        "text": " I VARAKTIG REMISSION []",
         "title": null,
         "rules": null,
         "answer": null
@@ -5132,7 +4584,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " I EN KONTROLLERAD MILJÖ = DÄR TILLGÅNGEN PÅ SUBSTANSER/DROGER ÄR I KONTROLLERAD MILJÖ []",
+        "text": " I KONTROLLERAD MILJÖ []",
         "title": null,
         "rules": null,
         "answer": null
@@ -5140,11 +4592,60 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " BEGRÄNSAD",
+        "text": " DEFINITIONER FÖR SUBSTANSBRUKSYNDROM:",
         "title": null,
         "rules": null,
         "answer": null
     },
+    {
+        "id": null,
+        "subid": null,
+        "text": " LINDRIG = 2–3 AV SYMTOMEN UNDER J2",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": " MEDELSVÅR = 4–5 AV SYMTOMEN UNDER J2",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": " SVÅR = 6 ELLER FLER AV SYMTOMEN UNDER J2",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": " I TIDIG REMISSION = KRITERIER HAR INTE UPPFYLLTS PÅ 3 TILL 12 MÅNADER",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": " I VARAKTIG REMISSION = KRITERIER HAR INTE UPPFYLLTS PÅ 12 MÅNADER ELLER MER (BÅDA MED UNDANTAG FÖR KRITERIUM d. – (BEGÄR) OVAN). I VARAKTIG REMISSION []",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": " I EN KONTROLLERAD MILJÖ = DÄR TILLGÅNGEN PÅ SUBSTANSER/DROGER ÄR BEGRÄNSAD",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+
     {
         "id": null,
         "subid": null,
