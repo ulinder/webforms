@@ -4647,34 +4647,10 @@ DATA =
     },
 
     {
-        "id": null,
-        "subid": null,
-        "text": " K. PSYKOTISKA SYNDROM OCH AFFEKTIVA SYNDROM MED PSYKOTISKA SYMTOM",
-        "title": "K. PSYKOTISKA SYNDROM OCH AFFEKTIVA SYNDROM MED PSYKOTISKA SYMTOM",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": "BE OM ETT EXEMPEL FÖR VARJE FRÅGA SOM BEJAKAS. KODA JA ENBART OM EXEMPLEN TYDLIGT VISAR PÅ TANKE- ELLER PERCEPTIONSMÄSSIG VANFÖRESTÄLLNING",
-        "title": "S. KODA JA ENBART OM EXEMPLEN TYDLIGT VISAR PÅ TANKE- ELLER PERCEPTIONSMÄSSIG VANFÖRESTÄLLNING",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": "ELLER OM DE ÄR KULTURELLT AVVIKANDE. SYFTET MED DETTA AVSNITT ÄR ATT KUNNA UTESLUTA PATIENTER MED PSYKOTISKA SYNDROM. DETTA AVSNITT KRÄVER",
-        "title": "E. SYFTET MED DETTA AVSNITT ÄR ATT KUNNA UTESLUTA PATIENTER MED PSYKOTISKA SYNDROM. DETTA AVSNITT KRÄVER",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": "ERFARENHET.",
-        "title": "T.",
+        "id": " K. PSYKOTISKA SYNDROM OCH AFFEKTIVA SYNDROM MED PSYKOTISKA SYMTOM",
+        "subid": " ",
+
+        "text": "BE OM ETT EXEMPEL FÖR VARJE FRÅGA SOM BEJAKAS. KODA JA ENBART OM EXEMPLEN TYDLIGT VISAR PÅ TANKE- ELLER PERCEPTIONSMÄSSIG VANFÖRESTÄLLNING ELLER OM DE ÄR KULTURELLT AVVIKANDE. SYFTET MED DETTA AVSNITT ÄR ATT KUNNA UTESLUTA PATIENTER MED PSYKOTISKA SYNDROM. DETTA AVSNITT KRÄVER ERFARENHET.",
         "rules": null,
         "answer": null
     },
@@ -4689,18 +4665,7 @@ DATA =
     {
         "id": "K1",
         "subid": "a",
-        "text": "Har du någon gång trott att folk spionerade på dig, eller att någon konspirerade mot dig ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ               JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " eller försökte skada dig?",
+        "text": "Har du någon gång trott att folk spionerade på dig, eller att någon konspirerade mot dig eller försökte skada dig?",
         "title": null,
         "rules": null,
         "answer": null
@@ -4709,9 +4674,12 @@ DATA =
         "id": null,
         "subid": null,
         "text": " ANMÄRKNING: BE OM EXEMPEL FÖR ATT UTESLUTA ATT PATIENTEN FAKTISKT ÄR FÖRFÖLJD.",
-        "title": "D.",
+        "title": null, 
         "rules": null,
-        "answer": null
+         "answer":
+        [
+            "NEJ               JA"
+        ]
     },
     {
         "id": null,
@@ -4727,21 +4695,13 @@ DATA =
     {
         "id": "K2",
         "subid": "a",
-        "text": "Har du någonsin trott att någon läste dina tankar eller kunde höra dina tankar eller att ",
+        "text": "Har du någonsin trott att någon läste dina tankar eller kunde höra dina tankar eller att du själv faktiskt kunde läsa någons tankar eller höra vad någon annan person tänkte?",
         "title": null,
         "rules": null,
         "answer":
         [
             "NEJ               JA"
         ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " du själv faktiskt kunde läsa någons tankar eller höra vad någon annan person tänkte?",
-        "title": null,
-        "rules": null,
-        "answer": null
     },
     {
         "id": null,
@@ -4757,26 +4717,7 @@ DATA =
     {
         "id": "K3",
         "subid": "a",
-        "text": "Har du någonsin trott att någon person eller kraft utanför dig själv satte in tankar i ditt ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ               JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " huvud som inte var dina egna, eller fick dig att bete dig på ett sätt som kändes",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " främmande för dig? Har du någonsin känt dig som om du vore besatt?",
+        "text": "Har du någonsin trott att någon person eller kraft utanför dig själv satte in tankar i ditt huvud som inte var dina egna, eller fick dig att bete dig på ett sätt som kändes främmande för dig? Har du någonsin känt dig som om du vore besatt?",
         "title": null,
         "rules": null,
         "answer": null
@@ -4785,9 +4726,12 @@ DATA =
         "id": null,
         "subid": null,
         "text": " KLINIKER: BE OM EXEMPEL OCH UTESLUT ALLT SOM INTE ÄR PSYKOTISKT.",
-        "title": "T.",
+        "title": null,
         "rules": null,
-        "answer": null
+        "answer":
+        [
+            "NEJ               JA"
+        ]
     },
     {
         "id": null,
@@ -4803,29 +4747,13 @@ DATA =
     {
         "id": "K4",
         "subid": "a",
-        "text": "Har du någonsin trott att du fått speciella meddelanden på TV, i radio, internet, ",
+        "text": "Har du någonsin trott att du fått speciella meddelanden på TV, i radio, internet, dagstidningar, tidskrifter eller böcker, eller att någon person som du inte varit personligen bekant med varit särskilt intresserad av dig?",
         "title": null,
         "rules": null,
         "answer":
         [
             "NEJ               JA"
         ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " dagstidningar, tidskrifter eller böcker, eller att någon person som du inte varit",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " personligen bekant med varit särskilt intresserad av dig?",
-        "title": null,
-        "rules": null,
-        "answer": null
     },
     {
         "id": null,
@@ -4841,61 +4769,13 @@ DATA =
     {
         "id": "K5",
         "subid": "a",
-        "text": "Har dina vänner eller släktingar någonsin tyckt att sådant som du tror på är konstigt eller ",
+        "text": "Har dina vänner eller släktingar någonsin tyckt att sådant som du tror på är konstigt eller ovanligt? INTERVJUARE: BE OM EXEMPEL. KODA JA ENBART OM EXEMPLEN ÄR UPPENBARA VANFÖRESTÄLLNINGAR SOM INTE UNDERSÖKTS I K1–K4 SOM T.EX. RELIGIÖSA, DÖDS- ELLER SJUKDOMSRELATERADE ELLER SOMATISKA VANFÖRESTÄLLNINGAR ELLER VANFÖRESTÄLLNINGAR OM GRANDIOSITET, SVARTSJUKA ELLER SKULD, ELLER OM MISSLYCKANDE, BRIST, UNDERGÅNG ELLER NÖD, ELLER NIHILISTISKA VANFÖRESTÄLLNINGAR.",
         "title": null,
         "rules": null,
         "answer":
         [
             "NEJ               JA"
         ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ovanligt?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " INTERVJUARE: BE OM EXEMPEL. KODA JA ENBART OM EXEMPLEN ÄR UPPENBARA VANFÖRESTÄLLNINGAR",
-        "title": "L. KODA JA ENBART OM EXEMPLEN ÄR UPPENBARA VANFÖRESTÄLLNINGAR",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " SOM INTE UNDERSÖKTS I K1–K4 SOM T.EX. RELIGIÖSA, DÖDS- ELLER SJUKDOMSRELATERADE ELLER",
-        "title": "T.EX. RELIGIÖSA, DÖDS- ELLER SJUKDOMSRELATERADE ELLER",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " SOMATISKA VANFÖRESTÄLLNINGAR ELLER VANFÖRESTÄLLNINGAR OM GRANDIOSITET, SVARTSJUKA ELLER",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " SKULD, ELLER OM MISSLYCKANDE, BRIST, UNDERGÅNG ELLER NÖD, ELLER NIHILISTISKA",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " VANFÖRESTÄLLNINGAR.",
-        "title": "R.",
-        "rules": null,
-        "answer": null
     },
     {
         "id": null,
@@ -4922,7 +4802,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " OM JA FÖR HÖRSELHALLUCINOS: Hörde du en röst som kommenterade dina tankar eller ",
+        "text": " OM JA FÖR HÖRSELHALLUCINOS: Hörde du en röst som kommenterade dina tankar eller ditt beteende, eller hörde du två eller fler röster som pratade med varandra?",
         "title": null,
         "rules": null,
         "answer":
@@ -4930,14 +4810,7 @@ DATA =
             "NEJ               JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ditt beteende, eller hörde du två eller fler röster som pratade med varandra?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": "b",
@@ -4952,7 +4825,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " OM JA FÖR HÖRSELHALLUCINOS: Hörde du en röst som kommenterade dina tankar eller ",
+        "text": " OM JA FÖR HÖRSELHALLUCINOS: Hörde du en röst som kommenterade dina tankar eller ditt beteende, eller hörde du två eller fler röster som pratade med varandra?",
         "title": null,
         "rules": null,
         "answer":
@@ -4960,40 +4833,27 @@ DATA =
             "NEJ               JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ditt beteende, eller hörde du två eller fler röster som pratade med varandra?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": "K7",
         "subid": "a",
-        "text": "Har du någonsin haft syner i vaket tillstånd eller någon gång sett saker som andra inte ",
+        "text": "Har du någonsin haft syner i vaket tillstånd eller någon gång sett saker som andra inte kunnat se?",
+        "title": null,
+        "rules": null,
+        "answer": null
+        
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": " KLINIKER: UNDERSÖK OM DESSA ÄR KULTURELLT AVVIKANDE.",
         "title": null,
         "rules": null,
         "answer":
         [
             "NEJ              JA"
         ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " kunnat se?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " KLINIKER: UNDERSÖK OM DESSA ÄR KULTURELLT AVVIKANDE.",
-        "title": "E.",
-        "rules": null,
-        "answer": null
     },
     {
         "id": null,
