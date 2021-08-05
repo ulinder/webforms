@@ -4867,8 +4867,8 @@ DATA =
         ]
     },
     {
-        "id": null,
-        "subid": null,
+        "id": " ",
+        "subid": " ",
         "text": " KLINIKERNS BEDÖMNING",
         "title": null,
         "rules": null,
@@ -4877,59 +4877,35 @@ DATA =
     {
         "id": "K8",
         "subid": "a",
-        "text": "HAR PATIENTEN NÅGONSIN I DET FÖRFLUTNA UPPVISAT OSORTERAT, SPLITTRAT ELLER ",
+        "text": "HAR PATIENTEN NÅGONSIN I DET FÖRFLUTNA UPPVISAT OSORTERAT, SPLITTRAT ELLER URSPÅRAT TAL, ELLER MARKANT UPPLUCKRADE ASSOCIATIONER?",
         "title": null,
         "rules": null,
         "answer":
         [
             "NEJ              JA"
         ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " URSPÅRAT TAL, ELLER MARKANT UPPLUCKRADE ASSOCIATIONER?",
-        "title": null,
-        "rules": null,
-        "answer": null
     },
     {
         "id": "K8",
         "subid": "b",
-        "text": "UPPVISAR PATIENTEN FÖR NÄRVARANDE SPLITTRING, OSORTERAT ELLER URSPÅRAT TAL ",
+        "text": "UPPVISAR PATIENTEN FÖR NÄRVARANDE SPLITTRING, OSORTERAT ELLER URSPÅRAT TAL ELLER MARKANT UPPLUCKRADE ASSOCIATIONER?",
         "title": null,
         "rules": null,
         "answer":
         [
             "NEJ              JA"
         ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ELLER MARKANT UPPLUCKRADE ASSOCIATIONER?",
-        "title": null,
-        "rules": null,
-        "answer": null
     },
     {
         "id": "K9",
         "subid": "a",
-        "text": "HAR PATIENTEN NÅGONSIN I DET FÖRFLUTNA UPPVISAT DESORGANISERAT ELLER ",
+        "text": "HAR PATIENTEN NÅGONSIN I DET FÖRFLUTNA UPPVISAT DESORGANISERAT ELLER KATATONT BETEENDE?",
         "title": null,
         "rules": null,
         "answer":
         [
             "NEJ              JA"
         ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " KATATONT BETEENDE?",
-        "title": null,
-        "rules": null,
-        "answer": null
     },
     {
         "id": "K9",
@@ -4944,121 +4920,71 @@ DATA =
     },
     {
         "id": "K10",
-        "subid": null,
-        "text": "a HAR PATIENTEN NÅGONSIN I DET FÖRFLUTNA HAFT NEGATIVA SYMTOM, T.EX. ",
-        "title": "T.EX.                         NEJ              JA",
+        "subid": "a",
+        "text": "HAR PATIENTEN NÅGONSIN I DET FÖRFLUTNA HAFT NEGATIVA SYMTOM, T.EX. BETYDANDE MINSKNING AV KÄNSLOUTTRYCK, KÄNSLOMÄSSIG AVTRUBBNING,SPRÅKLIG TORFTIGHET (ALOGI) ELLER OFÖRMÅGA ATT STARTA ELLER FORTSÄTTA MED MÅLINRIKTADE AKTIVITETER (AVOLITION)?",
+        "title": null,
         "rules": null,
         "answer":
         [
             "NEJ              JA"
         ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " BETYDANDE MINSKNING AV KÄNSLOUTTRYCK, KÄNSLOMÄSSIG AVTRUBBNING,",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " SPRÅKLIG TORFTIGHET (ALOGI) ELLER OFÖRMÅGA ATT STARTA ELLER FORTSÄTTA MED",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " MÅLINRIKTADE AKTIVITETER (AVOLITION)?",
-        "title": null,
-        "rules": null,
-        "answer": null
     },
     {
         "id": "K10",
-        "subid": null,
-        "text": "b ÄR NEGATIVA SCHIZOFRENISYMTOM SÅSOM PÅTAGLIG MINSKNING I KÄNSLOUTTRYCK ",
+        "subid": "b",
+        "text": "ÄR NEGATIVA SCHIZOFRENISYMTOM SÅSOM PÅTAGLIG MINSKNING I KÄNSLOUTTRYCK ELLER KÄNSLOMÄSSIG AVTRUBBNING, TORFTIGT SPRÅK (ALOGI) ELLER OFÖRMÅGA ATT STARTA ELLER FORTSÄTTA MED MÅLINRIKTADE AKTIVITETER (AVOLITION), FRAMTRÄDANDE UNDER INTERVJUN?",
         "title": null,
         "rules": null,
         "answer":
         [
             "NEJ              JA"
         ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ELLER KÄNSLOMÄSSIG AVTRUBBNING, TORFTIGT SPRÅK (ALOGI) ELLER OFÖRMÅGA ATT",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " STARTA ELLER FORTSÄTTA MED MÅLINRIKTADE AKTIVITETER (AVOLITION),",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " FRAMTRÄDANDE UNDER INTERVJUN?",
-        "title": null,
-        "rules": null,
-        "answer": null
     },
     {
         "id": "K11",
-        "subid": null,
-        "text": "a HAR 1 ELLER FLERA ”a”-FRÅGOR FRÅN K1a TILL K7a KODATS JA?",
+        "subid": "a",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": "HAR 1 ELLER FLERA ”a”-FRÅGOR FRÅN K1a TILL K7a KODATS JA?",
         "answer": null
     },
     {
         "id": null,
         "subid": null,
-        "text": " OCH HAR ANTINGEN:",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " OCH HAR ANTINGEN:",
         "answer": null
     },
     {
         "id": null,
         "subid": null,
-        "text": " EGENTLIG DEPRESSIONSEPISOD (PÅGÅENDE, ÅTERKOMMANDE ELLER TIDIGARE)",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " EGENTLIG DEPRESSIONSEPISOD (PÅGÅENDE, ÅTERKOMMANDE ELLER TIDIGARE)",
         "answer": null
     },
     {
         "id": null,
         "subid": null,
-        "text": " ELLER",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " ELLER",
         "answer": null
     },
     {
         "id": null,
         "subid": null,
-        "text": " MANISK ELLER HYPOMAN EPISOD (PÅGÅENDE ELLER TIDIGARE) KODATS JA? ",
+        "text": null,
         "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ              JA"
-        ]
+        "rules": " MANISK ELLER HYPOMAN EPISOD (PÅGÅENDE ELLER TIDIGARE) KODATS JA? ",
+        "answer": null
+        
     },
     {
         "id": null,
         "subid": null,
-        "text": "  K13",
+        "text": "=> K13",
         "title": null,
         "rules": null,
         "answer": null
@@ -5082,47 +5008,162 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " OM EN SÅDAN FÖRSTÄMNINGSEPISOD FÖRELIGGER, MÅSTE DEN FÖRELIGGA UNDER",
+        "text": " OM EN SÅDAN FÖRSTÄMNINGSEPISOD FÖRELIGGER, MÅSTE DEN FÖRELIGGA UNDER MERPARTEN AV DE PSYKOTISKA SYMTOMENS SAMMANLAGDA TID, INNEFATTANDE AKTIVA PERIODER OCH RESTTILLSTÅND. KODA ANNARS NEJ PÅ K11a.",
         "title": null,
         "rules": null,
-        "answer": null
+        "answer": 
+        [
+            "NEJ              JA"
+        ]
     },
     {
         "id": null,
         "subid": null,
-        "text": " MERPARTEN AV DE PSYKOTISKA SYMTOMENS SAMMANLAGDA TID, INNEFATTANDE",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " OM SVARET ÄR NEJ PÅ K11a RINGA IN NEJ I BÅDA DIAGNOSRUTORNA FÖR ”FÖRSTÄMNINGSSYNDROM MED PSYKOTISKA SYMTOM” OCH GÅ TILL K13.",
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " AKTIVA PERIODER OCH RESTTILLSTÅND. KODA ANNARS NEJ PÅ K11a.",
-        "title": "D. KODA ANNARS NEJ PÅ K",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OM SVARET ÄR NEJ PÅ K11a RINGA IN NEJ I BÅDA DIAGNOSRUTORNA",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " FÖR ”FÖRSTÄMNINGSSYNDROM MED PSYKOTISKA SYMTOM” OCH GÅ TILL K13.",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": "b",
-        "text": "Du berättade tidigare för mig att du har haft en period eller perioder när du känt dig ",
+        "text": "Du berättade tidigare för mig att du har haft en period eller perioder när du känt dig (deprimerad/upprymd/ständigt retlig). Var de uppfattningar och erfarenheter som du nyss beskrev (SYMTOM KODADE JA FRÅN K1a TILL K7a) helt begränsade till tider då du kände dig deprimerad/upprymd/retlig? SYNDROM MED",
+        "title": null,
+        "rules": null,
+        "answer":
+        [
+            "NEJ                    JA"
+        ]
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": " OM PATIENTEN NÅGONSIN HAFT EN PERIOD SOM VARAT I MINST 2 VECKOR MED DESSA UPPFATTNINGAR ELLER ERFARENHETER (PSYKOTISKA SYMTOM) UTAN ATT SAMTIDIGT VARA DEPRIMERAD/UPPSTÄMD/RETLIG, KODA NEJ FÖR DETTA SYNDROM. NÅGONSIN",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": " OM SVARET ÄR NEJ FÖR DENNA GRUPP AV SYNDROM, RINGA OCKSÅ IN NEJ FÖR K12 OCH GÅ TILL K13.",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+
+        {
+        "id": "FÖRSTÄMNINGSSYNDROM MED PSYKOTISKA SYMTOM NÅGONSIN",
+        "subid": " ",
+        "text": null,
+        "title": null,
+        "rules": null,
+        "answer":
+        [
+            "NEJ                    JA"
+        ]
+    },
+
+    {
+        "id": "K12",
+        "subid": "a",
+        "text": null,
+        "title": null,
+        "rules": "HAR 1 ELLER FLERA ”b”-FRÅGOR FRÅN K1b TILL K7b KODATS JA OCH HAR ANTINGEN: ",
+        "answer":
+        [
+            "NEJ              JA"
+        ]
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " EGENTLIG DEPRESSIV EPISOD (PÅGÅENDE) ELLER MANISK ELLER HYPOMAN EPISOD (PÅGÅENDE) KODATS JA? ",
+        "answer": null
+    },
+
+    {
+        "id": "FÖRSTÄMNINGSSYNDROM MED PSYKOTISKA SYMTOM PÅGÅENDE",
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": null,
+        "answer":
+        [
+            "NEJ                    JA"
+        ]
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " OM SVARET ÄR JA FÖR DETTA SYNDROM (NÅGONSIN ELLER PÅGÅENDE), RINGA IN NEJ FÖR K13 OCH K14 OCH GÅ VIDARE TILL NÄSTA AVSNITT.",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+
+    {
+        "id": "K13",
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " HAR 1 ELLER FLERA ”b”-FRÅGOR FRÅN K1b TILL K8b KODATS JA? ",
+        "answer": null,
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " OCH",
+        "answer": null
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " HAR 2 ELLER FLER ”b”-FRÅGOR FRÅN K1b TILL K10b KODATS JA?",
+        "answer": null
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": " OCH INTRÄFFADE MINST TVÅ AV DE PSYKOTISKA SYMTOMEN UNDER EN ENMÅNADSPERIOD?",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " OCH",
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?",
+        "answer": null
+    },
+
+    {
+        "id": "PSYKOTISKT SYNDROM PÅGÅENDE",
+        "subid": null,
+        "text": null,
         "title": null,
         "rules": null,
         "answer":
@@ -5131,320 +5172,87 @@ DATA =
         ]
     },
     {
-        "id": null,
-        "subid": null,
-        "text": " (deprimerad/upprymd/ständigt retlig).",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " Var de uppfattningar och erfarenheter som du nyss beskrev (SYMTOM KODADE JA FRÅN FÖRSTÄMNINGS-",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " K1a TILL K7a) helt begränsade till tider då du kände dig deprimerad/upprymd/retlig? SYNDROM MED",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " PSYKOTISKA SYMTOM",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OM PATIENTEN NÅGONSIN HAFT EN PERIOD SOM VARAT I MINST 2 VECKOR MED DESSA",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " UPPFATTNINGAR ELLER ERFARENHETER (PSYKOTISKA SYMTOM) UTAN ATT SAMTIDIGT",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " VARA DEPRIMERAD/UPPSTÄMD/RETLIG, KODA NEJ FÖR DETTA SYNDROM. NÅGONSIN",
-        "title": "M.                                     NÅGONSIN",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OM SVARET ÄR NEJ FÖR DENNA GRUPP AV SYNDROM, RINGA OCKSÅ IN NEJ FÖR K12",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OCH GÅ TILL K13.",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": "K12",
-        "subid": null,
-        "text": "a HAR 1 ELLER FLERA ”b”-FRÅGOR FRÅN K1b TILL K7b KODATS JA OCH HAR ANTINGEN: ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ              JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " EGENTLIG DEPRESSIV EPISOD (PÅGÅENDE)",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ELLER FÖRSTÄMNINGS-",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " MANISK ELLER HYPOMAN EPISOD (PÅGÅENDE) KODATS JA? SYNDROM MED",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " PSYKOTISKA SYMTOM",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OM SVARET ÄR JA FÖR DETTA SYNDROM (NÅGONSIN ELLER PÅGÅENDE), RINGA IN NEJ",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " FÖR K13 OCH K14 OCH GÅ VIDARE TILL NÄSTA AVSNITT.",
-        "title": "T.",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " PÅGÅENDE",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": "K13",
-        "subid": null,
-        "text": " HAR 1 ELLER FLERA ”b”-FRÅGOR FRÅN K1b TILL K8b KODATS JA? ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ              JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OCH",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " PSYKOTISKT SYNDROM",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " HAR 2 ELLER FLER ”b”-FRÅGOR FRÅN K1b TILL K10b KODATS JA?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " PÅGÅENDE",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OCH INTRÄFFADE MINST TVÅ AV DE PSYKOTISKA SYMTOMEN UNDER EN",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ENMÅNADSPERIOD?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OCH",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
         "id": "K14",
         "subid": null,
-        "text": " HAR K13 KODATS JA ",
+        "text": null,
+        "title": null,
+        "rules": " HAR K13 KODATS JA ",
+        "answer": null,
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " ELLER",
+        "answer": null
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " (HAR 1 ELLER FLERA ”a”-FRÅGOR FRÅN K1a TILL K8a KODATS JA?",
+        "answer": null
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " OCH",
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " HAR 2 ELLER FLER ”a”-FRÅGOR FRÅN K1a TILL K10a KODATS JA",
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " OCH INTRÄFFADE MINST TVÅ AV DE PSYKOTISKA SYMTOMEN UNDER EN ENMÅNADSPERIOD?)",
+        "answer": null
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " OCH",
+        "answer": null
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?",
+        "answer": null
+    },
+
+    {
+        "id": "PSYKOTISKT SYNDROM PÅGÅENDE",
+        "subid": null,
+        "text": null,
         "title": null,
         "rules": null,
         "answer":
         [
-            "NEJ              JA"
+            "NEJ                    JA"
         ]
     },
+
     {
-        "id": null,
-        "subid": null,
-        "text": " ELLER",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " PSYKOTISKT SYNDROM",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " (HAR 1 ELLER FLERA ”a”-FRÅGOR FRÅN K1a TILL K8a KODATS JA?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " NÅGONSIN",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OCH",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " HAR 2 ELLER FLER ”a”-FRÅGOR FRÅN K1a TILL K10a KODATS JA",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OCH INTRÄFFADE MINST TVÅ AV DE PSYKOTISKA SYMTOMEN UNDER EN",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ENMÅNADSPERIOD?)",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OCH",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " L. ANOREXIA NERVOSA",
-        "title": "L. ANOREXIA NERVOSA",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
+        "id": " L. ANOREXIA NERVOSA",
         "subid": null,
         "text": " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED NÄSTA AVSNITT)",
         "title": null,
@@ -5454,7 +5262,7 @@ DATA =
     {
         "id": "L1",
         "subid": "a",
-        "text": "Hur lång är du? ft tum",
+        "text": "Hur lång är du?",
         "title": null,
         "rules": null,
         "answer": null
@@ -5462,7 +5270,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " cm",
+        "text": "________ cm",
         "title": null,
         "rules": null,
         "answer": null
@@ -5470,7 +5278,7 @@ DATA =
     {
         "id": null,
         "subid": "b",
-        "text": "Vad vägde du som lägst under de senaste 3 månaderna? pund",
+        "text": "Vad vägde du som lägst under de senaste 3 månaderna?",
         "title": null,
         "rules": null,
         "answer": null
@@ -5478,19 +5286,12 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " kg",
+        "text": "________ kg",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " =>",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": "c",
@@ -5502,6 +5303,16 @@ DATA =
             "NEJ             JA"
         ]
     },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": " =>",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+
     {
         "id": null,
         "subid": null,
