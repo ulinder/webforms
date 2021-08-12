@@ -5162,7 +5162,7 @@ DATA =
 
     {
         "id": "PSYKOTISKT SYNDROM PÅGÅENDE",
-        "subid": null,
+        "subid": " ",
         "text": null,
         "title": null,
         "rules": null,
@@ -5240,8 +5240,8 @@ DATA =
     },
 
     {
-        "id": "PSYKOTISKT SYNDROM PÅGÅENDE",
-        "subid": null,
+        "id": "PSYKOTISKT SYNDROM NÅGONSIN",
+        "subid": " ",
         "text": null,
         "title": null,
         "rules": null,
@@ -5253,7 +5253,7 @@ DATA =
 
     {
         "id": " L. ANOREXIA NERVOSA",
-        "subid": null,
+        "subid": " ",
         "text": " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED NÄSTA AVSNITT)",
         "title": null,
         "rules": null,
@@ -5295,7 +5295,7 @@ DATA =
     {
         "id": null,
         "subid": "c",
-        "text": "VÄGER PATIENTEN LIKA MYCKET ELLER MINDRE ÄN TRÖSKELVÄRDET MOTSVARANDE ",
+        "text": "VÄGER PATIENTEN LIKA MYCKET ELLER MINDRE ÄN TRÖSKELVÄRDET MOTSVARANDE HANS/HENNES LÄNGD? (SE TABELLEN NEDAN)",
         "title": null,
         "rules": null,
         "answer":
@@ -5313,33 +5313,20 @@ DATA =
         "answer": null
     },
 
+
     {
         "id": null,
         "subid": null,
-        "text": " HANS/HENNES LÄNGD? (SE TABELLEN NEDAN)",
-        "title": null,
+        "text": null,
+        "title": " Under de senaste 3 månaderna:",
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " Under de senaste 3 månaderna:",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " =>",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+    
+
     {
         "id": "L2",
-        "subid": null,
+        "subid": " ",
         "text": " Har du, trots att du vägt så lite, försökt att inte gå upp i vikt eller att begränsa ditt matintag? ",
         "title": null,
         "rules": null,
@@ -5367,6 +5354,16 @@ DATA =
             "NEJ             JA"
         ]
     },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": " =>",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+
     {
         "id": "L4",
         "subid": "a",
@@ -5411,17 +5408,17 @@ DATA =
     {
         "id": "L5",
         "subid": null,
-        "text": " HAR 1 ELLER FLER L4-FRÅGOR KODATS JA? ",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " HAR 1 ELLER FLER L4-FRÅGOR KODATS JA? ",
         "answer":
         [
             "NEJ             JA"
         ]
     },
     {
-        "id": null,
-        "subid": null,
+        "id": " ANOREXIA NERVOSA PÅGÅENDE",
+        "subid": " ",
         "text": " HAR L5 KODATS JA? ",
         "title": null,
         "rules": null,
@@ -5430,35 +5427,13 @@ DATA =
             "NEJ                    JA"
         ]
     },
+
+// Tabell med tröskelvärden måste in här eller i närhet av L1 där denna behövs
     {
-        "id": null,
-        "subid": null,
-        "text": " ANOREXIA NERVOSA",
+        "id": " M. BULIMIA NERVOSA",
+        "subid": " ",
+        "text": null,
         "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " PÅGÅENDE",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " 2",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " M. BULIMIA NERVOSA",
-        "title": "M. BULIMIA NERVOSA",
         "rules": null,
         "answer": null
     },
@@ -5473,7 +5448,7 @@ DATA =
     {
         "id": "M1",
         "subid": null,
-        "text": " Under de senaste tre månaderna, har du hetsätit eller proppat i dig stora mängder mat ",
+        "text": " Under de senaste tre månaderna, har du hetsätit eller proppat i dig stora mängder mat under loppet av en 2-timmarsperiod?",
         "title": null,
         "rules": null,
         "answer":
@@ -5481,14 +5456,16 @@ DATA =
             "NEJ             JA"
         ]
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " under loppet av en 2-timmarsperiod?  M3",
+        "text": " => M3",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
         "id": "M2",
         "subid": null,
@@ -5500,6 +5477,29 @@ DATA =
             "NEJ             JA"
         ]
     },
+
+    {
+        "id": "M3",
+        "subid": null,
+        "text": " Gjorde du något för att motverka eller förhindra att du gick upp i vikt, som att kräkas, fasta, motionera eller ta laxermedel, lavemang, vätskedrivande medel eller andra läkemedel? Gjorde du detta så ofta som en gång i veckan?",
+        "title": null,
+        "rules": null,
+        "answer":
+        [
+            "NEJ             JA"
+        ]
+    },
+
+
+    {
+        "id": null,
+        "subid": null,
+        "text": " KODA JA PÅ M3 ENDAST OM SVARET PÅ BÅDA DESSA M3-FRÅGOR ÄR JA.",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+
     {
         "id": null,
         "subid": null,
@@ -5508,45 +5508,12 @@ DATA =
         "rules": null,
         "answer": null
     },
+
+
     {
         "id": "M3",
-        "subid": null,
-        "text": " Gjorde du något för att motverka eller förhindra att du gick upp i vikt, som att kräkas, ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ             JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " fasta, motionera eller ta laxermedel, lavemang, vätskedrivande medel eller andra",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " läkemedel? Gjorde du detta så ofta som en gång i veckan?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " KODA JA PÅ M3 ENDAST OM SVARET PÅ BÅDA DESSA M3-FRÅGOR ÄR JA.",
-        "title": "A.",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": "M3",
-        "subid": null,
-        "text": "a Antal episoder per vecka av olämpliga kompensatoriska beteenden: _______",
+        "subid": "a",
+        "text": "Antal episoder per vecka av olämpliga kompensatoriska beteenden: _______",
         "title": null,
         "rules": null,
         "answer": null
@@ -5559,17 +5526,10 @@ DATA =
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " =>",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": "M4",
-        "subid": null,
+        "subid": " ",
         "text": " Under de senaste 3 månaderna, har du hetsätit så ofta som en gång i veckan? ",
         "title": null,
         "rules": null,
@@ -5588,7 +5548,7 @@ DATA =
     },
     {
         "id": "M5",
-        "subid": null,
+        "subid": " ",
         "text": " Påverkar din vikt eller kroppsform i hög grad din självkänsla? ",
         "title": null,
         "rules": null,
@@ -5597,95 +5557,79 @@ DATA =
             "NEJ             JA"
         ]
     },
-    {
-        "id": "M6",
-        "subid": null,
-        "text": " UPPFYLLER PATIENTENS SYMTOM KRITERIERNA FÖR ANOREXIA NERVOSA? ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ             JA"
-        ]
-    },
+
     {
         "id": null,
         "subid": null,
-        "text": " ",
+        "text": " =>",
         "title": null,
         "rules": null,
         "answer": null
     },
     {
+        "id": "M6",
+        "subid": " ",
+        "text": null,
+        "title": null,
+        "rules": " UPPFYLLER PATIENTENS SYMTOM KRITERIERNA FÖR ANOREXIA NERVOSA? ",
+        "answer":
+        [
+            "NEJ             JA"
+        ]
+    },
+
+    {
         "id": null,
         "subid": null,
-        "text": " Hoppa till M8",
+        "text": "=> Hoppa till M8",
         "title": null,
         "rules": null,
         "answer": null
     },
     {
         "id": "M7",
-        "subid": null,
+        "subid": " ",
         "text": " Inträffar hetsätandet bara när du väger under (__________pund/kg)? ",
         "title": null,
         "rules": null,
-        "answer":
+        "answer": null,
+
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": " INTERVJUARE: I PARENTESEN OVAN, FYLL I TRÖSKELVÄRDET FÖR PATIENTENS LÄNGD ENLIGT LÄNGD/VIKTTABELLEN I AVSNITTET OM ANOREXIA NERVOSA.",
+        "title": null,
+        "rules": null,
+        "answer":         
         [
             "NEJ             JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " INTERVJUARE: I PARENTESEN OVAN, FYLL I TRÖSKELVÄRDET FÖR PATIENTENS LÄNGD ENLIGT",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " LÄNGD/VIKTTABELLEN I AVSNITTET OM ANOREXIA NERVOSA.",
-        "title": "A.",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ                    JA"
-        ]
-    },
+
+// Lägg automatiskt till värde från anorexia-tabellen ovan?
+
+
     {
         "id": "M8",
         "subid": null,
-        "text": " HAR M5 KODATS JA OCH HAR ANTINGEN M6 ELLER M7 KODATS NEJ?",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " HAR M5 KODATS JA OCH HAR ANTINGEN M6 ELLER M7 KODATS NEJ?",
         "answer": null
     },
     {
-        "id": null,
+        "id": " BULIMIA NERVOSA PÅGÅENDE",
         "subid": null,
-        "text": " BULIMIA NERVOSA",
+        "text": null,
         "title": null,
         "rules": null,
-        "answer": null
+         "answer":        
+        [
+            "NEJ             JA"
+        ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " PÅGÅENDE",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+  
     {
         "id": null,
         "subid": null,
@@ -5698,9 +5642,9 @@ DATA =
         ]
     },
     {
-        "id": null,
+        "id": " ANOREXIA NERVOSA Med hetsätning/självrensning PÅGÅENDE",
         "subid": null,
-        "text": " ANOREXIA NERVOSA",
+        "text": null,
         "title": null,
         "rules": null,
         "answer": null
@@ -5708,46 +5652,12 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " Med",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " UPPFYLLER PATIENTENS SYMTOM KRITERIERNA FÖR ANOREXIA NERVOSA?",
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " hetsätning/självrensning",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " PÅGÅENDE",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " UPPFYLLER PATIENTENS SYMTOM KRITERIERNA FÖR ANOREXIA NERVOSA?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ                       JA"
-        ]
-    },
+
     {
         "id": null,
         "subid": null,
@@ -5756,10 +5666,30 @@ DATA =
         "rules": null,
         "answer": null
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " ANOREXIA NERVOSA",
+        "text": null,
+        "title": null,
+        "rules": " HAR M2 OCH M3 KODATS NEJ?",
+        "answer": null
+    },
+    {
+        "id": "ANOREXIA NERVOSA Med självsvält PÅGÅENDE",
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": null,
+        "answer":
+        [
+            "NEJ               JA"
+        ]
+    },
+    {
+        "id": null,
+        "subid": null,
+        "text": " DEFINITIONER FÖR ÄTSTÖRNING:",
         "title": null,
         "rules": null,
         "answer": null
@@ -5767,7 +5697,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " HAR M2 OCH M3 KODATS NEJ?",
+        "text": " LINDRIG = 1–3 EPISODER AV OLÄMPLIGA KOMPENSATORISKA BETEENDEN",
         "title": null,
         "rules": null,
         "answer": null
@@ -5775,7 +5705,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " Med självsvält",
+        "text": " MEDELSVÅR = 4–7 EPISODER AV OLÄMPLIGA KOMPENSATORISKA BETEENDEN",
         "title": null,
         "rules": null,
         "answer": null
@@ -5783,7 +5713,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " PÅGÅENDE",
+        "text": " SVÅR = 8–13 EPISODER AV OLÄMPLIGA KOMPENSATORISKA BETEENDEN",
         "title": null,
         "rules": null,
         "answer": null
@@ -5791,79 +5721,72 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " DEFINITIONER FÖR ÄTSTÖRNING: ANGE OM:",
+        "text": " MYCKET SVÅR = 14 ELLER FLER EPISODER AV OLÄMPLIGA KOMPENSATORISKA BETEENDEN",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
+
+        {
         "id": null,
         "subid": null,
-        "text": " LINDRIG = 1–3 EPISODER AV OLÄMPLIGA KOMPENSATORISKA BETEENDEN LINDRIG []",
+        "text": "ANGE OM:",
         "title": null,
         "rules": null,
         "answer": null
     },
+
+
     {
         "id": null,
         "subid": null,
-        "text": " MEDELSVÅR = 4–7 EPISODER AV OLÄMPLIGA KOMPENSATORISKA BETEENDEN MEDELSVÅR []",
+        "text": " LINDRIG []",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " SVÅR = 8–13 EPISODER AV OLÄMPLIGA KOMPENSATORISKA BETEENDEN SVÅR []",
+        "text": " MEDELSVÅR []",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " MYCKET SVÅR = 14 ELLER FLER EPISODER AV OLÄMPLIGA KOMPENSATORISKA MYCKET SVÅR []",
+        "text": " SVÅR []",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
+
+        {
         "id": null,
         "subid": null,
-        "text": " BETEENDEN",
+        "text": " MYCKET SVÅR []",
         "title": null,
         "rules": null,
         "answer": null
     },
+
+
     {
-        "id": null,
-        "subid": null,
-        "text": " MB. HETSÄTNINGSSTÖRNING",
-        "title": "B. HETSÄTNINGSSTÖRNING",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
+        "id": "MB. HETSÄTNINGSSTÖRNING",
+        "subid": " ",
         "text": " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ I DIAGNOSRUTAN OCH FORTSÄTT MED NÄSTA AVSNITT)",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
-        "id": null,
-        "subid": null,
-        "text": " =>",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": "MB 1 UPPFYLLER PATIENTENS SYMTOM KRITERIERNA FÖR ANOREXIA NERVOSA? ",
+        "id": "MB 1",
+        "subid": " ",
+        "text": "UPPFYLLER PATIENTENS SYMTOM KRITERIERNA FÖR ANOREXIA NERVOSA? ",
         "title": null,
         "rules": null,
         "answer":
@@ -5871,6 +5794,8 @@ DATA =
             "NEJ               JA"
         ]
     },
+
+
     {
         "id": null,
         "subid": null,
@@ -5880,9 +5805,9 @@ DATA =
         "answer": null
     },
     {
-        "id": null,
-        "subid": null,
-        "text": "MB 2 UPPFYLLER PATIENTENS SYMTOM KRITERIERNA FÖR BULIMIA NERVOSA? ",
+        "id": "MB 2",
+        "subid": " ",
+        "text": "UPPFYLLER PATIENTENS SYMTOM KRITERIERNA FÖR BULIMIA NERVOSA? ",
         "title": null,
         "rules": null,
         "answer":
@@ -5890,7 +5815,8 @@ DATA =
             "NEJ               JA"
         ]
     },
-    {
+
+        {
         "id": null,
         "subid": null,
         "text": " =>",
@@ -5898,29 +5824,12 @@ DATA =
         "rules": null,
         "answer": null
     },
+
+
     {
-        "id": null,
-        "subid": null,
-        "text": "MB 3 M2 HAR KODATS JA ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ               JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " =>",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": "MB 4 M3 HAR KODATS JA ",
+        "id": "MB 3 ",
+        "subid": " ",
+        "text": " M2 HAR KODATS JA ",
         "title": null,
         "rules": null,
         "answer":
@@ -5937,72 +5846,9 @@ DATA =
         "answer": null
     },
     {
-        "id": null,
-        "subid": null,
-        "text": "MB 5 M4 HAR KODATS JA ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ               JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " Under de senaste 3 månaderna av hetsätandet:",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": "MB 6a Åt du fortare än vanligt? ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ               JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": "MB 6b Åt du tills du var obehagligt mätt? ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ               JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": "MB 6c Åt du stora mängder mat fastän du inte var hungrig? ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ               JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": "MB 6d Åt du i ensamhet därför att du skämdes över hur mycket du åt? ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ               JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": "MB 6e Kände du dig skamsen, deprimerad eller äcklad över dig själv efter hetsätandet? ",
+        "id": "MB 4",
+        "subid": " ",
+        "text": " M3 HAR KODATS JA ",
         "title": null,
         "rules": null,
         "answer":
@@ -6018,6 +5864,91 @@ DATA =
         "rules": null,
         "answer": null
     },
+    {
+        "id": "MB 5", 
+        "subid": " ",
+        "text": "M4 HAR KODATS JA ",
+        "title": null,
+        "rules": null,
+        "answer":
+        [
+            "NEJ               JA"
+        ]
+    },
+
+        {
+        "id": null,
+        "subid": null,
+        "text": " =>",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": " Under de senaste 3 månaderna av hetsätandet:",
+        "rules": null,
+        "answer": null
+    },
+    {
+        "id": "MB 6a",
+        "subid": " ",
+        "text": " Åt du fortare än vanligt? ",
+        "title": null,
+        "rules": null,
+        "answer":
+        [
+            "NEJ               JA"
+        ]
+    },
+    {
+        "id": "MB 6b",
+        "subid": " ",
+        "text": " Åt du tills du var obehagligt mätt? ",
+        "title": null,
+        "rules": null,
+        "answer":
+        [
+            "NEJ               JA"
+        ]
+    },
+    {
+        "id": "MB 6c",
+        "subid": " ",
+        "text": " Åt du stora mängder mat fastän du inte var hungrig? ",
+        "title": null,
+        "rules": null,
+        "answer":
+        [
+            "NEJ               JA"
+        ]
+    },
+    {
+        "id": "MB 6d",
+        "subid": " ",
+        "text": " Åt du i ensamhet därför att du skämdes över hur mycket du åt? ",
+        "title": null,
+        "rules": null,
+        "answer":
+        [
+            "NEJ               JA"
+        ]
+    },
+    {
+        "id": "MB 6e",
+        "subid": " ",
+        "text": " Kände du dig skamsen, deprimerad eller äcklad över dig själv efter hetsätandet? ",
+        "title": null,
+        "rules": null,
+        "answer":
+        [
+            "NEJ               JA"
+        ]
+    },
+
     {
         "id": null,
         "subid": null,
@@ -6038,9 +5969,9 @@ DATA =
         "answer": null
     },
     {
-        "id": null,
-        "subid": null,
-        "text": "MB 7 Besvärar dig ditt hetsätande mycket? ",
+        "id": "MB 7",
+        "subid": " ",
+        "text": "Besvärar dig ditt hetsätande mycket? ",
         "title": null,
         "rules": null,
         "answer":
@@ -6048,10 +5979,19 @@ DATA =
             "NEJ           JA"
         ]
     },
+
     {
         "id": null,
         "subid": null,
-        "text": "MB 8 Antal episoder av hetsätande per vecka: ______",
+        "text": " =>",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+    {
+        "id": "MB 8" ,
+        "subid": " ",
+        "text": "Antal episoder av hetsätande per vecka: ______",
         "title": null,
         "rules": null,
         "answer": null
@@ -6065,8 +6005,8 @@ DATA =
         "answer": null
     },
     {
-        "id": null,
-        "subid": null,
+        "id": "HETSÄTNINGSSTÖRNING PÅGÅENDE",
+        "subid": " ",
         "text": " HAR MB7 KODATS JA? ",
         "title": null,
         "rules": null,
@@ -6075,10 +6015,11 @@ DATA =
             "NEJ                  JA"
         ]
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " HETSÄTNINGSSTÖRNING",
+        "text": " DEFINITIONER FÖR ÄTSTÖRNING:",
         "title": null,
         "rules": null,
         "answer": null
@@ -6086,7 +6027,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " PÅGÅENDE",
+        "text": " LINDRIG = 1–3 EPISODER AV HETSÄTANDE PER VECKA",
         "title": null,
         "rules": null,
         "answer": null
@@ -6094,7 +6035,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " DEFINITIONER FÖR ÄTSTÖRNING: ANGE OM:",
+        "text": " MEDELSVÅR = 4–7 EPISODER AV HETSÄTANDE PER VECKA",
         "title": null,
         "rules": null,
         "answer": null
@@ -6102,7 +6043,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " LINDRIG = 1–3 EPISODER AV HETSÄTANDE PER VECKA LINDRIG []",
+        "text": " SVÅR = 8–13 EPISODER AV HETSÄTANDE PER VECKA",
         "title": null,
         "rules": null,
         "answer": null
@@ -6110,7 +6051,16 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " MEDELSVÅR = 4–7 EPISODER AV HETSÄTANDE PER VECKA MEDELSVÅR []",
+        "text": " MYCKET SVÅR = 14 ELLER FLER EPISODER AV HETSÄTANDE PER VECKA",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+
+        {
+        "id": null,
+        "subid": null,
+        "text": "ANGE OM:",
         "title": null,
         "rules": null,
         "answer": null
@@ -6118,7 +6068,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " SVÅR = 8–13 EPISODER AV HETSÄTANDE PER VECKA SVÅR []",
+        "text": " LINDRIG []",
         "title": null,
         "rules": null,
         "answer": null
@@ -6126,7 +6076,7 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " MYCKET SVÅR = 14 ELLER FLER EPISODER AV HETSÄTANDE PER VECKA MYCKET SVÅR []",
+        "text": " MEDELSVÅR []",
         "title": null,
         "rules": null,
         "answer": null
@@ -6134,62 +6084,41 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " N. GENERALISERAT ÅNGESTSYNDROM",
-        "title": "N. GENERALISERAT ÅNGESTSYNDROM",
+        "text": "  SVÅR []",
+        "title": null,
         "rules": null,
         "answer": null
     },
     {
         "id": null,
         "subid": null,
+        "text": " MYCKET SVÅR []",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+
+    {
+        "id": " N. GENERALISERAT ÅNGESTSYNDROM",
+        "subid": " ",
         "text": " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN, RINGA IN NEJ OCH FORTSÄTT MED NÄSTA AVSNITT)",
         "title": null,
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " =>",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": "N1",
         "subid": "a",
-        "text": "Har du varit överdrivet oroad eller ängslig för flera rutinsaker under de senaste 6 ",
+        "text": "Har du varit överdrivet oroad eller ängslig för flera rutinsaker under de senaste 6 månaderna? OM PATIENTEN ÄR OSÄKER PÅ VAD DU MENAR, UNDERSÖK GENOM ATT FRÅGA (Tycker andra att du är ”en som oroar sig”?) OCH BE OM EXEMPEL.",
         "title": null,
         "rules": null,
-        "answer":
+         "answer":
         [
             "NEJ         JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " månaderna?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OM PATIENTEN ÄR OSÄKER PÅ VAD DU MENAR, UNDERSÖK GENOM ATT FRÅGA (Tycker",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " andra att du är ”en som oroar sig”?) OCH BE OM EXEMPEL.",
-        "title": "L.",
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": null,
@@ -6198,6 +6127,8 @@ DATA =
         "rules": null,
         "answer": null
     },
+
+
     {
         "id": null,
         "subid": "b",
@@ -6209,6 +6140,7 @@ DATA =
             "NEJ         JA"
         ]
     },
+
     {
         "id": null,
         "subid": null,
@@ -6217,10 +6149,11 @@ DATA =
         "rules": null,
         "answer": null
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " ÄR PATIENTENS ÄNGSLAN OCH ORO UTESLUTANDE BEGRÄNSAD TILL, ",
+        "text": " ÄR PATIENTENS ÄNGSLAN OCH ORO UTESLUTANDE BEGRÄNSAD TILL, ELLER FÖRKLARAS DEN BÄTTRE AV, NÅGOT TIDIGARE GENOMGÅNGET SYNDROM?",
         "title": null,
         "rules": null,
         "answer":
@@ -6228,22 +6161,7 @@ DATA =
             "NEJ         JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ELLER FÖRKLARAS DEN BÄTTRE AV, NÅGOT TIDIGARE GENOMGÅNGET SYNDROM?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " =>",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": "N2",
         "subid": null,
@@ -6255,10 +6173,20 @@ DATA =
             "NEJ         JA"
         ]
     },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": " =>",
+        "title": null,
+        "rules": null,
+        "answer": null
+    },
+
     {
         "id": "N3",
         "subid": null,
-        "text": " KODA NEJ FÖR FÖLJANDE FRÅGOR OM SYMTOMEN ÄR BEGRÄNSADE TILL SYMTOM AV NÅGOT TIDIGARE",
+        "text": " KODA NEJ FÖR FÖLJANDE FRÅGOR OM SYMTOMEN ÄR BEGRÄNSADE TILL SYMTOM AV NÅGOT TIDIGARE GENOMGÅNGET SYNDROM.",
         "title": null,
         "rules": null,
         "answer": null
@@ -6266,16 +6194,8 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " GENOMGÅNGET SYNDROM.",
-        "title": "M.",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " När du var ängslig under de senaste 6 månaderna, var det så att du för det mesta:",
-        "title": null,
+        "text": null,
+        "title": " När du var ängslig under de senaste 6 månaderna, var det så att du för det mesta:",
         "rules": null,
         "answer": null
     },
@@ -6337,7 +6257,7 @@ DATA =
     {
         "id": null,
         "subid": "f",
-        "text": "Hade du problem med sömnen (svårt att somna, vaknade upp mitt i natten, vaknade ",
+        "text": "Hade du problem med sömnen (svårt att somna, vaknade upp mitt i natten, vaknade alldeles för tidigt på morgonen eller sov alldeles för mycket)?",
         "title": null,
         "rules": null,
         "answer":
@@ -6345,14 +6265,20 @@ DATA =
             "NEJ         JA"
         ]
     },
+
+
     {
         "id": null,
         "subid": null,
-        "text": " alldeles för tidigt på morgonen eller sov alldeles för mycket)?",
+        "text": null,
         "title": null,
-        "rules": null,
-        "answer": null
+        "rules": " HAR 3 ELLER FLER N3-SVAR KODATS JA? ",
+        "answer":
+        [
+            "NEJ         JA"
+        ]
     },
+
     {
         "id": null,
         "subid": null,
@@ -6361,21 +6287,11 @@ DATA =
         "rules": null,
         "answer": null
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " HAR 3 ELLER FLER N3-SVAR KODATS JA? ",
-        "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ         JA"
-        ]
-    },
+
     {
         "id": "N4",
         "subid": null,
-        "text": " Stör denna oro och dessa bekymmer avsevärt din förmåga att arbeta, att fungera socialt ",
+        "text": " Stör denna oro och dessa bekymmer avsevärt din förmåga att arbeta, att fungera socialt eller i relationer eller i andra viktiga områden av ditt liv, eller orsakar de avsevärda besvär för dig? ",
         "title": null,
         "rules": null,
         "answer":
@@ -6383,10 +6299,35 @@ DATA =
             "NEJ                   JA"
         ]
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " eller i relationer eller i andra viktiga områden av ditt liv, eller orsakar de avsevärda",
+        "text": null,
+        "title": null,
+        "rules": " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?",
+        "answer":
+        [
+            "NEJ                   JA"
+        ]
+    },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": "GENERALISERAT ÅNGESTSYNDROM PÅGÅENDE",
+        "title": null,
+        "rules": null,
+        "answer":
+        [
+            "NEJ                   JA"
+        ]
+    },
+
+    {
+        "id": " O. UTESLUTNING AV MEDICINSK, ORGANISK ELLER DROGRELATERAD GENES FÖR ALLA SYNDROM",
+        "subid": " ",
+        "text": null,
         "title": null,
         "rules": null,
         "answer": null
@@ -6394,64 +6335,16 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " besvär för dig? GENERALISERAT",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": " OM PATIENTEN KODAT POSITIVT FÖR NÅGOT PÅGÅENDE SYNDROM ELLER EGENTLIG DEPRESSIONSEPISOD ELLER FÖR MANISK ELLER HYPOMAN EPISOD, FRÅGA:",
         "answer": null
     },
     {
         "id": null,
         "subid": null,
-        "text": " ÅNGESTSYNDROM",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " HAR ”UTESLUT ORGANISK ORSAK (O2-SUMMERING)” KODATS JA?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " PÅGÅENDE",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " O. UTESLUTNING AV MEDICINSK, ORGANISK ELLER DROGRELATERAD GENES FÖR ALLA SYNDROM",
-        "title": "O. UTESLUTNING AV MEDICINSK, ORGANISK ELLER DROGRELATERAD GENES FÖR ALLA SYNDROM",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OM PATIENTEN KODAT POSITIVT FÖR NÅGOT PÅGÅENDE SYNDROM ELLER EGENTLIG",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " DEPRESSIONSEPISOD ELLER FÖR MANISK ELLER HYPOMAN EPISOD, FRÅGA:",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " Strax innan dessa symtom började:",
-        "title": null,
+        "text": null,
+        "title": "Strax innan dessa symtom började:",
         "rules": null,
         "answer": null
     },
@@ -6474,7 +6367,7 @@ DATA =
     {
         "id": "O2",
         "subid": null,
-        "text": " OM O1a ELLER O1b HAR KODATS JA, ÄR NÅGOT AV DEM EN SANNOLIK ORSAK TILL",
+        "text": " OM O1a ELLER O1b HAR KODATS JA, ÄR NÅGOT AV DEM EN SANNOLIK ORSAK TILL PATIENTENS TILLSTÅND, ENLIGT KLINIKERNS BEDÖMNING? VID BEHOV STÄLLS ÖPPNA TILLÄGGSFRÅGOR. [] Nej [] Ja [] Osäkert",
         "title": null,
         "rules": null,
         "answer": null
@@ -6482,75 +6375,21 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " PATIENTENS TILLSTÅND, ENLIGT KLINIKERNS BEDÖMNING? VID BEHOV STÄLLS ÖPPNA",
+        "text": " O2-SAMMANFATTNING: HAR EN ORGANISK/MEDICINSK ELLER DROGRELATERAD GENES UTESLUTITS? OM O2 HAR BESVARATS JA, DÅ BLIR O2-SUMMERING NEJ. OM O2 HAR BESVARATS NEJ, DÅ BLIR O2-SUMMERING JA. I ÖVRIGA FALL ÄR DET OSÄKERT. [] Nej [] Ja [] Osäkert",
         "title": null,
         "rules": null,
         "answer": null
     },
+ 
     {
-        "id": null,
-        "subid": null,
-        "text": " TILLÄGGSFRÅGOR. [] Nej [] Ja [] Osäkert",
-        "title": "R.                                                                            [] Nej     [] Ja   [] Osäkert",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " O2-SAMMANFATTNING: HAR EN ORGANISK/MEDICINSK ELLER DROGRELATERAD GENES",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " UTESLUTITS [] Nej [] Ja [] Osäkert",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " OM O2 HAR BESVARATS JA, DÅ BLIR O2-SUMMERING NEJ. OM O2 HAR BESVARATS NEJ, DÅ",
-        "title": "J. OM O",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " BLIR O2-SUMMERING JA.",
-        "title": "A.",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " I ÖVRIGA FALL ÄR DET OSÄKERT.",
-        "title": "T.",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " P. PERSONLIGHETSSYNDROM, ANTISOCIAL",
-        "title": "P. PERSONLIGHETSSYNDROM, ANTISOCIAL",
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
+        "id": " P. PERSONLIGHETSSYNDROM, ANTISOCIAL",
+        "subid": " ",
         "text": " (=> BETYDER: GÅ DIREKT TILL DIAGNOSRUTAN OCH RINGA IN NEJ)",
         "title": null,
         "rules": null,
         "answer": null
     },
+
     {
         "id": "P1",
         "subid": null,
@@ -6562,7 +6401,7 @@ DATA =
     {
         "id": null,
         "subid": "a",
-        "text": "Upprepade gånger skolkade från skolan eller rymde hemifrån över natten eller stannade ",
+        "text": "Upprepade gånger skolkade från skolan eller rymde hemifrån över natten eller stannade ute på kvällen/natten mot dina föräldrars regler?",
         "title": null,
         "rules": null,
         "answer":
@@ -6570,18 +6409,11 @@ DATA =
             "NEJ        JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ute på kvällen/natten mot dina föräldrars regler?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": "b",
-        "text": "Upprepade gånger ljög, fuskade, lurade andra eller stal eller bröt dig in i någons bostad ",
+        "text": "Upprepade gånger ljög, fuskade, lurade andra eller stal eller bröt dig in i någons bostad eller bil?",
         "title": null,
         "rules": null,
         "answer":
@@ -6589,14 +6421,7 @@ DATA =
             "NEJ        JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " eller bil?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": "c",
@@ -6641,6 +6466,19 @@ DATA =
             "NEJ        JA"
         ]
     },
+
+    {
+        "id": null,
+        "subid": null,
+        "text": null,
+        "title": null,
+        "rules": " HAR 2 ELLER FLER P1-SVAR KODATS JA? ",
+        "answer":
+        [
+            "NEJ        JA"
+        ]
+    },
+
     {
         "id": null,
         "subid": null,
@@ -6649,30 +6487,12 @@ DATA =
         "rules": null,
         "answer": null
     },
+
     {
         "id": null,
         "subid": null,
-        "text": " HAR 2 ELLER FLER P1-SVAR KODATS JA? ",
+        "text": " KODA INTE JA FÖR NEDANSTÅENDE BETEENDEN OM DE ENBART BETINGAS AV POLITISKA ELLER RELIGIÖSA MOTIV.",
         "title": null,
-        "rules": null,
-        "answer":
-        [
-            "NEJ        JA"
-        ]
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " KODA INTE JA FÖR NEDANSTÅENDE BETEENDEN OM DE ENBART BETINGAS AV POLITISKA",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ELLER RELIGIÖSA MOTIV.",
-        "title": "V.",
         "rules": null,
         "answer": null
     },
@@ -6687,7 +6507,7 @@ DATA =
     {
         "id": null,
         "subid": "a",
-        "text": "Gjort olagliga saker eller saker som man kan bli gripen för, antingen du åkte fast eller ej ",
+        "text": "Gjort olagliga saker eller saker som man kan bli gripen för, antingen du åkte fast eller ej (till exempel vandalisering, snatteri, stöld, narkotikahandel eller något ännu grövre brott)?",
         "title": null,
         "rules": null,
         "answer":
@@ -6695,26 +6515,11 @@ DATA =
             "NEJ        JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " (till exempel vandalisering, snatteri, stöld, narkotikahandel eller något ännu grövre",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " brott)?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": "b",
-        "text": "Ofta ljugit eller bedragit andra människor för att du haft lust eller för vinnings skull eller ",
+        "text": "Ofta ljugit eller bedragit andra människor för att du haft lust eller för vinnings skull eller ljugit bara för skojs skull?",
         "title": null,
         "rules": null,
         "answer":
@@ -6722,14 +6527,7 @@ DATA =
             "NEJ        JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " ljugit bara för skojs skull?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": "c",
@@ -6744,7 +6542,7 @@ DATA =
     {
         "id": null,
         "subid": "d",
-        "text": "Varit i slagsmål upprepade gånger eller angripit andra (inklusive slagsmål med din ",
+        "text": "Varit i slagsmål upprepade gånger eller angripit andra (inklusive slagsmål med din maka/make/sambo eller dina barn)?",
         "title": null,
         "rules": null,
         "answer":
@@ -6752,14 +6550,7 @@ DATA =
             "NEJ        JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " maka/make/sambo eller dina barn)?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": "e",
@@ -6774,7 +6565,7 @@ DATA =
     {
         "id": null,
         "subid": "f",
-        "text": "Upprepade gånger gjort sådant som andra skulle betrakta som ansvarslöst, som att inte ",
+        "text": "Upprepade gånger gjort sådant som andra skulle betrakta som ansvarslöst, som att inte betala vad du är skyldig, avsiktligt struntat i att behärska dig eller avsiktligt låtit bli att försörja dig?",
         "title": null,
         "rules": null,
         "answer":
@@ -6782,26 +6573,11 @@ DATA =
             "NEJ        JA"
         ]
     },
-    {
-        "id": null,
-        "subid": null,
-        "text": " betala vad du är skyldig, avsiktligt struntat i att behärska dig eller avsiktligt låtit bli att",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
-    {
-        "id": null,
-        "subid": null,
-        "text": " försörja dig?",
-        "title": null,
-        "rules": null,
-        "answer": null
-    },
+
     {
         "id": null,
         "subid": "g",
-        "text": "Inte haft samvetskval efter att ha skadat andra, behandlat andra illa, ljugit, stulit eller ",
+        "text": "Inte haft samvetskval efter att ha skadat andra, behandlat andra illa, ljugit, stulit eller vandaliserat?",
         "title": null,
         "rules": null,
         "answer":
@@ -6809,12 +6585,16 @@ DATA =
             "NEJ        JA"
         ]
     },
+
     {
-        "id": null,
-        "subid": null,
-        "text": " vandaliserat?",
+        "id": "PERSONLIGHETSSYNDROM, ANTISOCIAL, NÅGONSIN",
+        "subid": " ",
+        "text": null,
         "title": null,
         "rules": null,
-        "answer": null
-    }
+        "answer":
+        [
+            "NEJ        JA"
+        ]
+    },
 ]
