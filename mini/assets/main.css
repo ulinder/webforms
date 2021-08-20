@@ -1,17 +1,25 @@
-html{
-  font-family: "Courier New";
+html body p {
+  font-family: "Courier New" !important;
 }
 
-main{
-  padding-left: 20px;
+label {
+  font-size: 150%;
+  border: solid 1px;
+  box-shadow: 0px 3px 10px #1E2128;
+  padding: 8px;
+  margin: 10px;
+}
+
+hr {
+  border-color: black;
 }
 
 /* ----Alla cards--- */
 .card{
   border-color: #4C566A;
   background-color: #2D333F;
-
 }
+
 .card-background{
   box-shadow: 0px 3px 10px #1E2128;
   margin-bottom: 20px;

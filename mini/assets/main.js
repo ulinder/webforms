@@ -1,44 +1,54 @@
 window.addEventListener('load', function () {
   
+  // FUNCTIONS
+  const new_el = (str, valStr) =>{
+    var el = document.createElement(str);
+    if(valStr) el.innerHTML = valStr;
+    return el;
+  }
+
+  const new_div = (id) => {
+    var div = document.createElement('div');
+    div.id = `form_field_${id}`;
+    div.className = "form_field_div";
+    return div;
+  }
+
   // VARIABLES
-  let current_id = "";
-  const mini_body = document.getElementById('formbody');
+  var current_id = "";
+  const form_div = document.getElementById('form_div');
+  var current_div = new_div('init');
 
 
   // TEMPLATES 
   var radio_boolean_template = document.querySelector("#radio_boolean");
   
 
-  // FUNCTIONS
-  const new_el = (str, valStr) =>{
-    var el = document.createElement(str);
-    if(valStr) el.innerHTML = valStr;
-    return el; 
-  }
+  // DATA ITERATION
+  for (var i = 0; i < DATA.length; i++) {
 
-  for (var i = 0; i < DATA.length; i++) { // ITERATE ALL BLOCKS
-
-    if(DATA[i].id != null && DATA[i].id != current_id){ // finding block with new ID from previous
-      mini_body.append( new_el('hr') );
+    if(DATA[i].id != null && DATA[i].id != current_id)
+    { // When ID changes = asuming new question
       current_id = DATA[i].id
-    }
+      current_div = new_div(current_id);
+    } 
 
-    if(DATA[i].subid) mini_body.append( new_el('h3', `${current_id} ${DATA[i].subid}`) )   
-    if(DATA[i].title) mini_body.append( new_el('h2', DATA[i].title) ) 
-    if(DATA[i].text)  mini_body.append( new_el('p', DATA[i].text ) ) 
-    if(DATA[i].rules)  mini_body.append( new_el('h4', DATA[i].rules ) ) 
+    if(DATA[i].subid) form_div.append( new_el('h3', `${current_id} ${DATA[i].subid}`) )   
+    if(DATA[i].title) form_div.append( new_el('h2', DATA[i].title) ) 
+    if(DATA[i].text)  form_div.append( new_el('p', DATA[i].text ) ) 
+    // if(DATA[i].rules)  current_div.append( new_el('h4', DATA[i].rules ) )
 
     if(DATA[i].answer){ 
       var new_radio_boolean = radio_boolean_template.content.cloneNode(true);
-      mini_body.append( new_radio_boolean );
+      new_radio_boolean.getElementById('radio_pair_ja').name = `radio_pair_${i}`
+      new_radio_boolean.getElementById('radio_pair_ja').id = `radio_pair_ja_${i}`
+      new_radio_boolean.getElementById('radio_pair_nej').name = `radio_pair_${i}`
+      new_radio_boolean.getElementById('radio_pair_nej').id = `radio_pair_nej_${i}`
+      form_div.append( new_radio_boolean );
     } 
     
+
 
   }
 
 });
-
-
-const answer_ja_nej = (id) => {
-  
-}
