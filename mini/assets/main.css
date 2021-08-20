@@ -1,0 +1,18 @@
+html{
+  font-family: "Courier New";
+}
+
+main{
+  padding-left: 20px;
+}
+
+/* ----Alla cards--- */
+.card{
+  border-color: #4C566A;
+  background-color: #2D333F;
+
+}
+.card-background{
+  box-shadow: 0px 3px 10px #1E2128;
+  margin-bottom: 20px;
+}
