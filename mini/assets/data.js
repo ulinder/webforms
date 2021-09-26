@@ -134,9 +134,9 @@ DATA =
     {
         "id": null,
         "subid": null,
-        "text": " VID JA PÅ NÅGON AV DESSA FRÅGOR, KODA JA.",
+        "text": null,
         "title": null,
-        "rules": null,
+        "rules": "VID JA PÅ NÅGON AV DESSA FRÅGOR, KODA JA.",
         "answer": null,
     },
     {
