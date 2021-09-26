@@ -15,9 +15,12 @@ window.addEventListener('load', function () {
   }
 
   // VARIABLES
-  var current_id = "";
+  var current_id = "", 
+      sub_id = "",
+      full_id,
+      current_div = new_div('init');
+
   const form_div = document.getElementById('form_div');
-  var current_div = new_div('init');
 
 
   // TEMPLATES 
@@ -32,6 +35,8 @@ window.addEventListener('load', function () {
       current_id = DATA[i].id
       current_div = new_div(current_id);
     } 
+    
+    full_id = ( current_id + DATA[i].subid ).replace(" ","");
 
     if(DATA[i].subid) form_div.append( new_el('h3', `${current_id} ${DATA[i].subid}`) )   
     if(DATA[i].title) form_div.append( new_el('h2', DATA[i].title) ) 
@@ -40,10 +45,10 @@ window.addEventListener('load', function () {
 
     if(DATA[i].answer){ 
       var new_radio_boolean = radio_boolean_template.content.cloneNode(true);
-      new_radio_boolean.getElementById('radio_pair_ja').name = `radio_pair_${i}`
-      new_radio_boolean.getElementById('radio_pair_ja').id = `radio_pair_ja_${i}`
-      new_radio_boolean.getElementById('radio_pair_nej').name = `radio_pair_${i}`
-      new_radio_boolean.getElementById('radio_pair_nej').id = `radio_pair_nej_${i}`
+      new_radio_boolean.getElementById('radio_pair_ja').name = full_id;
+      new_radio_boolean.getElementById('radio_pair_ja').id = `${full_id}_ja`
+      new_radio_boolean.getElementById('radio_pair_nej').name = full_id;
+      new_radio_boolean.getElementById('radio_pair_nej').id = `${full_id}_nej`
       form_div.append( new_radio_boolean );
     } 
     
