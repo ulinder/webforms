@@ -24,3 +24,10 @@ hr {
   box-shadow: 0px 3px 10px #1E2128;
   margin-bottom: 20px;
 }
+
+input[type=checkbox] {
+  -ms-transform: scale(2); /* IE */
+  -moz-transform: scale(2); /* FF */
+  -webkit-transform: scale(2); /* Safari and Chrome */
+  -o-transform: scale(2); /* Opera */
+}
