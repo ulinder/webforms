@@ -1,0 +1,4548 @@
+{
+  "anonymous": false,
+  "category": "Psykisk ohälsa",
+  "description": "",
+  "descriptionInternal": "",
+  "completeText": "### Tack för dina svar!",
+  "title": null,
+  "name": "SWEAA",
+  "language": {
+    "code": "swe",
+    "codeSystem": "1.0.639.2"
+  },
+  "term": "Genom att skicka in detta formulär godkänner jag att mina uppgifter lagras och används av min vårdgivare.",
+  "media": null,
+  "code": null,
+  "pages": [
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 1,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "**Välj det alternativ som stämmer bäst:**",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 0,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": "q1",
+                "subject": "Jag plågas av matlukt, jag måste t ex lämna rum eller måltid pga lukten \n",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q2",
+                "subject": "Jag är överkänslig för vissa smaker\n",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q3",
+                "subject": "Jag har svårt att känna vad maten smakar \n",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q4",
+                "subject": "Jag är känslig för om maten har en speciell konsistens\n",
+                "description": "",
+                "questionNumber": 4,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q5",
+                "subject": "Jag vill helst att maten ska ha jämn konsistens, såsom t ex puré\n",
+                "description": "",
+                "questionNumber": 5,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q6",
+                "subject": "Jag har svårt att äta maträtter där flera ingredienser är blandade, t ex grytor \n",
+                "description": "",
+                "questionNumber": 6,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q7",
+                "subject": "Jag störs av hur det låter när jag tuggar viss mat, t ex knäckebröd\n",
+                "description": "",
+                "questionNumber": 7,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q8",
+                "subject": "Jag störs av andras \"ätljud\"\n",
+                "description": "",
+                "questionNumber": 8,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q9",
+                "subject": "Jag störs av om andra pratar samtidigt som jag äter\n",
+                "description": "",
+                "questionNumber": 9,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q10",
+                "subject": "Det är viktigt att maten ligger sorterad på tallriken\n",
+                "description": "",
+                "questionNumber": 10,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q11",
+                "subject": "Jag äter maten på tallriken i viss ordning (t ex köttet först, sedan potatisen)\n",
+                "description": "",
+                "questionNumber": 11,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q12",
+                "subject": "Jag har svårt att tugga \n",
+                "description": "",
+                "questionNumber": 12,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q13",
+                "subject": "Jag dreglar under måltiden\n",
+                "description": "",
+                "questionNumber": 13,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q14",
+                "subject": "Jag blir kladdig runt munnen när jag äter \n",
+                "description": "",
+                "questionNumber": 14,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q15",
+                "subject": "Jag har svårt att svälja \n",
+                "description": "",
+                "questionNumber": 15,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q16",
+                "subject": "Jag spiller när jag äter\n",
+                "description": "",
+                "questionNumber": 16,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q17",
+                "subject": "Jag har ett bra bordskick\n",
+                "description": "",
+                "questionNumber": 17,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q18",
+                "subject": "Jag dricker ur glas utan att söla \n",
+                "description": "",
+                "questionNumber": 18,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q19",
+                "subject": "Jag handlar mat från en speciell affär/affärskedja\n",
+                "description": "",
+                "questionNumber": 19,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q20",
+                "subject": "Min mat måste vara av ett visst märke\n",
+                "description": "",
+                "questionNumber": 20,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q21",
+                "subject": "Om jag handlar tillsammans med någon annan, vill jag kontrollera vilka varor som inhandlas\n",
+                "description": "",
+                "questionNumber": 21,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q22",
+                "subject": "Jag föredrar viss mat beroende på matens färg\n",
+                "description": "",
+                "questionNumber": 22,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q23",
+                "subject": "Jag äter samma mat varje dag \n",
+                "description": "",
+                "questionNumber": 23,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q24",
+                "subject": "Jag undviker att prova ny mat/nya maträtter \n",
+                "description": "",
+                "questionNumber": 24,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q25",
+                "subject": "Jag äter endast ett fåtal olika maträtter, max 10st\n",
+                "description": "",
+                "questionNumber": 25,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q26",
+                "subject": "Jag äter mindre mängd mat än andra \n",
+                "description": "",
+                "questionNumber": 26,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q27",
+                "subject": "Jag dricker överdrivet mycket vätska \n",
+                "description": "",
+                "questionNumber": 27,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q28",
+                "subject": "Jag kräver att t ex glas, tallrik och bestick ska placeras på ett visst sätt, som avviker från normal dukning\n",
+                "description": "",
+                "questionNumber": 28,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q29",
+                "subject": "Jag har svårt att byta plats vid matbordet \n",
+                "description": "",
+                "questionNumber": 29,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q30",
+                "subject": "Jag har speciella ritualer runt måltiden \n",
+                "description": "",
+                "questionNumber": 30,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q31",
+                "subject": "Jag får vredesutbrott vid matbordet \n",
+                "description": "",
+                "questionNumber": 31,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q32",
+                "subject": "Jag gnäller vid matbordet \n",
+                "description": "",
+                "questionNumber": 32,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q33",
+                "subject": "Jag har svårt att äta på skolan/arbetsplatsen/aktivitetshuset eller liknande \n",
+                "description": "",
+                "questionNumber": 33,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q34",
+                "subject": "Jag har svårt att äta hos släktingar\n",
+                "description": "",
+                "questionNumber": 34,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q35",
+                "subject": "Jag har svårt att äta hos vänner \n",
+                "description": "",
+                "questionNumber": 35,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q36",
+                "subject": "Jag har svårt att äta på café \n",
+                "description": "",
+                "questionNumber": 36,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q37",
+                "subject": "Jag har svårt att äta på restaurang \n",
+                "description": "",
+                "questionNumber": 37,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q38",
+                "subject": "Jag har svårt att äta när jag är utomlands \n",
+                "description": "",
+                "questionNumber": 38,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q39",
+                "subject": "Jag äter tillsammans med den/de jag bor med \n",
+                "description": "",
+                "questionNumber": 39,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q40",
+                "subject": "Jag äter i mitt sovrum \n",
+                "description": "",
+                "questionNumber": 40,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q41",
+                "subject": "Jag anpassar mitt beteende till andra som sitter kring bordet (t ex bordskick, konversation)\n",
+                "description": "",
+                "questionNumber": 41,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q42",
+                "subject": "Jag tycker om gemenskapen kring en måltid \n",
+                "description": "",
+                "questionNumber": 42,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q43",
+                "subject": "Jag samtalar under måltiden \n",
+                "description": "",
+                "questionNumber": 43,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q44",
+                "subject": "Jag tittar mest ner på min mat under måltiden\n",
+                "description": "",
+                "questionNumber": 44,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q45",
+                "subject": "Jag säger om jag tycker maten är god(när jag blir bjuden på mat)\n",
+                "description": "",
+                "questionNumber": 45,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q46",
+                "subject": "Jag tackar för maten (när jag har blivit bjuden på mat)\n",
+                "description": "",
+                "questionNumber": 46,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q47",
+                "subject": "Jag äter med kniv och gaffel \n",
+                "description": "",
+                "questionNumber": 47,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q48",
+                "subject": "Jag lämnar matbordet så fort maten är uppäten\n",
+                "description": "",
+                "questionNumber": 48,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q49",
+                "subject": "Jag framkallar kräkningar efter måltid \n",
+                "description": "",
+                "questionNumber": 49,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q50",
+                "subject": "Jag använder vätskedrivande medel (=diuretika)\n",
+                "description": "",
+                "questionNumber": 50,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q51",
+                "subject": "Jag använder dietpiller \n",
+                "description": "",
+                "questionNumber": 51,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q52",
+                "subject": "Jag bantar fastän andra tycker att jag är för smal\n",
+                "description": "",
+                "questionNumber": 52,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q53",
+                "subject": "Jag fastar \n",
+                "description": "",
+                "questionNumber": 53,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q54",
+                "subject": "Jag ersätter måltider med näringsdrycker/pulver\n",
+                "description": "",
+                "questionNumber": 54,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q55",
+                "subject": "Det är viktigt att det är en och samma person, som lagar min mat\n",
+                "description": "",
+                "questionNumber": 55,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q56",
+                "subject": "Jag matvägrar \n",
+                "description": "",
+                "questionNumber": 56,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q57",
+                "subject": "Jag känner när jag är hungrig \n",
+                "description": "",
+                "questionNumber": 57,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q58",
+                "subject": "Jag känner när jag är mätt \n",
+                "description": "",
+                "questionNumber": 58,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q59",
+                "subject": "Jag har svårt att göra två saker samtidigt under måltid, t ex tugga och skära maten\n",
+                "description": "",
+                "questionNumber": 59,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q60",
+                "subject": "Jag äter sådant som andra anser oätligt (t ex murbruk eller jord)\n",
+                "description": "",
+                "questionNumber": 60,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q61",
+                "subject": "Jag gör hellre saker tillsammans med andra än ensam\n",
+                "description": "",
+                "questionNumber": 61,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q62",
+                "subject": "Jag föredrar att göra saker på samma sätt om och om igen\n",
+                "description": "",
+                "questionNumber": 62,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q63",
+                "subject": "Jag brukar uppfatta detaljer som inte andra märker\n",
+                "description": "",
+                "questionNumber": 63,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q64",
+                "subject": "Jag har svårt att hålla igång ett samtal \n",
+                "description": "",
+                "questionNumber": 64,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": "q65",
+                "subject": "Jag tycker om att samla information om saker (t ex bilmärken, fågelarter, tågmodeller, växtarter etc.)",
+                "description": "",
+                "questionNumber": 65,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Stämmer aldrig",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer sällan",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ibland",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer ofta",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Stämmer alltid",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    },
+    {
+      "page": {
+        "subject": "Dieter och medicinering",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 2,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 11,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": null,
+                "subject": "Jag för diet pga följande sjukdom:",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "checkbox",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": 0,
+                "maxNumberOfChoices": 6,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Diabetes typ I",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Diabetes typ II",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Glutenintolerans",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Laktosintolerans",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Annan födoämnesintolerans",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Annat",
+                    "number": 6,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Ange vilken annan sjukdom du genomgår diet för",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "textarea",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": 300,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": {
+                  "superiorAnswerAlternativeNumbers": 6,
+                  "superiorQuestionNumber": 1
+                },
+                "answerAlternatives": [],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Jag för diet på grund av",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "checkbox",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": 0,
+                "maxNumberOfChoices": 1,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Övervikt",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Undervikt",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Jag undviker att äta",
+                "description": "Markera de livsmedel du undviker att äta. Du kan välja flera.",
+                "questionNumber": 4,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "checkbox",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": 0,
+                "maxNumberOfChoices": 6,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Mejerivaror",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Kött från oxe och gris (t ex biff, hamburgare eller fläskkotlett)",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Fågel (t ex kyckling)",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Fisk och skaldjur",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Grönsaker",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Frukt",
+                    "number": 6,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Annat",
+                    "number": 7,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Ange vilket annat livsmedel du undviker att äta",
+                "description": "",
+                "questionNumber": 5,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "textarea",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": 300,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": {
+                  "superiorAnswerAlternativeNumbers": 7,
+                  "superiorQuestionNumber": 4
+                },
+                "answerAlternatives": [],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Jag har någon gång fått någon av följande diagnoser",
+                "description": "",
+                "questionNumber": 6,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "checkbox",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": 0,
+                "maxNumberOfChoices": 18,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "ADHD",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Aspergers syndrom",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Autism/autistiskt syndrom",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Autismliknande tillstånd/atypisk autism",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Tourettes syndrom",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Tvångssyndrom (OCD)",
+                    "number": 6,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Anorexia nervosa",
+                    "number": 7,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Bulimia nervosa",
+                    "number": 8,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Annan ätstörning t ex hetsätningsstörning",
+                    "number": 9,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Depression",
+                    "number": 10,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Annan psykiatrisk diagnos",
+                    "number": 11,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Hyperthyreos",
+                    "number": 12,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Diabetes typ I",
+                    "number": 13,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Diabetes typ lI",
+                    "number": 14,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Glutenintolerans",
+                    "number": 15,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Laktosintolerans",
+                    "number": 16,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Annan födoämnesintolerans",
+                    "number": 17,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Tarmsjukdom",
+                    "number": 18,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Vilken annan psykiatrisk sjukdom har du fått?",
+                "description": "",
+                "questionNumber": 7,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "textarea",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": 500,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": {
+                  "superiorAnswerAlternativeNumbers": 11,
+                  "superiorQuestionNumber": 6
+                },
+                "answerAlternatives": [],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Annan födoämnesintollerans",
+                "description": "",
+                "questionNumber": 8,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "textarea",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": 500,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": {
+                  "superiorAnswerAlternativeNumbers": 17,
+                  "superiorQuestionNumber": 6
+                },
+                "answerAlternatives": [],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Vilken tarmsjukdom har du?",
+                "description": "",
+                "questionNumber": 9,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "textarea",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": 300,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": {
+                  "superiorAnswerAlternativeNumbers": 18,
+                  "superiorQuestionNumber": 6
+                },
+                "answerAlternatives": [],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Jag behandlas med någon av följande mediciner",
+                "description": "",
+                "questionNumber": 10,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "checkbox",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": 0,
+                "maxNumberOfChoices": 5,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Tillväxthormon",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "”Pubertetsbromsare” (t ex Decapeptyl, Suprefact, Procren)",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "”Depressionsmedicin” (t ex Fluoxetin, Fontex, Sertralin, Zoloft, Citalopram, Cipramil)",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "”ADHD-medicin” (t ex Concerta, Ritalin eller Strattera)",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Neuroleptika (t ex Risperidon, Risperdal, Olanzapin, Zyprexa, Seroquel, Abilify)",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Annan (ange i fritext under)",
+                    "number": 6,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Ange vilken annan medicin du behandlas med",
+                "description": "",
+                "questionNumber": 11,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "textarea",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": 5000,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": {
+                  "superiorAnswerAlternativeNumbers": 6,
+                  "superiorQuestionNumber": 10
+                },
+                "answerAlternatives": [],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    }
+  ],
+  "minNumberOfQuestions": 70,
+  "maxNumberOfQuestions": 76,
+  "minNumberOfPages": 2,
+  "maxNumberOfPages": 2,
+  "calculationFormulas": [
+    {
+      "calculationId": "total",
+      "subject": "Summering fråga 1-60",
+      "descriptionCareActor": "Summering av samtliga frågor 1 till 60. ",
+      "descriptionSubjectOfCare": null,
+      "approvedForSubjectOfCare": false,
+      "type": "inera:form-engine:drools-java:1",
+      "license": null,
+      "formula": "when\n  q: Questions();\nthen\noutcome.set( \n(\n(q.get('q1',1)-1)+\n(q.get('q2',1)-1)+\n(q.get('q3',1)-1)+\n(q.get('q4',1)-1)+\n(q.get('q5',1)-1)+\n(q.get('q6',1)-1)+\n(q.get('q7',1)-1)+\n(q.get('q8',1)-1)+\n(q.get('q9',1)-1)+\n(q.get('q10',1)-1)+\n(q.get('q11',1)-1)+\n(q.get('q12',1)-1)+\n(q.get('q13',1)-1)+\n(q.get('q14',1)-1)+\n(q.get('q15',1)-1)+\n(q.get('q16',1)-1)+\n(4-(q.get('q17',1)-1))+\n(4-(q.get('q18',1)-1))+\n(q.get('q19',1)-1)+\n(q.get('q20',1)-1)+\n(q.get('q21',1)-1)+\n(q.get('q22',1)-1)+\n(q.get('q23',1)-1)+\n(q.get('q24',1)-1)+\n(q.get('q25',1)-1)+\n(q.get('q26',1)-1)+\n(q.get('q27',1)-1)+\n(q.get('q28',1)-1)+\n(q.get('q29',1)-1)+\n(q.get('q30',1)-1)+\n(q.get('q31',1)-1)+\n(q.get('q32',1)-1)+\n(q.get('q33',1)-1)+\n(q.get('q34',1)-1)+\n(q.get('q35',1)-1)+\n(q.get('q36',1)-1)+\n(q.get('q37',1)-1)+\n(q.get('q38',1)-1)+\n(4-(q.get('q39',1)-1))+\n(q.get('q40',1)-1)+\n(4-(q.get('q41',1)-1))+\n(4-(q.get('q42',1)-1))+\n(4-(q.get('q43',1)-1))+\n(q.get('q44',1)-1)+\n(4-(q.get('q45',1)-1))+\n(4-(q.get('q46',1)-1))+\n(4-(q.get('q47',1)-1))+\n(q.get('q48',1)-1)+\n(q.get('q49',1)-1)+\n(q.get('q50',1)-1)+\n(q.get('q51',1)-1)+\n(q.get('q52',1)-1)+\n(q.get('q53',1)-1)+\n(q.get('q54',1)-1)+\n(q.get('q55',1)-1)+\n(q.get('q56',1)-1)+\n(4-(q.get('q57',1)-1))+\n(4-(q.get('q58',1)-1))+\n(q.get('q59',1)-1)+\n(q.get('q60',1)-1)\n)/60*25\n);\nend"
+    },
+    {
+      "calculationId": "btsd-score",
+      "subject": "BTSD-score",
+      "descriptionCareActor": "btsd-score",
+      "descriptionSubjectOfCare": null,
+      "approvedForSubjectOfCare": false,
+      "type": "inera:form-engine:drools-java:1",
+      "license": null,
+      "formula": "when\n  q: Questions();\nthen\noutcome.set( \n(\n(4-(q.get('q39',1)-1))+\n(q.get('q40',1)-1)+\n(4-(q.get('q41',1)-1))+\n(4-(q.get('q42',1)-1))+\n(4-(q.get('q43',1)-1))+\n(q.get('q44',1)-1)+\n(4-(q.get('q45',1)-1))+\n(4-(q.get('q46',1)-1))+\n(4-(q.get('q47',1)-1))+\n(q.get('q48',1)-1)+\n(q.get('q59',1)-1)\n)/11*25\n);\nend"
+    }
+  ]
+}

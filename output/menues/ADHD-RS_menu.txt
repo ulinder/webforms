@@ -1,0 +1,114 @@
+1
+Barndomstid
+__________________________________________________________________
+ADHD-RS-2.1.1
+Ouppmärksam på detaljer eller gör slarvfel i skolarbetet eller i andra aktiviteter.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.1.2
+Har svårt att bibehålla uppmärksamheten inför uppgifter/lekar.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.1.3
+Verkar inte lyssna på direkt tilltal.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.1.4
+Följer inte instruktioner, lyckas ej genomföra skol-eller hemuppgifter.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.1.5
+Har svårt att organisera dina uppgifter och aktiviteter.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.1.6
+Undviker, ogillar eller är ovillig att utföra uppgifter som kräver mental uthållighet.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.1.7
+Tappar bort saker som är nödvändiga för olika aktiviteter.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.1.8
+Är lättdistraherad av yttre stimuli.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.1.9
+Är glömsk i det dagliga livet.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.1.10
+Har svårt att vara stilla med händer och fötter och kan inte sitta stilla.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.1.11
+Lämnar din plats i situationer där man kan förväntas sitta kvar en längre stund.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.1.12
+Springer omkring, klänger eller klättrar mer än vad som anses lämpligt för situationen.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.1.13
+Har svårt att leka eller utöva fritidsaktiviteter lugnt och stilla.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.1.14
+Verkar varapå språng eller ”gå på ”högvarv”.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.1.15
+Pratar överdrivet mycket.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.1.16
+Kastar ur dig svar på frågor innan frågeställaren pratat färdigt.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.1.17
+Har svårt att vänta på din tur.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.1.18
+Avbryter eller inkräktar på andra.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.2.1
+Ouppmärksam på detaljer eller gör slarvfel i skolarbetet eller i andra aktiviteter.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.2.2
+Har svårt att bibehålla uppmärksamheten inför uppgifter/lekar.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.2.3
+Verkar inte lyssna på direkt tilltal.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.2.4
+Följer inte instruktioner, lyckas ej genomföra skol-eller hemuppgifter.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.2.5
+Har svårt att organisera dina uppgifter och aktiviteter.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.2.6
+Undviker, ogillar eller är ovillig att utföra uppgifter som kräver mental uthållighet.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.2.7
+Tappar bort saker som är nödvändiga för olika aktiviteter.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.2.8
+Är lättdistraherad av yttre stimuli.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.2.9
+Är glömsk i det dagliga livet.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.2.10
+Har svårt att vara stilla med händer och fötter och kan inte sitta stilla.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.2.11
+Lämnar din plats i situationer där man kan förväntas sitta kvar en längre stund.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.2.12
+Springer omkring, klänger eller klättrar mer än vad som anses lämpligt för situationen.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.2.13
+Har svårt att leka eller utöva fritidsaktiviteter lugnt och stilla.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.2.14
+Verkar varapå språng eller ”gå på ”högvarv”.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.2.15
+Pratar överdrivet mycket.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.2.16
+Kastar ur dig svar på frågor innan frågeställaren pratat färdigt.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.2.17
+Har svårt att vänta på din tur.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.2.18
+Avbryter eller inkräktar på andra.
+värde: 1, text: Sällan eller aldrig,värde: 2, text: Ibland,värde: 3, text: Ofta,värde: 4, text: Väldigt ofta
+ADHD-RS-2.3.1
+Orsakar dina svårigheter med ouppmärksamhet eller hyperaktivitet/impulsivitet problem inom minst två livsområden, t.ex. i skolan/arbetet, med kamrater eller på fritiden?
+värde: 1, text: Nej,värde: 2, text: Ja

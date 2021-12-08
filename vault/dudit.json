@@ -682,7 +682,7 @@
       "approvedForSubjectOfCare": false,
       "type": "inera:form-engine:drools-java:1",
       "license": null,
-      "formula": "when   \n   q: Questions()\nthen\n   outcome.set(\n   (q.get(\"q1\") - 1) + \n   (q.get(\"q2\") - 1) + \n   (q.get(\"q3\") - 1) + \n   (q.get(\"q4\") - 1) + \n   (q.get(\"q5\") - 1) + \n   (q.get(\"q6\") - 1) + \n   (q.get(\"q7\") - 1) + \n   (q.get(\"q8\") - 1) + \n   (q.get(\"q9\") - 1) + ((\n   q.get(\"q10\") - 1) * 2) + ((\n   q.get(\"q11\") - 1) * 2) );\nend"
+      "formula": "when   \n   q: Questions()\nthen\n   outcome.set(\n   (q.get('q1') - 1) + \n   (q.get('q2') - 1) + \n   (q.get('q3') - 1) + \n   (q.get('q4') - 1) + \n   (q.get('q5') - 1) + \n   (q.get('q6') - 1) + \n   (q.get('q7') - 1) + \n   (q.get('q8') - 1) + \n   (q.get('q9') - 1) + ((\n   q.get('q10') - 1) * 2) + ((\n   q.get('q11') - 1) * 2) );\nend"
     }
   ]
 }

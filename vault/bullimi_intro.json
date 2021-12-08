@@ -1,0 +1,478 @@
+{
+  "anonymous": false,
+  "category": "Forskning",
+  "description": null,
+  "descriptionInternal": "",
+  "completeText": null,
+  "title": null,
+  "name": "bullemiforskning_intro",
+  "language": {
+    "code": "swe",
+    "codeSystem": "1.0.639.2"
+  },
+  "term": "Genom att skicka in detta formulär godkänner jag att mina uppgifter lagras och används av min vårdgivare.",
+  "media": null,
+  "code": null,
+  "pages": [
+    {
+      "page": {
+        "subject": "",
+        "description": "",
+        "informationURL": "",
+        "pageNumber": 1,
+        "lastPage": false,
+        "questionBlocks": [
+          {
+            "subject": "",
+            "description": "",
+            "blockNumber": 1,
+            "informationURL": "",
+            "numberOfQuestions": 9,
+            "gridConfig": null,
+            "questions": [
+              {
+                "questionId": null,
+                "subject": "Ålder",
+                "description": "",
+                "questionNumber": 1,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "number",
+                "inputUnit": "år",
+                "gridValue": null,
+                "answerMin": 18,
+                "answerMax": 99,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Juridiskt kön",
+                "description": "",
+                "questionNumber": 2,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Man",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Kvinna",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Könsidentitet",
+                "description": "",
+                "questionNumber": 3,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Man",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Kvinna",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Annan",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Utbildningsnivå",
+                "description": "",
+                "questionNumber": 4,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Ej genomgått grundskola",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Grundskola",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Gymnasium",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Eftergymnasial utbildning",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Universitets- eller högskoleutbildning",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Sysselsättning senaste 6 månaderna",
+                "description": "",
+                "questionNumber": 5,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Studier",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Yrkesarbetande",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Arbetslös",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Sjukskrivning",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Sjukersättning",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Föräldraledig",
+                    "number": 6,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Sysselsättningsgrad senaste 6 månaderna",
+                "description": "",
+                "questionNumber": 6,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Ingen sysselsättning",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Upp till 50 %",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Mer än 50 % men ej full sysselsättning",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Full sysselsättning",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Civilstånd",
+                "description": "",
+                "questionNumber": 7,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "radio",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": true,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "aldrig gift/aldrig sambo",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "särbo",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "gift/sambo",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "frånskild",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "frånskild och omgift/sambo",
+                    "number": 5,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "änka/änkling",
+                    "number": 6,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Har du några biologiska barn / adoptivbarn / bonusbarn?",
+                "description": "Lämna tom eller sätt 0 om du inte har några barn.",
+                "questionNumber": 8,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "number",
+                "inputUnit": "antal",
+                "gridValue": null,
+                "answerMin": 0,
+                "answerMax": 20,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
+                "questionSuperior": null,
+                "answerAlternatives": [],
+                "validationEvents": []
+              },
+              {
+                "questionId": null,
+                "subject": "Använder du någon tobak eller nikotin?",
+                "description": "",
+                "questionNumber": 9,
+                "code": null,
+                "informationURL": null,
+                "media": null,
+                "input": "checkbox",
+                "inputUnit": null,
+                "gridValue": null,
+                "answerMin": null,
+                "answerMax": null,
+                "answerMaxLength": null,
+                "answerPattern": null,
+                "answerStep": null,
+                "mandatory": false,
+                "questionAlign": null,
+                "minNumberOfChoices": 0,
+                "maxNumberOfChoices": 4,
+                "questionSuperior": null,
+                "answerAlternatives": [
+                  {
+                    "value": "Röker (inkl e-cigg)",
+                    "number": 1,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Snusar",
+                    "number": 2,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Nikotinplåster eller nikotintuggummi",
+                    "number": 3,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  },
+                  {
+                    "value": "Försöker sluta med något av ovanstående",
+                    "number": 4,
+                    "helpText": null,
+                    "code": null,
+                    "media": null
+                  }
+                ],
+                "validationEvents": []
+              }
+            ]
+          }
+        ]
+      },
+      "routing": null
+    }
+  ],
+  "minNumberOfQuestions": 9,
+  "maxNumberOfQuestions": 9,
+  "minNumberOfPages": 1,
+  "maxNumberOfPages": 1,
+  "calculationFormulas": []
+}

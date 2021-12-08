@@ -22,7 +22,7 @@ var F = {
   answerAlternative: JSON.parse( fs.readFileSync( path.join(WEBFORMS_ROOT, 'partials', 'answer_alternative' + '.json'), 'utf8' ) )
 }
 
-function dc(obj){ // make a deep copy
+function deepCopy(obj){ // make a deep copy
   return JSON.parse(JSON.stringify(obj));
 }
 
@@ -33,7 +33,7 @@ let answers = ["Ingen", "Liten", "Måttlig", "Stor", "Extrem/kan inte"];
 let def_alternatives = [];
 
 for(let i=0; i<answers.length; i++){
-  alt = dc(F.answerAlternative);
+  alt = deepCopy(F.answerAlternative);
   alt.number = (i+1);
   alt.value = answers[i];
   def_alternatives[i] = alt;
@@ -87,7 +87,7 @@ let allQuestions = [
 
 // Insert question into the block
 F.questionBlock.questions = allQuestions.map( (qstring, index) =>{ 
-  let q = dc(F.question);
+  let q = deepCopy(F.question);
   q.subject = qstring;
   q.questionNumber = index + 1;
   q.questionId = "q"+(index + 1);
