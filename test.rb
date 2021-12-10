@@ -12,11 +12,11 @@ class AqTest < Test::Unit::TestCase
     # GENERAL SETTINGS
     raise 'No test' if TESTNAME.nil?
     puts "Loading #{TESTNAME}"
-    
     @webform_json = JSON.parse(File.open("#{__dir__}/output/#{TESTNAME}.json", "r").read)
+    raise 'No "testURL": in json-file' unless @webform_json["testURL"]
     Selenium::WebDriver::Chrome::Service.driver_path = __dir__ + "/lib/chromedriver"
     @driver = Selenium::WebDriver.for :chrome
-    # @driver.manage.timeouts.implicit_wait = 8 # meaning how long the driver will wait to find an element
+    @driver.manage.timeouts.implicit_wait = 5 # meaning how long the driver will wait to find an element
     @wait = Selenium::WebDriver::Wait.new(:timeout => 60) # seconds
   end
 
@@ -66,6 +66,7 @@ class AqTest < Test::Unit::TestCase
         end # questions
       end # blocks
       @driver.action.send_keys(:space).perform # asume we land on Nästa after each block/page end
+      sleep 3
       @wait.until{ test_page_counter(page["page"]["pageNumber"]+1) }
     end # pages
 

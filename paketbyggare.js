@@ -5,15 +5,15 @@ Förutsätter att de enskilda testen har fungerande regler kopplade till sig.
 Scriptet döper om reglerna och alla ID för att bli unika i paketet
 
 */
+
 // Ange vilka skattningar som ska ingå i NAMES
-// NAMES = ["anamnes-affektiva-v2", "audit-c", "dudit-ed", "whodas-36"];                                                                                              // Affektiva
-// NAMES = ["anamnes-bipolar", "audit-c", "dudit", "asrs", "raads-14", "whodas-36", "scid-ii"];                                                                      // Bipolar
-// NAMES = ["phq-9","gad-7","audit","dudit"];                                                                                                                       // AoB
-// NAMES = ["anamnes-pmm","audit","dudit", "raads-14", "whodas-36", "aq", "pid-v-sf","dsm5", "isi", "lpfs-bf", "hcl32","madrs-s", "barkley", "screening-angest"];  // AoB
-   NAMES = ["bullimi_intro", "sweaa", "ede-q", "madrs-s", "audit", "dudit", "gad-7", "aq", "asrs", "adhd-rs" ]                                                    // Bullimi
+// NAMES = ["anamnes-affektiva-v2", "audit-c", "dudit-ed", "whodas-36"]; // Affektiva
+// NAMES = ["phq-9","gad-7","audit","dudit"]; // AoB
+NAMES = ["thancs_intro", "sweaa", "ede-q", "madrs-s", "audit", "dudit-e", "gad-7", "aq", "asrs-nodate", "adhd-rs" ] // Thancs Bullimi 
+// NAMES = ["anamnes-bipolar", "audit-c", "dudit", "asrs", "raads-14", "whodas-36"]; // Bipolar
 
 // Give this bundle a name
-BUNDLENAME = "Bipolar-skattningspaket"
+BUNDLENAME = "THANCS-paket-v3"
 
 require('./constants.js');
 const YAML = require('yaml');
@@ -34,11 +34,12 @@ var F = {
 
 F.base.name = "Paket: " + NAMES.join(", ");
 
+var total_change_log = [];
+
 for(var i = 0; i < NAMES.length; i++){
 
     form = JSON.parse( fs.readFileSync( path.join(WEBFORMS_ROOT, 'vault', NAMES[i] + '.json'), 'utf8' ) );
     fe = new FormExtractor(form, NAMES[i], 1);
-    console.log('Working with: ', fe.formObj.name); 
     this_form = fe.formObj;
 
     F.base.minNumberOfQuestions = F.base.minNumberOfQuestions + fe.formObj.minNumberOfQuestions;
@@ -52,15 +53,14 @@ for(var i = 0; i < NAMES.length; i++){
       ruleblock.formula = ruleblock.formula
       .split("\"").join("'")
       .split("\“").join("'")
-      .split(/get\(\'q/).join("get('"+NAMES[i]+"-q")
+      .split(/get\(\'q/).join("get('"+ NAMES[i].toLowerCase()+"-q")
       .split("$").join("");
       F.base.calculationFormulas.push(ruleblock);
     }); // MAP
 
-    // Align page number with whole array
-
     fe.body.pages[0].page.subject = fe.body.name;
     fe.body.pages.map( page => F.base.pages.push(page) ); 
+    total_change_log.push(...fe.change_log);
     
 } // END NAMES LOOP
 
@@ -73,7 +73,5 @@ F.base.maxNumberOfPages = F.base.pages.length;
 F.base.minNumberOfPages = F.base.maxNumberOfPages;
 
 wf( BUNDLENAME+".json", JSON.stringify(F.base) );
-
-// Create a test file from exported bundle
-feDone = new FormExtractor(F.base, BUNDLENAME, 1);
-
+wf( BUNDLENAME+"_changelog", total_change_log.join("\n"));
+console.log("New pack created: ", BUNDLENAME)

@@ -4040,7 +4040,7 @@
                 "minNumberOfChoices": null,
                 "maxNumberOfChoices": null,
                 "questionSuperior": {
-                  "superiorAnswerAlternativeNumbers": 6,
+                  "superiorAnswerAlternativeNumbers": [6],
                   "superiorQuestionNumber": 1
                 },
                 "answerAlternatives": [],
@@ -4180,7 +4180,7 @@
                 "minNumberOfChoices": null,
                 "maxNumberOfChoices": null,
                 "questionSuperior": {
-                  "superiorAnswerAlternativeNumbers": 7,
+                  "superiorAnswerAlternativeNumbers": [7],
                   "superiorQuestionNumber": 4
                 },
                 "answerAlternatives": [],
@@ -4358,7 +4358,7 @@
                 "minNumberOfChoices": null,
                 "maxNumberOfChoices": null,
                 "questionSuperior": {
-                  "superiorAnswerAlternativeNumbers": 11,
+                  "superiorAnswerAlternativeNumbers": [11],
                   "superiorQuestionNumber": 6
                 },
                 "answerAlternatives": [],
@@ -4385,7 +4385,7 @@
                 "minNumberOfChoices": null,
                 "maxNumberOfChoices": null,
                 "questionSuperior": {
-                  "superiorAnswerAlternativeNumbers": 17,
+                  "superiorAnswerAlternativeNumbers": [17],
                   "superiorQuestionNumber": 6
                 },
                 "answerAlternatives": [],
@@ -4412,7 +4412,7 @@
                 "minNumberOfChoices": null,
                 "maxNumberOfChoices": null,
                 "questionSuperior": {
-                  "superiorAnswerAlternativeNumbers": 18,
+                  "superiorAnswerAlternativeNumbers": [18],
                   "superiorQuestionNumber": 6
                 },
                 "answerAlternatives": [],
@@ -4506,7 +4506,7 @@
                 "minNumberOfChoices": null,
                 "maxNumberOfChoices": null,
                 "questionSuperior": {
-                  "superiorAnswerAlternativeNumbers": 6,
+                  "superiorAnswerAlternativeNumbers": [6],
                   "superiorQuestionNumber": 10
                 },
                 "answerAlternatives": [],

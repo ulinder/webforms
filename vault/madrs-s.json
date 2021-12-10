@@ -716,7 +716,7 @@
       "approvedForSubjectOfCare": false,
       "type": "inera:form-engine:drools-java:1",
       "license": null,
-      "formula": "when   \n   $q: Questions()\nthen\n   outcome.set($q.get('q1') -1 + \n$q.get('q2') -1 + \n$q.get('q3') -1 + \n$q.get('q4') -1 + \n$q.get('q5') -1 + \n$q.get('q6') -1 + \n$q.get('q7') -1 + \n$q.get('q8') -1 + \n$q.get('q9') -1);\nend\n"
+      "formula": "when   \n   q: Questions()\nthen\n   outcome.set(q.get('q1',1) -1 + \nq.get('q2',1) -1 + \nq.get('q3',1) -1 + \nq.get('q4',1) -1 + \nq.get('q5',1) -1 + \nq.get('q6',1) -1 + \nq.get('q7',1) -1 + \nq.get('q8',1) -1 + \nq.get('q9',1) -1);\nend\n"
     },
     {
       "calculationId": "Livslust",
@@ -726,7 +726,7 @@
       "approvedForSubjectOfCare": false,
       "type": "inera:form-engine:drools-java:1",
       "license": null,
-      "formula": "when\n  questions: Questions()\nthen\n  outcome.set(questions.get('q9')-1);\nend"
+      "formula": "when\n  questions: Questions()\nthen\n  outcome.set(q.get('q9',1)-1);\nend"
     }
   ]
   }

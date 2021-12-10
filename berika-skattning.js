@@ -21,5 +21,5 @@ fe = new FormExtractor(
 );
 
 wf( NAME+".json", JSON.stringify(fe.body) );
-wf(`menues/${NAME}_menu.txt`, fe.menu.join("\n") );
+wf(`${NAME}_abstract.txt`, fe.menu.join("\n") );
 wf(`${NAME}-rules.txt`, fe.giveSummaryRule() );
