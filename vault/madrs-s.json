@@ -726,7 +726,7 @@
       "approvedForSubjectOfCare": false,
       "type": "inera:form-engine:drools-java:1",
       "license": null,
-      "formula": "when\n  questions: Questions()\nthen\n  outcome.set(q.get('q9',1)-1);\nend"
+      "formula": "when\n  q: Questions()\nthen\n  outcome.set(q.get('q9',1)-1);\nend"
     }
   ]
   }

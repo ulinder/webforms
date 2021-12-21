@@ -1,19 +1,25 @@
 /* 
 
-INFO
-Förutsätter att de enskilda testen har fungerande regler kopplade till sig.
-Scriptet döper om reglerna och alla ID för att bli unika i paketet
+INTRO
+
+kör med:
+
+node paketbyggare.js
+
+Förutsättningar: 
+- IDn i test och regler följer enkel q1, q2, qn-format
+  - Varje test har egna fungerande regler
 
 */
 
 // Ange vilka skattningar som ska ingå i NAMES
 // NAMES = ["anamnes-affektiva-v2", "audit-c", "dudit-ed", "whodas-36"]; // Affektiva
 // NAMES = ["phq-9","gad-7","audit","dudit"]; // AoB
-NAMES = ["thancs_intro", "sweaa", "ede-q", "madrs-s", "audit", "dudit-e", "gad-7", "aq", "asrs-nodate", "adhd-rs" ] // Thancs Bullimi 
-// NAMES = ["anamnes-bipolar", "audit-c", "dudit", "asrs", "raads-14", "whodas-36"]; // Bipolar
+// NAMES = ["anamnes-bipolar", "audit-c", "dudit", "asrs", "raads-14", "whodas-36", "bsl-23"]; // Bipolar
+NAMES = ["thancs_intro", "sweaa", "ede-q", "madrs-s", "audit", "dudit", "gad-7", "aq", "asrs-nodate", "adhd-rs" ] // Thancs Bullimi 
 
 // Give this bundle a name
-BUNDLENAME = "THANCS-paket-v3"
+BUNDLENAME = "Thancs-v6"
 
 require('./constants.js');
 const YAML = require('yaml');
@@ -32,7 +38,7 @@ var F = {
   answerAlternative: JSON.parse( fs.readFileSync( path.join(WEBFORMS_ROOT, 'partials', 'answer_alternative' + '.json'), 'utf8' ) )
 }
 
-F.base.name = "Paket: " + NAMES.join(", ");
+F.base.name = BUNDLENAME + " " + NAMES.join(", ");
 
 var total_change_log = [];
 
@@ -73,5 +79,5 @@ F.base.maxNumberOfPages = F.base.pages.length;
 F.base.minNumberOfPages = F.base.maxNumberOfPages;
 
 wf( BUNDLENAME+".json", JSON.stringify(F.base) );
-wf( BUNDLENAME+"_changelog", total_change_log.join("\n"));
+// §wf( BUNDLENAME+"_changelog", total_change_log.join("\n"));
 console.log("New pack created: ", BUNDLENAME)

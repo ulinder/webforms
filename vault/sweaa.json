@@ -4440,44 +4440,31 @@
                 "maxNumberOfChoices": 5,
                 "questionSuperior": null,
                 "answerAlternatives": [
+
                   {
-                    "value": "Tillväxthormon",
+                    "value": "”Depressionsmedicin” (t ex Fluoxetin, Fontex, Sertralin, Zoloft, Citalopram, Cipramil)",
                     "number": 1,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "”Pubertetsbromsare” (t ex Decapeptyl, Suprefact, Procren)",
+                    "value": "”ADHD-medicin” (t ex Concerta, Ritalin, Elvanse, Attentin eller Strattera)",
                     "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "”Depressionsmedicin” (t ex Fluoxetin, Fontex, Sertralin, Zoloft, Citalopram, Cipramil)",
+                    "value": "Neuroleptika (t ex Risperidon, Risperdal, Olanzapin, Zyprexa, Seroquel, Abilify)",
                     "number": 3,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "”ADHD-medicin” (t ex Concerta, Ritalin eller Strattera)",
-                    "number": 4,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Neuroleptika (t ex Risperidon, Risperdal, Olanzapin, Zyprexa, Seroquel, Abilify)",
-                    "number": 5,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
                     "value": "Annan (ange i fritext under)",
-                    "number": 6,
+                    "number": 4,
                     "helpText": null,
                     "code": null,
                     "media": null
@@ -4506,7 +4493,7 @@
                 "minNumberOfChoices": null,
                 "maxNumberOfChoices": null,
                 "questionSuperior": {
-                  "superiorAnswerAlternativeNumbers": [6],
+                  "superiorAnswerAlternativeNumbers": [4],
                   "superiorQuestionNumber": 10
                 },
                 "answerAlternatives": [],

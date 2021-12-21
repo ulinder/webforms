@@ -5,7 +5,7 @@
   "descriptionInternal": "",
   "completeText": null,
   "title": null,
-  "name": "bullemiforskning_intro",
+  "name": "Demografisk formulär",
   "language": {
     "code": "swe",
     "codeSystem": "1.0.639.2"
@@ -412,13 +412,13 @@
               },
               {
                 "questionId": null,
-                "subject": "Använder du någon tobak eller nikotin?",
+                "subject": "Använder du tobak eller nikotin?",
                 "description": "",
                 "questionNumber": 9,
                 "code": null,
                 "informationURL": null,
                 "media": null,
-                "input": "checkbox",
+                "input": "radio",
                 "inputUnit": null,
                 "gridValue": null,
                 "answerMin": null,
@@ -426,36 +426,29 @@
                 "answerMaxLength": null,
                 "answerPattern": null,
                 "answerStep": null,
-                "mandatory": false,
+                "mandatory": true,
                 "questionAlign": null,
-                "minNumberOfChoices": 0,
-                "maxNumberOfChoices": 4,
+                "minNumberOfChoices": null,
+                "maxNumberOfChoices": null,
                 "questionSuperior": null,
                 "answerAlternatives": [
                   {
-                    "value": "Röker (inkl e-cigg)",
+                    "value": "Nej",
                     "number": 1,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "Snusar",
+                    "value": "Ja - röker",
                     "number": 2,
                     "helpText": null,
                     "code": null,
                     "media": null
                   },
                   {
-                    "value": "Nikotinplåster eller nikotintuggummi",
+                    "value": "Ja - snusar",
                     "number": 3,
-                    "helpText": null,
-                    "code": null,
-                    "media": null
-                  },
-                  {
-                    "value": "Försöker sluta med något av ovanstående",
-                    "number": 4,
                     "helpText": null,
                     "code": null,
                     "media": null

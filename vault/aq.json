@@ -1,11 +1,12 @@
 {
   "anonymous": false,
+  "testURL":"https://demo.formular.1177.se/etjanst/6f7d6a68-b783-4267-93ff-b5cbcc381fb8",
   "category": "Psykisk ohälsa",
   "description": "**Hur man fyller i formuläret:**\n\nHär följer en lista med påståenden. Var god läs igenom varje påstående mycket noggrant och bedöm hur starkt du instämmer eller inte instämmer genom att ange ett av svarsalternativen.\n\nDu kan pausa och spara när du vill genom att skrolla till slutet av formuläret och klicka på knappen **Spara**.",
   "descriptionInternal": "Autism-Spectrum Quotient AQ – vuxenversion (enl Baron-Cohen, Wheelwright, Skinner, Martin & Clubley, 2001). (Översättning: Peter Söderstrand, Neuropsyk Borås, 2006-10-05)",
   "completeText": "### Tack för dina svar!",
   "title": null,
-  "name": "AQ-matrix",
+  "name": "AQ",
   "language": {
     "code": "swe",
     "codeSystem": "1.0.639.2"

@@ -5,7 +5,7 @@
   "descriptionInternal": "",
   "completeText": null,
   "title": null,
-  "name": "adhd-rs",
+  "name": "ADHD-RS",
   "language": {
     "code": "swe",
     "codeSystem": "1.0.639.2"
@@ -2131,7 +2131,7 @@
       "approvedForSubjectOfCare": false,
       "type": "inera:form-engine:drools-java:1",
       "license": null,
-      "formula": "when\n  q: Questions();\nthen\n  outcome.set(\n  (q.get('adhd-rs-2.1.1',1)-1)+\n  (q.get('adhd-rs-2.1.2',1)-1)+\n  (q.get('adhd-rs-2.1.3',1)-1)+\n  (q.get('adhd-rs-2.1.4',1)-1)+\n  (q.get('adhd-rs-2.1.5',1)-1)+\n  (q.get('adhd-rs-2.1.6',1)-1)+\n  (q.get('adhd-rs-2.1.7',1)-1)+\n  (q.get('adhd-rs-2.1.8',1)-1)+\n  (q.get('adhd-rs-2.1.9',1)-1)+\n  (q.get('adhd-rs-2.1.10',1)-1)+\n  (q.get('adhd-rs-2.1.11',1)-1)+\n  (q.get('adhd-rs-2.1.12',1)-1)+\n  (q.get('adhd-rs-2.1.13',1)-1)+\n  (q.get('adhd-rs-2.1.14',1)-1)+\n  (q.get('adhd-rs-2.1.15',1)-1)+\n  (q.get('adhd-rs-2.1.16',1)-1)+\n  (q.get('adhd-rs-2.1.17',1)-1)+\n  (q.get('adhd-rs-2.1.18',1)-1)\n);\nend"
+      "formula": "when\n  q: Questions();\nthen\n  outcome.set(\n  (q.get('q1',1)-1)+\n  (q.get('q2',1)-1)+\n  (q.get('q3',1)-1)+\n  (q.get('q4',1)-1)+\n  (q.get('q5',1)-1)+\n  (q.get('q6',1)-1)+\n  (q.get('q7',1)-1)+\n  (q.get('q8',1)-1)+\n  (q.get('q9',1)-1)+\n  (q.get('q10',1)-1)+\n  (q.get('q11',1)-1)+\n  (q.get('q12',1)-1)+\n  (q.get('q13',1)-1)+\n  (q.get('q14',1)-1)+\n  (q.get('q15',1)-1)+\n  (q.get('q16',1)-1)+\n  (q.get('q17',1)-1)+\n  (q.get('q18',1)-1)\n);\nend"
     },
     {
       "calculationId": "nuvarande",
@@ -2141,7 +2141,7 @@
       "approvedForSubjectOfCare": false,
       "type": "inera:form-engine:drools-java:1",
       "license": null,
-      "formula": "when\n  q: Questions();\nthen\n  outcome.set(\n  (q.get('adhd-rs-2.2.1',1)-1)+\n  (q.get('adhd-rs-2.2.2',1)-1)+\n  (q.get('adhd-rs-2.2.3',1)-1)+\n  (q.get('adhd-rs-2.2.4',1)-1)+\n  (q.get('adhd-rs-2.2.5',1)-1)+\n  (q.get('adhd-rs-2.2.6',1)-1)+\n  (q.get('adhd-rs-2.2.7',1)-1)+\n  (q.get('adhd-rs-2.2.8',1)-1)+\n  (q.get('adhd-rs-2.2.9',1)-1)+\n  (q.get('adhd-rs-2.2.10',1)-1)+\n  (q.get('adhd-rs-2.2.11',1)-1)+\n  (q.get('adhd-rs-2.2.12',1)-1)+\n  (q.get('adhd-rs-2.2.13',1)-1)+\n  (q.get('adhd-rs-2.2.14',1)-1)+\n  (q.get('adhd-rs-2.2.15',1)-1)+\n  (q.get('adhd-rs-2.2.16',1)-1)+\n  (q.get('adhd-rs-2.2.17',1)-1)+\n  (q.get('adhd-rs-2.2.18',1)-1));\nend"
+      "formula": "when\n  q: Questions();\nthen\n  outcome.set(\n  (q.get('q19',1)-1)+\n  (q.get('q20',1)-1)+\n  (q.get('q21',1)-1)+\n  (q.get('q22',1)-1)+\n  (q.get('q23',1)-1)+\n  (q.get('q24',1)-1)+\n  (q.get('q25',1)-1)+\n  (q.get('q26',1)-1)+\n  (q.get('q27',1)-1)+\n  (q.get('q28',1)-1)+\n  (q.get('q29',1)-1)+\n  (q.get('q30',1)-1)+\n  (q.get('q31',1)-1)+\n  (q.get('q32',1)-1)+\n  (q.get('q33',1)-1)+\n  (q.get('q34',1)-1)+\n  (q.get('q35',1)-1)+\n  (q.get('q36',1)-1));\nend"
     },
     {
       "calculationId": "kriterier-barndom-attention",
@@ -2151,7 +2151,7 @@
       "approvedForSubjectOfCare": false,
       "type": "inera:form-engine:drools-java:1",
       "license": null,
-      "formula": "when\n  q: Questions();\nthen\n  outcome.set(\n  ( (q.get('adhd-rs-2.1.1',1) > 2) ? 1.0:0) +\n  ( (q.get('adhd-rs-2.1.2',1) > 2) ? 1.0:0) +\n  ( (q.get('adhd-rs-2.1.3',1) > 2) ? 1.0:0) +\n  ( (q.get('adhd-rs-2.1.4',1) > 2) ? 1.0:0) +\n  ( (q.get('adhd-rs-2.1.5',1) > 2) ? 1.0:0) +\n  ( (q.get('adhd-rs-2.1.6',1) > 2) ? 1.0:0) +\n  ( (q.get('adhd-rs-2.1.7',1) > 2) ? 1.0:0) +\n  ( (q.get('adhd-rs-2.1.8',1) > 2) ? 1.0:0) +\n  ( (q.get('adhd-rs-2.1.9',1) > 2) ? 1.0:0)\n);\nend"
+      "formula": "when\n  q: Questions();\nthen\n  outcome.set(\n  ( (q.get('q1',1) > 2) ? 1.0:0) +\n  ( (q.get('q2',1) > 2) ? 1.0:0) +\n  ( (q.get('q3',1) > 2) ? 1.0:0) +\n  ( (q.get('q4',1) > 2) ? 1.0:0) +\n  ( (q.get('q5',1) > 2) ? 1.0:0) +\n  ( (q.get('q6',1) > 2) ? 1.0:0) +\n  ( (q.get('q7',1) > 2) ? 1.0:0) +\n  ( (q.get('q8',1) > 2) ? 1.0:0) +\n  ( (q.get('q9',1) > 2) ? 1.0:0)\n);\nend"
     },
     {
       "calculationId": "kriterier-barndom-impulsivitet",
@@ -2161,7 +2161,7 @@
       "approvedForSubjectOfCare": false,
       "type": "inera:form-engine:drools-java:1",
       "license": null,
-      "formula": "when\n  q: Questions();\nthen\n  outcome.set(\n  ( (q.get('adhd-rs-2.1.10',1) > 2 )? 1.0:0 ) +\n  ( (q.get('adhd-rs-2.1.11',1) > 2 )? 1.0:0 ) +\n  ( (q.get('adhd-rs-2.1.12',1) > 2 )? 1.0:0 ) +\n  ( (q.get('adhd-rs-2.1.13',1) > 2 )? 1.0:0 ) +\n  ( (q.get('adhd-rs-2.1.14',1) > 2 )? 1.0:0 ) +\n  ( (q.get('adhd-rs-2.1.15',1) > 2 )? 1.0:0 ) +\n  ( (q.get('adhd-rs-2.1.16',1) > 2 )? 1.0:0 ) +\n  ( (q.get('adhd-rs-2.1.17',1) > 2 )? 1.0:0 ) +\n  ( (q.get('adhd-rs-2.1.18',1) > 2 )? 1.0:0 ) \n);\nend"
+      "formula": "when\n  q: Questions();\nthen\n  outcome.set(\n  ( (q.get('q10',1) > 2 )? 1.0:0 ) +\n  ( (q.get('q11',1) > 2 )? 1.0:0 ) +\n  ( (q.get('q12',1) > 2 )? 1.0:0 ) +\n  ( (q.get('q13',1) > 2 )? 1.0:0 ) +\n  ( (q.get('q14',1) > 2 )? 1.0:0 ) +\n  ( (q.get('q15',1) > 2 )? 1.0:0 ) +\n  ( (q.get('q16',1) > 2 )? 1.0:0 ) +\n  ( (q.get('q17',1) > 2 )? 1.0:0 ) +\n  ( (q.get('q18',1) > 2 )? 1.0:0 ) \n);\nend"
     },
     {
       "calculationId": "kriterier-vuxen-attention",
@@ -2171,7 +2171,7 @@
       "approvedForSubjectOfCare": false,
       "type": "inera:form-engine:drools-java:1",
       "license": null,
-      "formula": "when\n  q: Questions();\nthen\n  outcome.set(\n  ( (q.get('adhd-rs-2.2.1',1) > 2) ? 1.0:0) +\n  ( (q.get('adhd-rs-2.2.2',1) > 2) ? 1.0:0) +\n  ( (q.get('adhd-rs-2.2.3',1) > 2) ? 1.0:0) +\n  ( (q.get('adhd-rs-2.2.4',1) > 2) ? 1.0:0) +\n  ( (q.get('adhd-rs-2.2.5',1) > 2) ? 1.0:0) +\n  ( (q.get('adhd-rs-2.2.6',1) > 2) ? 1.0:0) +\n  ( (q.get('adhd-rs-2.2.7',1) > 2) ? 1.0:0) +\n  ( (q.get('adhd-rs-2.2.8',1) > 2) ? 1.0:0) +\n  ( (q.get('adhd-rs-2.2.9',1) > 2) ? 1.0:0)\n);\nend"
+      "formula": "when\n  q: Questions();\nthen\n  outcome.set(\n  ( (q.get('q19',1) > 2) ? 1.0:0) +\n  ( (q.get('q20',1) > 2) ? 1.0:0) +\n  ( (q.get('q21',1) > 2) ? 1.0:0) +\n  ( (q.get('q22',1) > 2) ? 1.0:0) +\n  ( (q.get('q23',1) > 2) ? 1.0:0) +\n  ( (q.get('q24',1) > 2) ? 1.0:0) +\n  ( (q.get('q25',1) > 2) ? 1.0:0) +\n  ( (q.get('q26',1) > 2) ? 1.0:0) +\n  ( (q.get('q27',1) > 2) ? 1.0:0)\n);\nend"
     },
     {
       "calculationId": "kriterier-vuxen-impulsivitet",
@@ -2181,7 +2181,7 @@
       "approvedForSubjectOfCare": false,
       "type": "inera:form-engine:drools-java:1",
       "license": null,
-      "formula": "when\n  q: Questions();\nthen\n  outcome.set(\n  ( (q.get('adhd-rs-2.2.10',1) > 2 )? 1.0:0 ) +\n  ( (q.get('adhd-rs-2.2.11',1) > 2 )? 1.0:0 ) +\n  ( (q.get('adhd-rs-2.2.12',1) > 2 )? 1.0:0 ) +\n  ( (q.get('adhd-rs-2.2.13',1) > 2 )? 1.0:0 ) +\n  ( (q.get('adhd-rs-2.2.14',1) > 2 )? 1.0:0 ) +\n  ( (q.get('adhd-rs-2.2.15',1) > 2 )? 1.0:0 ) +\n  ( (q.get('adhd-rs-2.2.16',1) > 2 )? 1.0:0 ) +\n  ( (q.get('adhd-rs-2.2.17',1) > 2 )? 1.0:0 ) +\n  ( (q.get('adhd-rs-2.2.18',1) > 2 )? 1.0:0 ) \n);\nend"
+      "formula": "when\n  q: Questions();\nthen\n  outcome.set(\n  ( (q.get('q28',1) > 2 )? 1.0:0 ) +\n  ( (q.get('q29',1) > 2 )? 1.0:0 ) +\n  ( (q.get('q30',1) > 2 )? 1.0:0 ) +\n  ( (q.get('q31',1) > 2 )? 1.0:0 ) +\n  ( (q.get('q32',1) > 2 )? 1.0:0 ) +\n  ( (q.get('q33',1) > 2 )? 1.0:0 ) +\n  ( (q.get('q34',1) > 2 )? 1.0:0 ) +\n  ( (q.get('q35',1) > 2 )? 1.0:0 ) +\n  ( (q.get('q36',1) > 2 )? 1.0:0 ) \n);\nend"
     }
   ]
 }
