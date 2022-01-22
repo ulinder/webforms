@@ -92,14 +92,14 @@
               },
               {
                 "questionId": "q2",
-                "subject": "2. Hur många ”glas” (se exempel) Dricker Du en typisk dag då Du dricker alkohol?",
+                "subject": "2. Hur många ”glas” (se exempel) dricker Du en typisk dag då Du dricker alkohol?",
                 "description": "",
                 "questionNumber": 2,
                 "code": null,
                 "informationURL": null,
                 "media": {
-                  "mediaURL": "https://formular.1177.se/media/e3ab14dd-ade1-4163-8339-b0fd57d9f8e8.PNG",
-                  "mediaType": "image/png",
+                  "mediaURL": "https://qa.formular.1177.se/media/0bc87c2c-2edb-4aee-8f98-3f15a836d91c.jpg",
+                  "mediaType": "image/jpg",
                   "mediaAlt": null
                 },
                 "input": "radio",
@@ -626,7 +626,7 @@
       "approvedForSubjectOfCare": false,
       "type": "inera:form-engine:drools-java:1",
       "license": null,
-      "formula": "when   \n   $q: Questions()\nthen\n   outcome.set($q.get(\"q1\") - 1 + $q.get(\"q2\") - 1 + $q.get(\"q3\") - 1 + $q.get(\"q4\") - 1 + $q.get(\"q5\") - 1 + $q.get(\"q6\") - 1 + $q.get(\"q7\") - 1 + $q.get(\"q8\") - 1 + (($q.get(\"q9\") - 1) * 2) + (($q.get(\"q10\") - 1) * 2) );\nend"
+      "formula": "when   \n   q: Questions()\nthen\n   outcome.set(q.get('q1',1) - 1 + q.get('q2',1) - 1 + q.get('q3',1) - 1 + q.get('q4',1) - 1 + q.get('q5',1) - 1 + q.get('q6',1) - 1 + q.get('q7',1) - 1 + q.get('q8',1) - 1 + ((q.get('q9',1) - 1) * 2) + ((q.get('q10',1) - 1) * 2) );\nend"
     }
   ]
 }
