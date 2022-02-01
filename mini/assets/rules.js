@@ -1,7 +1,9 @@
-// Reglerna ligger lösa i en array där varje objekt innehåller ett test, med en åtgärd. 
-// Det finns X antal regler: display, calculate, 
+// Regler för mini - 
+// trigger:"name" - namnet på den input som ska aktivera regeln. Ex vid klick eller input.
+// cond:[] - block av test som ska vara sanna 
+
 RULES = [
-{name: "a1a", type:"display", c:{ targetValue:"1", target: "div_a1b" }},
-{name: "a1b", type:"display", c:{ targetValue:"1", target: "div_a2a" }},
-{name: "a2a", type:"display", c:{ targetValue:"1", target: "div_a2b" }},
+  { trigger:"a1a", cond:[ ["a1a","==",1] ], action:"show", target:"div_a1b" },
+  { trigger:"a1b", cond:[ ["a1a","==",1] ], action:"show", target:"div_a2a" },
+  { trigger:"a2a", cond:[ ["a1a","==",1] ], action:"show", target:"div_a2b" },
 ]
