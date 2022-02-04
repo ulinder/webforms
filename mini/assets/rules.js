@@ -9,6 +9,17 @@ RULES = [
   { trigger:"a2a", cond:[ ["a2a","<",2] ], action:"show", target:["div_a2b"]},
   { trigger:"a2b", cond:[ ["a1a","==",0] , ["a2a","==",0] ], action:"show", target:["div_b1"]},
   { trigger:"a2b", cond:[ ["a1a","==",1] , ["a2a","==",1], ["a1b","==",1] , ["a2b","==",1] ], action:"show", target:['div_intro_a3','div_a3a','div_a3a_2w','div_a3a_prev']},
+  { trigger:"a2b", cond:[ ["a3a_2w","==",1] ], action:"show", target:['div_intro_a3','div_a3b','div_a3b_2w','div_a3b_prev']},
+  { trigger:"a2b", cond:[ ["a3b_2w","==",1] ], action:"show", target:['div_intro_a3','div_a3b','div_a3b_2w','div_a3b_prev']},
+  { trigger:"a2b", cond:[ ["a3c_2w","==",1] ], action:"show", target:['div_intro_a3','div_a3b','div_a3b_2w','div_a3b_prev']},
+  { trigger:"a2b", cond:[ ["a3d_2w","==",1] ], action:"show", target:['div_intro_a3','div_a3b','div_a3b_2w','div_a3b_prev']},
+  { trigger:"a2b", cond:[ ["a3e_2w","==",1] ], action:"show", target:['div_intro_a3','div_a3b','div_a3b_2w','div_a3b_prev']},
+  { trigger:"a2b", cond:[ ["a3f_2w","==",1] ], action:"show", target:['div_intro_a3','div_a3b','div_a3b_2w','div_a3b_prev']},
+  { trigger:"a2b", cond:[ ["a3a_2w","==",1] ], action:"show", target:['div_intro_a3','div_a3b','div_a3b_2w','div_a3b_prev']},
+  { trigger:"a2b", cond:[ ["a3a_2w","==",1] ], action:"show", target:['div_intro_a3','div_a3b','div_a3b_2w','div_a3b_prev']},
+
+
+  
   { trigger:"a2b", cond:[ ["a1a","==",1] , ["a2a","==",1], ["a1b","==",0] , ["a2b","==",0] ], action:"show", target:['div_intro_a3','div_a3a','div_a3a_prev']},
 
 
