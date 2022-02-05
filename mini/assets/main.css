@@ -6,6 +6,13 @@ main {
   padding-left: 1.5em;
 }
 
+#infobox{
+  width: 30ww;
+  position: absolute;
+  right: 20px;
+  top: 3px;
+}
+
 label {
   font-size: 90%;
   border: solid 1px;
