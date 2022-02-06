@@ -1,8 +1,17 @@
 if(!RULES) throw 'no rules found!'; // koll om rules.js saknas 
+
+// Validering av regler innan körning
+RULES.map( (rule)=>{
+  if(!(typeof rule.trigger[0] === 'string')) console.error('Fel i rules.js - Trigger för: ', rule, ' är inte en korrekt sträng');
+  if(!(Array.isArray(rule.cond[0]))) console.error('Fel i rules.js - cond för: ', rule, ' är inte en array med array enligt [[],[],...]');
+  if(!(Array.isArray(rule.target))) console.error('Fel i rules.js - target för: ', rule, ' är inte en array.');
+});
+
+
 var DEBUG;
 // DEBUG-MODE - aktivera genom att sätta => mini.html?debug=true
 const urlparams = new URLSearchParams(window.location.search)
-if(urlparams.get('debug')){
+if(urlparams.get('debug')){ 
   console.log('Debug mode ON');
   DEBUG = true;
   document.getElementById('infobox').classList = "";
@@ -41,19 +50,23 @@ function exec_show_rule(rule){
   // var target_div = document.getElementById(rule.target);
   let conditions = rule.cond.map((cond)=>{ // cond:[ ["a1a", "<", 2] ], // look at comparison operator: <, >, ==
     try {
+      console.log(cond[0], "from rule: ", rule);
       let this_element = document.querySelector(`[name=${cond[0]}]:checked`);
+      if(!this_element){
+        console.log( cond[0], " is not found as name, will return false" );
+        return false;
+      }
       let compare_value = this_element.value;
   
       // Make sure that the string doesn't contain any executable code by checking
       // it against a whitelist of allowed comparison operators.
-      if (['<', '>', '<=', '>=', '==', '!='].indexOf(cond[1]) == -1)
+      if (['<', '>', '<=', '>=', '==', '!='].indexOf(cond[1]) == -1){
+        console.log(cond[1], 'is a bad operator and will return false');
         return false;
+      }
   
-      // If we have reached here, we are sure that a and b are two integers and
-      // op contains a valid comparison operator. It is now safe to concatenate
-      // them and make a JavaScript executable code.
-      if (eval(compare_value + cond[1] + cond[2]))
-        return true;
+
+      if (eval(compare_value + cond[1] + cond[2])) return true;
       
     } catch (error) {
       console.error(error);   
